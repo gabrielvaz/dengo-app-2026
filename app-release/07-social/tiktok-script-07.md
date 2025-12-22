@@ -1,22 +1,22 @@
-# TikTok Video Script 07 - Dengo App
+# Roteiro de Vídeo TikTok 07 - Dengo App
 
-## Video Duration
-8 seconds
+## Duração do Vídeo
+8 segundos
 
-## Visual Prompt for Veo 3
-A woman in the car waiting for her partner to get in, checking her phone and immediately turning to share something with excitement. Natural lighting through car windows.
+## Prompt Visual para Veo 3
+Uma mulher no carro esperando seu parceiro entrar, checando seu celular e imediatamente virando para compartilhar algo com empolgação. Iluminação natural através das janelas do carro.
 
-## Audio/Text Overlay
-Woman says: "I just got the best question" followed by text overlay: "What's something I do that makes you feel most loved?"
+## Áudio/Sobreposição de Texto
+A mulher diz: "Acabei de receber a melhor pergunta" seguido pela sobreposição de texto: "O que é algo que eu faço que te faz sentir mais amado?"
 
-## Dengo App Content Featured
-The question displayed on screen: "What's something I do that makes you feel most loved?"
+## Conteúdo do App Dengo em Destaque
+A pergunta exibida na tela: "O que é algo que eu faço que te faz sentir mais amado?"
 
-## TikTok Caption
-"Road trip conversations start here 🚗💕 #dengoapp #relationshipgoals #couples #dailyconnection #meaningfulconversations"
+## Legenda do TikTok
+"As conversas de viagem começam aqui 🚗💕 #dengoapp #relacionamentometas #casais #conexao diaria #conversas significativas"
 
 ## Hashtags
-#dengoapp #relationshipgoals #couples #dailyconnection #meaningfulconversations #couplestok #love #relationships #communication #couplelife
+#dengoapp #relacionamentometas #casais #conexao diaria #conversas significativas #casalstok #amor #relacionamentos #comunicacao #vidadecasal
 
-## Description of Natural Behavior
-The woman's excitement is palpable as she shares the question. The car setting adds to the casual, everyday intimacy of the moment.
+## Descrição do Comportamento Natural
+A empolgação da mulher é palpável quando ela compartilha a pergunta. O ambiente do carro adiciona à intimidade casual do momento do dia a dia.

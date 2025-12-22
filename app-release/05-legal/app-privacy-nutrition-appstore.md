@@ -84,11 +84,11 @@
 - Files: NO
 
 #### 12. Identifiers
-**Does the app collect identifiers?** YES
-- Device ID: YES
+**Does the app collect identifiers?** NO
+- Device ID: NO
 - User ID: NO
 - Purchase history: NO
-- Other identifiers: YES (Analytics identifiers)
+- Other identifiers: NO
 
 #### 13. Purchases
 **Does the app collect purchase information?** NO
@@ -97,18 +97,18 @@
 - Purchase history: NO
 
 #### 14. Usage Data
-**Does the app collect usage data?** YES
-- App interactions: YES
-- Feature usage: YES
-- Performance data: YES
-- Usage patterns: YES
+**Does the app collect usage data?** NO
+- App interactions: NO
+- Feature usage: NO
+- Performance data: NO
+- Usage patterns: NO
 
 #### 15. Diagnostics
-**Does the app collect diagnostic data?** YES
-- Crash reports: YES
-- Performance data: YES
-- Error reports: YES
-- System logs: YES
+**Does the app collect diagnostic data?** NO
+- Crash reports: NO
+- Performance data: NO
+- Error reports: NO
+- System logs: NO
 
 ### Data Use for Tracking
 
@@ -196,7 +196,7 @@
 ### Privacy Details Summary
 
 #### Data Collection Summary
-- **Data collected for App Functionality:** YES (Usage data, Diagnostics)
+- **Data collected for App Functionality:** NO
 - **Data collected for Third Party Processors:** NO
 - **Data collected for Analytics:** NO (No third-party analytics)
 - **Data collected for Product Personalization:** YES (App usage data only)

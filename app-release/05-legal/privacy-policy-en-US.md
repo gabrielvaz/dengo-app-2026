@@ -5,167 +5,89 @@
 
 ## 1. Introduction
 
-User privacy is fundamental to Dengo. This Privacy Policy explains how we collect, use, store, and protect your information when you use the Dengo mobile application ("App", "we", "our").
+User privacy is fundamental to Dengo. This Privacy Policy explains how we handle information when you use the Dengo mobile application ("App", "we", "our").
 
 By using the App, you agree to the practices described in this Privacy Policy. If you do not agree with this policy, please do not use our App.
 
-## 2. Information We Collect
+## 2. Information processed locally
 
-### 2.1. User-Provided Information
-When using the App, we may collect the following information:
+Dengo works offline and **does not send data to servers**. The information below is **stored locally on your device** to personalize your experience.
 
-**Relationship Profile Information:**
-- Relationship stage (getting to know each other, dating, engaged, married)
-- Time together (less than 6 months, 6 months to 2 years, etc.)
-- Primary interests (communication, romance, intimacy, etc.)
-- Content preferences and categories
+### 2.1. User-provided information (optional)
+- Name/nickname and special date/birthday (when provided)
+- Relationship stage and time together
+- Interests and content preferences
+- Reminder preferences (time and enablement)
 
-**Usage Information:**
-- App usage frequency
-- Selected flashcard categories
-- Interactions with questions and responses
-- Settings and personal preferences
+### 2.2. On-device usage information
+- Progress, streaks, and goals in the App
+- Categories accessed and favorites saved
+- App settings and preferences
 
-### 2.2. Technical Information
-We may automatically collect technical information about your device and App usage:
-- Mobile device type and version
-- Operating system
-- App version
-- Performance and usage information
-- Connectivity information (when applicable)
+### 2.3. Information we do NOT collect
+We do not collect or share:
+- Email, phone, address, or other contact data
+- Precise location
+- Photos, audio, or videos
+- Browsing data or advertising identifiers
+- Diagnostics, analytics, or crash reports sent to third parties
 
-### 2.3. Information We DO NOT Collect
-We do NOT collect:
-- Personal identification information (name, address, SSN, etc.)
-- Communications between you and your partner
-- Biometric or facial recognition data
-- Precise location (unless explicitly enabled and consented)
-- Social media data (unless you explicitly choose to connect)
+## 3. How we use your information
 
-## 3. How We Use Your Information
+We use your information **only on the device** to:
+- Personalize flashcard content to your relationship
+- Adapt categories and questions to your interests
+- Keep your progress and preferences in the App
 
-### 3.1. Experience Personalization
-We use your information to:
-- Personalize flashcard content based on your relationship
-- Adapt the App experience to your relationship stage
-- Improve recommendations for categories and questions
+## 4. Information sharing
 
-### 3.2. Service Improvement
-We use aggregated and anonymous data to:
-- Improve App content and features
-- Understand how users interact with the App
-- Identify and fix technical issues
-- Optimize App performance
+We do not share your information with third parties. Since data stays on the device, there is no transmission to our servers.
 
-### 3.3. Communication
-We may use your information to:
-- Send important updates about the App
-- Notify about new features or content
-- Account-related communication (if applicable)
+## 5. Storage and security
 
-## 4. Information Sharing
+### 5.1. Storage location
+Information is stored locally on your device (e.g., local app storage).
 
-### 4.1. No Third-Party Sharing
-Except as described in this policy, we DO NOT share your personal information with third parties.
+### 5.2. Retention
+Data remains on the device until you delete it in the App or uninstall the app.
 
-### 4.2. Limited Sharing Circumstances
-We may share information in limited circumstances:
+## 6. Your rights and choices
 
-**Legal Compliance:**
-- To comply with legal obligations
-- To respond to valid legal processes
-- To protect our legal rights
+### 6.1. Access and correction
+You can edit your information directly in the App.
 
-**Service Providers:**
-- With service providers who help us operate the App
-- Providers who have signed confidentiality agreements
-- Only as necessary to provide services
+### 6.2. Deletion
+You can delete all data via: **Profile > Delete all data and reset app**.
 
-**Protection of Rights:**
-- To protect the security and integrity of the App
-- To protect Dengo's rights and property
-- To protect the rights of other users
+If you need further help, contact us using the channels below.
 
-## 5. Storage and Security
+## 7. Children's data
 
-### 5.1. Storage Location
-[PLACEHOLDER - Specify where data is stored]
-- If using Analytics X, declare Y; if not, declare Z.
+The Dengo App is **not intended for users under 18**. We do not intentionally collect information from minors. If you are a parent or guardian and believe a minor provided information, contact us to remove that data.
 
-### 5.2. Security Measures
-We implement appropriate security measures to protect your information:
-- Local storage of sensitive data on device (where applicable)
-- Encryption of data in transit
-- Access controls for systems storing data
-- Regular security assessments
-- Updated information security practices
+## 8. Sensitive and adult content
 
-### 5.3. Retention Period
-We retain your information only as long as necessary for the purposes described in this policy, or as required by law.
+The App contains content about emotional and romantic intimacy between couples. All content is presented with focus on consent and respect.
 
-## 6. Your Rights and Choices
+## 9. International transfers
 
-### 6.1. Access Your Information
-You have the right to request information about the personal data we maintain about you.
+Not applicable, since we do not transfer data to external servers.
 
-### 6.2. Correct Your Information
-You can update or correct your profile information directly in the App.
+## 10. Links to other sites
 
-### 6.3. Delete Your Information
-You can:
-- Delete your account (if applicable)
-- Clear App data on your device
-- Contact us to request data deletion
+The App may contain links to third-party websites (including this policy). We recommend that you review the privacy policies of any sites you visit.
 
-### 6.4. Limit Use of Your Information
-You can:
-- Adjust privacy settings in the App
-- Disable certain data collection types (when applicable)
-- Opt out of promotional communications
+## 11. Changes to this policy
 
-## 7. Children's Data
-
-The Dengo App is NOT intended for children under 16 years of age. We do not intentionally collect information from children under 16. If you are a parent or guardian and believe your child has provided personal information, please contact us to remove this information.
-
-## 8. Adult and Sensitive Content
-
-### 8.1. Content Nature
-The App contains content about emotional and physical intimacy between adult couples. All content is designed to be explored with mutual consent between adult partners.
-
-### 8.2. Protection of Sensitive Content
-- Sensitive categories are clearly identified
-- Content is presented with focus on consent and respect
-- Users are responsible for respecting their partner's boundaries and comfort
-
-## 9. International Transfers
-
-Where applicable, your information may be transferred and processed in countries different from your country of residence. When this occurs, we will take steps to ensure your information receives appropriate protection according to this policy.
-
-## 10. Links to Other Sites
-
-The App may contain links to third-party websites. This Privacy Policy applies only to our App. We recommend that you review the privacy policies of any third-party websites you visit.
-
-## 11. Changes to This Policy
-
-We may update this Privacy Policy periodically. When we do:
-- We will update the "Last Updated" date above
-- We will notify you of significant changes
-- The updated version will be available in the App
-
-Continued use of the App after changes constitutes acceptance of the changes.
+We may update this Privacy Policy from time to time. When we do, we will update the "Last Updated" date above and make the updated version available in the App.
 
 ## 12. Contact
 
-If you have questions about this Privacy Policy, please contact us:
+If you have questions about this Privacy Policy, contact us:
 
 **Email:** [PLACEHOLDER - contact@dengo.app]
 **Address:** [PLACEHOLDER - Company address]
 **Website:** [PLACEHOLDER - Company website]
-
-**For specific privacy requests:**
-- Access requests: [PLACEHOLDER - specific email]
-- Deletion requests: [PLACEHOLDER - specific email]
-- Portability requests: [PLACEHOLDER - specific email]
 
 ---
 

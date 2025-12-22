@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "dengo",
-    "slug": "dengo",
+    "name": "Dengo",
+    "slug": "dengo-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -10,16 +10,20 @@
     "splash": {
       "image": "./assets/splash-icon.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#FF7043"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.gabrielvaz.dengo",
+      "buildNumber": "1"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFF5F5"
+        "backgroundColor": "#FF7043"
       },
+      "package": "com.gabrielvaz.dengo",
+      "versionCode": 1,
       "edgeToEdgeEnabled": true,
       "predictiveBackGestureEnabled": false
     },
@@ -27,7 +31,26 @@
       "favicon": "./assets/favicon.png"
     },
     "plugins": [
-      "expo-font"
-    ]
+      "expo-font",
+      "expo-notifications",
+      [
+        "expo-splash-screen",
+        {
+          "backgroundColor": "#FF7043",
+          "image": "./assets/splash-icon.png",
+          "imageUrl": "./assets/splash-icon.png"
+        }
+      ]
+    ],
+    "extra": {
+      "legal": {
+        "privacyPolicyUrl": "https://raw.githubusercontent.com/gabrielvaz/dengo-app-2026/main/app-release/05-legal/privacy-policy-pt-BR.md",
+        "termsOfUseUrl": "https://raw.githubusercontent.com/gabrielvaz/dengo-app-2026/main/app-release/05-legal/terms-of-use-pt-BR.md",
+        "supportEmail": "contato@dengo.app"
+      },
+      "eas": {
+        "projectId": "your-project-id"
+      }
+    }
   }
 }

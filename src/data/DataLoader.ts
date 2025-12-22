@@ -29,10 +29,36 @@ export class DataLoader {
       const timeMatch = card.relationshipTime.length === 0 || 
                         card.relationshipTime.includes(profile.relationshipTime);
 
-      // 3. Optional: At least one need match (to ensure relevance)
-      // For MVP, we'll allow cards that match either stage/time OR needs
-      // but primarily we filter by stage and time to ensure safety/context.
-      
+      return stageMatch && timeMatch;
+    });
+  }
+
+  static async loadByCategory(category: string, profile: UserProfile): Promise<Flashcard[]> {
+    // Optimization: If key matches map key, load directly
+    let categoryCards: Flashcard[] = [];
+    const targetCategory = category.toLowerCase();
+
+    if (flashcardsMap[category]) {
+        const data = flashcardsMap[category].cards || flashcardsMap[category];
+        if (Array.isArray(data)) {
+            categoryCards = data.map((item: any) => this.mapToFlashcard(item));
+        }
+    } else {
+        // Fallback to searching all (e.g. if 'category' is a label like 'Casais')
+        const allCards = await this.loadAllFlashcards();
+        categoryCards = allCards.filter((card) => {
+             const cardCat = card.category.toLowerCase();
+             const secondary = card.secondaryCategories ? card.secondaryCategories.map((c: string) => c.toLowerCase()) : [];
+             return cardCat === targetCategory || secondary.includes(targetCategory);
+        });
+    }
+
+    // Now filter by Profile
+    return categoryCards.filter((card) => {
+      const stageMatch = card.relationshipStage.length === 0 || 
+                         card.relationshipStage.includes(profile.relationshipStage);
+      const timeMatch = card.relationshipTime.length === 0 || 
+                        card.relationshipTime.includes(profile.relationshipTime);
       return stageMatch && timeMatch;
     });
   }

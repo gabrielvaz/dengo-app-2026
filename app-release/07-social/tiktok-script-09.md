@@ -1,22 +1,22 @@
-# TikTok Video Script 09 - Dengo App
+# Roteiro de Vídeo TikTok 09 - Dengo App
 
-## Video Duration
-8 seconds
+## Duração do Vídeo
+8 segundos
 
-## Visual Prompt for Veo 3
-A woman on the couch laughing while reading something on her phone, then immediately showing it to her partner who starts laughing too. Cozy living room setting.
+## Prompt Visual para Veo 3
+Uma mulher no sofá rindo enquanto lê algo em seu celular, depois imediatamente mostrando para seu parceiro que também começa a rir. Ambiente aconchegante da sala de estar.
 
-## Audio/Text Overlay
-Woman says: "This one's hilarious" followed by text overlay: "What's something I do that never fails to make you smile?"
+## Áudio/Sobreposição de Texto
+A mulher diz: "Essa é hilária" seguido pela sobreposição de texto: "O que é algo que eu faço que nunca deixa de te fazer sorrir?"
 
-## Dengo App Content Featured
-The question displayed on screen: "What's something I do that never fails to make you smile?"
+## Conteúdo do App Dengo em Destaque
+A pergunta exibida na tela: "O que é algo que eu faço que nunca deixa de te fazer sorrir?"
 
-## TikTok Caption
-"When Dengo makes us laugh together 😂💕 #dengoapp #relationshipgoals #couples #dailyconnection #meaningfulconversations"
+## Legenda do TikTok
+"Quando o Dengo nos faz rir juntos 😂💕 #dengoapp #relacionamentometas #casais #conexao diaria #conversas significativas"
 
 ## Hashtags
-#dengoapp #relationshipgoals #couples #dailyconnection #meaningfulconversations #couplestok #love #relationships #communication #couplelife
+#dengoapp #relacionamentometas #casais #conexao diaria #conversas significativas #casalstok #amor #relacionamentos #comunicacao #vidadecasal
 
-## Description of Natural Behavior
-The genuine laughter and immediate sharing creates a joyful, authentic moment. Both partners' reactions feel natural and unscripted.
+## Descrição do Comportamento Natural
+O riso genuíno e o compartilhamento imediato criam um momento alegre e autêntico. As reações de ambos os parceiros parecem naturais e não ensaiadas.

@@ -1,22 +1,22 @@
-# TikTok Video Script 02 - Dengo App
+# Roteiro de Vídeo TikTok 02 - Dengo App
 
-## Video Duration
-8 seconds
+## Duração do Vídeo
+8 segundos
 
-## Visual Prompt for Veo 3
-A woman in her bedroom getting ready for bed, scrolling through her phone with curiosity, then showing the screen to her partner lying beside her. Soft, warm lighting, intimate bedroom setting.
+## Prompt Visual para Veo 3
+Uma mulher em seu quarto se preparando para dormir, rolando seu celular com curiosidade, depois mostrando a tela para seu parceiro deitado ao seu lado. Iluminação suave e quente, ambiente íntimo do quarto.
 
-## Audio/Text Overlay
-Woman says: "This Dengo question is making me emotional" followed by text overlay: "What moment today made you feel most grateful for me?"
+## Áudio/Sobreposição de Texto
+A mulher diz: "Esta pergunta do Dengo está me deixando emocionada" seguido pela sobreposição de texto: "Qual momento hoje fez você sentir mais gratidão por mim?"
 
-## Dengo App Content Featured
-The question displayed on screen: "What moment today made you feel most grateful for me?"
+## Conteúdo do App Dengo em Destaque
+A pergunta exibida na tela: "Qual momento hoje fez você sentir mais gratidão por mim?"
 
-## TikTok Caption
-"Sometimes the simplest questions hit different 🥺 #dengoapp #relationshipgoals #couples #dailyconnection #meaningfulconversations"
+## Legenda do TikTok
+"Às vezes as perguntas mais simples mexem diferente 🥺 #dengoapp #relacionamentometas #casais #conexao diaria #conversas significativas"
 
 ## Hashtags
-#dengoapp #relationshipgoals #couples #dailyconnection #meaningfulconversations #couplestok #love #relationships #communication #couplelife
+#dengoapp #relacionamentometas #casais #conexao diaria #conversas significativas #casalstok #amor #relacionamentos #comunicacao #vidadecasal
 
-## Description of Natural Behavior
-The woman's expression shifts from casual scrolling to a more emotional, reflective state. Her partner leans in naturally to see the question, creating an intimate moment that feels authentic.
+## Descrição do Comportamento Natural
+A expressão da mulher muda de rolagem casual para um estado mais emocional e reflexivo. Seu parceiro se inclina naturalmente para ver a pergunta, criando um momento íntimo que parece autêntico.

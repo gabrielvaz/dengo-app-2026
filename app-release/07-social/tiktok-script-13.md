@@ -1,22 +1,22 @@
-# TikTok Video Script 13 - Dengo App
+# Roteiro de Vídeo TikTok 13 - Dengo App
 
-## Video Duration
-8 seconds
+## Duração do Vídeo
+8 segundos
 
-## Visual Prompt for Veo 3
-A woman at her desk working from home, looking at her phone during a break, then turning to her partner who's also working nearby. They both look up with interest.
+## Prompt Visual para Veo 3
+Uma mulher em sua mesa trabalhando de casa, olhando para seu celular durante uma pausa, depois virando para seu parceiro que também está trabalhando por perto. Ambos olham com interesse.
 
-## Audio/Text Overlay
-Woman says: "This one's deep" followed by text overlay: "What's something I do that makes you proud to be with me?"
+## Áudio/Sobreposição de Texto
+A mulher diz: "Essa é profunda" seguido pela sobreposição de texto: "O que é algo que eu faço que te faz se sentir orgulhoso por estar comigo?"
 
-## Dengo App Content Featured
-The question displayed on screen: "What's something I do that makes you proud to be with me?"
+## Conteúdo do App Dengo em Destaque
+A pergunta exibida na tela: "O que é algo que eu faço que te faz se sentir orgulhoso por estar comigo?"
 
-## TikTok Caption
-"Work breaks for connection 💼💕 #dengoapp #relationshipgoals #couples #dailyconnection #meaningfulconversations"
+## Legenda do TikTok
+"Pauses do trabalho para conexão 💼💕 #dengoapp #relacionamentometas #casais #conexao diaria #conversas significativas"
 
 ## Hashtags
-#dengoapp #relationshipgoals #couples #dailyconnection #meaningfulconversations #couplestok #love #relationships #communication #couplelife
+#dengoapp #relacionamentometas #casais #conexao diaria #conversas significativas #casalstok #amor #relacionamentos #comunicacao #vidadecasal
 
-## Description of Natural Behavior
-The work-from-home setting feels relatable. The shared interest and pause in work activities shows how the app creates moments of connection even during busy days.
+## Descrição do Comportamento Natural
+O ambiente de trabalho em casa parece identificável. O interesse compartilhado e a pausa nas atividades de trabalho mostram como o app cria momentos de conexão mesmo durante dias ocupados.

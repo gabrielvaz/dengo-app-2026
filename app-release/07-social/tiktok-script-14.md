@@ -1,22 +1,22 @@
-# TikTok Video Script 14 - Dengo App
+# Roteiro de Vídeo TikTok 14 - Dengo App
 
-## Video Duration
-8 seconds
+## Duração do Vídeo
+8 segundos
 
-## Visual Prompt for Veo 3
-A woman in the kitchen cooking, glancing at her phone while stirring, then calling her partner over with a smile to see the question on screen.
+## Prompt Visual para Veo 3
+Uma mulher na cozinha cozinhando, olhando para seu celular enquanto mexe, depois chamando seu parceiro com um sorriso para ver a pergunta na tela.
 
-## Audio/Text Overlay
-Woman says: "This made me think of tonight's dinner" followed by text overlay: "What's a simple thing I do that makes you feel appreciated?"
+## Áudio/Sobreposição de Texto
+A mulher diz: "Isso me fez pensar no jantar de hoje" seguido pela sobreposição de texto: "O que é uma coisa simples que eu faço que te faz se sentir apreciado?"
 
-## Dengo App Content Featured
-The question displayed on screen: "What's a simple thing I do that makes you feel appreciated?"
+## Conteúdo do App Dengo em Destaque
+A pergunta exibida na tela: "O que é uma coisa simples que eu faço que te faz se sentir apreciado?"
 
-## TikTok Caption
-"Cooking with love and questions 🍳💕 #dengoapp #relationshipgoals #couples #dailyconnection #meaningfulconversations"
+## Legenda do TikTok
+"Cozinhando com amor e perguntas 🍳💕 #dengoapp #relacionamentometas #casais #conexao diaria #conversas significativas"
 
 ## Hashtags
-#dengoapp #relationshipgoals #couples #dailyconnection #meaningfulconversations #couplestok #love #relationships #communication #couplelife
+#dengoapp #relacionamentometas #casais #conexao diaria #conversas significativas #casalstok #amor #relacionamentos #comunicacao #vidadecasal
 
-## Description of Natural Behavior
-The cooking setting adds warmth to the moment. The woman's connection between the question and her current activity shows how the app integrates into daily life.
+## Descrição do Comportamento Natural
+O ambiente da cozinha adiciona calor ao momento. A conexão da mulher entre a pergunta e sua atividade atual mostra como o app se integra à vida diária.

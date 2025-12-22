@@ -1,172 +1,94 @@
-# Política de Privacidade - Dengo (Português - Brasil)
+# Politica de Privacidade - Dengo (Português - Brasil)
 
-**Data de Vigência:** [PLACEHOLDER - Data de lançamento]
-**Última Atualização:** [PLACEHOLDER - Data de lançamento]
+**Data de Vigencia:** [PLACEHOLDER - Data de lancamento]
+**Ultima Atualizacao:** [PLACEHOLDER - Data de lancamento]
 
-## 1. Introdução
+## 1. Introducao
 
-A privacidade dos nossos usuários é fundamental para a Dengo. Esta Política de Privacidade explica como coletamos, usamos, armazenamos e protegemos suas informações ao usar o aplicativo Dengo ("App", "nós", "nosso").
+A privacidade dos nossos usuarios e fundamental para a Dengo. Esta Politica de Privacidade explica como tratamos suas informacoes ao usar o aplicativo Dengo ("App", "nos", "nosso").
 
-Ao usar o App, você concorda com as práticas descritas nesta Política de Privacidade. Se você não concordar com esta política, por favor, não use nosso App.
+Ao usar o App, voce concorda com as praticas descritas nesta Politica de Privacidade. Se voce nao concordar com esta politica, por favor, nao use nosso App.
 
-## 2. Informações que Coletamos
+## 2. Informacoes que processamos localmente
 
-### 2.1. Informações Fornecidas pelo Usuário
-Durante o uso do App, podemos coletar as seguintes informações:
+O Dengo funciona no modo offline e **nao envia dados para servidores**. As informacoes abaixo sao **armazenadas localmente no seu dispositivo** para personalizar sua experiencia.
 
-**Informações de Perfil de Relacionamento:**
-- Estágio do relacionamento (se conhecendo, namorando, noivos, casados)
-- Tempo juntos (menos de 6 meses, 6 meses a 2 anos, etc.)
-- Interesses principais (comunicação, romance, intimidade, etc.)
-- Preferências de conteúdo e categorias
+### 2.1. Informacoes fornecidas pelo usuario (opcionais)
+- Nome/apelido e data especial/aniversario (quando preenchidos)
+- Estagio do relacionamento e tempo juntos
+- Interesses e preferencias de conteudo
+- Preferencias de lembrete (horario e ativacao)
 
-**Informações de Uso:**
-- Frequência de uso do App
-- Categorias de flashcards selecionadas
-- Interações com perguntas e respostas
-- Configurações e preferências pessoais
+### 2.2. Informacoes de uso no dispositivo
+- Progresso, sequencias e metas no App
+- Categorias acessadas e favoritos salvos
+- Configuracoes e preferencias do App
 
-### 2.2. Informações Técnicas
-Podemos coletar automaticamente informações técnicas sobre seu dispositivo e uso do App:
-- Tipo e versão do dispositivo móvel
-- Sistema operacional
-- Versão do App
-- Informações de desempenho e uso
-- Informações de conectividade (quando aplicável)
+### 2.3. Informacoes que NAO coletamos
+Nao coletamos nem compartilhamos:
+- Email, telefone, endereco ou outros dados de contato
+- Localizacao precisa
+- Fotos, audio ou videos
+- Dados de navegacao ou identificadores de publicidade
+- Dados de diagnostico, analytics ou crash reports enviados para terceiros
 
-### 2.3. Informações que NÃO Coletamos
-Nós NÃO coletamos:
-- Informações de identificação pessoal (nome, endereço, CPF, etc.)
-- Comunicações entre você e seu parceiro
-- Informações biométricas ou de reconhecimento facial
-- Localização precisa (a menos que explicitamente ativada e consentida)
-- Dados de redes sociais (a menos que você escolha conectar explicitamente)
+## 3. Como usamos suas informacoes
 
-## 3. Como Usamos Suas Informações
+Usamos suas informacoes **apenas no proprio dispositivo** para:
+- Personalizar o conteudo de flashcards ao seu relacionamento
+- Adaptar categorias e perguntas aos seus interesses
+- Manter seu progresso e preferencias no App
 
-### 3.1. Personalização da Experiência
-Usamos suas informações para:
-- Personalizar o conteúdo de flashcards com base em seu relacionamento
-- Adaptar a experiência do App ao seu estágio de relacionamento
-- Melhorar as recomendações de categorias e perguntas
+## 4. Compartilhamento de informacoes
 
-### 3.2. Melhoria do Serviço
-Usamos dados agregados e anônimos para:
-- Melhorar o conteúdo e funcionalidades do App
-- Entender como os usuários interagem com o App
-- Identificar e corrigir problemas técnicos
-- Otimizar o desempenho do App
+Nao compartilhamos suas informacoes com terceiros. Como os dados ficam no dispositivo, nao ha transmissao para nossos servidores.
 
-### 3.3. Comunicação
-Podemos usar suas informações para:
-- Enviar atualizações importantes sobre o App
-- Informar sobre novos recursos ou conteúdo
-- Comunicação relacionada à sua conta (se aplicável)
+## 5. Armazenamento e seguranca
 
-## 4. Compartilhamento de Informações
+### 5.1. Local de armazenamento
+As informacoes sao armazenadas localmente no seu dispositivo (ex.: armazenamento local do App).
 
-### 4.1. Nenhum Compartilhamento com Terceiros
-Exceto conforme descrito nesta política, NÃO compartilhamos suas informações pessoais com terceiros.
+### 5.2. Retencao
+Os dados permanecem no dispositivo ate que voce os apague no App ou desinstale o aplicativo.
 
-### 4.2. Situações Específicas de Compartilhamento
-Podemos compartilhar informações em circunstâncias limitadas:
+## 6. Seus direitos e escolhas
 
-**Conformidade Legal:**
-- Para cumprir com obrigações legais
-- Para responder a processos legais válidos
-- Para proteger nossos direitos legais
+### 6.1. Acessar e corrigir
+Voce pode editar suas informacoes diretamente no App.
 
-**Provedores de Serviços:**
-- Com provedores de serviços que nos ajudam a operar o App
-- Provedores que assinaram acordos de confidencialidade
-- Apenas conforme necessário para fornecer serviços
+### 6.2. Excluir dados
+Voce pode apagar todos os dados pelo caminho: **Perfil > Apagar todos os dados e resetar app**.
 
-**Proteção de Direitos:**
-- Para proteger a segurança e integridade do App
-- Para proteger os direitos e propriedade da Dengo
-- Para proteger os direitos de outros usuários
+Se precisar de ajuda adicional, entre em contato pelos canais abaixo.
 
-## 5. Armazenamento e Segurança
+## 7. Dados de criancas
 
-### 5.1. Local de Armazenamento
-[PLACEHOLDER - Especificar onde os dados são armazenados]
-- Se usarmos Analytics X, declarar Y; se não, declarar Z.
+O App Dengo **nao e destinado a menores de 18 anos**. Nao coletamos intencionalmente informacoes de menores de 18 anos. Se voce e pai ou responsavel e acredita que um menor forneceu informacoes, entre em contato conosco para remover esses dados.
 
-### 5.2. Medidas de Segurança
-Implementamos medidas de segurança apropriadas para proteger suas informações:
-- Armazenamento local de dados sensíveis no dispositivo (quando aplicável)
-- Criptografia de dados em trânsito
-- Controles de acesso para sistemas que armazenam dados
-- Avaliações de segurança regulares
-- Práticas de segurança da informação atualizadas
+## 8. Conteudo sensivel e adulto
 
-### 5.3. Prazo de Retenção
-Mantemos suas informações apenas pelo tempo necessário para os fins descritos nesta política, ou conforme exigido por lei.
+O App contem conteudo sobre intimidade emocional e romantica entre casais. Todo o conteudo e apresentado com foco em consentimento e respeito.
 
-## 6. Seus Direitos e Escolhas
+## 9. Transferencias internacionais
 
-### 6.1. Acessar Suas Informações
-Você tem o direito de solicitar informações sobre os dados pessoais que mantemos sobre você.
+Nao se aplica, pois nao transferimos dados para servidores externos.
 
-### 6.2. Corrigir Suas Informações
-Você pode atualizar ou corrigir suas informações de perfil diretamente no App.
+## 10. Links para outros sites
 
-### 6.3. Excluir Suas Informações
-Você pode:
-- Excluir sua conta (se aplicável)
-- Limpar dados do App no seu dispositivo
-- Entrar em contato conosco para solicitar exclusão de dados
+O App pode conter links para sites de terceiros (como esta politica). Recomendamos que voce revise as politicas de privacidade de quaisquer sites visitados.
 
-### 6.4. Limitar o Uso de Suas Informações
-Você pode:
-- Ajustar configurações de privacidade no App
-- Desativar certos tipos de coleta de dados (quando aplicável)
-- Optar por não receber comunicações promocionais
+## 11. Alteracoes a esta politica
 
-## 7. Dados de Crianças
-
-O App Dengo NÃO é destinado a crianças menores de 16 anos. Não coletamos intencionalmente informações de crianças menores de 16 anos. Se você é pai ou responsável e acredita que seu filho forneceu informações pessoais, entre em contato conosco para remover essas informações.
-
-## 8. Conteúdo Adulto e Sensível
-
-### 8.1. Natureza do Conteúdo
-O App contém conteúdo sobre intimidade emocional e física entre casais adultos. Todo o conteúdo é projetado para ser explorado com consentimento mútuo entre parceiros adultos.
-
-### 8.2. Proteção de Conteúdo Sensível
-- Categorias sensíveis são claramente identificadas
-- Conteúdo é apresentado com foco em consentimento e respeito
-- Usuários são responsáveis por respeitar limites e conforto de seus parceiros
-
-## 9. Transferências Internacionais
-
-Se aplicável, suas informações podem ser transferidas e processadas em países diferentes do seu país de residência. Quando isso ocorrer, tomaremos medidas para garantir que suas informações recebam proteção adequada de acordo com esta política.
-
-## 10. Links para Outros Sites
-
-O App pode conter links para sites de terceiros. Esta Política de Privacidade se aplica apenas ao nosso App. Recomendamos que você reveja as políticas de privacidade de quaisquer sites de terceiros que visitar.
-
-## 11. Alterações a Esta Política
-
-Podemos atualizar esta Política de Privacidade periodicamente. Quando fizermos isso:
-- Atualizaremos a data de "Última Atualização" acima
-- Notificaremos você sobre alterações significativas
-- A versão atualizada estará disponível no App
-
-O uso contínuo do App após alterações constitui aceitação das mudanças.
+Podemos atualizar esta Politica de Privacidade periodicamente. Quando isso ocorrer, atualizaremos a data de "Ultima Atualizacao" acima e disponibilizaremos a versao atualizada no App.
 
 ## 12. Contato
 
-Se você tiver dúvidas sobre esta Política de Privacidade, entre em contato conosco:
+Se voce tiver duvidas sobre esta Politica de Privacidade, entre em contato conosco:
 
 **E-mail:** [PLACEHOLDER - contato@dengo.app]
-**Endereço:** [PLACEHOLDER - Endereço da empresa]
+**Endereco:** [PLACEHOLDER - Endereco da empresa]
 **Website:** [PLACEHOLDER - Website da empresa]
-
-**Para solicitações de privacidade específicas:**
-- Solicitações de acesso: [PLACEHOLDER - email específico]
-- Solicitações de exclusão: [PLACEHOLDER - email específico]
-- Solicitações de portabilidade: [PLACEHOLDER - email específico]
 
 ---
 
-**Aceitação:** Ao usar o App Dengo, você reconhece que leu, compreendeu e concorda com esta Política de Privacidade.
+**Aceitacao:** Ao usar o App Dengo, voce reconhece que leu, compreendeu e concorda com esta Politica de Privacidade.

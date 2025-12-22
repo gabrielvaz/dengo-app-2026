@@ -1,22 +1,22 @@
-# TikTok Video Script 12 - Dengo App
+# Roteiro de Vídeo TikTok 12 - Dengo App
 
-## Video Duration
-8 seconds
+## Duração do Vídeo
+8 segundos
 
-## Visual Prompt for Veo 3
-A woman lying in bed scrolling through her phone, looking contemplative, then turning to her sleeping partner and gently waking them to share the question.
+## Prompt Visual para Veo 3
+Uma mulher deitada na cama rolando seu celular, com aparência contemplativa, depois virando para seu parceiro dormindo e gentilmente acordando para compartilhar a pergunta.
 
-## Audio/Text Overlay
-Woman whispers: "I have to ask you this" followed by text overlay: "What's something I do that makes you feel safest?"
+## Áudio/Sobreposição de Texto
+A mulher sussurra: "Eu tenho que perguntar isso" seguido pela sobreposição de texto: "O que é algo que eu faço que te faz se sentir mais seguro?"
 
-## Dengo App Content Featured
-The question displayed on screen: "What's something I do that makes you feel safest?"
+## Conteúdo do App Dengo em Destaque
+A pergunta exibida na tela: "O que é algo que eu faço que te faz se sentir mais seguro?"
 
-## TikTok Caption
-"Middle of the night thoughts 💭💕 #dengoapp #relationshipgoals #couples #dailyconnection #meaningfulconversations"
+## Legenda do TikTok
+"Pensamentos no meio da noite 💭💕 #dengoapp #relacionamentometas #casais #conexao diaria #conversas significativas"
 
 ## Hashtags
-#dengoapp #relationshipgoals #couples #dailyconnection #meaningfulconversations #couplestok #love #relationships #communication #couplelife
+#dengoapp #relacionamentometas #casais #conexao diaria #conversas significativas #casalstok #amor #relacionamentos #comunicacao #vidadecasal
 
-## Description of Natural Behavior
-The gentle awakening and whispered sharing creates an intimate, late-night moment. The setting feels private and deeply personal.
+## Descrição do Comportamento Natural
+O acordar gentil e o compartilhamento sussurrado criam um momento íntimo de madrugada. O ambiente parece privado e profundamente pessoal.

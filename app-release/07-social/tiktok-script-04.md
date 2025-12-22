@@ -1,22 +1,22 @@
-# TikTok Video Script 04 - Dengo App
+# Roteiro de Vídeo TikTok 04 - Dengo App
 
-## Video Duration
-8 seconds
+## Duração do Vídeo
+8 segundos
 
-## Visual Prompt for Veo 3
-A woman relaxing on a Sunday morning in pajamas, lying in bed scrolling through her phone. She suddenly sits up with a big smile and calls her partner over from the adjacent pillow.
+## Prompt Visual para Veo 3
+Uma mulher relaxando em uma manhã de domingo de pijama, deitada na cama rolando seu celular. Ela de repente senta com um grande sorriso e chama seu parceiro do travesseiro adjacente.
 
-## Audio/Text Overlay
-Woman says: "This question made me fall in love with you all over again" followed by text overlay: "What's a small thing I do that you secretly really appreciate?"
+## Áudio/Sobreposição de Texto
+A mulher diz: "Esta pergunta me fez me apaixonar por você de novo" seguido pela sobreposição de texto: "O que é uma coisinha que eu faço que você realmente aprecia em segredo?"
 
-## Dengo App Content Featured
-The question displayed on screen: "What's a small thing I do that you secretly really appreciate?"
+## Conteúdo do App Dengo em Destaque
+A pergunta exibida na tela: "O que é uma coisinha que eu faço que você realmente aprecia em segredo?"
 
-## TikTok Caption
-"Sunday morning magic 🌞💕 #dengoapp #relationshipgoals #couples #dailyconnection #meaningfulconversations"
+## Legenda do TikTok
+"Magia de domingo de manhã 🌞💕 #dengoapp #relacionamentometas #casais #conexao diaria #conversas significativas"
 
 ## Hashtags
-#dengoapp #relationshipgoals #couples #dailyconnection #meaningfulconversations #couplestok #love #relationships #communication #couplelife
+#dengoapp #relacionamentometas #casais #conexao diaria #conversas significativas #casalstok #amor #relacionamentos #comunicacao #vidadecasal
 
-## Description of Natural Behavior
-The woman's transition from casual scrolling to sudden excitement feels authentic. Her partner's sleepy but curious response adds to the genuine, intimate morning atmosphere.
+## Descrição do Comportamento Natural
+A transição da mulher de rolagem casual para excitação repentina parece autêntica. A resposta sonolenta mas curiosa do parceiro adiciona à atmosfera matinal genuína e íntima.

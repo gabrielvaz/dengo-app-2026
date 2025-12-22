@@ -1,22 +1,22 @@
-# TikTok Video Script 03 - Dengo App
+# Roteiro de Vídeo TikTok 03 - Dengo App
 
-## Video Duration
-8 seconds
+## Duração do Vídeo
+8 segundos
 
-## Visual Prompt for Veo 3
-A woman in a kitchen preparing coffee in the morning, looking at her phone while waiting for coffee to brew. She has a surprised expression and immediately walks to show her partner who's reading the newspaper.
+## Prompt Visual para Veo 3
+Uma mulher na cozinha preparando café de manhã, olhando para seu celular enquanto espera o café ficar pronto. Ela tem uma expressão surpresa e imediatamente vai mostrar ao seu parceiro que está lendo o jornal.
 
-## Audio/Text Overlay
-Woman says: "I need to ask you this right now" followed by text overlay: "What's one thing I do that always makes your day better?"
+## Áudio/Sobreposição de Texto
+A mulher diz: "Eu preciso perguntar isso agora" seguido pela sobreposição de texto: "O que é uma coisa que eu faço que sempre melhora o seu dia?"
 
-## Dengo App Content Featured
-The question displayed on screen: "What's one thing I do that always makes your day better?"
+## Conteúdo do App Dengo em Destaque
+A pergunta exibida na tela: "O que é uma coisa que eu faço que sempre melhora o seu dia?"
 
-## TikTok Caption
-"Morning coffee and morning questions ☕️💕 #dengoapp #relationshipgoals #couples #dailyconnection #meaningfulconversations"
+## Legenda do TikTok
+"Café da manhã e perguntas matinais ☕️💕 #dengoapp #relacionamentometas #casais #conexao diaria #conversas significativas"
 
 ## Hashtags
-#dengoapp #relationshipgoals #couples #dailyconnection #meaningfulconversations #couplestok #love #relationships #communication #couplelife
+#dengoapp #relacionamentometas #casais #conexao diaria #conversas significativas #casalstok #amor #relacionamentos #comunicacao #vidadecasal
 
-## Description of Natural Behavior
-The woman's expression shows genuine surprise and curiosity as she reads the question. Her immediate reaction to share it with her partner feels natural and spontaneous, not staged.
+## Descrição do Comportamento Natural
+A expressão da mulher mostra surpresa e curiosidade genuínas ao ler a pergunta. Sua reação imediata em compartilhar com seu parceiro parece natural e espontânea, não ensaiada.

@@ -1,22 +1,22 @@
-# TikTok Video Script 08 - Dengo App
+# Roteiro de Vídeo TikTok 08 - Dengo App
 
-## Video Duration
-8 seconds
+## Duração do Vídeo
+8 segundos
 
-## Visual Prompt for Veo 3
-A woman at the dinner table setting up for a romantic dinner, looking at her phone and calling her partner's attention with a surprised expression. Candles and soft lighting in the background.
+## Prompt Visual para Veo 3
+Uma mulher na mesa de jantar preparando um jantar romântico, olhando para seu celular e chamando a atenção do parceiro com uma expressão surpresa. Velas e iluminação suave ao fundo.
 
-## Audio/Text Overlay
-Woman says: "This is perfect for tonight" followed by text overlay: "What's your favorite memory of us together?"
+## Áudio/Sobreposição de Texto
+A mulher diz: "Isso é perfeito para hoje à noite" seguido pela sobreposição de texto: "Qual é sua memória favorita de nós juntos?"
 
-## Dengo App Content Featured
-The question displayed on screen: "What's your favorite memory of us together?"
+## Conteúdo do App Dengo em Destaque
+A pergunta exibida na tela: "Qual é sua memória favorita de nós juntos?"
 
-## TikTok Caption
-"Dinner and deep questions 🕯️💕 #dengoapp #relationshipgoals #couples #dailyconnection #meaningfulconversations"
+## Legenda do TikTok
+"Jantar e perguntas profundas 🕯️💕 #dengoapp #relacionamentometas #casais #conexao diaria #conversas significativas"
 
 ## Hashtags
-#dengoapp #relationshipgoals #couples #dailyconnection #meaningfulconversations #couplestok #love #relationships #communication #couplelife
+#dengoapp #relacionamentometas #casais #conexao diaria #conversas significativas #casalstok #amor #relacionamentos #comunicacao #vidadecasal
 
-## Description of Natural Behavior
-The woman's expression shows how the question perfectly fits their romantic evening. The timing feels natural and enhances the intimate dinner setting.
+## Descrição do Comportamento Natural
+A expressão da mulher mostra como a pergunta se encaixa perfeitamente em sua noite romântica. O momento parece natural e realça o ambiente íntimo do jantar.

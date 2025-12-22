@@ -1,22 +1,22 @@
-# TikTok Video Script 10 - Dengo App
+# Roteiro de Vídeo TikTok 10 - Dengo App
 
-## Video Duration
-8 seconds
+## Duração do Vídeo
+8 segundos
 
-## Visual Prompt for Veo 3
-A woman in the shower area getting ready, looking at her phone while brushing her teeth, then excitedly spitting and turning to share with her partner who's shaving.
+## Prompt Visual para Veo 3
+Uma mulher na área do chuveiro se preparando, olhando para seu celular enquanto escova os dentes, depois empolgadamente cuspindo e virando para compartilhar com seu parceiro que está se barbeando.
 
-## Audio/Text Overlay
-Woman says: "This is so us" followed by text overlay: "What's a quirk of mine that you secretly love?"
+## Áudio/Sobreposição de Texto
+A mulher diz: "Isso é tão nós" seguido pela sobreposição de texto: "Qual é um jeito meu que você ama em segredo?"
 
-## Dengo App Content Featured
-The question displayed on screen: "What's a quirk of mine that you secretly love?"
+## Conteúdo do App Dengo em Destaque
+A pergunta exibida na tela: "Qual é um jeito meu que você ama em segredo?"
 
-## TikTok Caption
-"Morning routines just got more romantic 🧴💕 #dengoapp #relationshipgoals #couples #dailyconnection #meaningfulconversations"
+## Legenda do TikTok
+"Rotinas matinais ficaram mais românticas 🧴💕 #dengoapp #relacionamentometas #casais #conexao diaria #conversas significativas"
 
 ## Hashtags
-#dengoapp #relationshipgoals #couples #dailyconnection #meaningfulconversations #couplestok #love #relationships #communication #couplelife
+#dengoapp #relacionamentometas #casais #conexao diaria #conversas significativas #casalstok #amor #relacionamentos #comunicacao #vidadecasal
 
-## Description of Natural Behavior
-The bathroom setting adds authenticity to the everyday intimacy. The woman's excited expression while still brushing her teeth feels genuine and relatable.
+## Descrição do Comportamento Natural
+O ambiente do banheiro adiciona autenticidade à intimidade do dia a dia. A expressão empolgada da mulher enquanto ainda escova os dentes parece genuína e identificável.

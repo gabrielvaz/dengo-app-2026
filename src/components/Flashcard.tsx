@@ -1,8 +1,10 @@
-import React from 'react';
-import { View, Text, StyleSheet, Dimensions } from 'react-native';
+import React, { useState, useEffect } from 'react';
+import { View, Text, StyleSheet, Dimensions, Share, TouchableOpacity, Alert } from 'react-native';
 import { LinearGradient } from 'expo-linear-gradient';
+import { Ionicons } from '@expo/vector-icons';
 import { theme } from '../constants/theme';
 import { Flashcard as FlashcardModel } from '../models/Flashcard';
+import { FavoriteService } from '../services/FavoriteService';
 
 const { width, height } = Dimensions.get('window');
 
@@ -11,12 +13,47 @@ interface FlashcardProps {
 }
 
 export const Flashcard: React.FC<FlashcardProps> = ({ card }) => {
+  const [isFavorite, setIsFavorite] = useState(false);
+
+  useEffect(() => {
+    FavoriteService.isFavorite(card.id).then(setIsFavorite);
+  }, [card.id]);
+
+  const handleShare = async () => {
+    try {
+      await Share.share({
+        message: `Oi amor! Vi esse card no Dengo e lembrei de você:\n\n"${card.question}"\n\nO que você acha? ❤️`,
+      });
+    } catch (error: any) {
+      Alert.alert('Erro', error.message);
+    }
+  };
+
+  const toggleFavorite = async () => {
+    const newVal = await FavoriteService.toggleFavorite(card);
+    setIsFavorite(newVal);
+    if (newVal) {
+        Alert.alert("Dengo", "Pergunta salva no Baú do Amor");
+    }
+  };
+
   return (
     <View style={styles.cardContainer}>
       <LinearGradient
         colors={['#FFFFFF', '#FFF0F5', '#FFE4E1']}
         style={styles.gradient}
       >
+        <TouchableOpacity 
+          style={styles.favoriteButton} 
+          onPress={toggleFavorite}
+        >
+          <Ionicons 
+            name={isFavorite ? "heart" : "heart-outline"} 
+            size={32} 
+            color={theme.colors.primary} 
+          />
+        </TouchableOpacity>
+
         <View style={styles.content}>
           <View style={styles.categoryBadge}>
             <Text style={styles.categoryText}>{card.category.toUpperCase()}</Text>
@@ -28,14 +65,10 @@ export const Flashcard: React.FC<FlashcardProps> = ({ card }) => {
           
           <Text style={styles.question}>{card.question}</Text>
           
-          <View style={styles.footer}>
-            <View style={styles.infoTag}>
-              <Text style={styles.infoText}>{card.estimatedDuration}</Text>
-            </View>
-            <View style={styles.infoTag}>
-              <Text style={styles.infoText}>{card.level}</Text>
-            </View>
-          </View>
+
+          <TouchableOpacity style={styles.shareButton} onPress={handleShare}>
+            <Text style={styles.shareText}>Compartilhar</Text>
+          </TouchableOpacity>
         </View>
       </LinearGradient>
     </View>
@@ -57,6 +90,12 @@ const styles = StyleSheet.create({
   },
   gradient: {
     flex: 1,
+  },
+  favoriteButton: {
+    position: 'absolute',
+    top: 20,
+    right: 20,
+    zIndex: 10,
   },
   content: {
     flex: 1,
@@ -114,5 +153,20 @@ const styles = StyleSheet.create({
   infoText: {
     fontSize: 12,
     color: theme.colors.textLight,
+  },
+  shareButton: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    backgroundColor: theme.colors.primary,
+    paddingVertical: 12,
+    paddingHorizontal: 20,
+    borderRadius: 25,
+    marginTop: theme.spacing.xl,
+    gap: 8,
+  },
+  shareText: {
+    color: 'white',
+    fontSize: 14,
+    fontWeight: 'bold',
   },
 });

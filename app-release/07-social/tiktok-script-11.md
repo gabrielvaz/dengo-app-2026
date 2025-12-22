@@ -1,22 +1,22 @@
-# TikTok Video Script 11 - Dengo App
+# Roteiro de Vídeo TikTok 11 - Dengo App
 
-## Video Duration
-8 seconds
+## Duração do Vídeo
+8 segundos
 
-## Visual Prompt for Veo 3
-A woman walking into the house after being out, looking at her phone while taking off her shoes, then immediately showing it to her partner sitting on the couch.
+## Prompt Visual para Veo 3
+Uma mulher entrando em casa depois de sair, olhando para seu celular enquanto tira os sapatos, depois imediatamente mostrando para seu parceiro sentado no sofá.
 
-## Audio/Text Overlay
-Woman says: "I got this while I was out and thought of you" followed by text overlay: "What's something about me that made you fall in love?"
+## Áudio/Sobreposição de Texto
+A mulher diz: "Recebi isso enquanto estava fora e pensei em você" seguido pela sobreposição de texto: "O que é algo em mim que te fez se apaixonar?"
 
-## Dengo App Content Featured
-The question displayed on screen: "What's something about me that made you fall in love?"
+## Conteúdo do App Dengo em Destaque
+A pergunta exibida na tela: "O que é algo em mim que te fez se apaixonar?"
 
-## TikTok Caption
-"Even when I'm away, Dengo keeps us connected 🏠💕 #dengoapp #relationshipgoals #couples #dailyconnection #meaningfulconversations"
+## Legenda do TikTok
+"Mesmo quando estou fora, o Dengo nos mantém conectados 🏠💕 #dengoapp #relacionamentometas #casais #conexao diaria #conversas significativas"
 
 ## Hashtags
-#dengoapp #relationshipgoals #couples #dailyconnection #meaningfulconversations #couplestok #love #relationships #communication #couplelife
+#dengoapp #relacionamentometas #casais #conexao diaria #conversas significativas #casalstok #amor #relacionamentos #comunicacao #vidadecasal
 
-## Description of Natural Behavior
-The woman's immediate desire to share the question upon returning home shows how the app integrates into daily life. The gesture feels natural and loving.
+## Descrição do Comportamento Natural
+O desejo imediato da mulher em compartilhar a pergunta ao retornar para casa mostra como o app se integra à vida diária. O gesto parece natural e amoroso.

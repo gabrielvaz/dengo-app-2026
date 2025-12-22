@@ -1,22 +1,22 @@
-# TikTok Video Script 15 - Dengo App
+# Roteiro de Vídeo TikTok 15 - Dengo App
 
-## Video Duration
-8 seconds
+## Duração do Vídeo
+8 segundos
 
-## Visual Prompt for Veo 3
-A woman on the couch looking at her phone with a nostalgic expression, then showing it to her partner who also gets a soft, remembering look.
+## Prompt Visual para Veo 3
+Uma mulher no sofá olhando para seu celular com uma expressão nostálgica, depois mostrando ao seu parceiro que também fica com uma expressão suave e lembrando.
 
-## Audio/Text Overlay
-Woman says: "This one took me back" followed by text overlay: "What's a moment when you felt most proud of me?"
+## Áudio/Sobreposição de Texto
+A mulher diz: "Isso me levou de volta" seguido pela sobreposição de texto: "Qual é um momento em que você se sentiu mais orgulhoso de mim?"
 
-## Dengo App Content Featured
-The question displayed on screen: "What's a moment when you felt most proud of me?"
+## Conteúdo do App Dengo em Destaque
+A pergunta exibida na tela: "Qual é um momento em que você se sentiu mais orgulhoso de mim?"
 
-## TikTok Caption
-"When Dengo brings back the best memories 📸💕 #dengoapp #relationshipgoals #couples #dailyconnection #meaningfulconversations"
+## Legenda do TikTok
+"Quando o Dengo traz de volta as melhores memórias 📸💕 #dengoapp #relacionamentometas #casais #conexao diaria #conversas significativas"
 
 ## Hashtags
-#dengoapp #relationshipgoals #couples #dailyconnection #meaningfulconversations #couplestok #love #relationships #communication #couplelife
+#dengoapp #relacionamentometas #casais #conexao diaria #conversas significativas #casalstok #amor #relacionamentos #comunicacao #vidadecasal
 
-## Description of Natural Behavior
-The nostalgic reaction and shared remembering creates a tender moment. Both partners' expressions show genuine emotional connection.
+## Descrição do Comportamento Natural
+A reação nostálgica e lembrar compartilhado cria um momento ternurento. As expressões de ambos os parceiros mostram conexão emocional genuína.

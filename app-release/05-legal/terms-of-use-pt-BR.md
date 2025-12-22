@@ -1,139 +1,127 @@
-# Termos de Uso - Dengo (Português - Brasil)
+# Termos de Uso - Dengo (Portugues - Brasil)
 
-**Data de Vigência:** [PLACEHOLDER - Data de lançamento]
-**Última Atualização:** [PLACEHOLDER - Data de lançamento]
+**Data de Vigencia:** [PLACEHOLDER - Data de lancamento]
+**Ultima Atualizacao:** [PLACEHOLDER - Data de lancamento]
 
-## 1. Aceitação dos Termos
+## 1. Aceitacao dos Termos
 
-Ao baixar, instalar, acessar ou usar o aplicativo Dengo ("App"), você ("Usuário", "Você") concorda em cumprir e ficar vinculado a estes Termos de Uso. Se você não concordar com estes termos, não poderá usar o App.
+Ao baixar, instalar, acessar ou usar o aplicativo Dengo ("App"), voce ("Usuario", "Voce") concorda em cumprir e ficar vinculado a estes Termos de Uso. Se voce nao concordar com estes termos, nao podera usar o App.
 
-O Dengo é um aplicativo móvel desenvolvido por [PLACEHOLDER - Nome da empresa desenvolvedora] ("Empresa", "Nós", "Nosso") para fortalecer a conexão emocional entre casais por meio de flashcards interativos e perguntas diárias.
+O Dengo e um aplicativo movel desenvolvido por [PLACEHOLDER - Nome da empresa desenvolvedora] ("Empresa", "Nos", "Nosso") para fortalecer a conexao emocional entre casais por meio de flashcards interativos e perguntas diarias.
 
-## 2. Definições
+## 2. Definicoes
 
-**App ou Aplicativo:** Refere-se ao aplicativo móvel Dengo e todos os seus recursos e funcionalidades.
+**App ou Aplicativo:** Refere-se ao aplicativo movel Dengo e todos os seus recursos e funcionalidades.
 
-**Usuário:** Refere-se a qualquer pessoa que acesse, instale ou utilize o App.
+**Usuario:** Refere-se a qualquer pessoa que acesse, instale ou utilize o App.
 
-**Conteúdo:** Refere-se a todas as perguntas, flashcards, categorias, textos, imagens e materiais fornecidos pelo App.
+**Conteudo:** Refere-se a todas as perguntas, flashcards, categorias, textos, imagens e materiais fornecidos pelo App.
 
-**Dados do Usuário:** Refere-se às informações fornecidas pelo Usuário durante o uso do App, incluindo mas não se limitando a preferências de relacionamento, respostas e interações.
+**Dados do Usuario:** Refere-se as informacoes fornecidas pelo Usuario durante o uso do App, incluindo preferencias e interacoes.
 
 ## 3. Uso do Aplicativo
 
-### 3.1. Licença Limitada
-Sob sujeição a estes Termos, concedemos a você uma licença limitada, não exclusiva, intransferível e revogável para usar o App para fins pessoais e não comerciais.
+### 3.1. Licenca limitada
+Sujeito a estes Termos, concedemos a voce uma licenca limitada, nao exclusiva, intransferivel e revogavel para usar o App para fins pessoais e nao comerciais.
 
-### 3.2. Restrições de Uso
-Você concorda em NÃO:
+### 3.2. Restricoes de uso
+Voce concorda em NAO:
 - Copiar, modificar, distribuir, vender, alugar ou sublicenciar o App
-- Tentar acessar recursos, conteúdo ou códigos do App de forma não autorizada
-- Usar o App para fins ilegais ou não autorizados
+- Tentar acessar recursos, conteudo ou codigos do App de forma nao autorizada
+- Usar o App para fins ilegais ou nao autorizados
 - Infringir direitos de propriedade intelectual da Empresa
-- Compartilhar sua conta com terceiros de forma não autorizada
-- Utilizar o App de forma que interfira com o funcionamento adequado do serviço
+- Utilizar o App de forma que interfira com o funcionamento adequado do servico
 
-### 3.3. Uso Apropriado
-Você concorda em usar o App de forma responsável e respeitosa, considerando:
-- O propósito do App é fortalecer conexões emocionais entre casais adultos
-- Todo conteúdo deve ser tratado com respeito e consciência
-- O App não substitui aconselhamento profissional ou terapia
+### 3.3. Uso apropriado
+Voce concorda em usar o App de forma responsavel e respeitosa, considerando:
+- O proposito do App e fortalecer conexoes emocionais entre casais
+- Todo conteudo deve ser tratado com respeito e consciencia
+- O App nao substitui aconselhamento profissional ou terapia
 
-## 4. Conteúdo do Aplicativo
+## 4. Conteudo do Aplicativo
 
-### 4.1. Propriedade do Conteúdo
-Todo o conteúdo do App (perguntas, flashcards, categorias, textos, designs) é de propriedade exclusiva da Empresa ou de seus licenciadores e está protegido por leis de propriedade intelectual.
+### 4.1. Propriedade do conteudo
+Todo o conteudo do App (perguntas, flashcards, categorias, textos, designs) e de propriedade exclusiva da Empresa ou de seus licenciadores e esta protegido por leis de propriedade intelectual.
 
-### 4.2. Uso do Conteúdo
-Você pode acessar e interagir com o conteúdo para uso pessoal. Qualquer reprodução, distribuição ou uso comercial do conteúdo é estritamente proibido sem autorização prévia por escrito.
+### 4.2. Uso do conteudo
+Voce pode acessar e interagir com o conteudo para uso pessoal. Qualquer reproducao, distribuicao ou uso comercial do conteudo e estritamente proibido sem autorizacao previa por escrito.
 
-### 4.3. Atualizações de Conteúdo
-O conteúdo é atualizado regularmente. A Empresa se reserva o direito de modificar, adicionar ou remover qualquer conteúdo a qualquer momento, com ou sem aviso prévio.
+### 4.3. Atualizacoes de conteudo
+O conteudo e atualizado regularmente. A Empresa se reserva o direito de modificar, adicionar ou remover qualquer conteudo a qualquer momento, com ou sem aviso previo.
 
-## 5. Dados do Usuário e Privacidade
+## 5. Dados do Usuario e Privacidade
 
-### 5.1. Coleta de Dados
-O App pode coletar informações limitadas para personalizar sua experiência, incluindo:
-- Preferências de relacionamento (estágio do relacionamento, tempo juntos, interesses)
-- Interactions com o conteúdo (respostas, categorias selecionadas, frequência de uso)
-- Dados de uso anônimos para melhorar o serviço
+### 5.1. Tratamento de dados
+O App armazena informacoes **localmente no dispositivo** para personalizar a experiencia (por exemplo: preferencias, progresso e favoritos). Esses dados **nao sao enviados para servidores** da Empresa.
 
-### 5.2. Armazenamento de Dados
-[PLACEHOLDER - Especificar se os dados são armazenados localmente, na nuvem, etc.]
-- Se usarmos Analytics X, declarar Y; se não, declarar Z.
+### 5.2. Armazenamento
+As informacoes ficam no dispositivo ate que voce as apague no App ou desinstale o aplicativo.
 
-### 5.3. Compartilhamento de Dados
-Nós NÃO compartilhamos informações pessoais com terceiros, exceto:
-- Conforme exigido por lei
-- Para proteger nossos direitos legais
-- Com provedores de serviços que assinaram acordos de confidencialidade
+### 5.3. Compartilhamento
+Nao compartilhamos informacoes pessoais com terceiros.
 
-## 6. Isenção de Responsabilidade
+## 6. Isencao de responsabilidade
 
-### 6.1. Natureza do Serviço
-O Dengo é um aplicativo de entretenimento e conexão emocional, NÃO um serviço de aconselhamento profissional, terapia ou conselho médico/jurídico.
+### 6.1. Natureza do servico
+O Dengo e um aplicativo de entretenimento e conexao emocional, NAO um servico de aconselhamento profissional, terapia ou conselho medico/juridico.
 
-### 6.2. Limitações
-- O App não substitui aconselhamento profissional de relacionamento
-- As perguntas e conteúdo são para fins gerais e podem não se aplicar a situações específicas
-- A Empresa não garante resultados específicos do uso do App
-- O App não é apropriado para situações de crise ou emergência
+### 6.2. Limitacoes
+- O App nao substitui aconselhamento profissional de relacionamento
+- As perguntas e conteudo sao para fins gerais e podem nao se aplicar a situacoes especificas
+- A Empresa nao garante resultados especificos do uso do App
+- O App nao e apropriado para situacoes de crise ou emergencia
 
-### 6.3. Saúde Mental
-Se você ou seu parceiro estiverem enfrentando crises emocionais, problemas de saúde mental graves ou situações de abuso, procure assistência profissional qualificada imediatamente.
+### 6.3. Saude mental
+Se voce ou seu parceiro estiverem enfrentando crises emocionais, problemas de saude mental graves ou situacoes de abuso, procure assistencia profissional qualificada imediatamente.
 
-## 7. Conteúdo Sensível e Adulto
+## 7. Conteudo sensivel e adulto
 
-### 7.1. Natureza do Conteúdo
-O App contém conteúdo sobre intimidade emocional e física entre casais adultos, incluindo categorias como "Quentes" que abordam temas românticos e íntimos.
+### 7.1. Natureza do conteudo
+O App contem conteudo sobre intimidade emocional e romantica entre casais, incluindo categorias como "Quentes".
 
-### 7.2. Uso Responsável
-- O App é destinado a casais adultos (18+) em relacionamentos consensuais
-- Todo conteúdo deve ser explorado com consentimento mútuo
+### 7.2. Uso responsavel
+- O App e destinado a pessoas maiores de 18 anos
+- Todo conteudo deve ser explorado com consentimento mutuo
 - Respeite os limites e conforto do seu parceiro
-- Use o App de forma que fortaleça e não comprometa seu relacionamento
+- Use o App de forma que fortalece e nao comprometa seu relacionamento
 
-## 8. Segurança e Privacidade
+## 8. Seguranca e privacidade
 
-### 8.1. Medidas de Segurança
-Implementamos medidas razoáveis para proteger suas informações, incluindo:
-- Armazenamento local de dados sensíveis (quando aplicável)
-- Criptografia de dados em trânsito
-- Práticas de segurança da informação adequadas
+### 8.1. Medidas de seguranca
+Adotamos medidas razoaveis para proteger as informacoes armazenadas localmente no dispositivo.
 
-### 8.2. Suas Responsabilidades
-Você é responsável por:
-- Manter sua conta segura (se aplicável)
-- Proteger seu dispositivo móvel
-- Usar o App de forma segura e responsável
+### 8.2. Suas responsabilidades
+Voce e responsavel por:
+- Proteger seu dispositivo movel
+- Usar o App de forma segura e responsavel
 
-## 9. Limitação de Responsabilidade
+## 9. Limitacao de responsabilidade
 
-NA MÁXIMA EXTENSÃO PERMITIDA POR LEI, A EMPRESA NÃO SERÁ RESPONSÁVEL POR QUAISQUER DANOS INDIRETOS, INCIDENTAIS, ESPECIAIS, CONSEQUENCIAIS OU EXEMPLARES, INCLUINDO, SEM LIMITAÇÃO, PERDA DE LUCROS, DADOS OU USO, DECORRENTES DO USO OU INCAPACIDADE DE USAR O APP.
+NA MAXIMA EXTENSAO PERMITIDA POR LEI, A EMPRESA NAO SERA RESPONSAVEL POR QUAISQUER DANOS INDIRETOS, INCIDENTAIS, ESPECIAIS, CONSEQUENCIAIS OU EXEMPLARES, INCLUINDO, SEM LIMITACAO, PERDA DE LUCROS, DADOS OU USO, DECORRENTES DO USO OU INCAPACIDADE DE USAR O APP.
 
-## 10. Modificações nos Termos
+## 10. Modificacoes nos Termos
 
-Reservamo-nos o direito de modificar estes Termos a qualquer momento. Modificações entrarão em vigor após publicação no App e/ou notificação por e-mail. O uso contínuo do App constitui aceitação das modificações.
+Reservamo-nos o direito de modificar estes Termos a qualquer momento. Modificacoes entrarao em vigor apos publicacao no App. O uso continuo do App constitui aceitacao das modificacoes.
 
-## 11. Disposições Gerais
+## 11. Disposicoes gerais
 
-### 11.1. Lei Aplicável
-Estes Termos serão regidos pelas leis do Brasil, e quaisquer disputas serão resolvidas nos tribunais competentes do domicílio do usuário ou da Empresa.
+### 11.1. Lei aplicavel
+Estes Termos serao regidos pelas leis do Brasil, e quaisquer disputas serao resolvidas nos tribunais competentes do domicilio do usuario ou da Empresa.
 
-### 11.2. Acordo Integral
-Estes Termos constituem o acordo integral entre você e a Empresa com relação ao uso do App, substituindo quaisquer acordos anteriores.
+### 11.2. Acordo integral
+Estes Termos constituem o acordo integral entre voce e a Empresa com relacao ao uso do App, substituindo quaisquer acordos anteriores.
 
-### 11.3. Validade de Disposições
-Se qualquer disposição destes Termos for considerada inválida ou inexequível, as demais disposições permanecerão em pleno vigor e efeito.
+### 11.3. Validade de disposicoes
+Se qualquer disposicao destes Termos for considerada invalida ou inexequivel, as demais disposicoes permanecerao em pleno vigor e efeito.
 
 ## 12. Contato
 
-Se você tiver dúvidas sobre estes Termos de Uso, entre em contato conosco:
+Se voce tiver duvidas sobre estes Termos de Uso, entre em contato conosco:
 
 **E-mail:** [PLACEHOLDER - contato@dengo.app]
-**Endereço:** [PLACEHOLDER - Endereço da empresa]
+**Endereco:** [PLACEHOLDER - Endereco da empresa]
 **Website:** [PLACEHOLDER - Website da empresa]
 
 ---
 
-**Aceitação:** Ao usar o App Dengo, você reconhece que leu, compreendeu e concorda em cumprir estes Termos de Uso e nossa Política de Privacidade.
+**Aceitacao:** Ao usar o App Dengo, voce reconhece que leu, compreendeu e concorda em cumprir estes Termos de Uso e nossa Politica de Privacidade.

@@ -1,22 +1,22 @@
-# TikTok Video Script 01 - Dengo App
+# Roteiro de Vídeo TikTok 01 - Dengo App
 
-## Video Duration
-8 seconds
+## Duração do Vídeo
+8 segundos
 
-## Visual Prompt for Veo 3
-A young woman sitting on a cozy couch, looking at her phone with a genuine smile, then turning to her partner to share something from the screen. Natural lighting, comfortable home setting, warm and intimate atmosphere.
+## Prompt Visual para Veo 3
+Uma jovem sentada em um sofá aconchegante, olhando para seu celular com um sorriso genuíno, depois virando-se para seu parceiro para compartilhar algo da tela. Iluminação natural, ambiente doméstico confortável, atmosfera quente e íntima.
 
-## Audio/Text Overlay
-Woman says: "Oh my god, you have to hear this question from Dengo" followed by text overlay: "What's something you've never told me but want to?"
+## Áudio/Sobreposição de Texto
+A mulher diz: "Nossa, você tem que ouvir esta pergunta do Dengo" seguido pela sobreposição de texto: "O que é algo que você nunca me contou mas quer contar?"
 
-## Dengo App Content Featured
-The question displayed on screen: "What's something you've never told me but want to?"
+## Conteúdo do App Dengo em Destaque
+A pergunta exibida na tela: "O que é algo que você nunca me contou mas quer contar?"
 
-## TikTok Caption
-"Small questions, big conversations 💕 #dengoapp #relationshipgoals #couples #dailyconnection #meaningfulconversations"
+## Legenda do TikTok
+"Perguntas pequenas, conversas grandes 💕 #dengoapp #relacionamentometas #casais #conexao diaria #conversas significativas"
 
 ## Hashtags
-#dengoapp #relationshipgoals #couples #dailyconnection #meaningfulconversations #couplestok #love #relationships #communication #couplelife
+#dengoapp #relacionamentometas #casais #conexao diaria #conversas significativas #casalstok #amor #relacionamentos #comunicacao #vidadecasal
 
-## Description of Natural Behavior
-The woman appears genuinely surprised and intrigued by the question, naturally turning to share it with her partner. The interaction feels spontaneous and authentic, not staged.
+## Descrição do Comportamento Natural
+A mulher parece genuinamente surpresa e intrigada com a pergunta, virando-se naturalmente para compartilhá-la com seu parceiro. A interação parece espontânea e autêntica, não ensaiada.

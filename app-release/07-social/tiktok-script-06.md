@@ -1,22 +1,22 @@
-# TikTok Video Script 06 - Dengo App
+# Roteiro de Vídeo TikTok 06 - Dengo App
 
-## Video Duration
-8 seconds
+## Duração do Vídeo
+8 segundos
 
-## Visual Prompt for Veo 3
-A woman on the couch during a movie night, pausing the movie to show her partner something on her phone. Both are cozy with blankets, creating a warm, intimate atmosphere.
+## Prompt Visual para Veo 3
+Uma mulher no sofá durante uma noite de filme, pausando o filme para mostrar algo para seu parceiro em seu celular. Ambos estão aconchegantes com cobertores, criando uma atmosfera quente e íntima.
 
-## Audio/Text Overlay
-Woman says: "Wait, I have to ask you this" followed by text overlay: "What's the most romantic thing I've ever done for you?"
+## Áudio/Sobreposição de Texto
+A mulher diz: "Espera, eu tenho que perguntar isso" seguido pela sobreposição de texto: "Qual é a coisa mais romântica que já fiz por você?"
 
-## Dengo App Content Featured
-The question displayed on screen: "What's the most romantic thing I've ever done for you?"
+## Conteúdo do App Dengo em Destaque
+A pergunta exibida na tela: "Qual é a coisa mais romântica que já fiz por você?"
 
-## TikTok Caption
-"Movie night got interrupted by love 🎬💕 #dengoapp #relationshipgoals #couples #dailyconnection #meaningfulconversations"
+## Legenda do TikTok
+"A noite de filme foi interrompida por amor 🎬💕 #dengoapp #relacionamentometas #casais #conexao diaria #conversas significativas"
 
 ## Hashtags
-#dengoapp #relationshipgoals #couples #dailyconnection #meaningfulconversations #couplestok #love #relationships #communication #couplelife
+#dengoapp #relacionamentometas #casais #conexao diaria #conversas significativas #casalstok #amor #relacionamentos #comunicacao #vidadecasal
 
-## Description of Natural Behavior
-The interruption of movie night feels genuine and endearing. The partner's curious expression as they pause the movie shows authentic interest in the question.
+## Descrição do Comportamento Natural
+A interrupção da noite de filme parece genuína e comovente. A expressão curiosa do parceiro ao pausar o filme mostra interesse autêntico na pergunta.
