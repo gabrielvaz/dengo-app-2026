@@ -18,27 +18,41 @@ import Animated, {
 const { width } = Dimensions.get('window');
 const SWIPE_THRESHOLD = width * 0.3;
 
+import { RitualService } from '../services/RitualService';
+
 export const FeedScreen = () => {
   const [cards, setCards] = useState<FlashcardModel[]>([]);
   const [currentIndex, setCurrentIndex] = useState(0);
   const [loading, setLoading] = useState(true);
+  const [ritualCompleted, setRitualCompleted] = useState(false);
 
   const translateX = useSharedValue(0);
   const translateY = useSharedValue(0);
 
   useEffect(() => {
     async function load() {
+      const hasDoneToday = await RitualService.hasCompletedToday();
+      if (hasDoneToday) {
+        setRitualCompleted(true);
+        setLoading(false);
+        return;
+      }
+
       const allCards = await DataLoader.loadAllFlashcards();
-      // Shuffle cards for a better experience
-      setCards(allCards.sort(() => Math.random() - 0.5).slice(0, 10)); // Top 10 for now
+      // Shuffle and take daily limit
+      setCards(allCards.sort(() => Math.random() - 0.5).slice(0, RitualService.DAILY_LIMIT));
       setLoading(false);
     }
     load();
   }, []);
 
   const onSwipeComplete = (direction: 'left' | 'right') => {
-    // Logic for when swipe is done
-    setCurrentIndex(prev => prev + 1);
+    const nextIndex = currentIndex + 1;
+    if (nextIndex >= cards.length) {
+      RitualService.markAsCompletedToday();
+      setRitualCompleted(true);
+    }
+    setCurrentIndex(nextIndex);
     translateX.value = 0;
     translateY.value = 0;
   };
@@ -102,7 +116,7 @@ export const FeedScreen = () => {
     );
   }
 
-  if (currentIndex >= cards.length) {
+  if (ritualCompleted || currentIndex >= cards.length) {
     return (
       <SafeAreaView style={styles.container}>
         <View style={styles.emptyContainer}>
