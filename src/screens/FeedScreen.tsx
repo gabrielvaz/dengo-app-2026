@@ -18,6 +18,8 @@ import { RitualService } from '../services/RitualService';
 const { width } = Dimensions.get('window');
 const SWIPE_THRESHOLD = width * 0.3;
 
+import { ProfileService } from '../services/ProfileService';
+
 export const FeedScreen = () => {
   const [cards, setCards] = useState<FlashcardModel[]>([]);
   const [currentIndex, setCurrentIndex] = useState(0);
@@ -36,9 +38,15 @@ export const FeedScreen = () => {
         return;
       }
 
-      const allCards = await DataLoader.loadAllFlashcards();
+      const profile = await ProfileService.getProfile();
+      if (!profile) {
+        setLoading(false);
+        return;
+      }
+
+      const filteredCards = await DataLoader.loadFilteredFlashcards(profile);
       // Shuffle and take daily limit
-      setCards(allCards.sort(() => Math.random() - 0.5).slice(0, RitualService.DAILY_LIMIT));
+      setCards(filteredCards.sort(() => Math.random() - 0.5).slice(0, RitualService.DAILY_LIMIT));
       setLoading(false);
     }
     load();
