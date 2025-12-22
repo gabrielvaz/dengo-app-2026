@@ -1,0 +1,15 @@
+export const flashcardsMap: { [key: string]: any } = {
+  'almas-gemeas': require('../../flash-cards-data/almas-gemeas.json'),
+  'casais': require('../../flash-cards-data/casais.json'),
+  'conexao-diaria': require('../../flash-cards-data/conexao-diaria.json'),
+  'confianca': require('../../flash-cards-data/confianca.json'),
+  'crescimento': require('../../flash-cards-data/crescimento.json'),
+  'desafios': require('../../flash-cards-data/desafios.json'),
+  'leve-e-divertido': require('../../flash-cards-data/leve-e-divertido.json'),
+  'memorias': require('../../flash-cards-data/memorias.json'),
+  'modo-familia': require('../../flash-cards-data/modo-familia.json'),
+  'perguntas-profundas': require('../../flash-cards-data/perguntas-profundas.json'),
+  'quentes': require('../../flash-cards-data/quentes.json'),
+  'romance': require('../../flash-cards-data/romance.json'),
+  'voce-prefere': require('../../flash-cards-data/voce-prefere.json'),
+};
