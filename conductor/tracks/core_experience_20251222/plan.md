@@ -2,7 +2,7 @@
 
 ## Phase 1: Project Scaffolding & Data Model
 - [x] Task: Initialize Flutter project and directory structure c26205e
-- [ ] Task: Define Data Models for Flashcards and User Profile (Dart classes)
+- [~] Task: Define Data Models for Flashcards and User Profile (Dart classes)
 - [ ] Task: Create a Mock Data Loader for local JSON files
 - [ ] Task: Conductor - User Manual Verification 'Phase 1: Scaffolding' (Protocol in workflow.md)
 
