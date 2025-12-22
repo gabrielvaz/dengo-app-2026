@@ -1,0 +1,4990 @@
+[
+  {
+    "id": "CRES-0001",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Tema: os aprendizados que o relacionamento trouxe",
+    "pergunta": "Quando falamos sobre os aprendizados que o relacionamento trouxe, como posso te apoiar melhor?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "comunicacao",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0002",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Entre nós: os aprendizados que o relacionamento trouxe",
+    "pergunta": "Ao falar sobre os aprendizados que o relacionamento trouxe, o que você aprendeu sobre nós?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0003",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Nosso olhar sobre os aprendizados que o relacionamento trouxe",
+    "pergunta": "Como você gostaria de evoluir nos aprendizados que o relacionamento trouxe?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "resolver-distancias",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0004",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "O que nos une: os aprendizados que o relacionamento trouxe",
+    "pergunta": "Qual pequeno passo nos aprendizados que o relacionamento trouxe podemos dar juntos?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0005",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Sobre os aprendizados que o relacionamento trouxe",
+    "pergunta": "O que te motiva nos aprendizados que o relacionamento trouxe neste momento?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0006",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Quando falamos dos aprendizados que o relacionamento trouxe",
+    "pergunta": "Nos aprendizados que o relacionamento trouxe, como isso influencia nosso futuro?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "conexao-emocional",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "CRES-0007",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Tema: os aprendizados que o relacionamento trouxe",
+    "pergunta": "O que você quer celebrar nos aprendizados que o relacionamento trouxe?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0008",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Entre nós: os aprendizados que o relacionamento trouxe",
+    "pergunta": "Se pudéssemos ajustar algo nos aprendizados que o relacionamento trouxe, o que seria?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Confiança"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0009",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Nosso olhar sobre os aprendizados que o relacionamento trouxe",
+    "pergunta": "Qual conversa sobre os aprendizados que o relacionamento trouxe você quer ter comigo?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conhecer-melhor",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0010",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "O que nos une: os aprendizados que o relacionamento trouxe",
+    "pergunta": "O que nos aprendizados que o relacionamento trouxe te dá esperança?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0011",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Sobre o que você quer desenvolver em si",
+    "pergunta": "Quando falamos sobre o que você quer desenvolver em si, como posso te apoiar melhor?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0012",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Quando falamos do que você quer desenvolver em si",
+    "pergunta": "Ao falar sobre o que você quer desenvolver em si, o que você aprendeu sobre nós?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "aprofundar-intimidade",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "CRES-0013",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Tema: o que você quer desenvolver em si",
+    "pergunta": "Como você gostaria de evoluir no que você quer desenvolver em si?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0014",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Entre nós: o que você quer desenvolver em si",
+    "pergunta": "Qual pequeno passo no que você quer desenvolver em si podemos dar juntos?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0015",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Nosso olhar sobre o que você quer desenvolver em si",
+    "pergunta": "O que te motiva no que você quer desenvolver em si neste momento?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "comunicacao",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0016",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "O que nos une: o que você quer desenvolver em si",
+    "pergunta": "No que você quer desenvolver em si, como isso influencia nosso futuro?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0017",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Sobre o que você quer desenvolver em si",
+    "pergunta": "O que você quer celebrar no que você quer desenvolver em si?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0018",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Quando falamos do que você quer desenvolver em si",
+    "pergunta": "Se pudéssemos ajustar algo no que você quer desenvolver em si, o que seria?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "resolver-distancias",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "CRES-0019",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Tema: o que você quer desenvolver em si",
+    "pergunta": "Qual conversa sobre o que você quer desenvolver em si você quer ter comigo?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0020",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Entre nós: o que você quer desenvolver em si",
+    "pergunta": "O que no que você quer desenvolver em si te dá esperança?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Confiança"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0021",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Nosso olhar sobre hábitos que queremos melhorar",
+    "pergunta": "Quando falamos sobre hábitos que queremos melhorar, como posso te apoiar melhor?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "conexao-emocional",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0022",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "O que nos une: hábitos que queremos melhorar",
+    "pergunta": "Ao falar sobre hábitos que queremos melhorar, o que você aprendeu sobre nós?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0023",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Sobre hábitos que queremos melhorar",
+    "pergunta": "Como você gostaria de evoluir em hábitos que queremos melhorar?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0024",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Quando falamos de hábitos que queremos melhorar",
+    "pergunta": "Qual pequeno passo em hábitos que queremos melhorar podemos dar juntos?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conhecer-melhor",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "CRES-0025",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Tema: hábitos que queremos melhorar",
+    "pergunta": "O que te motiva em hábitos que queremos melhorar neste momento?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0026",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Entre nós: hábitos que queremos melhorar",
+    "pergunta": "Em hábitos que queremos melhorar, como isso influencia nosso futuro?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0027",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Nosso olhar sobre hábitos que queremos melhorar",
+    "pergunta": "O que você quer celebrar em hábitos que queremos melhorar?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "aprofundar-intimidade",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0028",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "O que nos une: hábitos que queremos melhorar",
+    "pergunta": "Se pudéssemos ajustar algo em hábitos que queremos melhorar, o que seria?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Confiança"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0029",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Sobre hábitos que queremos melhorar",
+    "pergunta": "Qual conversa sobre hábitos que queremos melhorar você quer ter comigo?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0030",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Quando falamos de hábitos que queremos melhorar",
+    "pergunta": "O que em hábitos que queremos melhorar te dá esperança?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "comunicacao",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "CRES-0031",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Tema: novas habilidades para aprender",
+    "pergunta": "Quando falamos sobre novas habilidades para aprender, como posso te apoiar melhor?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0032",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Entre nós: novas habilidades para aprender",
+    "pergunta": "Ao falar sobre novas habilidades para aprender, o que você aprendeu sobre nós?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0033",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Nosso olhar sobre novas habilidades para aprender",
+    "pergunta": "Como você gostaria de evoluir em novas habilidades para aprender?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "resolver-distancias",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0034",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "O que nos une: novas habilidades para aprender",
+    "pergunta": "Qual pequeno passo em novas habilidades para aprender podemos dar juntos?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0035",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Sobre novas habilidades para aprender",
+    "pergunta": "O que te motiva em novas habilidades para aprender neste momento?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0036",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Quando falamos de novas habilidades para aprender",
+    "pergunta": "Em novas habilidades para aprender, como isso influencia nosso futuro?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "conexao-emocional",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "CRES-0037",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Tema: novas habilidades para aprender",
+    "pergunta": "O que você quer celebrar em novas habilidades para aprender?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0038",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Entre nós: novas habilidades para aprender",
+    "pergunta": "Se pudéssemos ajustar algo em novas habilidades para aprender, o que seria?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0039",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Nosso olhar sobre novas habilidades para aprender",
+    "pergunta": "Qual conversa sobre novas habilidades para aprender você quer ter comigo?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conhecer-melhor",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0040",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "O que nos une: novas habilidades para aprender",
+    "pergunta": "O que em novas habilidades para aprender te dá esperança?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Confiança"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0041",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Sobre o apoio aos sonhos pessoais",
+    "pergunta": "Quando falamos sobre o apoio aos sonhos pessoais, como posso te apoiar melhor?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0042",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Quando falamos do apoio aos sonhos pessoais",
+    "pergunta": "Ao falar sobre o apoio aos sonhos pessoais, o que você aprendeu sobre nós?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "aprofundar-intimidade",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "CRES-0043",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Tema: o apoio aos sonhos pessoais",
+    "pergunta": "Como você gostaria de evoluir no apoio aos sonhos pessoais?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0044",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Entre nós: o apoio aos sonhos pessoais",
+    "pergunta": "Qual pequeno passo no apoio aos sonhos pessoais podemos dar juntos?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0045",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Nosso olhar sobre o apoio aos sonhos pessoais",
+    "pergunta": "O que te motiva no apoio aos sonhos pessoais neste momento?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "comunicacao",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0046",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "O que nos une: o apoio aos sonhos pessoais",
+    "pergunta": "No apoio aos sonhos pessoais, como isso influencia nosso futuro?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0047",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Sobre o apoio aos sonhos pessoais",
+    "pergunta": "O que você quer celebrar no apoio aos sonhos pessoais?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0048",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Quando falamos do apoio aos sonhos pessoais",
+    "pergunta": "Se pudéssemos ajustar algo no apoio aos sonhos pessoais, o que seria?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "resolver-distancias",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Confiança"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "CRES-0049",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Tema: o apoio aos sonhos pessoais",
+    "pergunta": "Qual conversa sobre o apoio aos sonhos pessoais você quer ter comigo?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0050",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Entre nós: o apoio aos sonhos pessoais",
+    "pergunta": "O que no apoio aos sonhos pessoais te dá esperança?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0051",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Nosso olhar sobre o jeito de lidar com mudanças",
+    "pergunta": "Quando falamos sobre o jeito de lidar com mudanças, como posso te apoiar melhor?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "conexao-emocional",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0052",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "O que nos une: o jeito de lidar com mudanças",
+    "pergunta": "Ao falar sobre o jeito de lidar com mudanças, o que você aprendeu sobre nós?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0053",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Sobre o jeito de lidar com mudanças",
+    "pergunta": "Como você gostaria de evoluir no jeito de lidar com mudanças?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0054",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Quando falamos do jeito de lidar com mudanças",
+    "pergunta": "Qual pequeno passo no jeito de lidar com mudanças podemos dar juntos?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conhecer-melhor",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "CRES-0055",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Tema: o jeito de lidar com mudanças",
+    "pergunta": "O que te motiva no jeito de lidar com mudanças neste momento?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0056",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Entre nós: o jeito de lidar com mudanças",
+    "pergunta": "No jeito de lidar com mudanças, como isso influencia nosso futuro?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0057",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Nosso olhar sobre o jeito de lidar com mudanças",
+    "pergunta": "O que você quer celebrar no jeito de lidar com mudanças?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "aprofundar-intimidade",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0058",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "O que nos une: o jeito de lidar com mudanças",
+    "pergunta": "Se pudéssemos ajustar algo no jeito de lidar com mudanças, o que seria?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0059",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Sobre o jeito de lidar com mudanças",
+    "pergunta": "Qual conversa sobre o jeito de lidar com mudanças você quer ter comigo?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0060",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Quando falamos do jeito de lidar com mudanças",
+    "pergunta": "O que no jeito de lidar com mudanças te dá esperança?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "comunicacao",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Confiança"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "CRES-0061",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Tema: como cuidamos da nossa saúde",
+    "pergunta": "Quando falamos sobre como cuidamos da nossa saúde, como posso te apoiar melhor?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0062",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Entre nós: como cuidamos da nossa saúde",
+    "pergunta": "Ao falar sobre como cuidamos da nossa saúde, o que você aprendeu sobre nós?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0063",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Nosso olhar sobre como cuidamos da nossa saúde",
+    "pergunta": "Como você gostaria de evoluir em como cuidamos da nossa saúde?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "resolver-distancias",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0064",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "O que nos une: como cuidamos da nossa saúde",
+    "pergunta": "Qual pequeno passo em como cuidamos da nossa saúde podemos dar juntos?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0065",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Sobre como cuidamos da nossa saúde",
+    "pergunta": "O que te motiva em como cuidamos da nossa saúde neste momento?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0066",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Quando falamos de como cuidamos da nossa saúde",
+    "pergunta": "Em como cuidamos da nossa saúde, como isso influencia nosso futuro?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "comunicacao",
+      "conexao-emocional",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "CRES-0067",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Tema: como cuidamos da nossa saúde",
+    "pergunta": "O que você quer celebrar em como cuidamos da nossa saúde?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0068",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Entre nós: como cuidamos da nossa saúde",
+    "pergunta": "Se pudéssemos ajustar algo em como cuidamos da nossa saúde, o que seria?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Confiança"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0069",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Nosso olhar sobre como cuidamos da nossa saúde",
+    "pergunta": "Qual conversa sobre como cuidamos da nossa saúde você quer ter comigo?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conhecer-melhor",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0070",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "O que nos une: como cuidamos da nossa saúde",
+    "pergunta": "O que em como cuidamos da nossa saúde te dá esperança?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0071",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Sobre o equilíbrio entre metas individuais e do casal",
+    "pergunta": "Quando falamos sobre o equilíbrio entre metas individuais e do casal, como posso te apoiar melhor?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0072",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Quando falamos do equilíbrio entre metas individuais e do casal",
+    "pergunta": "Ao falar sobre o equilíbrio entre metas individuais e do casal, o que você aprendeu sobre nós?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "aprofundar-intimidade",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "CRES-0073",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Tema: o equilíbrio entre metas individuais e do casal",
+    "pergunta": "Como você gostaria de evoluir no equilíbrio entre metas individuais e do casal?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0074",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Entre nós: o equilíbrio entre metas individuais e do casal",
+    "pergunta": "Qual pequeno passo no equilíbrio entre metas individuais e do casal podemos dar juntos?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0075",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Nosso olhar sobre o equilíbrio entre metas individuais e do casal",
+    "pergunta": "O que te motiva no equilíbrio entre metas individuais e do casal neste momento?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "comunicacao",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0076",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "O que nos une: o equilíbrio entre metas individuais e do casal",
+    "pergunta": "No equilíbrio entre metas individuais e do casal, como isso influencia nosso futuro?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0077",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Sobre o equilíbrio entre metas individuais e do casal",
+    "pergunta": "O que você quer celebrar no equilíbrio entre metas individuais e do casal?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0078",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Quando falamos do equilíbrio entre metas individuais e do casal",
+    "pergunta": "Se pudéssemos ajustar algo no equilíbrio entre metas individuais e do casal, o que seria?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "resolver-distancias",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "CRES-0079",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Tema: o equilíbrio entre metas individuais e do casal",
+    "pergunta": "Qual conversa sobre o equilíbrio entre metas individuais e do casal você quer ter comigo?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0080",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Entre nós: o equilíbrio entre metas individuais e do casal",
+    "pergunta": "O que no equilíbrio entre metas individuais e do casal te dá esperança?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Confiança"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0081",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Nosso olhar sobre o que te inspira a evoluir",
+    "pergunta": "Quando falamos sobre o que te inspira a evoluir, como posso te apoiar melhor?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "conexao-emocional",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0082",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "O que nos une: o que te inspira a evoluir",
+    "pergunta": "Ao falar sobre o que te inspira a evoluir, o que você aprendeu sobre nós?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0083",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Sobre o que te inspira a evoluir",
+    "pergunta": "Como você gostaria de evoluir no que te inspira a evoluir?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0084",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Quando falamos do que te inspira a evoluir",
+    "pergunta": "Qual pequeno passo no que te inspira a evoluir podemos dar juntos?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conhecer-melhor",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "CRES-0085",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Tema: o que te inspira a evoluir",
+    "pergunta": "O que te motiva no que te inspira a evoluir neste momento?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0086",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Entre nós: o que te inspira a evoluir",
+    "pergunta": "No que te inspira a evoluir, como isso influencia nosso futuro?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0087",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Nosso olhar sobre o que te inspira a evoluir",
+    "pergunta": "O que você quer celebrar no que te inspira a evoluir?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "aprofundar-intimidade",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0088",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "O que nos une: o que te inspira a evoluir",
+    "pergunta": "Se pudéssemos ajustar algo no que te inspira a evoluir, o que seria?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Confiança"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0089",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Sobre o que te inspira a evoluir",
+    "pergunta": "Qual conversa sobre o que te inspira a evoluir você quer ter comigo?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0090",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Quando falamos do que te inspira a evoluir",
+    "pergunta": "O que no que te inspira a evoluir te dá esperança?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "comunicacao",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "CRES-0091",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Tema: os projetos que queremos construir",
+    "pergunta": "Quando falamos sobre os projetos que queremos construir, como posso te apoiar melhor?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0092",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Entre nós: os projetos que queremos construir",
+    "pergunta": "Ao falar sobre os projetos que queremos construir, o que você aprendeu sobre nós?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0093",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Nosso olhar sobre os projetos que queremos construir",
+    "pergunta": "Como você gostaria de evoluir nos projetos que queremos construir?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "resolver-distancias",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0094",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "O que nos une: os projetos que queremos construir",
+    "pergunta": "Qual pequeno passo nos projetos que queremos construir podemos dar juntos?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0095",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Sobre os projetos que queremos construir",
+    "pergunta": "O que te motiva nos projetos que queremos construir neste momento?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0096",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Quando falamos dos projetos que queremos construir",
+    "pergunta": "Nos projetos que queremos construir, como isso influencia nosso futuro?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "conexao-emocional",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "CRES-0097",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Tema: os projetos que queremos construir",
+    "pergunta": "O que você quer celebrar nos projetos que queremos construir?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0098",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Entre nós: os projetos que queremos construir",
+    "pergunta": "Se pudéssemos ajustar algo nos projetos que queremos construir, o que seria?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0099",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Nosso olhar sobre os projetos que queremos construir",
+    "pergunta": "Qual conversa sobre os projetos que queremos construir você quer ter comigo?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conhecer-melhor",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0100",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "O que nos une: os projetos que queremos construir",
+    "pergunta": "O que nos projetos que queremos construir te dá esperança?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Confiança"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0101",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Sobre a forma de lidar com críticas",
+    "pergunta": "Quando falamos sobre a forma de lidar com críticas, como posso te apoiar melhor?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0102",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Quando falamos da forma de lidar com críticas",
+    "pergunta": "Ao falar sobre a forma de lidar com críticas, o que você aprendeu sobre nós?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "aprofundar-intimidade",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "CRES-0103",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Tema: a forma de lidar com críticas",
+    "pergunta": "Como você gostaria de evoluir na forma de lidar com críticas?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0104",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Entre nós: a forma de lidar com críticas",
+    "pergunta": "Qual pequeno passo na forma de lidar com críticas podemos dar juntos?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0105",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Nosso olhar sobre a forma de lidar com críticas",
+    "pergunta": "O que te motiva na forma de lidar com críticas neste momento?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "comunicacao",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0106",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "O que nos une: a forma de lidar com críticas",
+    "pergunta": "Na forma de lidar com críticas, como isso influencia nosso futuro?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0107",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Sobre a forma de lidar com críticas",
+    "pergunta": "O que você quer celebrar na forma de lidar com críticas?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0108",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Quando falamos da forma de lidar com críticas",
+    "pergunta": "Se pudéssemos ajustar algo na forma de lidar com críticas, o que seria?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "resolver-distancias",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Confiança"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "CRES-0109",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Tema: a forma de lidar com críticas",
+    "pergunta": "Qual conversa sobre a forma de lidar com críticas você quer ter comigo?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0110",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Entre nós: a forma de lidar com críticas",
+    "pergunta": "O que na forma de lidar com críticas te dá esperança?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0111",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Nosso olhar sobre o papel da paciência no amor",
+    "pergunta": "Quando falamos sobre o papel da paciência no amor, como posso te apoiar melhor?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "conexao-emocional",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0112",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "O que nos une: o papel da paciência no amor",
+    "pergunta": "Ao falar sobre o papel da paciência no amor, o que você aprendeu sobre nós?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0113",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Sobre o papel da paciência no amor",
+    "pergunta": "Como você gostaria de evoluir no papel da paciência no amor?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0114",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Quando falamos do papel da paciência no amor",
+    "pergunta": "Qual pequeno passo no papel da paciência no amor podemos dar juntos?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conhecer-melhor",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "CRES-0115",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Tema: o papel da paciência no amor",
+    "pergunta": "O que te motiva no papel da paciência no amor neste momento?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0116",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Entre nós: o papel da paciência no amor",
+    "pergunta": "No papel da paciência no amor, como isso influencia nosso futuro?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0117",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Nosso olhar sobre o papel da paciência no amor",
+    "pergunta": "O que você quer celebrar no papel da paciência no amor?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "aprofundar-intimidade",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0118",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "O que nos une: o papel da paciência no amor",
+    "pergunta": "Se pudéssemos ajustar algo no papel da paciência no amor, o que seria?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0119",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Sobre o papel da paciência no amor",
+    "pergunta": "Qual conversa sobre o papel da paciência no amor você quer ter comigo?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0120",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Quando falamos do papel da paciência no amor",
+    "pergunta": "O que no papel da paciência no amor te dá esperança?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "comunicacao",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Confiança"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "CRES-0121",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Tema: o que te ajuda a manter esperança",
+    "pergunta": "Quando falamos sobre o que te ajuda a manter esperança, como posso te apoiar melhor?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0122",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Entre nós: o que te ajuda a manter esperança",
+    "pergunta": "Ao falar sobre o que te ajuda a manter esperança, o que você aprendeu sobre nós?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0123",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Nosso olhar sobre o que te ajuda a manter esperança",
+    "pergunta": "Como você gostaria de evoluir no que te ajuda a manter esperança?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "resolver-distancias",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0124",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "O que nos une: o que te ajuda a manter esperança",
+    "pergunta": "Qual pequeno passo no que te ajuda a manter esperança podemos dar juntos?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0125",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Sobre o que te ajuda a manter esperança",
+    "pergunta": "O que te motiva no que te ajuda a manter esperança neste momento?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0126",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Quando falamos do que te ajuda a manter esperança",
+    "pergunta": "No que te ajuda a manter esperança, como isso influencia nosso futuro?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "conexao-emocional",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "CRES-0127",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Tema: o que te ajuda a manter esperança",
+    "pergunta": "O que você quer celebrar no que te ajuda a manter esperança?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0128",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Entre nós: o que te ajuda a manter esperança",
+    "pergunta": "Se pudéssemos ajustar algo no que te ajuda a manter esperança, o que seria?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Confiança"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0129",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Nosso olhar sobre o que te ajuda a manter esperança",
+    "pergunta": "Qual conversa sobre o que te ajuda a manter esperança você quer ter comigo?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conhecer-melhor",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0130",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "O que nos une: o que te ajuda a manter esperança",
+    "pergunta": "O que no que te ajuda a manter esperança te dá esperança?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0131",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Sobre como celebramos pequenas evoluções",
+    "pergunta": "Quando falamos sobre como celebramos pequenas evoluções, como posso te apoiar melhor?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "comunicacao",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0132",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Quando falamos de como celebramos pequenas evoluções",
+    "pergunta": "Ao falar sobre como celebramos pequenas evoluções, o que você aprendeu sobre nós?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "aprofundar-intimidade",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "CRES-0133",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Tema: como celebramos pequenas evoluções",
+    "pergunta": "Como você gostaria de evoluir em como celebramos pequenas evoluções?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0134",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Entre nós: como celebramos pequenas evoluções",
+    "pergunta": "Qual pequeno passo em como celebramos pequenas evoluções podemos dar juntos?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0135",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Nosso olhar sobre como celebramos pequenas evoluções",
+    "pergunta": "O que te motiva em como celebramos pequenas evoluções neste momento?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "comunicacao",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0136",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "O que nos une: como celebramos pequenas evoluções",
+    "pergunta": "Em como celebramos pequenas evoluções, como isso influencia nosso futuro?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0137",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Sobre como celebramos pequenas evoluções",
+    "pergunta": "O que você quer celebrar em como celebramos pequenas evoluções?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0138",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Quando falamos de como celebramos pequenas evoluções",
+    "pergunta": "Se pudéssemos ajustar algo em como celebramos pequenas evoluções, o que seria?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "resolver-distancias",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "CRES-0139",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Tema: como celebramos pequenas evoluções",
+    "pergunta": "Qual conversa sobre como celebramos pequenas evoluções você quer ter comigo?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0140",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Entre nós: como celebramos pequenas evoluções",
+    "pergunta": "O que em como celebramos pequenas evoluções te dá esperança?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Confiança"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0141",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Nosso olhar sobre a coragem para recomeçar",
+    "pergunta": "Quando falamos sobre a coragem para recomeçar, como posso te apoiar melhor?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "conexao-emocional",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0142",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "O que nos une: a coragem para recomeçar",
+    "pergunta": "Ao falar sobre a coragem para recomeçar, o que você aprendeu sobre nós?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0143",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Sobre a coragem para recomeçar",
+    "pergunta": "Como você gostaria de evoluir na coragem para recomeçar?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0144",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Quando falamos da coragem para recomeçar",
+    "pergunta": "Qual pequeno passo na coragem para recomeçar podemos dar juntos?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conhecer-melhor",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "CRES-0145",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Tema: a coragem para recomeçar",
+    "pergunta": "O que te motiva na coragem para recomeçar neste momento?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0146",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Entre nós: a coragem para recomeçar",
+    "pergunta": "Na coragem para recomeçar, como isso influencia nosso futuro?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0147",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Nosso olhar sobre a coragem para recomeçar",
+    "pergunta": "O que você quer celebrar na coragem para recomeçar?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "aprofundar-intimidade",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0148",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "O que nos une: a coragem para recomeçar",
+    "pergunta": "Se pudéssemos ajustar algo na coragem para recomeçar, o que seria?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Confiança"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0149",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Sobre a coragem para recomeçar",
+    "pergunta": "Qual conversa sobre a coragem para recomeçar você quer ter comigo?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0150",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Quando falamos da coragem para recomeçar",
+    "pergunta": "O que na coragem para recomeçar te dá esperança?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "comunicacao",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "CRES-0151",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Tema: o que podemos desaprender",
+    "pergunta": "Quando falamos sobre o que podemos desaprender, como posso te apoiar melhor?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0152",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Entre nós: o que podemos desaprender",
+    "pergunta": "Ao falar sobre o que podemos desaprender, o que você aprendeu sobre nós?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0153",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Nosso olhar sobre o que podemos desaprender",
+    "pergunta": "Como você gostaria de evoluir no que podemos desaprender?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "resolver-distancias",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0154",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "O que nos une: o que podemos desaprender",
+    "pergunta": "Qual pequeno passo no que podemos desaprender podemos dar juntos?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0155",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Sobre o que podemos desaprender",
+    "pergunta": "O que te motiva no que podemos desaprender neste momento?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0156",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Quando falamos do que podemos desaprender",
+    "pergunta": "No que podemos desaprender, como isso influencia nosso futuro?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "conexao-emocional",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "CRES-0157",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Tema: o que podemos desaprender",
+    "pergunta": "O que você quer celebrar no que podemos desaprender?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0158",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Entre nós: o que podemos desaprender",
+    "pergunta": "Se pudéssemos ajustar algo no que podemos desaprender, o que seria?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0159",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Nosso olhar sobre o que podemos desaprender",
+    "pergunta": "Qual conversa sobre o que podemos desaprender você quer ter comigo?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conhecer-melhor",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0160",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "O que nos une: o que podemos desaprender",
+    "pergunta": "O que no que podemos desaprender te dá esperança?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Confiança"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0161",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Sobre o cuidado com a comunicação",
+    "pergunta": "Quando falamos sobre o cuidado com a comunicação, como posso te apoiar melhor?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0162",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Quando falamos do cuidado com a comunicação",
+    "pergunta": "Ao falar sobre o cuidado com a comunicação, o que você aprendeu sobre nós?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "aprofundar-intimidade",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "CRES-0163",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Tema: o cuidado com a comunicação",
+    "pergunta": "Como você gostaria de evoluir no cuidado com a comunicação?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0164",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Entre nós: o cuidado com a comunicação",
+    "pergunta": "Qual pequeno passo no cuidado com a comunicação podemos dar juntos?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0165",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Nosso olhar sobre o cuidado com a comunicação",
+    "pergunta": "O que te motiva no cuidado com a comunicação neste momento?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "comunicacao",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0166",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "O que nos une: o cuidado com a comunicação",
+    "pergunta": "No cuidado com a comunicação, como isso influencia nosso futuro?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0167",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Sobre o cuidado com a comunicação",
+    "pergunta": "O que você quer celebrar no cuidado com a comunicação?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0168",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Quando falamos do cuidado com a comunicação",
+    "pergunta": "Se pudéssemos ajustar algo no cuidado com a comunicação, o que seria?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "resolver-distancias",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Confiança"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "CRES-0169",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Tema: o cuidado com a comunicação",
+    "pergunta": "Qual conversa sobre o cuidado com a comunicação você quer ter comigo?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0170",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Entre nós: o cuidado com a comunicação",
+    "pergunta": "O que no cuidado com a comunicação te dá esperança?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0171",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Nosso olhar sobre o respeito ao tempo do outro",
+    "pergunta": "Quando falamos sobre o respeito ao tempo do outro, como posso te apoiar melhor?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "conexao-emocional",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0172",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "O que nos une: o respeito ao tempo do outro",
+    "pergunta": "Ao falar sobre o respeito ao tempo do outro, o que você aprendeu sobre nós?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0173",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Sobre o respeito ao tempo do outro",
+    "pergunta": "Como você gostaria de evoluir no respeito ao tempo do outro?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0174",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Quando falamos do respeito ao tempo do outro",
+    "pergunta": "Qual pequeno passo no respeito ao tempo do outro podemos dar juntos?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conhecer-melhor",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "CRES-0175",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Tema: o respeito ao tempo do outro",
+    "pergunta": "O que te motiva no respeito ao tempo do outro neste momento?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0176",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Entre nós: o respeito ao tempo do outro",
+    "pergunta": "No respeito ao tempo do outro, como isso influencia nosso futuro?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0177",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Nosso olhar sobre o respeito ao tempo do outro",
+    "pergunta": "O que você quer celebrar no respeito ao tempo do outro?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "aprofundar-intimidade",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0178",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "O que nos une: o respeito ao tempo do outro",
+    "pergunta": "Se pudéssemos ajustar algo no respeito ao tempo do outro, o que seria?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0179",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Sobre o respeito ao tempo do outro",
+    "pergunta": "Qual conversa sobre o respeito ao tempo do outro você quer ter comigo?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0180",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Quando falamos do respeito ao tempo do outro",
+    "pergunta": "O que no respeito ao tempo do outro te dá esperança?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "comunicacao",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Confiança"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "CRES-0181",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Tema: o aprendizado com erros passados",
+    "pergunta": "Quando falamos sobre o aprendizado com erros passados, como posso te apoiar melhor?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0182",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Entre nós: o aprendizado com erros passados",
+    "pergunta": "Ao falar sobre o aprendizado com erros passados, o que você aprendeu sobre nós?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0183",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Nosso olhar sobre o aprendizado com erros passados",
+    "pergunta": "Como você gostaria de evoluir no aprendizado com erros passados?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "resolver-distancias",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0184",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "O que nos une: o aprendizado com erros passados",
+    "pergunta": "Qual pequeno passo no aprendizado com erros passados podemos dar juntos?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0185",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Sobre o aprendizado com erros passados",
+    "pergunta": "O que te motiva no aprendizado com erros passados neste momento?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0186",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Quando falamos do aprendizado com erros passados",
+    "pergunta": "No aprendizado com erros passados, como isso influencia nosso futuro?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "conexao-emocional",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "CRES-0187",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Tema: o aprendizado com erros passados",
+    "pergunta": "O que você quer celebrar no aprendizado com erros passados?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0188",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Entre nós: o aprendizado com erros passados",
+    "pergunta": "Se pudéssemos ajustar algo no aprendizado com erros passados, o que seria?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Confiança"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0189",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Nosso olhar sobre o aprendizado com erros passados",
+    "pergunta": "Qual conversa sobre o aprendizado com erros passados você quer ter comigo?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conhecer-melhor",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0190",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "O que nos une: o aprendizado com erros passados",
+    "pergunta": "O que no aprendizado com erros passados te dá esperança?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0191",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Sobre o que queremos ensinar pelo exemplo",
+    "pergunta": "Quando falamos sobre o que queremos ensinar pelo exemplo, como posso te apoiar melhor?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0192",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Quando falamos do que queremos ensinar pelo exemplo",
+    "pergunta": "Ao falar sobre o que queremos ensinar pelo exemplo, o que você aprendeu sobre nós?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "aprofundar-intimidade",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "CRES-0193",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Tema: o que queremos ensinar pelo exemplo",
+    "pergunta": "Como você gostaria de evoluir no que queremos ensinar pelo exemplo?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0194",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Entre nós: o que queremos ensinar pelo exemplo",
+    "pergunta": "Qual pequeno passo no que queremos ensinar pelo exemplo podemos dar juntos?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0195",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Nosso olhar sobre o que queremos ensinar pelo exemplo",
+    "pergunta": "O que te motiva no que queremos ensinar pelo exemplo neste momento?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "comunicacao",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0196",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "O que nos une: o que queremos ensinar pelo exemplo",
+    "pergunta": "No que queremos ensinar pelo exemplo, como isso influencia nosso futuro?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "comunicacao",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0197",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Sobre o que queremos ensinar pelo exemplo",
+    "pergunta": "O que você quer celebrar no que queremos ensinar pelo exemplo?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0198",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Quando falamos do que queremos ensinar pelo exemplo",
+    "pergunta": "Se pudéssemos ajustar algo no que queremos ensinar pelo exemplo, o que seria?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "resolver-distancias",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "CRES-0199",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Tema: o que queremos ensinar pelo exemplo",
+    "pergunta": "Qual conversa sobre o que queremos ensinar pelo exemplo você quer ter comigo?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CRES-0200",
+    "categoria_principal": "Crescimento",
+    "titulo_curto": "Entre nós: o que queremos ensinar pelo exemplo",
+    "pergunta": "O que no que queremos ensinar pelo exemplo te dá esperança?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Confiança"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  }
+]

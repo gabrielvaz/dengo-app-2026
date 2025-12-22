@@ -1,0 +1,4990 @@
+[
+  {
+    "id": "ALG-0001",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Tema: nossos valores em comum",
+    "pergunta": "Em nossos valores em comum, onde você sente que a gente combina de verdade?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0002",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Entre nós: nossos valores em comum",
+    "pergunta": "O que em nossos valores em comum te faz pensar que somos do mesmo time?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0003",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Nosso olhar sobre nossos valores em comum",
+    "pergunta": "Quando pensamos em nossos valores em comum, o que te faz sentir que nossa conexão é especial?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0004",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "O que nos une: nossos valores em comum",
+    "pergunta": "Qual detalhe de nossos valores em comum faz você se sentir visto(a) por mim?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0005",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Sobre nossos valores em comum",
+    "pergunta": "Quando falamos sobre nossos valores em comum, o que te dá certeza do nosso alinhamento?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0006",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Quando falamos de nossos valores em comum",
+    "pergunta": "O que você acha único em nossos valores em comum entre nós?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conhecer-melhor",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0007",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Tema: nossos valores em comum",
+    "pergunta": "Como podemos fortalecer nossos valores em comum para manter nossa sintonia?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0008",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Entre nós: nossos valores em comum",
+    "pergunta": "Quando falamos sobre nossos valores em comum, o que você admira mais em nós dois?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Crescimento",
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0009",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Nosso olhar sobre nossos valores em comum",
+    "pergunta": "Em nossos valores em comum, o que faz você sentir que nos entendemos sem esforço?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "conexao-emocional",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0010",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "O que nos une: nossos valores em comum",
+    "pergunta": "Que gesto em nossos valores em comum te lembra que somos parceiros de vida?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Conexão Diária"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0011",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Sobre o jeito de apoiar um ao outro",
+    "pergunta": "No jeito de apoiar um ao outro, onde você sente que a gente combina de verdade?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0012",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Quando falamos do jeito de apoiar um ao outro",
+    "pergunta": "O que no jeito de apoiar um ao outro te faz pensar que somos do mesmo time?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "comunicacao",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0013",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Tema: o jeito de apoiar um ao outro",
+    "pergunta": "Quando pensamos no jeito de apoiar um ao outro, o que te faz sentir que nossa conexão é especial?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0014",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Entre nós: o jeito de apoiar um ao outro",
+    "pergunta": "Qual detalhe do jeito de apoiar um ao outro faz você se sentir visto(a) por mim?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "criar-rituais",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0015",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Nosso olhar sobre o jeito de apoiar um ao outro",
+    "pergunta": "Quando falamos sobre o jeito de apoiar um ao outro, o que te dá certeza do nosso alinhamento?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "aprofundar-intimidade",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0016",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "O que nos une: o jeito de apoiar um ao outro",
+    "pergunta": "O que você acha único no jeito de apoiar um ao outro entre nós?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0017",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Sobre o jeito de apoiar um ao outro",
+    "pergunta": "Como podemos fortalecer o jeito de apoiar um ao outro para manter nossa sintonia?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0018",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Quando falamos do jeito de apoiar um ao outro",
+    "pergunta": "Quando falamos sobre o jeito de apoiar um ao outro, o que você admira mais em nós dois?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Crescimento",
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0019",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Tema: o jeito de apoiar um ao outro",
+    "pergunta": "No jeito de apoiar um ao outro, o que faz você sentir que nos entendemos sem esforço?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0020",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Entre nós: o jeito de apoiar um ao outro",
+    "pergunta": "Que gesto no jeito de apoiar um ao outro te lembra que somos parceiros de vida?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Conexão Diária"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0021",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Nosso olhar sobre o humor que compartilhamos",
+    "pergunta": "No humor que compartilhamos, onde você sente que a gente combina de verdade?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conhecer-melhor",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0022",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "O que nos une: o humor que compartilhamos",
+    "pergunta": "O que no humor que compartilhamos te faz pensar que somos do mesmo time?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0023",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Sobre o humor que compartilhamos",
+    "pergunta": "Quando pensamos no humor que compartilhamos, o que te faz sentir que nossa conexão é especial?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0024",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Quando falamos do humor que compartilhamos",
+    "pergunta": "Qual detalhe do humor que compartilhamos faz você se sentir visto(a) por mim?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "conexao-emocional",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0025",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Tema: o humor que compartilhamos",
+    "pergunta": "Quando falamos sobre o humor que compartilhamos, o que te dá certeza do nosso alinhamento?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0026",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Entre nós: o humor que compartilhamos",
+    "pergunta": "O que você acha único no humor que compartilhamos entre nós?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0027",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Nosso olhar sobre o humor que compartilhamos",
+    "pergunta": "Como podemos fortalecer o humor que compartilhamos para manter nossa sintonia?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "comunicacao",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0028",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "O que nos une: o humor que compartilhamos",
+    "pergunta": "Quando falamos sobre o humor que compartilhamos, o que você admira mais em nós dois?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Crescimento",
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0029",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Sobre o humor que compartilhamos",
+    "pergunta": "No humor que compartilhamos, o que faz você sentir que nos entendemos sem esforço?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0030",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Quando falamos do humor que compartilhamos",
+    "pergunta": "Que gesto no humor que compartilhamos te lembra que somos parceiros de vida?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "aprofundar-intimidade",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Conexão Diária"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0031",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Tema: nossa sintonia no silêncio",
+    "pergunta": "Em nossa sintonia no silêncio, onde você sente que a gente combina de verdade?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0032",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Entre nós: nossa sintonia no silêncio",
+    "pergunta": "O que em nossa sintonia no silêncio te faz pensar que somos do mesmo time?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0033",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Nosso olhar sobre nossa sintonia no silêncio",
+    "pergunta": "Quando pensamos em nossa sintonia no silêncio, o que te faz sentir que nossa conexão é especial?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0034",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "O que nos une: nossa sintonia no silêncio",
+    "pergunta": "Qual detalhe de nossa sintonia no silêncio faz você se sentir visto(a) por mim?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0035",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Sobre nossa sintonia no silêncio",
+    "pergunta": "Quando falamos sobre nossa sintonia no silêncio, o que te dá certeza do nosso alinhamento?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0036",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Quando falamos de nossa sintonia no silêncio",
+    "pergunta": "O que você acha único em nossa sintonia no silêncio entre nós?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conhecer-melhor",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0037",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Tema: nossa sintonia no silêncio",
+    "pergunta": "Como podemos fortalecer nossa sintonia no silêncio para manter nossa sintonia?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0038",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Entre nós: nossa sintonia no silêncio",
+    "pergunta": "Quando falamos sobre nossa sintonia no silêncio, o que você admira mais em nós dois?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Crescimento",
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0039",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Nosso olhar sobre nossa sintonia no silêncio",
+    "pergunta": "Em nossa sintonia no silêncio, o que faz você sentir que nos entendemos sem esforço?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "conexao-emocional",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0040",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "O que nos une: nossa sintonia no silêncio",
+    "pergunta": "Que gesto em nossa sintonia no silêncio te lembra que somos parceiros de vida?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Conexão Diária"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0041",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Sobre as pequenas manias que combinam",
+    "pergunta": "Nas pequenas manias que combinam, onde você sente que a gente combina de verdade?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0042",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Quando falamos das pequenas manias que combinam",
+    "pergunta": "O que nas pequenas manias que combinam te faz pensar que somos do mesmo time?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "comunicacao",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0043",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Tema: as pequenas manias que combinam",
+    "pergunta": "Quando pensamos nas pequenas manias que combinam, o que te faz sentir que nossa conexão é especial?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0044",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Entre nós: as pequenas manias que combinam",
+    "pergunta": "Qual detalhe das pequenas manias que combinam faz você se sentir visto(a) por mim?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0045",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Nosso olhar sobre as pequenas manias que combinam",
+    "pergunta": "Quando falamos sobre as pequenas manias que combinam, o que te dá certeza do nosso alinhamento?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "aprofundar-intimidade",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0046",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "O que nos une: as pequenas manias que combinam",
+    "pergunta": "O que você acha único nas pequenas manias que combinam entre nós?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0047",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Sobre as pequenas manias que combinam",
+    "pergunta": "Como podemos fortalecer as pequenas manias que combinam para manter nossa sintonia?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0048",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Quando falamos das pequenas manias que combinam",
+    "pergunta": "Quando falamos sobre as pequenas manias que combinam, o que você admira mais em nós dois?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Crescimento",
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0049",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Tema: as pequenas manias que combinam",
+    "pergunta": "Nas pequenas manias que combinam, o que faz você sentir que nos entendemos sem esforço?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0050",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Entre nós: as pequenas manias que combinam",
+    "pergunta": "Que gesto nas pequenas manias que combinam te lembra que somos parceiros de vida?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Conexão Diária"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0051",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Nosso olhar sobre o respeito pelos nossos limites",
+    "pergunta": "No respeito pelos nossos limites, onde você sente que a gente combina de verdade?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conhecer-melhor",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0052",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "O que nos une: o respeito pelos nossos limites",
+    "pergunta": "O que no respeito pelos nossos limites te faz pensar que somos do mesmo time?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0053",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Sobre o respeito pelos nossos limites",
+    "pergunta": "Quando pensamos no respeito pelos nossos limites, o que te faz sentir que nossa conexão é especial?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0054",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Quando falamos do respeito pelos nossos limites",
+    "pergunta": "Qual detalhe do respeito pelos nossos limites faz você se sentir visto(a) por mim?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "conexao-emocional",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0055",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Tema: o respeito pelos nossos limites",
+    "pergunta": "Quando falamos sobre o respeito pelos nossos limites, o que te dá certeza do nosso alinhamento?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0056",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Entre nós: o respeito pelos nossos limites",
+    "pergunta": "O que você acha único no respeito pelos nossos limites entre nós?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0057",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Nosso olhar sobre o respeito pelos nossos limites",
+    "pergunta": "Como podemos fortalecer o respeito pelos nossos limites para manter nossa sintonia?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "comunicacao",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0058",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "O que nos une: o respeito pelos nossos limites",
+    "pergunta": "Quando falamos sobre o respeito pelos nossos limites, o que você admira mais em nós dois?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Crescimento",
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0059",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Sobre o respeito pelos nossos limites",
+    "pergunta": "No respeito pelos nossos limites, o que faz você sentir que nos entendemos sem esforço?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0060",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Quando falamos do respeito pelos nossos limites",
+    "pergunta": "Que gesto no respeito pelos nossos limites te lembra que somos parceiros de vida?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "aprofundar-intimidade",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Conexão Diária"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0061",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Tema: o sonho de vida que compartilhamos",
+    "pergunta": "No sonho de vida que compartilhamos, onde você sente que a gente combina de verdade?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0062",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Entre nós: o sonho de vida que compartilhamos",
+    "pergunta": "O que no sonho de vida que compartilhamos te faz pensar que somos do mesmo time?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0063",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Nosso olhar sobre o sonho de vida que compartilhamos",
+    "pergunta": "Quando pensamos no sonho de vida que compartilhamos, o que te faz sentir que nossa conexão é especial?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0064",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "O que nos une: o sonho de vida que compartilhamos",
+    "pergunta": "Qual detalhe do sonho de vida que compartilhamos faz você se sentir visto(a) por mim?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0065",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Sobre o sonho de vida que compartilhamos",
+    "pergunta": "Quando falamos sobre o sonho de vida que compartilhamos, o que te dá certeza do nosso alinhamento?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0066",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Quando falamos do sonho de vida que compartilhamos",
+    "pergunta": "O que você acha único no sonho de vida que compartilhamos entre nós?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conhecer-melhor",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0067",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Tema: o sonho de vida que compartilhamos",
+    "pergunta": "Como podemos fortalecer o sonho de vida que compartilhamos para manter nossa sintonia?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0068",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Entre nós: o sonho de vida que compartilhamos",
+    "pergunta": "Quando falamos sobre o sonho de vida que compartilhamos, o que você admira mais em nós dois?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Crescimento",
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0069",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Nosso olhar sobre o sonho de vida que compartilhamos",
+    "pergunta": "No sonho de vida que compartilhamos, o que faz você sentir que nos entendemos sem esforço?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "conexao-emocional",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0070",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "O que nos une: o sonho de vida que compartilhamos",
+    "pergunta": "Que gesto no sonho de vida que compartilhamos te lembra que somos parceiros de vida?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Conexão Diária"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0071",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Sobre a forma como celebramos conquistas",
+    "pergunta": "Na forma como celebramos conquistas, onde você sente que a gente combina de verdade?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0072",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Quando falamos da forma como celebramos conquistas",
+    "pergunta": "O que na forma como celebramos conquistas te faz pensar que somos do mesmo time?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "comunicacao",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0073",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Tema: a forma como celebramos conquistas",
+    "pergunta": "Quando pensamos na forma como celebramos conquistas, o que te faz sentir que nossa conexão é especial?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0074",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Entre nós: a forma como celebramos conquistas",
+    "pergunta": "Qual detalhe da forma como celebramos conquistas faz você se sentir visto(a) por mim?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0075",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Nosso olhar sobre a forma como celebramos conquistas",
+    "pergunta": "Quando falamos sobre a forma como celebramos conquistas, o que te dá certeza do nosso alinhamento?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "aprofundar-intimidade",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0076",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "O que nos une: a forma como celebramos conquistas",
+    "pergunta": "O que você acha único na forma como celebramos conquistas entre nós?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0077",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Sobre a forma como celebramos conquistas",
+    "pergunta": "Como podemos fortalecer a forma como celebramos conquistas para manter nossa sintonia?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0078",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Quando falamos da forma como celebramos conquistas",
+    "pergunta": "Quando falamos sobre a forma como celebramos conquistas, o que você admira mais em nós dois?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Crescimento",
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0079",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Tema: a forma como celebramos conquistas",
+    "pergunta": "Na forma como celebramos conquistas, o que faz você sentir que nos entendemos sem esforço?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "criar-rituais",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0080",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Entre nós: a forma como celebramos conquistas",
+    "pergunta": "Que gesto na forma como celebramos conquistas te lembra que somos parceiros de vida?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Conexão Diária"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0081",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Nosso olhar sobre a maneira como cuidamos um do outro",
+    "pergunta": "Na maneira como cuidamos um do outro, onde você sente que a gente combina de verdade?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conhecer-melhor",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0082",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "O que nos une: a maneira como cuidamos um do outro",
+    "pergunta": "O que na maneira como cuidamos um do outro te faz pensar que somos do mesmo time?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0083",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Sobre a maneira como cuidamos um do outro",
+    "pergunta": "Quando pensamos na maneira como cuidamos um do outro, o que te faz sentir que nossa conexão é especial?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0084",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Quando falamos da maneira como cuidamos um do outro",
+    "pergunta": "Qual detalhe da maneira como cuidamos um do outro faz você se sentir visto(a) por mim?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "conexao-emocional",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0085",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Tema: a maneira como cuidamos um do outro",
+    "pergunta": "Quando falamos sobre a maneira como cuidamos um do outro, o que te dá certeza do nosso alinhamento?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0086",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Entre nós: a maneira como cuidamos um do outro",
+    "pergunta": "O que você acha único na maneira como cuidamos um do outro entre nós?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0087",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Nosso olhar sobre a maneira como cuidamos um do outro",
+    "pergunta": "Como podemos fortalecer a maneira como cuidamos um do outro para manter nossa sintonia?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "comunicacao",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0088",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "O que nos une: a maneira como cuidamos um do outro",
+    "pergunta": "Quando falamos sobre a maneira como cuidamos um do outro, o que você admira mais em nós dois?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Crescimento",
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0089",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Sobre a maneira como cuidamos um do outro",
+    "pergunta": "Na maneira como cuidamos um do outro, o que faz você sentir que nos entendemos sem esforço?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0090",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Quando falamos da maneira como cuidamos um do outro",
+    "pergunta": "Que gesto na maneira como cuidamos um do outro te lembra que somos parceiros de vida?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "aprofundar-intimidade",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Conexão Diária"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0091",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Tema: o que admiramos no outro",
+    "pergunta": "No que admiramos no outro, onde você sente que a gente combina de verdade?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0092",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Entre nós: o que admiramos no outro",
+    "pergunta": "O que no que admiramos no outro te faz pensar que somos do mesmo time?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0093",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Nosso olhar sobre o que admiramos no outro",
+    "pergunta": "Quando pensamos no que admiramos no outro, o que te faz sentir que nossa conexão é especial?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0094",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "O que nos une: o que admiramos no outro",
+    "pergunta": "Qual detalhe do que admiramos no outro faz você se sentir visto(a) por mim?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0095",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Sobre o que admiramos no outro",
+    "pergunta": "Quando falamos sobre o que admiramos no outro, o que te dá certeza do nosso alinhamento?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0096",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Quando falamos do que admiramos no outro",
+    "pergunta": "O que você acha único no que admiramos no outro entre nós?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conhecer-melhor",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0097",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Tema: o que admiramos no outro",
+    "pergunta": "Como podemos fortalecer o que admiramos no outro para manter nossa sintonia?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0098",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Entre nós: o que admiramos no outro",
+    "pergunta": "Quando falamos sobre o que admiramos no outro, o que você admira mais em nós dois?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Crescimento",
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0099",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Nosso olhar sobre o que admiramos no outro",
+    "pergunta": "No que admiramos no outro, o que faz você sentir que nos entendemos sem esforço?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "conexao-emocional",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0100",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "O que nos une: o que admiramos no outro",
+    "pergunta": "Que gesto no que admiramos no outro te lembra que somos parceiros de vida?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Conexão Diária"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0101",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Sobre nossa visão de família",
+    "pergunta": "Em nossa visão de família, onde você sente que a gente combina de verdade?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0102",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Quando falamos de nossa visão de família",
+    "pergunta": "O que em nossa visão de família te faz pensar que somos do mesmo time?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "comunicacao",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0103",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Tema: nossa visão de família",
+    "pergunta": "Quando pensamos em nossa visão de família, o que te faz sentir que nossa conexão é especial?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0104",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Entre nós: nossa visão de família",
+    "pergunta": "Qual detalhe de nossa visão de família faz você se sentir visto(a) por mim?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0105",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Nosso olhar sobre nossa visão de família",
+    "pergunta": "Quando falamos sobre nossa visão de família, o que te dá certeza do nosso alinhamento?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "aprofundar-intimidade",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0106",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "O que nos une: nossa visão de família",
+    "pergunta": "O que você acha único em nossa visão de família entre nós?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0107",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Sobre nossa visão de família",
+    "pergunta": "Como podemos fortalecer nossa visão de família para manter nossa sintonia?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0108",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Quando falamos de nossa visão de família",
+    "pergunta": "Quando falamos sobre nossa visão de família, o que você admira mais em nós dois?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Crescimento",
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0109",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Tema: nossa visão de família",
+    "pergunta": "Em nossa visão de família, o que faz você sentir que nos entendemos sem esforço?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0110",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Entre nós: nossa visão de família",
+    "pergunta": "Que gesto em nossa visão de família te lembra que somos parceiros de vida?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Conexão Diária"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0111",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Nosso olhar sobre o jeito de lidar com desafios",
+    "pergunta": "No jeito de lidar com desafios, onde você sente que a gente combina de verdade?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conhecer-melhor",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0112",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "O que nos une: o jeito de lidar com desafios",
+    "pergunta": "O que no jeito de lidar com desafios te faz pensar que somos do mesmo time?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0113",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Sobre o jeito de lidar com desafios",
+    "pergunta": "Quando pensamos no jeito de lidar com desafios, o que te faz sentir que nossa conexão é especial?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0114",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Quando falamos do jeito de lidar com desafios",
+    "pergunta": "Qual detalhe do jeito de lidar com desafios faz você se sentir visto(a) por mim?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "conexao-emocional",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0115",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Tema: o jeito de lidar com desafios",
+    "pergunta": "Quando falamos sobre o jeito de lidar com desafios, o que te dá certeza do nosso alinhamento?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0116",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Entre nós: o jeito de lidar com desafios",
+    "pergunta": "O que você acha único no jeito de lidar com desafios entre nós?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0117",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Nosso olhar sobre o jeito de lidar com desafios",
+    "pergunta": "Como podemos fortalecer o jeito de lidar com desafios para manter nossa sintonia?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "comunicacao",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0118",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "O que nos une: o jeito de lidar com desafios",
+    "pergunta": "Quando falamos sobre o jeito de lidar com desafios, o que você admira mais em nós dois?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Crescimento",
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0119",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Sobre o jeito de lidar com desafios",
+    "pergunta": "No jeito de lidar com desafios, o que faz você sentir que nos entendemos sem esforço?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0120",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Quando falamos do jeito de lidar com desafios",
+    "pergunta": "Que gesto no jeito de lidar com desafios te lembra que somos parceiros de vida?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "aprofundar-intimidade",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Conexão Diária"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0121",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Tema: o que nos faz sentir em casa",
+    "pergunta": "No que nos faz sentir em casa, onde você sente que a gente combina de verdade?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0122",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Entre nós: o que nos faz sentir em casa",
+    "pergunta": "O que no que nos faz sentir em casa te faz pensar que somos do mesmo time?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0123",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Nosso olhar sobre o que nos faz sentir em casa",
+    "pergunta": "Quando pensamos no que nos faz sentir em casa, o que te faz sentir que nossa conexão é especial?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0124",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "O que nos une: o que nos faz sentir em casa",
+    "pergunta": "Qual detalhe do que nos faz sentir em casa faz você se sentir visto(a) por mim?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0125",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Sobre o que nos faz sentir em casa",
+    "pergunta": "Quando falamos sobre o que nos faz sentir em casa, o que te dá certeza do nosso alinhamento?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0126",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Quando falamos do que nos faz sentir em casa",
+    "pergunta": "O que você acha único no que nos faz sentir em casa entre nós?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conhecer-melhor",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0127",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Tema: o que nos faz sentir em casa",
+    "pergunta": "Como podemos fortalecer o que nos faz sentir em casa para manter nossa sintonia?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0128",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Entre nós: o que nos faz sentir em casa",
+    "pergunta": "Quando falamos sobre o que nos faz sentir em casa, o que você admira mais em nós dois?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Crescimento",
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0129",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Nosso olhar sobre o que nos faz sentir em casa",
+    "pergunta": "No que nos faz sentir em casa, o que faz você sentir que nos entendemos sem esforço?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "conexao-emocional",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0130",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "O que nos une: o que nos faz sentir em casa",
+    "pergunta": "Que gesto no que nos faz sentir em casa te lembra que somos parceiros de vida?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Conexão Diária"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0131",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Sobre a nossa energia quando estamos juntos",
+    "pergunta": "Na nossa energia quando estamos juntos, onde você sente que a gente combina de verdade?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0132",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Quando falamos da nossa energia quando estamos juntos",
+    "pergunta": "O que na nossa energia quando estamos juntos te faz pensar que somos do mesmo time?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "comunicacao",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0133",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Tema: a nossa energia quando estamos juntos",
+    "pergunta": "Quando pensamos na nossa energia quando estamos juntos, o que te faz sentir que nossa conexão é especial?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0134",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Entre nós: a nossa energia quando estamos juntos",
+    "pergunta": "Qual detalhe da nossa energia quando estamos juntos faz você se sentir visto(a) por mim?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0135",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Nosso olhar sobre a nossa energia quando estamos juntos",
+    "pergunta": "Quando falamos sobre a nossa energia quando estamos juntos, o que te dá certeza do nosso alinhamento?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "aprofundar-intimidade",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0136",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "O que nos une: a nossa energia quando estamos juntos",
+    "pergunta": "O que você acha único na nossa energia quando estamos juntos entre nós?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0137",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Sobre a nossa energia quando estamos juntos",
+    "pergunta": "Como podemos fortalecer a nossa energia quando estamos juntos para manter nossa sintonia?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0138",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Quando falamos da nossa energia quando estamos juntos",
+    "pergunta": "Quando falamos sobre a nossa energia quando estamos juntos, o que você admira mais em nós dois?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Crescimento",
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0139",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Tema: a nossa energia quando estamos juntos",
+    "pergunta": "Na nossa energia quando estamos juntos, o que faz você sentir que nos entendemos sem esforço?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0140",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Entre nós: a nossa energia quando estamos juntos",
+    "pergunta": "Que gesto na nossa energia quando estamos juntos te lembra que somos parceiros de vida?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Conexão Diária"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0141",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Nosso olhar sobre o modo como resolvemos conflitos",
+    "pergunta": "No modo como resolvemos conflitos, onde você sente que a gente combina de verdade?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conhecer-melhor",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0142",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "O que nos une: o modo como resolvemos conflitos",
+    "pergunta": "O que no modo como resolvemos conflitos te faz pensar que somos do mesmo time?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0143",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Sobre o modo como resolvemos conflitos",
+    "pergunta": "Quando pensamos no modo como resolvemos conflitos, o que te faz sentir que nossa conexão é especial?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0144",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Quando falamos do modo como resolvemos conflitos",
+    "pergunta": "Qual detalhe do modo como resolvemos conflitos faz você se sentir visto(a) por mim?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "criar-rituais",
+      "conexao-emocional",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0145",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Tema: o modo como resolvemos conflitos",
+    "pergunta": "Quando falamos sobre o modo como resolvemos conflitos, o que te dá certeza do nosso alinhamento?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0146",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Entre nós: o modo como resolvemos conflitos",
+    "pergunta": "O que você acha único no modo como resolvemos conflitos entre nós?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0147",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Nosso olhar sobre o modo como resolvemos conflitos",
+    "pergunta": "Como podemos fortalecer o modo como resolvemos conflitos para manter nossa sintonia?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "comunicacao",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0148",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "O que nos une: o modo como resolvemos conflitos",
+    "pergunta": "Quando falamos sobre o modo como resolvemos conflitos, o que você admira mais em nós dois?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Crescimento",
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0149",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Sobre o modo como resolvemos conflitos",
+    "pergunta": "No modo como resolvemos conflitos, o que faz você sentir que nos entendemos sem esforço?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0150",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Quando falamos do modo como resolvemos conflitos",
+    "pergunta": "Que gesto no modo como resolvemos conflitos te lembra que somos parceiros de vida?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "aprofundar-intimidade",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Conexão Diária"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0151",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Tema: as coisas simples que nos unem",
+    "pergunta": "Nas coisas simples que nos unem, onde você sente que a gente combina de verdade?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0152",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Entre nós: as coisas simples que nos unem",
+    "pergunta": "O que nas coisas simples que nos unem te faz pensar que somos do mesmo time?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0153",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Nosso olhar sobre as coisas simples que nos unem",
+    "pergunta": "Quando pensamos nas coisas simples que nos unem, o que te faz sentir que nossa conexão é especial?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0154",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "O que nos une: as coisas simples que nos unem",
+    "pergunta": "Qual detalhe das coisas simples que nos unem faz você se sentir visto(a) por mim?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0155",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Sobre as coisas simples que nos unem",
+    "pergunta": "Quando falamos sobre as coisas simples que nos unem, o que te dá certeza do nosso alinhamento?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0156",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Quando falamos das coisas simples que nos unem",
+    "pergunta": "O que você acha único nas coisas simples que nos unem entre nós?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conhecer-melhor",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0157",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Tema: as coisas simples que nos unem",
+    "pergunta": "Como podemos fortalecer as coisas simples que nos unem para manter nossa sintonia?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0158",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Entre nós: as coisas simples que nos unem",
+    "pergunta": "Quando falamos sobre as coisas simples que nos unem, o que você admira mais em nós dois?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Crescimento",
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0159",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Nosso olhar sobre as coisas simples que nos unem",
+    "pergunta": "Nas coisas simples que nos unem, o que faz você sentir que nos entendemos sem esforço?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "conexao-emocional",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0160",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "O que nos une: as coisas simples que nos unem",
+    "pergunta": "Que gesto nas coisas simples que nos unem te lembra que somos parceiros de vida?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Conexão Diária"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0161",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Sobre o que nos inspira como casal",
+    "pergunta": "No que nos inspira como casal, onde você sente que a gente combina de verdade?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0162",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Quando falamos do que nos inspira como casal",
+    "pergunta": "O que no que nos inspira como casal te faz pensar que somos do mesmo time?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "comunicacao",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0163",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Tema: o que nos inspira como casal",
+    "pergunta": "Quando pensamos no que nos inspira como casal, o que te faz sentir que nossa conexão é especial?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0164",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Entre nós: o que nos inspira como casal",
+    "pergunta": "Qual detalhe do que nos inspira como casal faz você se sentir visto(a) por mim?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0165",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Nosso olhar sobre o que nos inspira como casal",
+    "pergunta": "Quando falamos sobre o que nos inspira como casal, o que te dá certeza do nosso alinhamento?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "aprofundar-intimidade",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0166",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "O que nos une: o que nos inspira como casal",
+    "pergunta": "O que você acha único no que nos inspira como casal entre nós?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0167",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Sobre o que nos inspira como casal",
+    "pergunta": "Como podemos fortalecer o que nos inspira como casal para manter nossa sintonia?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0168",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Quando falamos do que nos inspira como casal",
+    "pergunta": "Quando falamos sobre o que nos inspira como casal, o que você admira mais em nós dois?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Crescimento",
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0169",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Tema: o que nos inspira como casal",
+    "pergunta": "No que nos inspira como casal, o que faz você sentir que nos entendemos sem esforço?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0170",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Entre nós: o que nos inspira como casal",
+    "pergunta": "Que gesto no que nos inspira como casal te lembra que somos parceiros de vida?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Conexão Diária"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0171",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Nosso olhar sobre a parceria nas decisões",
+    "pergunta": "Na parceria nas decisões, onde você sente que a gente combina de verdade?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conhecer-melhor",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0172",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "O que nos une: a parceria nas decisões",
+    "pergunta": "O que na parceria nas decisões te faz pensar que somos do mesmo time?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0173",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Sobre a parceria nas decisões",
+    "pergunta": "Quando pensamos na parceria nas decisões, o que te faz sentir que nossa conexão é especial?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0174",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Quando falamos da parceria nas decisões",
+    "pergunta": "Qual detalhe da parceria nas decisões faz você se sentir visto(a) por mim?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "conexao-emocional",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0175",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Tema: a parceria nas decisões",
+    "pergunta": "Quando falamos sobre a parceria nas decisões, o que te dá certeza do nosso alinhamento?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0176",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Entre nós: a parceria nas decisões",
+    "pergunta": "O que você acha único na parceria nas decisões entre nós?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0177",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Nosso olhar sobre a parceria nas decisões",
+    "pergunta": "Como podemos fortalecer a parceria nas decisões para manter nossa sintonia?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "comunicacao",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0178",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "O que nos une: a parceria nas decisões",
+    "pergunta": "Quando falamos sobre a parceria nas decisões, o que você admira mais em nós dois?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Crescimento",
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0179",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Sobre a parceria nas decisões",
+    "pergunta": "Na parceria nas decisões, o que faz você sentir que nos entendemos sem esforço?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0180",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Quando falamos da parceria nas decisões",
+    "pergunta": "Que gesto na parceria nas decisões te lembra que somos parceiros de vida?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "aprofundar-intimidade",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Conexão Diária"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0181",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Tema: a forma como nos escutamos",
+    "pergunta": "Na forma como nos escutamos, onde você sente que a gente combina de verdade?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0182",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Entre nós: a forma como nos escutamos",
+    "pergunta": "O que na forma como nos escutamos te faz pensar que somos do mesmo time?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0183",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Nosso olhar sobre a forma como nos escutamos",
+    "pergunta": "Quando pensamos na forma como nos escutamos, o que te faz sentir que nossa conexão é especial?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0184",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "O que nos une: a forma como nos escutamos",
+    "pergunta": "Qual detalhe da forma como nos escutamos faz você se sentir visto(a) por mim?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0185",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Sobre a forma como nos escutamos",
+    "pergunta": "Quando falamos sobre a forma como nos escutamos, o que te dá certeza do nosso alinhamento?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0186",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Quando falamos da forma como nos escutamos",
+    "pergunta": "O que você acha único na forma como nos escutamos entre nós?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conhecer-melhor",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0187",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Tema: a forma como nos escutamos",
+    "pergunta": "Como podemos fortalecer a forma como nos escutamos para manter nossa sintonia?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0188",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Entre nós: a forma como nos escutamos",
+    "pergunta": "Quando falamos sobre a forma como nos escutamos, o que você admira mais em nós dois?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Crescimento",
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0189",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Nosso olhar sobre a forma como nos escutamos",
+    "pergunta": "Na forma como nos escutamos, o que faz você sentir que nos entendemos sem esforço?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "conexao-emocional",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0190",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "O que nos une: a forma como nos escutamos",
+    "pergunta": "Que gesto na forma como nos escutamos te lembra que somos parceiros de vida?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Conexão Diária"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0191",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Sobre as escolhas que nos aproximam",
+    "pergunta": "Nas escolhas que nos aproximam, onde você sente que a gente combina de verdade?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0192",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Quando falamos das escolhas que nos aproximam",
+    "pergunta": "O que nas escolhas que nos aproximam te faz pensar que somos do mesmo time?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "comunicacao",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0193",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Tema: as escolhas que nos aproximam",
+    "pergunta": "Quando pensamos nas escolhas que nos aproximam, o que te faz sentir que nossa conexão é especial?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0194",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Entre nós: as escolhas que nos aproximam",
+    "pergunta": "Qual detalhe das escolhas que nos aproximam faz você se sentir visto(a) por mim?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0195",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Nosso olhar sobre as escolhas que nos aproximam",
+    "pergunta": "Quando falamos sobre as escolhas que nos aproximam, o que te dá certeza do nosso alinhamento?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "aprofundar-intimidade",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0196",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "O que nos une: as escolhas que nos aproximam",
+    "pergunta": "O que você acha único nas escolhas que nos aproximam entre nós?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0197",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Sobre as escolhas que nos aproximam",
+    "pergunta": "Como podemos fortalecer as escolhas que nos aproximam para manter nossa sintonia?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0198",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Quando falamos das escolhas que nos aproximam",
+    "pergunta": "Quando falamos sobre as escolhas que nos aproximam, o que você admira mais em nós dois?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Crescimento",
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0199",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Tema: as escolhas que nos aproximam",
+    "pergunta": "Nas escolhas que nos aproximam, o que faz você sentir que nos entendemos sem esforço?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ALG-0200",
+    "categoria_principal": "Almas Gêmeas",
+    "titulo_curto": "Entre nós: as escolhas que nos aproximam",
+    "pergunta": "Que gesto nas escolhas que nos aproximam te lembra que somos parceiros de vida?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Conexão Diária"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  }
+]

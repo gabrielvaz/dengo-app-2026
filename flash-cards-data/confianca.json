@@ -1,0 +1,4990 @@
+[
+  {
+    "id": "CONF-0001",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Tema: a sinceridade nas pequenas coisas",
+    "pergunta": "Quando falamos sobre a sinceridade nas pequenas coisas, o que mais te passa segurança?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "comunicacao",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0002",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Entre nós: a sinceridade nas pequenas coisas",
+    "pergunta": "Como podemos cuidar melhor da sinceridade nas pequenas coisas entre nós?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0003",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Nosso olhar sobre a sinceridade nas pequenas coisas",
+    "pergunta": "O que você precisa de mim quando o assunto é a sinceridade nas pequenas coisas?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "fortalecer-confianca",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0004",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "O que nos une: a sinceridade nas pequenas coisas",
+    "pergunta": "Que atitude fortalece a sinceridade nas pequenas coisas no nosso relacionamento?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0005",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Sobre a sinceridade nas pequenas coisas",
+    "pergunta": "Quando pensamos na sinceridade nas pequenas coisas, o que podemos ajustar?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "CONF-0006",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Quando falamos da sinceridade nas pequenas coisas",
+    "pergunta": "Qual conversa sobre a sinceridade nas pequenas coisas seria importante ter agora?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0007",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Tema: a sinceridade nas pequenas coisas",
+    "pergunta": "O que na sinceridade nas pequenas coisas te faz confiar mais em nós?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0008",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Entre nós: a sinceridade nas pequenas coisas",
+    "pergunta": "Como você gostaria que eu reagisse na sinceridade nas pequenas coisas?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0009",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Nosso olhar sobre a sinceridade nas pequenas coisas",
+    "pergunta": "O que pode fragilizar a sinceridade nas pequenas coisas e como evitamos?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0010",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "O que nos une: a sinceridade nas pequenas coisas",
+    "pergunta": "Qual exemplo da sinceridade nas pequenas coisas você gostaria de viver comigo?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "CONF-0011",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Sobre o respeito à privacidade",
+    "pergunta": "Quando falamos sobre o respeito à privacidade, o que mais te passa segurança?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0012",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Quando falamos do respeito à privacidade",
+    "pergunta": "Como podemos cuidar melhor do respeito à privacidade entre nós?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "comunicacao",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0013",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Tema: o respeito à privacidade",
+    "pergunta": "O que você precisa de mim quando o assunto é o respeito à privacidade?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0014",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Entre nós: o respeito à privacidade",
+    "pergunta": "Que atitude fortalece o respeito à privacidade no nosso relacionamento?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0015",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Nosso olhar sobre o respeito à privacidade",
+    "pergunta": "Quando pensamos no respeito à privacidade, o que podemos ajustar?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "fortalecer-confianca",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "CONF-0016",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "O que nos une: o respeito à privacidade",
+    "pergunta": "Qual conversa sobre o respeito à privacidade seria importante ter agora?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0017",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Sobre o respeito à privacidade",
+    "pergunta": "O que no respeito à privacidade te faz confiar mais em nós?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0018",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Quando falamos do respeito à privacidade",
+    "pergunta": "Como você gostaria que eu reagisse no respeito à privacidade?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0019",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Tema: o respeito à privacidade",
+    "pergunta": "O que pode fragilizar o respeito à privacidade e como evitamos?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0020",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Entre nós: o respeito à privacidade",
+    "pergunta": "Qual exemplo do respeito à privacidade você gostaria de viver comigo?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "CONF-0021",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Nosso olhar sobre a transparência sobre decisões",
+    "pergunta": "Quando falamos sobre a transparência sobre decisões, o que mais te passa segurança?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0022",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "O que nos une: a transparência sobre decisões",
+    "pergunta": "Como podemos cuidar melhor da transparência sobre decisões entre nós?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0023",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Sobre a transparência sobre decisões",
+    "pergunta": "O que você precisa de mim quando o assunto é a transparência sobre decisões?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0024",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Quando falamos da transparência sobre decisões",
+    "pergunta": "Que atitude fortalece a transparência sobre decisões no nosso relacionamento?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "comunicacao",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0025",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Tema: a transparência sobre decisões",
+    "pergunta": "Quando pensamos na transparência sobre decisões, o que podemos ajustar?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "CONF-0026",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Entre nós: a transparência sobre decisões",
+    "pergunta": "Qual conversa sobre a transparência sobre decisões seria importante ter agora?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0027",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Nosso olhar sobre a transparência sobre decisões",
+    "pergunta": "O que na transparência sobre decisões te faz confiar mais em nós?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "fortalecer-confianca",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0028",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "O que nos une: a transparência sobre decisões",
+    "pergunta": "Como você gostaria que eu reagisse na transparência sobre decisões?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0029",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Sobre a transparência sobre decisões",
+    "pergunta": "O que pode fragilizar a transparência sobre decisões e como evitamos?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0030",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Quando falamos da transparência sobre decisões",
+    "pergunta": "Qual exemplo da transparência sobre decisões você gostaria de viver comigo?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "CONF-0031",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Tema: como lidamos com ciúmes",
+    "pergunta": "Quando falamos sobre como lidamos com ciúmes, o que mais te passa segurança?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0032",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Entre nós: como lidamos com ciúmes",
+    "pergunta": "Como podemos cuidar melhor de como lidamos com ciúmes entre nós?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0033",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Nosso olhar sobre como lidamos com ciúmes",
+    "pergunta": "O que você precisa de mim quando o assunto é como lidamos com ciúmes?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0034",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "O que nos une: como lidamos com ciúmes",
+    "pergunta": "Que atitude fortalece como lidamos com ciúmes no nosso relacionamento?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0035",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Sobre como lidamos com ciúmes",
+    "pergunta": "Quando pensamos em como lidamos com ciúmes, o que podemos ajustar?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "CONF-0036",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Quando falamos de como lidamos com ciúmes",
+    "pergunta": "Qual conversa sobre como lidamos com ciúmes seria importante ter agora?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "comunicacao",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0037",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Tema: como lidamos com ciúmes",
+    "pergunta": "O que em como lidamos com ciúmes te faz confiar mais em nós?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0038",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Entre nós: como lidamos com ciúmes",
+    "pergunta": "Como você gostaria que eu reagisse em como lidamos com ciúmes?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0039",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Nosso olhar sobre como lidamos com ciúmes",
+    "pergunta": "O que pode fragilizar como lidamos com ciúmes e como evitamos?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "fortalecer-confianca",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0040",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "O que nos une: como lidamos com ciúmes",
+    "pergunta": "Qual exemplo de como lidamos com ciúmes você gostaria de viver comigo?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "CONF-0041",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Sobre o cuidado com promessas",
+    "pergunta": "Quando falamos sobre o cuidado com promessas, o que mais te passa segurança?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0042",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Quando falamos do cuidado com promessas",
+    "pergunta": "Como podemos cuidar melhor do cuidado com promessas entre nós?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0043",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Tema: o cuidado com promessas",
+    "pergunta": "O que você precisa de mim quando o assunto é o cuidado com promessas?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0044",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Entre nós: o cuidado com promessas",
+    "pergunta": "Que atitude fortalece o cuidado com promessas no nosso relacionamento?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0045",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Nosso olhar sobre o cuidado com promessas",
+    "pergunta": "Quando pensamos no cuidado com promessas, o que podemos ajustar?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "CONF-0046",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "O que nos une: o cuidado com promessas",
+    "pergunta": "Qual conversa sobre o cuidado com promessas seria importante ter agora?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0047",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Sobre o cuidado com promessas",
+    "pergunta": "O que no cuidado com promessas te faz confiar mais em nós?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0048",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Quando falamos do cuidado com promessas",
+    "pergunta": "Como você gostaria que eu reagisse no cuidado com promessas?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "comunicacao",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0049",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Tema: o cuidado com promessas",
+    "pergunta": "O que pode fragilizar o cuidado com promessas e como evitamos?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0050",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Entre nós: o cuidado com promessas",
+    "pergunta": "Qual exemplo do cuidado com promessas você gostaria de viver comigo?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "CONF-0051",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Nosso olhar sobre o jeito de pedir perdão",
+    "pergunta": "Quando falamos sobre o jeito de pedir perdão, o que mais te passa segurança?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "fortalecer-confianca",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0052",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "O que nos une: o jeito de pedir perdão",
+    "pergunta": "Como podemos cuidar melhor do jeito de pedir perdão entre nós?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0053",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Sobre o jeito de pedir perdão",
+    "pergunta": "O que você precisa de mim quando o assunto é o jeito de pedir perdão?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "comunicacao",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0054",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Quando falamos do jeito de pedir perdão",
+    "pergunta": "Que atitude fortalece o jeito de pedir perdão no nosso relacionamento?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0055",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Tema: o jeito de pedir perdão",
+    "pergunta": "Quando pensamos no jeito de pedir perdão, o que podemos ajustar?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "CONF-0056",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Entre nós: o jeito de pedir perdão",
+    "pergunta": "Qual conversa sobre o jeito de pedir perdão seria importante ter agora?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0057",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Nosso olhar sobre o jeito de pedir perdão",
+    "pergunta": "O que no jeito de pedir perdão te faz confiar mais em nós?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0058",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "O que nos une: o jeito de pedir perdão",
+    "pergunta": "Como você gostaria que eu reagisse no jeito de pedir perdão?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0059",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Sobre o jeito de pedir perdão",
+    "pergunta": "O que pode fragilizar o jeito de pedir perdão e como evitamos?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0060",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Quando falamos do jeito de pedir perdão",
+    "pergunta": "Qual exemplo do jeito de pedir perdão você gostaria de viver comigo?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "comunicacao",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "CONF-0061",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Tema: a confiança no nosso futuro",
+    "pergunta": "Quando falamos sobre a confiança no nosso futuro, o que mais te passa segurança?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0062",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Entre nós: a confiança no nosso futuro",
+    "pergunta": "Como podemos cuidar melhor da confiança no nosso futuro entre nós?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0063",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Nosso olhar sobre a confiança no nosso futuro",
+    "pergunta": "O que você precisa de mim quando o assunto é a confiança no nosso futuro?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "fortalecer-confianca",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0064",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "O que nos une: a confiança no nosso futuro",
+    "pergunta": "Que atitude fortalece a confiança no nosso futuro no nosso relacionamento?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0065",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Sobre a confiança no nosso futuro",
+    "pergunta": "Quando pensamos na confiança no nosso futuro, o que podemos ajustar?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "CONF-0066",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Quando falamos da confiança no nosso futuro",
+    "pergunta": "Qual conversa sobre a confiança no nosso futuro seria importante ter agora?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0067",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Tema: a confiança no nosso futuro",
+    "pergunta": "O que na confiança no nosso futuro te faz confiar mais em nós?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0068",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Entre nós: a confiança no nosso futuro",
+    "pergunta": "Como você gostaria que eu reagisse na confiança no nosso futuro?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0069",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Nosso olhar sobre a confiança no nosso futuro",
+    "pergunta": "O que pode fragilizar a confiança no nosso futuro e como evitamos?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0070",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "O que nos une: a confiança no nosso futuro",
+    "pergunta": "Qual exemplo da confiança no nosso futuro você gostaria de viver comigo?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "CONF-0071",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Sobre o apoio nas escolhas difíceis",
+    "pergunta": "Quando falamos sobre o apoio nas escolhas difíceis, o que mais te passa segurança?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0072",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Quando falamos do apoio nas escolhas difíceis",
+    "pergunta": "Como podemos cuidar melhor do apoio nas escolhas difíceis entre nós?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "comunicacao",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0073",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Tema: o apoio nas escolhas difíceis",
+    "pergunta": "O que você precisa de mim quando o assunto é o apoio nas escolhas difíceis?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0074",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Entre nós: o apoio nas escolhas difíceis",
+    "pergunta": "Que atitude fortalece o apoio nas escolhas difíceis no nosso relacionamento?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0075",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Nosso olhar sobre o apoio nas escolhas difíceis",
+    "pergunta": "Quando pensamos no apoio nas escolhas difíceis, o que podemos ajustar?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "fortalecer-confianca",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "CONF-0076",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "O que nos une: o apoio nas escolhas difíceis",
+    "pergunta": "Qual conversa sobre o apoio nas escolhas difíceis seria importante ter agora?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0077",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Sobre o apoio nas escolhas difíceis",
+    "pergunta": "O que no apoio nas escolhas difíceis te faz confiar mais em nós?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0078",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Quando falamos do apoio nas escolhas difíceis",
+    "pergunta": "Como você gostaria que eu reagisse no apoio nas escolhas difíceis?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0079",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Tema: o apoio nas escolhas difíceis",
+    "pergunta": "O que pode fragilizar o apoio nas escolhas difíceis e como evitamos?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0080",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Entre nós: o apoio nas escolhas difíceis",
+    "pergunta": "Qual exemplo do apoio nas escolhas difíceis você gostaria de viver comigo?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "CONF-0081",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Nosso olhar sobre a abertura para conversar de erros",
+    "pergunta": "Quando falamos sobre a abertura para conversar de erros, o que mais te passa segurança?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0082",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "O que nos une: a abertura para conversar de erros",
+    "pergunta": "Como podemos cuidar melhor da abertura para conversar de erros entre nós?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0083",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Sobre a abertura para conversar de erros",
+    "pergunta": "O que você precisa de mim quando o assunto é a abertura para conversar de erros?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0084",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Quando falamos da abertura para conversar de erros",
+    "pergunta": "Que atitude fortalece a abertura para conversar de erros no nosso relacionamento?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "comunicacao",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0085",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Tema: a abertura para conversar de erros",
+    "pergunta": "Quando pensamos na abertura para conversar de erros, o que podemos ajustar?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "CONF-0086",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Entre nós: a abertura para conversar de erros",
+    "pergunta": "Qual conversa sobre a abertura para conversar de erros seria importante ter agora?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0087",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Nosso olhar sobre a abertura para conversar de erros",
+    "pergunta": "O que na abertura para conversar de erros te faz confiar mais em nós?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "fortalecer-confianca",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0088",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "O que nos une: a abertura para conversar de erros",
+    "pergunta": "Como você gostaria que eu reagisse na abertura para conversar de erros?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0089",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Sobre a abertura para conversar de erros",
+    "pergunta": "O que pode fragilizar a abertura para conversar de erros e como evitamos?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0090",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Quando falamos da abertura para conversar de erros",
+    "pergunta": "Qual exemplo da abertura para conversar de erros você gostaria de viver comigo?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "CONF-0091",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Tema: o equilíbrio entre liberdade e compromisso",
+    "pergunta": "Quando falamos sobre o equilíbrio entre liberdade e compromisso, o que mais te passa segurança?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0092",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Entre nós: o equilíbrio entre liberdade e compromisso",
+    "pergunta": "Como podemos cuidar melhor do equilíbrio entre liberdade e compromisso entre nós?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0093",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Nosso olhar sobre o equilíbrio entre liberdade e compromisso",
+    "pergunta": "O que você precisa de mim quando o assunto é o equilíbrio entre liberdade e compromisso?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0094",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "O que nos une: o equilíbrio entre liberdade e compromisso",
+    "pergunta": "Que atitude fortalece o equilíbrio entre liberdade e compromisso no nosso relacionamento?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0095",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Sobre o equilíbrio entre liberdade e compromisso",
+    "pergunta": "Quando pensamos no equilíbrio entre liberdade e compromisso, o que podemos ajustar?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "CONF-0096",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Quando falamos do equilíbrio entre liberdade e compromisso",
+    "pergunta": "Qual conversa sobre o equilíbrio entre liberdade e compromisso seria importante ter agora?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "comunicacao",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0097",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Tema: o equilíbrio entre liberdade e compromisso",
+    "pergunta": "O que no equilíbrio entre liberdade e compromisso te faz confiar mais em nós?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0098",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Entre nós: o equilíbrio entre liberdade e compromisso",
+    "pergunta": "Como você gostaria que eu reagisse no equilíbrio entre liberdade e compromisso?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0099",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Nosso olhar sobre o equilíbrio entre liberdade e compromisso",
+    "pergunta": "O que pode fragilizar o equilíbrio entre liberdade e compromisso e como evitamos?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "fortalecer-confianca",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0100",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "O que nos une: o equilíbrio entre liberdade e compromisso",
+    "pergunta": "Qual exemplo do equilíbrio entre liberdade e compromisso você gostaria de viver comigo?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "CONF-0101",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Sobre o que significa lealdade",
+    "pergunta": "Quando falamos sobre o que significa lealdade, o que mais te passa segurança?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0102",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Quando falamos do que significa lealdade",
+    "pergunta": "Como podemos cuidar melhor do que significa lealdade entre nós?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0103",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Tema: o que significa lealdade",
+    "pergunta": "O que você precisa de mim quando o assunto é o que significa lealdade?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0104",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Entre nós: o que significa lealdade",
+    "pergunta": "Que atitude fortalece o que significa lealdade no nosso relacionamento?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0105",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Nosso olhar sobre o que significa lealdade",
+    "pergunta": "Quando pensamos no que significa lealdade, o que podemos ajustar?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "comunicacao",
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "CONF-0106",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "O que nos une: o que significa lealdade",
+    "pergunta": "Qual conversa sobre o que significa lealdade seria importante ter agora?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0107",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Sobre o que significa lealdade",
+    "pergunta": "O que no que significa lealdade te faz confiar mais em nós?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0108",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Quando falamos do que significa lealdade",
+    "pergunta": "Como você gostaria que eu reagisse no que significa lealdade?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "comunicacao",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0109",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Tema: o que significa lealdade",
+    "pergunta": "O que pode fragilizar o que significa lealdade e como evitamos?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0110",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Entre nós: o que significa lealdade",
+    "pergunta": "Qual exemplo do que significa lealdade você gostaria de viver comigo?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "CONF-0111",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Nosso olhar sobre como demonstramos segurança",
+    "pergunta": "Quando falamos sobre como demonstramos segurança, o que mais te passa segurança?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "fortalecer-confianca",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0112",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "O que nos une: como demonstramos segurança",
+    "pergunta": "Como podemos cuidar melhor de como demonstramos segurança entre nós?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0113",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Sobre como demonstramos segurança",
+    "pergunta": "O que você precisa de mim quando o assunto é como demonstramos segurança?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0114",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Quando falamos de como demonstramos segurança",
+    "pergunta": "Que atitude fortalece como demonstramos segurança no nosso relacionamento?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0115",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Tema: como demonstramos segurança",
+    "pergunta": "Quando pensamos em como demonstramos segurança, o que podemos ajustar?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "CONF-0116",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Entre nós: como demonstramos segurança",
+    "pergunta": "Qual conversa sobre como demonstramos segurança seria importante ter agora?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0117",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Nosso olhar sobre como demonstramos segurança",
+    "pergunta": "O que em como demonstramos segurança te faz confiar mais em nós?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0118",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "O que nos une: como demonstramos segurança",
+    "pergunta": "Como você gostaria que eu reagisse em como demonstramos segurança?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0119",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Sobre como demonstramos segurança",
+    "pergunta": "O que pode fragilizar como demonstramos segurança e como evitamos?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0120",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Quando falamos de como demonstramos segurança",
+    "pergunta": "Qual exemplo de como demonstramos segurança você gostaria de viver comigo?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "comunicacao",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "CONF-0121",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Tema: o que te faz se sentir protegido(a)",
+    "pergunta": "Quando falamos sobre o que te faz se sentir protegido(a), o que mais te passa segurança?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0122",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Entre nós: o que te faz se sentir protegido(a)",
+    "pergunta": "Como podemos cuidar melhor do que te faz se sentir protegido(a) entre nós?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0123",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Nosso olhar sobre o que te faz se sentir protegido(a)",
+    "pergunta": "O que você precisa de mim quando o assunto é o que te faz se sentir protegido(a)?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "fortalecer-confianca",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0124",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "O que nos une: o que te faz se sentir protegido(a)",
+    "pergunta": "Que atitude fortalece o que te faz se sentir protegido(a) no nosso relacionamento?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0125",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Sobre o que te faz se sentir protegido(a)",
+    "pergunta": "Quando pensamos no que te faz se sentir protegido(a), o que podemos ajustar?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "CONF-0126",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Quando falamos do que te faz se sentir protegido(a)",
+    "pergunta": "Qual conversa sobre o que te faz se sentir protegido(a) seria importante ter agora?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0127",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Tema: o que te faz se sentir protegido(a)",
+    "pergunta": "O que no que te faz se sentir protegido(a) te faz confiar mais em nós?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0128",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Entre nós: o que te faz se sentir protegido(a)",
+    "pergunta": "Como você gostaria que eu reagisse no que te faz se sentir protegido(a)?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0129",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Nosso olhar sobre o que te faz se sentir protegido(a)",
+    "pergunta": "O que pode fragilizar o que te faz se sentir protegido(a) e como evitamos?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0130",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "O que nos une: o que te faz se sentir protegido(a)",
+    "pergunta": "Qual exemplo do que te faz se sentir protegido(a) você gostaria de viver comigo?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "CONF-0131",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Sobre a confiança nas amizades",
+    "pergunta": "Quando falamos sobre a confiança nas amizades, o que mais te passa segurança?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0132",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Quando falamos da confiança nas amizades",
+    "pergunta": "Como podemos cuidar melhor da confiança nas amizades entre nós?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "comunicacao",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0133",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Tema: a confiança nas amizades",
+    "pergunta": "O que você precisa de mim quando o assunto é a confiança nas amizades?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0134",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Entre nós: a confiança nas amizades",
+    "pergunta": "Que atitude fortalece a confiança nas amizades no nosso relacionamento?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0135",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Nosso olhar sobre a confiança nas amizades",
+    "pergunta": "Quando pensamos na confiança nas amizades, o que podemos ajustar?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "fortalecer-confianca",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "CONF-0136",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "O que nos une: a confiança nas amizades",
+    "pergunta": "Qual conversa sobre a confiança nas amizades seria importante ter agora?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0137",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Sobre a confiança nas amizades",
+    "pergunta": "O que na confiança nas amizades te faz confiar mais em nós?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0138",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Quando falamos da confiança nas amizades",
+    "pergunta": "Como você gostaria que eu reagisse na confiança nas amizades?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0139",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Tema: a confiança nas amizades",
+    "pergunta": "O que pode fragilizar a confiança nas amizades e como evitamos?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0140",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Entre nós: a confiança nas amizades",
+    "pergunta": "Qual exemplo da confiança nas amizades você gostaria de viver comigo?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "CONF-0141",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Nosso olhar sobre as inseguranças que podemos acolher",
+    "pergunta": "Quando falamos sobre as inseguranças que podemos acolher, o que mais te passa segurança?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0142",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "O que nos une: as inseguranças que podemos acolher",
+    "pergunta": "Como podemos cuidar melhor das inseguranças que podemos acolher entre nós?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0143",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Sobre as inseguranças que podemos acolher",
+    "pergunta": "O que você precisa de mim quando o assunto é as inseguranças que podemos acolher?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0144",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Quando falamos das inseguranças que podemos acolher",
+    "pergunta": "Que atitude fortalece as inseguranças que podemos acolher no nosso relacionamento?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "comunicacao",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0145",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Tema: as inseguranças que podemos acolher",
+    "pergunta": "Quando pensamos nas inseguranças que podemos acolher, o que podemos ajustar?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "CONF-0146",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Entre nós: as inseguranças que podemos acolher",
+    "pergunta": "Qual conversa sobre as inseguranças que podemos acolher seria importante ter agora?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0147",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Nosso olhar sobre as inseguranças que podemos acolher",
+    "pergunta": "O que nas inseguranças que podemos acolher te faz confiar mais em nós?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "fortalecer-confianca",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0148",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "O que nos une: as inseguranças que podemos acolher",
+    "pergunta": "Como você gostaria que eu reagisse nas inseguranças que podemos acolher?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0149",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Sobre as inseguranças que podemos acolher",
+    "pergunta": "O que pode fragilizar as inseguranças que podemos acolher e como evitamos?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0150",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Quando falamos das inseguranças que podemos acolher",
+    "pergunta": "Qual exemplo das inseguranças que podemos acolher você gostaria de viver comigo?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "CONF-0151",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Tema: a importância de cumprir combinados",
+    "pergunta": "Quando falamos sobre a importância de cumprir combinados, o que mais te passa segurança?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0152",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Entre nós: a importância de cumprir combinados",
+    "pergunta": "Como podemos cuidar melhor da importância de cumprir combinados entre nós?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0153",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Nosso olhar sobre a importância de cumprir combinados",
+    "pergunta": "O que você precisa de mim quando o assunto é a importância de cumprir combinados?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0154",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "O que nos une: a importância de cumprir combinados",
+    "pergunta": "Que atitude fortalece a importância de cumprir combinados no nosso relacionamento?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0155",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Sobre a importância de cumprir combinados",
+    "pergunta": "Quando pensamos na importância de cumprir combinados, o que podemos ajustar?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "CONF-0156",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Quando falamos da importância de cumprir combinados",
+    "pergunta": "Qual conversa sobre a importância de cumprir combinados seria importante ter agora?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "comunicacao",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0157",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Tema: a importância de cumprir combinados",
+    "pergunta": "O que na importância de cumprir combinados te faz confiar mais em nós?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "comunicacao",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0158",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Entre nós: a importância de cumprir combinados",
+    "pergunta": "Como você gostaria que eu reagisse na importância de cumprir combinados?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0159",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Nosso olhar sobre a importância de cumprir combinados",
+    "pergunta": "O que pode fragilizar a importância de cumprir combinados e como evitamos?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "fortalecer-confianca",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0160",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "O que nos une: a importância de cumprir combinados",
+    "pergunta": "Qual exemplo da importância de cumprir combinados você gostaria de viver comigo?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "CONF-0161",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Sobre como reforçamos a parceria",
+    "pergunta": "Quando falamos sobre como reforçamos a parceria, o que mais te passa segurança?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0162",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Quando falamos de como reforçamos a parceria",
+    "pergunta": "Como podemos cuidar melhor de como reforçamos a parceria entre nós?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0163",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Tema: como reforçamos a parceria",
+    "pergunta": "O que você precisa de mim quando o assunto é como reforçamos a parceria?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0164",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Entre nós: como reforçamos a parceria",
+    "pergunta": "Que atitude fortalece como reforçamos a parceria no nosso relacionamento?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0165",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Nosso olhar sobre como reforçamos a parceria",
+    "pergunta": "Quando pensamos em como reforçamos a parceria, o que podemos ajustar?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "CONF-0166",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "O que nos une: como reforçamos a parceria",
+    "pergunta": "Qual conversa sobre como reforçamos a parceria seria importante ter agora?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0167",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Sobre como reforçamos a parceria",
+    "pergunta": "O que em como reforçamos a parceria te faz confiar mais em nós?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0168",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Quando falamos de como reforçamos a parceria",
+    "pergunta": "Como você gostaria que eu reagisse em como reforçamos a parceria?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "comunicacao",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0169",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Tema: como reforçamos a parceria",
+    "pergunta": "O que pode fragilizar como reforçamos a parceria e como evitamos?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0170",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Entre nós: como reforçamos a parceria",
+    "pergunta": "Qual exemplo de como reforçamos a parceria você gostaria de viver comigo?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "CONF-0171",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Nosso olhar sobre o espaço para discordar com respeito",
+    "pergunta": "Quando falamos sobre o espaço para discordar com respeito, o que mais te passa segurança?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "fortalecer-confianca",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0172",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "O que nos une: o espaço para discordar com respeito",
+    "pergunta": "Como podemos cuidar melhor do espaço para discordar com respeito entre nós?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0173",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Sobre o espaço para discordar com respeito",
+    "pergunta": "O que você precisa de mim quando o assunto é o espaço para discordar com respeito?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0174",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Quando falamos do espaço para discordar com respeito",
+    "pergunta": "Que atitude fortalece o espaço para discordar com respeito no nosso relacionamento?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0175",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Tema: o espaço para discordar com respeito",
+    "pergunta": "Quando pensamos no espaço para discordar com respeito, o que podemos ajustar?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "CONF-0176",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Entre nós: o espaço para discordar com respeito",
+    "pergunta": "Qual conversa sobre o espaço para discordar com respeito seria importante ter agora?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0177",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Nosso olhar sobre o espaço para discordar com respeito",
+    "pergunta": "O que no espaço para discordar com respeito te faz confiar mais em nós?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0178",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "O que nos une: o espaço para discordar com respeito",
+    "pergunta": "Como você gostaria que eu reagisse no espaço para discordar com respeito?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0179",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Sobre o espaço para discordar com respeito",
+    "pergunta": "O que pode fragilizar o espaço para discordar com respeito e como evitamos?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0180",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Quando falamos do espaço para discordar com respeito",
+    "pergunta": "Qual exemplo do espaço para discordar com respeito você gostaria de viver comigo?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "comunicacao",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "CONF-0181",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Tema: o cuidado com palavras sensíveis",
+    "pergunta": "Quando falamos sobre o cuidado com palavras sensíveis, o que mais te passa segurança?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0182",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Entre nós: o cuidado com palavras sensíveis",
+    "pergunta": "Como podemos cuidar melhor do cuidado com palavras sensíveis entre nós?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0183",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Nosso olhar sobre o cuidado com palavras sensíveis",
+    "pergunta": "O que você precisa de mim quando o assunto é o cuidado com palavras sensíveis?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "fortalecer-confianca",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0184",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "O que nos une: o cuidado com palavras sensíveis",
+    "pergunta": "Que atitude fortalece o cuidado com palavras sensíveis no nosso relacionamento?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0185",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Sobre o cuidado com palavras sensíveis",
+    "pergunta": "Quando pensamos no cuidado com palavras sensíveis, o que podemos ajustar?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "CONF-0186",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Quando falamos do cuidado com palavras sensíveis",
+    "pergunta": "Qual conversa sobre o cuidado com palavras sensíveis seria importante ter agora?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0187",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Tema: o cuidado com palavras sensíveis",
+    "pergunta": "O que no cuidado com palavras sensíveis te faz confiar mais em nós?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0188",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Entre nós: o cuidado com palavras sensíveis",
+    "pergunta": "Como você gostaria que eu reagisse no cuidado com palavras sensíveis?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0189",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Nosso olhar sobre o cuidado com palavras sensíveis",
+    "pergunta": "O que pode fragilizar o cuidado com palavras sensíveis e como evitamos?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0190",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "O que nos une: o cuidado com palavras sensíveis",
+    "pergunta": "Qual exemplo do cuidado com palavras sensíveis você gostaria de viver comigo?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "CONF-0191",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Sobre a honestidade quando estamos cansados",
+    "pergunta": "Quando falamos sobre a honestidade quando estamos cansados, o que mais te passa segurança?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0192",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Quando falamos da honestidade quando estamos cansados",
+    "pergunta": "Como podemos cuidar melhor da honestidade quando estamos cansados entre nós?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "comunicacao",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0193",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Tema: a honestidade quando estamos cansados",
+    "pergunta": "O que você precisa de mim quando o assunto é a honestidade quando estamos cansados?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0194",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Entre nós: a honestidade quando estamos cansados",
+    "pergunta": "Que atitude fortalece a honestidade quando estamos cansados no nosso relacionamento?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0195",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Nosso olhar sobre a honestidade quando estamos cansados",
+    "pergunta": "Quando pensamos na honestidade quando estamos cansados, o que podemos ajustar?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "fortalecer-confianca",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "CONF-0196",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "O que nos une: a honestidade quando estamos cansados",
+    "pergunta": "Qual conversa sobre a honestidade quando estamos cansados seria importante ter agora?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0197",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Sobre a honestidade quando estamos cansados",
+    "pergunta": "O que na honestidade quando estamos cansados te faz confiar mais em nós?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0198",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Quando falamos da honestidade quando estamos cansados",
+    "pergunta": "Como você gostaria que eu reagisse na honestidade quando estamos cansados?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0199",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Tema: a honestidade quando estamos cansados",
+    "pergunta": "O que pode fragilizar a honestidade quando estamos cansados e como evitamos?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CONF-0200",
+    "categoria_principal": "Confiança",
+    "titulo_curto": "Entre nós: a honestidade quando estamos cansados",
+    "pergunta": "Qual exemplo da honestidade quando estamos cansados você gostaria de viver comigo?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  }
+]

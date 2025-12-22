@@ -1,0 +1,4924 @@
+[
+  {
+    "id": "VP-0001",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Entre jantar em casa e sair para comer",
+    "pergunta": "Você prefere jantar em casa ou sair para comer?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0002",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Você prefere",
+    "pergunta": "O que combina mais com a gente: jantar em casa ou sair para comer?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0003",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Escolha do dia",
+    "pergunta": "Entre jantar em casa e sair para comer, qual te deixa mais animado(a)?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0004",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Preferência rápida",
+    "pergunta": "Se tivéssemos que escolher agora, jantar em casa ou sair para comer?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0005",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Duelo de opções",
+    "pergunta": "Você prefere uma viagem curta no fim de semana ou uma viagem mais longa nas férias?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0006",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Entre uma viagem curta no fim de semana e uma viagem mais longa nas férias",
+    "pergunta": "O que combina mais com a gente: uma viagem curta no fim de semana ou uma viagem mais longa nas férias?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0007",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Você prefere",
+    "pergunta": "Entre uma viagem curta no fim de semana e uma viagem mais longa nas férias, qual te deixa mais animado(a)?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0008",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Escolha do dia",
+    "pergunta": "Se tivéssemos que escolher agora, uma viagem curta no fim de semana ou uma viagem mais longa nas férias?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0009",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Preferência rápida",
+    "pergunta": "Você prefere filme em casa ou cinema no shopping?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0010",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Duelo de opções",
+    "pergunta": "O que combina mais com a gente: filme em casa ou cinema no shopping?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Desafios"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0011",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Entre filme em casa e cinema no shopping",
+    "pergunta": "Entre filme em casa e cinema no shopping, qual te deixa mais animado(a)?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0012",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Você prefere",
+    "pergunta": "Se tivéssemos que escolher agora, filme em casa ou cinema no shopping?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0013",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Escolha do dia",
+    "pergunta": "Você prefere praia tranquila ou montanha com trilha leve?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0014",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Preferência rápida",
+    "pergunta": "O que combina mais com a gente: praia tranquila ou montanha com trilha leve?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0015",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Duelo de opções",
+    "pergunta": "Entre praia tranquila e montanha com trilha leve, qual te deixa mais animado(a)?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0016",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Entre praia tranquila e montanha com trilha leve",
+    "pergunta": "Se tivéssemos que escolher agora, praia tranquila ou montanha com trilha leve?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0017",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Você prefere",
+    "pergunta": "Você prefere acordar cedo juntos ou dormir um pouco mais?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0018",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Escolha do dia",
+    "pergunta": "O que combina mais com a gente: acordar cedo juntos ou dormir um pouco mais?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0019",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Preferência rápida",
+    "pergunta": "Entre acordar cedo juntos e dormir um pouco mais, qual te deixa mais animado(a)?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0020",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Duelo de opções",
+    "pergunta": "Se tivéssemos que escolher agora, acordar cedo juntos ou dormir um pouco mais?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0021",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Entre surpresa planejada e surpresa espontânea",
+    "pergunta": "Você prefere surpresa planejada ou surpresa espontânea?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0022",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Você prefere",
+    "pergunta": "O que combina mais com a gente: surpresa planejada ou surpresa espontânea?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0023",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Escolha do dia",
+    "pergunta": "Entre surpresa planejada e surpresa espontânea, qual te deixa mais animado(a)?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0024",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Preferência rápida",
+    "pergunta": "Se tivéssemos que escolher agora, surpresa planejada ou surpresa espontânea?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0025",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Duelo de opções",
+    "pergunta": "Você prefere conversar por horas ou ficar em silêncio abraçados?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0026",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Entre conversar por horas e ficar em silêncio abraçados",
+    "pergunta": "O que combina mais com a gente: conversar por horas ou ficar em silêncio abraçados?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0027",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Você prefere",
+    "pergunta": "Entre conversar por horas e ficar em silêncio abraçados, qual te deixa mais animado(a)?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0028",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Escolha do dia",
+    "pergunta": "Se tivéssemos que escolher agora, conversar por horas ou ficar em silêncio abraçados?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0029",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Preferência rápida",
+    "pergunta": "Você prefere um passeio a pé ou um passeio de carro sem destino?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0030",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Duelo de opções",
+    "pergunta": "O que combina mais com a gente: um passeio a pé ou um passeio de carro sem destino?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Desafios"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0031",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Entre um passeio a pé e um passeio de carro sem destino",
+    "pergunta": "Entre um passeio a pé e um passeio de carro sem destino, qual te deixa mais animado(a)?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0032",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Você prefere",
+    "pergunta": "Se tivéssemos que escolher agora, um passeio a pé ou um passeio de carro sem destino?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0033",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Escolha do dia",
+    "pergunta": "Você prefere cozinhar juntos ou pedir algo pronto e relaxar?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0034",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Preferência rápida",
+    "pergunta": "O que combina mais com a gente: cozinhar juntos ou pedir algo pronto e relaxar?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0035",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Duelo de opções",
+    "pergunta": "Entre cozinhar juntos e pedir algo pronto e relaxar, qual te deixa mais animado(a)?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0036",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Entre cozinhar juntos e pedir algo pronto e relaxar",
+    "pergunta": "Se tivéssemos que escolher agora, cozinhar juntos ou pedir algo pronto e relaxar?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0037",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Você prefere",
+    "pergunta": "Você prefere um presente simples ou uma carta feita à mão?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0038",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Escolha do dia",
+    "pergunta": "O que combina mais com a gente: um presente simples ou uma carta feita à mão?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0039",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Preferência rápida",
+    "pergunta": "Entre um presente simples e uma carta feita à mão, qual te deixa mais animado(a)?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0040",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Duelo de opções",
+    "pergunta": "Se tivéssemos que escolher agora, um presente simples ou uma carta feita à mão?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0041",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Entre dançar na sala e ouvir música deitados",
+    "pergunta": "Você prefere dançar na sala ou ouvir música deitados?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0042",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Você prefere",
+    "pergunta": "O que combina mais com a gente: dançar na sala ou ouvir música deitados?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0043",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Escolha do dia",
+    "pergunta": "Entre dançar na sala e ouvir música deitados, qual te deixa mais animado(a)?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0044",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Preferência rápida",
+    "pergunta": "Se tivéssemos que escolher agora, dançar na sala ou ouvir música deitados?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0045",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Duelo de opções",
+    "pergunta": "Você prefere tirar fotos ou guardar o momento só para nós?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0046",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Entre tirar fotos e guardar o momento só para nós",
+    "pergunta": "O que combina mais com a gente: tirar fotos ou guardar o momento só para nós?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0047",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Você prefere",
+    "pergunta": "Entre tirar fotos e guardar o momento só para nós, qual te deixa mais animado(a)?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0048",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Escolha do dia",
+    "pergunta": "Se tivéssemos que escolher agora, tirar fotos ou guardar o momento só para nós?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0049",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Preferência rápida",
+    "pergunta": "Você prefere planejar tudo ou decidir na hora?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0050",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Duelo de opções",
+    "pergunta": "O que combina mais com a gente: planejar tudo ou decidir na hora?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Desafios"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0051",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Entre planejar tudo e decidir na hora",
+    "pergunta": "Entre planejar tudo e decidir na hora, qual te deixa mais animado(a)?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0052",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Você prefere",
+    "pergunta": "Se tivéssemos que escolher agora, planejar tudo ou decidir na hora?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0053",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Escolha do dia",
+    "pergunta": "Você prefere um café da manhã caprichado ou um jantar à luz de velas?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0054",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Preferência rápida",
+    "pergunta": "O que combina mais com a gente: um café da manhã caprichado ou um jantar à luz de velas?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0055",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Duelo de opções",
+    "pergunta": "Entre um café da manhã caprichado e um jantar à luz de velas, qual te deixa mais animado(a)?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0056",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Entre um café da manhã caprichado e um jantar à luz de velas",
+    "pergunta": "Se tivéssemos que escolher agora, um café da manhã caprichado ou um jantar à luz de velas?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0057",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Você prefere",
+    "pergunta": "Você prefere ficar em casa no sábado ou sair para conhecer um lugar novo?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0058",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Escolha do dia",
+    "pergunta": "O que combina mais com a gente: ficar em casa no sábado ou sair para conhecer um lugar novo?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0059",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Preferência rápida",
+    "pergunta": "Entre ficar em casa no sábado e sair para conhecer um lugar novo, qual te deixa mais animado(a)?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0060",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Duelo de opções",
+    "pergunta": "Se tivéssemos que escolher agora, ficar em casa no sábado ou sair para conhecer um lugar novo?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0061",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Entre assistir uma série e ler um livro juntos",
+    "pergunta": "Você prefere assistir uma série ou ler um livro juntos?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0062",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Você prefere",
+    "pergunta": "O que combina mais com a gente: assistir uma série ou ler um livro juntos?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0063",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Escolha do dia",
+    "pergunta": "Entre assistir uma série e ler um livro juntos, qual te deixa mais animado(a)?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0064",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Preferência rápida",
+    "pergunta": "Se tivéssemos que escolher agora, assistir uma série ou ler um livro juntos?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0065",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Duelo de opções",
+    "pergunta": "Você prefere um abraço demorado ou um beijo demorado?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0066",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Entre um abraço demorado e um beijo demorado",
+    "pergunta": "O que combina mais com a gente: um abraço demorado ou um beijo demorado?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0067",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Você prefere",
+    "pergunta": "Entre um abraço demorado e um beijo demorado, qual te deixa mais animado(a)?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0068",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Escolha do dia",
+    "pergunta": "Se tivéssemos que escolher agora, um abraço demorado ou um beijo demorado?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0069",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Preferência rápida",
+    "pergunta": "Você prefere viajar com pouco roteiro ou viajar com roteiro definido?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0070",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Duelo de opções",
+    "pergunta": "O que combina mais com a gente: viajar com pouco roteiro ou viajar com roteiro definido?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Desafios"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0071",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Entre viajar com pouco roteiro e viajar com roteiro definido",
+    "pergunta": "Entre viajar com pouco roteiro e viajar com roteiro definido, qual te deixa mais animado(a)?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0072",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Você prefere",
+    "pergunta": "Se tivéssemos que escolher agora, viajar com pouco roteiro ou viajar com roteiro definido?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0073",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Escolha do dia",
+    "pergunta": "Você prefere um passeio em parque ou um passeio em livraria?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0074",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Preferência rápida",
+    "pergunta": "O que combina mais com a gente: um passeio em parque ou um passeio em livraria?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0075",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Duelo de opções",
+    "pergunta": "Entre um passeio em parque e um passeio em livraria, qual te deixa mais animado(a)?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0076",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Entre um passeio em parque e um passeio em livraria",
+    "pergunta": "Se tivéssemos que escolher agora, um passeio em parque ou um passeio em livraria?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0077",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Você prefere",
+    "pergunta": "Você prefere conhecer um restaurante novo ou repetir o favorito?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0078",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Escolha do dia",
+    "pergunta": "O que combina mais com a gente: conhecer um restaurante novo ou repetir o favorito?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0079",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Preferência rápida",
+    "pergunta": "Entre conhecer um restaurante novo e repetir o favorito, qual te deixa mais animado(a)?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0080",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Duelo de opções",
+    "pergunta": "Se tivéssemos que escolher agora, conhecer um restaurante novo ou repetir o favorito?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0081",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Entre fazer exercícios juntos e relaxar no sofá",
+    "pergunta": "Você prefere fazer exercícios juntos ou relaxar no sofá?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0082",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Você prefere",
+    "pergunta": "O que combina mais com a gente: fazer exercícios juntos ou relaxar no sofá?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0083",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Escolha do dia",
+    "pergunta": "Entre fazer exercícios juntos e relaxar no sofá, qual te deixa mais animado(a)?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0084",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Preferência rápida",
+    "pergunta": "Se tivéssemos que escolher agora, fazer exercícios juntos ou relaxar no sofá?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0085",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Duelo de opções",
+    "pergunta": "Você prefere surpresa pequena durante a semana ou surpresa maior no fim de semana?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0086",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Entre surpresa pequena durante a semana e surpresa maior no fim de semana",
+    "pergunta": "O que combina mais com a gente: surpresa pequena durante a semana ou surpresa maior no fim de semana?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0087",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Você prefere",
+    "pergunta": "Entre surpresa pequena durante a semana e surpresa maior no fim de semana, qual te deixa mais animado(a)?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0088",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Escolha do dia",
+    "pergunta": "Se tivéssemos que escolher agora, surpresa pequena durante a semana ou surpresa maior no fim de semana?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0089",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Preferência rápida",
+    "pergunta": "Você prefere um encontro ao ar livre ou um encontro em casa?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0090",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Duelo de opções",
+    "pergunta": "O que combina mais com a gente: um encontro ao ar livre ou um encontro em casa?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Desafios"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0091",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Entre um encontro ao ar livre e um encontro em casa",
+    "pergunta": "Entre um encontro ao ar livre e um encontro em casa, qual te deixa mais animado(a)?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0092",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Você prefere",
+    "pergunta": "Se tivéssemos que escolher agora, um encontro ao ar livre ou um encontro em casa?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0093",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Escolha do dia",
+    "pergunta": "Você prefere comer algo doce ou comer algo salgado?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0094",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Preferência rápida",
+    "pergunta": "O que combina mais com a gente: comer algo doce ou comer algo salgado?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0095",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Duelo de opções",
+    "pergunta": "Entre comer algo doce e comer algo salgado, qual te deixa mais animado(a)?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0096",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Entre comer algo doce e comer algo salgado",
+    "pergunta": "Se tivéssemos que escolher agora, comer algo doce ou comer algo salgado?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0097",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Você prefere",
+    "pergunta": "Você prefere um convite para amigos ou um momento só nós dois?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0098",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Escolha do dia",
+    "pergunta": "O que combina mais com a gente: um convite para amigos ou um momento só nós dois?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0099",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Preferência rápida",
+    "pergunta": "Entre um convite para amigos e um momento só nós dois, qual te deixa mais animado(a)?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0100",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Duelo de opções",
+    "pergunta": "Se tivéssemos que escolher agora, um convite para amigos ou um momento só nós dois?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0101",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Entre falarmos sobre sonhos e falarmos sobre rotina",
+    "pergunta": "Você prefere falarmos sobre sonhos ou falarmos sobre rotina?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0102",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Você prefere",
+    "pergunta": "O que combina mais com a gente: falarmos sobre sonhos ou falarmos sobre rotina?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0103",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Escolha do dia",
+    "pergunta": "Entre falarmos sobre sonhos e falarmos sobre rotina, qual te deixa mais animado(a)?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0104",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Preferência rápida",
+    "pergunta": "Se tivéssemos que escolher agora, falarmos sobre sonhos ou falarmos sobre rotina?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0105",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Duelo de opções",
+    "pergunta": "Você prefere um dia sem redes sociais ou compartilhar algo nas redes?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0106",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Entre um dia sem redes sociais e compartilhar algo nas redes",
+    "pergunta": "O que combina mais com a gente: um dia sem redes sociais ou compartilhar algo nas redes?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0107",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Você prefere",
+    "pergunta": "Entre um dia sem redes sociais e compartilhar algo nas redes, qual te deixa mais animado(a)?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0108",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Escolha do dia",
+    "pergunta": "Se tivéssemos que escolher agora, um dia sem redes sociais ou compartilhar algo nas redes?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0109",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Preferência rápida",
+    "pergunta": "Você prefere comprar algo útil ou comprar algo divertido?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0110",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Duelo de opções",
+    "pergunta": "O que combina mais com a gente: comprar algo útil ou comprar algo divertido?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Desafios"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0111",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Entre comprar algo útil e comprar algo divertido",
+    "pergunta": "Entre comprar algo útil e comprar algo divertido, qual te deixa mais animado(a)?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0112",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Você prefere",
+    "pergunta": "Se tivéssemos que escolher agora, comprar algo útil ou comprar algo divertido?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0113",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Escolha do dia",
+    "pergunta": "Você prefere um passeio cultural ou um passeio aventureiro?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0114",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Preferência rápida",
+    "pergunta": "O que combina mais com a gente: um passeio cultural ou um passeio aventureiro?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0115",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Duelo de opções",
+    "pergunta": "Entre um passeio cultural e um passeio aventureiro, qual te deixa mais animado(a)?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0116",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Entre um passeio cultural e um passeio aventureiro",
+    "pergunta": "Se tivéssemos que escolher agora, um passeio cultural ou um passeio aventureiro?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0117",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Você prefere",
+    "pergunta": "Você prefere assistir algo engraçado ou assistir algo romântico?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0118",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Escolha do dia",
+    "pergunta": "O que combina mais com a gente: assistir algo engraçado ou assistir algo romântico?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0119",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Preferência rápida",
+    "pergunta": "Entre assistir algo engraçado e assistir algo romântico, qual te deixa mais animado(a)?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0120",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Duelo de opções",
+    "pergunta": "Se tivéssemos que escolher agora, assistir algo engraçado ou assistir algo romântico?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0121",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Entre organizar a casa juntos e deixar para outro dia",
+    "pergunta": "Você prefere organizar a casa juntos ou deixar para outro dia?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0122",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Você prefere",
+    "pergunta": "O que combina mais com a gente: organizar a casa juntos ou deixar para outro dia?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0123",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Escolha do dia",
+    "pergunta": "Entre organizar a casa juntos e deixar para outro dia, qual te deixa mais animado(a)?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0124",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Preferência rápida",
+    "pergunta": "Se tivéssemos que escolher agora, organizar a casa juntos ou deixar para outro dia?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0125",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Duelo de opções",
+    "pergunta": "Você prefere fazer um piquenique ou fazer um café especial em casa?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0126",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Entre fazer um piquenique e fazer um café especial em casa",
+    "pergunta": "O que combina mais com a gente: fazer um piquenique ou fazer um café especial em casa?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0127",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Você prefere",
+    "pergunta": "Entre fazer um piquenique e fazer um café especial em casa, qual te deixa mais animado(a)?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0128",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Escolha do dia",
+    "pergunta": "Se tivéssemos que escolher agora, fazer um piquenique ou fazer um café especial em casa?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0129",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Preferência rápida",
+    "pergunta": "Você prefere experimentar uma receita nova ou aperfeiçoar uma receita que já gostamos?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0130",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Duelo de opções",
+    "pergunta": "O que combina mais com a gente: experimentar uma receita nova ou aperfeiçoar uma receita que já gostamos?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Desafios"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0131",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Entre experimentar uma receita nova e aperfeiçoar uma receita que já gostamos",
+    "pergunta": "Entre experimentar uma receita nova e aperfeiçoar uma receita que já gostamos, qual te deixa mais animado(a)?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0132",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Você prefere",
+    "pergunta": "Se tivéssemos que escolher agora, experimentar uma receita nova ou aperfeiçoar uma receita que já gostamos?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0133",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Escolha do dia",
+    "pergunta": "Você prefere um jogo de tabuleiro ou um jogo de cartas?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0134",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Preferência rápida",
+    "pergunta": "O que combina mais com a gente: um jogo de tabuleiro ou um jogo de cartas?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0135",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Duelo de opções",
+    "pergunta": "Entre um jogo de tabuleiro e um jogo de cartas, qual te deixa mais animado(a)?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0136",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Entre um jogo de tabuleiro e um jogo de cartas",
+    "pergunta": "Se tivéssemos que escolher agora, um jogo de tabuleiro ou um jogo de cartas?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0137",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Você prefere",
+    "pergunta": "Você prefere uma conversa séria agora ou marcar uma conversa para depois?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0138",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Escolha do dia",
+    "pergunta": "O que combina mais com a gente: uma conversa séria agora ou marcar uma conversa para depois?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0139",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Preferência rápida",
+    "pergunta": "Entre uma conversa séria agora e marcar uma conversa para depois, qual te deixa mais animado(a)?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0140",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Duelo de opções",
+    "pergunta": "Se tivéssemos que escolher agora, uma conversa séria agora ou marcar uma conversa para depois?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0141",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Entre um passeio durante o dia e um passeio à noite",
+    "pergunta": "Você prefere um passeio durante o dia ou um passeio à noite?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0142",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Você prefere",
+    "pergunta": "O que combina mais com a gente: um passeio durante o dia ou um passeio à noite?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0143",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Escolha do dia",
+    "pergunta": "Entre um passeio durante o dia e um passeio à noite, qual te deixa mais animado(a)?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0144",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Preferência rápida",
+    "pergunta": "Se tivéssemos que escolher agora, um passeio durante o dia ou um passeio à noite?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0145",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Duelo de opções",
+    "pergunta": "Você prefere ficar perto da natureza ou ficar no centro da cidade?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0146",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Entre ficar perto da natureza e ficar no centro da cidade",
+    "pergunta": "O que combina mais com a gente: ficar perto da natureza ou ficar no centro da cidade?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0147",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Você prefere",
+    "pergunta": "Entre ficar perto da natureza e ficar no centro da cidade, qual te deixa mais animado(a)?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0148",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Escolha do dia",
+    "pergunta": "Se tivéssemos que escolher agora, ficar perto da natureza ou ficar no centro da cidade?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0149",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Preferência rápida",
+    "pergunta": "Você prefere um evento pequeno ou um evento maior?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0150",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Duelo de opções",
+    "pergunta": "O que combina mais com a gente: um evento pequeno ou um evento maior?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Desafios"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0151",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Entre um evento pequeno e um evento maior",
+    "pergunta": "Entre um evento pequeno e um evento maior, qual te deixa mais animado(a)?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0152",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Você prefere",
+    "pergunta": "Se tivéssemos que escolher agora, um evento pequeno ou um evento maior?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0153",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Escolha do dia",
+    "pergunta": "Você prefere planejar o próximo mês ou planejar o próximo ano?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0154",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Preferência rápida",
+    "pergunta": "O que combina mais com a gente: planejar o próximo mês ou planejar o próximo ano?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0155",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Duelo de opções",
+    "pergunta": "Entre planejar o próximo mês e planejar o próximo ano, qual te deixa mais animado(a)?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0156",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Entre planejar o próximo mês e planejar o próximo ano",
+    "pergunta": "Se tivéssemos que escolher agora, planejar o próximo mês ou planejar o próximo ano?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0157",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Você prefere",
+    "pergunta": "Você prefere um carinho mais discreto ou um carinho mais evidente?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0158",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Escolha do dia",
+    "pergunta": "O que combina mais com a gente: um carinho mais discreto ou um carinho mais evidente?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0159",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Preferência rápida",
+    "pergunta": "Entre um carinho mais discreto e um carinho mais evidente, qual te deixa mais animado(a)?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0160",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Duelo de opções",
+    "pergunta": "Se tivéssemos que escolher agora, um carinho mais discreto ou um carinho mais evidente?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0161",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Entre uma viagem surpresa e um presente surpresa",
+    "pergunta": "Você prefere uma viagem surpresa ou um presente surpresa?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0162",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Você prefere",
+    "pergunta": "O que combina mais com a gente: uma viagem surpresa ou um presente surpresa?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0163",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Escolha do dia",
+    "pergunta": "Entre uma viagem surpresa e um presente surpresa, qual te deixa mais animado(a)?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0164",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Preferência rápida",
+    "pergunta": "Se tivéssemos que escolher agora, uma viagem surpresa ou um presente surpresa?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0165",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Duelo de opções",
+    "pergunta": "Você prefere um dia de descanso ou um dia de novidades?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0166",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Entre um dia de descanso e um dia de novidades",
+    "pergunta": "O que combina mais com a gente: um dia de descanso ou um dia de novidades?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0167",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Você prefere",
+    "pergunta": "Entre um dia de descanso e um dia de novidades, qual te deixa mais animado(a)?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0168",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Escolha do dia",
+    "pergunta": "Se tivéssemos que escolher agora, um dia de descanso ou um dia de novidades?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0169",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Preferência rápida",
+    "pergunta": "Você prefere um beijo na testa ou um beijo no pescoço?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0170",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Duelo de opções",
+    "pergunta": "O que combina mais com a gente: um beijo na testa ou um beijo no pescoço?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Desafios"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0171",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Entre um beijo na testa e um beijo no pescoço",
+    "pergunta": "Entre um beijo na testa e um beijo no pescoço, qual te deixa mais animado(a)?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0172",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Você prefere",
+    "pergunta": "Se tivéssemos que escolher agora, um beijo na testa ou um beijo no pescoço?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0173",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Escolha do dia",
+    "pergunta": "Você prefere um elogio sobre aparência ou um elogio sobre atitudes?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0174",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Preferência rápida",
+    "pergunta": "O que combina mais com a gente: um elogio sobre aparência ou um elogio sobre atitudes?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0175",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Duelo de opções",
+    "pergunta": "Entre um elogio sobre aparência e um elogio sobre atitudes, qual te deixa mais animado(a)?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0176",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Entre um elogio sobre aparência e um elogio sobre atitudes",
+    "pergunta": "Se tivéssemos que escolher agora, um elogio sobre aparência ou um elogio sobre atitudes?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0177",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Você prefere",
+    "pergunta": "Você prefere uma conversa sobre passado ou uma conversa sobre futuro?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0178",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Escolha do dia",
+    "pergunta": "O que combina mais com a gente: uma conversa sobre passado ou uma conversa sobre futuro?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0179",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Preferência rápida",
+    "pergunta": "Entre uma conversa sobre passado e uma conversa sobre futuro, qual te deixa mais animado(a)?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0180",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Duelo de opções",
+    "pergunta": "Se tivéssemos que escolher agora, uma conversa sobre passado ou uma conversa sobre futuro?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0181",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Entre um momento de aventura e um momento de conforto",
+    "pergunta": "Você prefere um momento de aventura ou um momento de conforto?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0182",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Você prefere",
+    "pergunta": "O que combina mais com a gente: um momento de aventura ou um momento de conforto?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0183",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Escolha do dia",
+    "pergunta": "Entre um momento de aventura e um momento de conforto, qual te deixa mais animado(a)?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0184",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Preferência rápida",
+    "pergunta": "Se tivéssemos que escolher agora, um momento de aventura ou um momento de conforto?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0185",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Duelo de opções",
+    "pergunta": "Você prefere fazer algo criativo ou fazer algo prático?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0186",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Entre fazer algo criativo e fazer algo prático",
+    "pergunta": "O que combina mais com a gente: fazer algo criativo ou fazer algo prático?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0187",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Você prefere",
+    "pergunta": "Entre fazer algo criativo e fazer algo prático, qual te deixa mais animado(a)?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0188",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Escolha do dia",
+    "pergunta": "Se tivéssemos que escolher agora, fazer algo criativo ou fazer algo prático?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0189",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Preferência rápida",
+    "pergunta": "Você prefere um passeio com a família ou um passeio a dois?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0190",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Duelo de opções",
+    "pergunta": "O que combina mais com a gente: um passeio com a família ou um passeio a dois?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Desafios"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0191",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Entre um passeio com a família e um passeio a dois",
+    "pergunta": "Entre um passeio com a família e um passeio a dois, qual te deixa mais animado(a)?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0192",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Você prefere",
+    "pergunta": "Se tivéssemos que escolher agora, um passeio com a família ou um passeio a dois?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0193",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Escolha do dia",
+    "pergunta": "Você prefere cozinhar algo doce juntos ou cozinhar algo salgado juntos?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0194",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Preferência rápida",
+    "pergunta": "O que combina mais com a gente: cozinhar algo doce juntos ou cozinhar algo salgado juntos?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0195",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Duelo de opções",
+    "pergunta": "Entre cozinhar algo doce juntos e cozinhar algo salgado juntos, qual te deixa mais animado(a)?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0196",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Entre cozinhar algo doce juntos e cozinhar algo salgado juntos",
+    "pergunta": "Se tivéssemos que escolher agora, cozinhar algo doce juntos ou cozinhar algo salgado juntos?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0197",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Você prefere",
+    "pergunta": "Você prefere um abraço forte ou um abraço suave?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0198",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Escolha do dia",
+    "pergunta": "O que combina mais com a gente: um abraço forte ou um abraço suave?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0199",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Preferência rápida",
+    "pergunta": "Entre um abraço forte e um abraço suave, qual te deixa mais animado(a)?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Desafios"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "VP-0200",
+    "categoria_principal": "Você Prefere",
+    "titulo_curto": "Duelo de opções",
+    "pergunta": "Se tivéssemos que escolher agora, um abraço forte ou um abraço suave?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  }
+]

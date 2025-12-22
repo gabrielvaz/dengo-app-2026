@@ -1,0 +1,4990 @@
+[
+  {
+    "id": "LED-0001",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Tema: nossos apelidos carinhosos",
+    "pergunta": "Qual parte de nossos apelidos carinhosos mais te diverte na gente?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0002",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Entre nós: nossos apelidos carinhosos",
+    "pergunta": "Se a gente pudesse exagerar em nossos apelidos carinhosos, como seria?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0003",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Nosso olhar sobre nossos apelidos carinhosos",
+    "pergunta": "O que você toparia fazer hoje envolvendo nossos apelidos carinhosos?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0004",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "O que nos une: nossos apelidos carinhosos",
+    "pergunta": "Qual lembrança engraçada sobre nossos apelidos carinhosos você guarda?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Desafios",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0005",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Sobre nossos apelidos carinhosos",
+    "pergunta": "Em nossos apelidos carinhosos, qual é a nossa marca registrada?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0006",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Quando falamos de nossos apelidos carinhosos",
+    "pergunta": "O que em nossos apelidos carinhosos sempre melhora o seu humor?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0007",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Tema: nossos apelidos carinhosos",
+    "pergunta": "Como a gente pode brincar mais com nossos apelidos carinhosos?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0008",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Entre nós: nossos apelidos carinhosos",
+    "pergunta": "Qual seria a versão perfeita de nossos apelidos carinhosos para nós?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Desafios",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0009",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Nosso olhar sobre nossos apelidos carinhosos",
+    "pergunta": "O que você gostaria de repetir em nossos apelidos carinhosos?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conhecer-melhor",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0010",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "O que nos une: nossos apelidos carinhosos",
+    "pergunta": "Qual momento de nossos apelidos carinhosos você quer criar essa semana?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0011",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Sobre brincadeiras internas",
+    "pergunta": "Qual parte de brincadeiras internas mais te diverte na gente?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0012",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Quando falamos de brincadeiras internas",
+    "pergunta": "Se a gente pudesse exagerar em brincadeiras internas, como seria?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "sair-da-rotina",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Desafios",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0013",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Tema: brincadeiras internas",
+    "pergunta": "O que você toparia fazer hoje envolvendo brincadeiras internas?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0014",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Entre nós: brincadeiras internas",
+    "pergunta": "Qual lembrança engraçada sobre brincadeiras internas você guarda?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0015",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Nosso olhar sobre brincadeiras internas",
+    "pergunta": "Em brincadeiras internas, qual é a nossa marca registrada?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0016",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "O que nos une: brincadeiras internas",
+    "pergunta": "O que em brincadeiras internas sempre melhora o seu humor?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Desafios",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0017",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Sobre brincadeiras internas",
+    "pergunta": "Como a gente pode brincar mais com brincadeiras internas?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0018",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Quando falamos de brincadeiras internas",
+    "pergunta": "Qual seria a versão perfeita de brincadeiras internas para nós?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0019",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Tema: brincadeiras internas",
+    "pergunta": "O que você gostaria de repetir em brincadeiras internas?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0020",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Entre nós: brincadeiras internas",
+    "pergunta": "Qual momento de brincadeiras internas você quer criar essa semana?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Desafios",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0021",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Nosso olhar sobre músicas que viram trilha do casal",
+    "pergunta": "Qual parte de músicas que viram trilha do casal mais te diverte na gente?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conhecer-melhor",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0022",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "O que nos une: músicas que viram trilha do casal",
+    "pergunta": "Se a gente pudesse exagerar em músicas que viram trilha do casal, como seria?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0023",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Sobre músicas que viram trilha do casal",
+    "pergunta": "O que você toparia fazer hoje envolvendo músicas que viram trilha do casal?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0024",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Quando falamos de músicas que viram trilha do casal",
+    "pergunta": "Qual lembrança engraçada sobre músicas que viram trilha do casal você guarda?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "sair-da-rotina",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Desafios",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0025",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Tema: músicas que viram trilha do casal",
+    "pergunta": "Em músicas que viram trilha do casal, qual é a nossa marca registrada?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0026",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Entre nós: músicas que viram trilha do casal",
+    "pergunta": "O que em músicas que viram trilha do casal sempre melhora o seu humor?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0027",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Nosso olhar sobre músicas que viram trilha do casal",
+    "pergunta": "Como a gente pode brincar mais com músicas que viram trilha do casal?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0028",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "O que nos une: músicas que viram trilha do casal",
+    "pergunta": "Qual seria a versão perfeita de músicas que viram trilha do casal para nós?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Desafios",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0029",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Sobre músicas que viram trilha do casal",
+    "pergunta": "O que você gostaria de repetir em músicas que viram trilha do casal?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0030",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Quando falamos de músicas que viram trilha do casal",
+    "pergunta": "Qual momento de músicas que viram trilha do casal você quer criar essa semana?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0031",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Tema: comidas favoritas",
+    "pergunta": "Qual parte de comidas favoritas mais te diverte na gente?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0032",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Entre nós: comidas favoritas",
+    "pergunta": "Se a gente pudesse exagerar em comidas favoritas, como seria?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Desafios",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0033",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Nosso olhar sobre comidas favoritas",
+    "pergunta": "O que você toparia fazer hoje envolvendo comidas favoritas?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conhecer-melhor",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0034",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "O que nos une: comidas favoritas",
+    "pergunta": "Qual lembrança engraçada sobre comidas favoritas você guarda?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0035",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Sobre comidas favoritas",
+    "pergunta": "Em comidas favoritas, qual é a nossa marca registrada?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0036",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Quando falamos de comidas favoritas",
+    "pergunta": "O que em comidas favoritas sempre melhora o seu humor?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "sair-da-rotina",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Desafios",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0037",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Tema: comidas favoritas",
+    "pergunta": "Como a gente pode brincar mais com comidas favoritas?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0038",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Entre nós: comidas favoritas",
+    "pergunta": "Qual seria a versão perfeita de comidas favoritas para nós?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0039",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Nosso olhar sobre comidas favoritas",
+    "pergunta": "O que você gostaria de repetir em comidas favoritas?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0040",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "O que nos une: comidas favoritas",
+    "pergunta": "Qual momento de comidas favoritas você quer criar essa semana?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Desafios",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0041",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Sobre séries que maratonamos",
+    "pergunta": "Qual parte de séries que maratonamos mais te diverte na gente?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0042",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Quando falamos de séries que maratonamos",
+    "pergunta": "Se a gente pudesse exagerar em séries que maratonamos, como seria?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0043",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Tema: séries que maratonamos",
+    "pergunta": "O que você toparia fazer hoje envolvendo séries que maratonamos?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0044",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Entre nós: séries que maratonamos",
+    "pergunta": "Qual lembrança engraçada sobre séries que maratonamos você guarda?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Desafios",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0045",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Nosso olhar sobre séries que maratonamos",
+    "pergunta": "Em séries que maratonamos, qual é a nossa marca registrada?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conhecer-melhor",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0046",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "O que nos une: séries que maratonamos",
+    "pergunta": "O que em séries que maratonamos sempre melhora o seu humor?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0047",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Sobre séries que maratonamos",
+    "pergunta": "Como a gente pode brincar mais com séries que maratonamos?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0048",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Quando falamos de séries que maratonamos",
+    "pergunta": "Qual seria a versão perfeita de séries que maratonamos para nós?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "sair-da-rotina",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Desafios",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0049",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Tema: séries que maratonamos",
+    "pergunta": "O que você gostaria de repetir em séries que maratonamos?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0050",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Entre nós: séries que maratonamos",
+    "pergunta": "Qual momento de séries que maratonamos você quer criar essa semana?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0051",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Nosso olhar sobre memes que nos fazem rir",
+    "pergunta": "Qual parte de memes que nos fazem rir mais te diverte na gente?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0052",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "O que nos une: memes que nos fazem rir",
+    "pergunta": "Se a gente pudesse exagerar em memes que nos fazem rir, como seria?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Desafios",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0053",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Sobre memes que nos fazem rir",
+    "pergunta": "O que você toparia fazer hoje envolvendo memes que nos fazem rir?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0054",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Quando falamos de memes que nos fazem rir",
+    "pergunta": "Qual lembrança engraçada sobre memes que nos fazem rir você guarda?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0055",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Tema: memes que nos fazem rir",
+    "pergunta": "Em memes que nos fazem rir, qual é a nossa marca registrada?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0056",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Entre nós: memes que nos fazem rir",
+    "pergunta": "O que em memes que nos fazem rir sempre melhora o seu humor?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Desafios",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0057",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Nosso olhar sobre memes que nos fazem rir",
+    "pergunta": "Como a gente pode brincar mais com memes que nos fazem rir?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conhecer-melhor",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0058",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "O que nos une: memes que nos fazem rir",
+    "pergunta": "Qual seria a versão perfeita de memes que nos fazem rir para nós?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0059",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Sobre memes que nos fazem rir",
+    "pergunta": "O que você gostaria de repetir em memes que nos fazem rir?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0060",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Quando falamos de memes que nos fazem rir",
+    "pergunta": "Qual momento de memes que nos fazem rir você quer criar essa semana?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "sair-da-rotina",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Desafios",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0061",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Tema: a dança mais engraçada que já fizemos",
+    "pergunta": "Qual parte da dança mais engraçada que já fizemos mais te diverte na gente?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0062",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Entre nós: a dança mais engraçada que já fizemos",
+    "pergunta": "Se a gente pudesse exagerar na dança mais engraçada que já fizemos, como seria?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0063",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Nosso olhar sobre a dança mais engraçada que já fizemos",
+    "pergunta": "O que você toparia fazer hoje envolvendo a dança mais engraçada que já fizemos?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0064",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "O que nos une: a dança mais engraçada que já fizemos",
+    "pergunta": "Qual lembrança engraçada sobre a dança mais engraçada que já fizemos você guarda?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Desafios",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0065",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Sobre a dança mais engraçada que já fizemos",
+    "pergunta": "Na dança mais engraçada que já fizemos, qual é a nossa marca registrada?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0066",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Quando falamos da dança mais engraçada que já fizemos",
+    "pergunta": "O que na dança mais engraçada que já fizemos sempre melhora o seu humor?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0067",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Tema: a dança mais engraçada que já fizemos",
+    "pergunta": "Como a gente pode brincar mais com a dança mais engraçada que já fizemos?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0068",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Entre nós: a dança mais engraçada que já fizemos",
+    "pergunta": "Qual seria a versão perfeita da dança mais engraçada que já fizemos para nós?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Desafios",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0069",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Nosso olhar sobre a dança mais engraçada que já fizemos",
+    "pergunta": "O que você gostaria de repetir na dança mais engraçada que já fizemos?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conhecer-melhor",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0070",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "O que nos une: a dança mais engraçada que já fizemos",
+    "pergunta": "Qual momento da dança mais engraçada que já fizemos você quer criar essa semana?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0071",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Sobre o passeio improvisado",
+    "pergunta": "Qual parte do passeio improvisado mais te diverte na gente?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0072",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Quando falamos do passeio improvisado",
+    "pergunta": "Se a gente pudesse exagerar no passeio improvisado, como seria?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "sair-da-rotina",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Desafios",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0073",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Tema: o passeio improvisado",
+    "pergunta": "O que você toparia fazer hoje envolvendo o passeio improvisado?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0074",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Entre nós: o passeio improvisado",
+    "pergunta": "Qual lembrança engraçada sobre o passeio improvisado você guarda?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0075",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Nosso olhar sobre o passeio improvisado",
+    "pergunta": "No passeio improvisado, qual é a nossa marca registrada?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0076",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "O que nos une: o passeio improvisado",
+    "pergunta": "O que no passeio improvisado sempre melhora o seu humor?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Desafios",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0077",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Sobre o passeio improvisado",
+    "pergunta": "Como a gente pode brincar mais com o passeio improvisado?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0078",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Quando falamos do passeio improvisado",
+    "pergunta": "Qual seria a versão perfeita do passeio improvisado para nós?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0079",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Tema: o passeio improvisado",
+    "pergunta": "O que você gostaria de repetir no passeio improvisado?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0080",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Entre nós: o passeio improvisado",
+    "pergunta": "Qual momento do passeio improvisado você quer criar essa semana?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Desafios",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0081",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Nosso olhar sobre nossa competição boba",
+    "pergunta": "Qual parte de nossa competição boba mais te diverte na gente?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conhecer-melhor",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0082",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "O que nos une: nossa competição boba",
+    "pergunta": "Se a gente pudesse exagerar em nossa competição boba, como seria?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0083",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Sobre nossa competição boba",
+    "pergunta": "O que você toparia fazer hoje envolvendo nossa competição boba?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0084",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Quando falamos de nossa competição boba",
+    "pergunta": "Qual lembrança engraçada sobre nossa competição boba você guarda?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "sair-da-rotina",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Desafios",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0085",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Tema: nossa competição boba",
+    "pergunta": "Em nossa competição boba, qual é a nossa marca registrada?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0086",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Entre nós: nossa competição boba",
+    "pergunta": "O que em nossa competição boba sempre melhora o seu humor?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0087",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Nosso olhar sobre nossa competição boba",
+    "pergunta": "Como a gente pode brincar mais com nossa competição boba?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0088",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "O que nos une: nossa competição boba",
+    "pergunta": "Qual seria a versão perfeita de nossa competição boba para nós?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Desafios",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0089",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Sobre nossa competição boba",
+    "pergunta": "O que você gostaria de repetir em nossa competição boba?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0090",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Quando falamos de nossa competição boba",
+    "pergunta": "Qual momento de nossa competição boba você quer criar essa semana?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0091",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Tema: um filme que sempre anima",
+    "pergunta": "Qual parte de um filme que sempre anima mais te diverte na gente?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0092",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Entre nós: um filme que sempre anima",
+    "pergunta": "Se a gente pudesse exagerar em um filme que sempre anima, como seria?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Desafios",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0093",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Nosso olhar sobre um filme que sempre anima",
+    "pergunta": "O que você toparia fazer hoje envolvendo um filme que sempre anima?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conhecer-melhor",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0094",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "O que nos une: um filme que sempre anima",
+    "pergunta": "Qual lembrança engraçada sobre um filme que sempre anima você guarda?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0095",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Sobre um filme que sempre anima",
+    "pergunta": "Em um filme que sempre anima, qual é a nossa marca registrada?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0096",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Quando falamos de um filme que sempre anima",
+    "pergunta": "O que em um filme que sempre anima sempre melhora o seu humor?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "sair-da-rotina",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Desafios",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0097",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Tema: um filme que sempre anima",
+    "pergunta": "Como a gente pode brincar mais com um filme que sempre anima?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0098",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Entre nós: um filme que sempre anima",
+    "pergunta": "Qual seria a versão perfeita de um filme que sempre anima para nós?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0099",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Nosso olhar sobre um filme que sempre anima",
+    "pergunta": "O que você gostaria de repetir em um filme que sempre anima?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0100",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "O que nos une: um filme que sempre anima",
+    "pergunta": "Qual momento de um filme que sempre anima você quer criar essa semana?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Desafios",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0101",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Sobre um jogo que deveríamos jogar juntos",
+    "pergunta": "Qual parte de um jogo que deveríamos jogar juntos mais te diverte na gente?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0102",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Quando falamos de um jogo que deveríamos jogar juntos",
+    "pergunta": "Se a gente pudesse exagerar em um jogo que deveríamos jogar juntos, como seria?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0103",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Tema: um jogo que deveríamos jogar juntos",
+    "pergunta": "O que você toparia fazer hoje envolvendo um jogo que deveríamos jogar juntos?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0104",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Entre nós: um jogo que deveríamos jogar juntos",
+    "pergunta": "Qual lembrança engraçada sobre um jogo que deveríamos jogar juntos você guarda?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Desafios",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0105",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Nosso olhar sobre um jogo que deveríamos jogar juntos",
+    "pergunta": "Em um jogo que deveríamos jogar juntos, qual é a nossa marca registrada?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conhecer-melhor",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0106",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "O que nos une: um jogo que deveríamos jogar juntos",
+    "pergunta": "O que em um jogo que deveríamos jogar juntos sempre melhora o seu humor?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0107",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Sobre um jogo que deveríamos jogar juntos",
+    "pergunta": "Como a gente pode brincar mais com um jogo que deveríamos jogar juntos?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0108",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Quando falamos de um jogo que deveríamos jogar juntos",
+    "pergunta": "Qual seria a versão perfeita de um jogo que deveríamos jogar juntos para nós?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "sair-da-rotina",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Desafios",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0109",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Tema: um jogo que deveríamos jogar juntos",
+    "pergunta": "O que você gostaria de repetir em um jogo que deveríamos jogar juntos?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0110",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Entre nós: um jogo que deveríamos jogar juntos",
+    "pergunta": "Qual momento de um jogo que deveríamos jogar juntos você quer criar essa semana?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0111",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Nosso olhar sobre a foto mais divertida",
+    "pergunta": "Qual parte da foto mais divertida mais te diverte na gente?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0112",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "O que nos une: a foto mais divertida",
+    "pergunta": "Se a gente pudesse exagerar na foto mais divertida, como seria?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Desafios",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0113",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Sobre a foto mais divertida",
+    "pergunta": "O que você toparia fazer hoje envolvendo a foto mais divertida?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0114",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Quando falamos da foto mais divertida",
+    "pergunta": "Qual lembrança engraçada sobre a foto mais divertida você guarda?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0115",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Tema: a foto mais divertida",
+    "pergunta": "Na foto mais divertida, qual é a nossa marca registrada?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0116",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Entre nós: a foto mais divertida",
+    "pergunta": "O que na foto mais divertida sempre melhora o seu humor?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Desafios",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0117",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Nosso olhar sobre a foto mais divertida",
+    "pergunta": "Como a gente pode brincar mais com a foto mais divertida?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conhecer-melhor",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0118",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "O que nos une: a foto mais divertida",
+    "pergunta": "Qual seria a versão perfeita da foto mais divertida para nós?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0119",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Sobre a foto mais divertida",
+    "pergunta": "O que você gostaria de repetir na foto mais divertida?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0120",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Quando falamos da foto mais divertida",
+    "pergunta": "Qual momento da foto mais divertida você quer criar essa semana?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "sair-da-rotina",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Desafios",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0121",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Tema: o hábito engraçado do outro",
+    "pergunta": "Qual parte do hábito engraçado do outro mais te diverte na gente?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0122",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Entre nós: o hábito engraçado do outro",
+    "pergunta": "Se a gente pudesse exagerar no hábito engraçado do outro, como seria?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0123",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Nosso olhar sobre o hábito engraçado do outro",
+    "pergunta": "O que você toparia fazer hoje envolvendo o hábito engraçado do outro?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0124",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "O que nos une: o hábito engraçado do outro",
+    "pergunta": "Qual lembrança engraçada sobre o hábito engraçado do outro você guarda?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Desafios",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0125",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Sobre o hábito engraçado do outro",
+    "pergunta": "No hábito engraçado do outro, qual é a nossa marca registrada?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0126",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Quando falamos do hábito engraçado do outro",
+    "pergunta": "O que no hábito engraçado do outro sempre melhora o seu humor?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0127",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Tema: o hábito engraçado do outro",
+    "pergunta": "Como a gente pode brincar mais com o hábito engraçado do outro?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0128",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Entre nós: o hábito engraçado do outro",
+    "pergunta": "Qual seria a versão perfeita do hábito engraçado do outro para nós?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Desafios",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0129",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Nosso olhar sobre o hábito engraçado do outro",
+    "pergunta": "O que você gostaria de repetir no hábito engraçado do outro?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conhecer-melhor",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0130",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "O que nos une: o hábito engraçado do outro",
+    "pergunta": "Qual momento do hábito engraçado do outro você quer criar essa semana?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0131",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Sobre uma mania que virou charme",
+    "pergunta": "Qual parte de uma mania que virou charme mais te diverte na gente?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0132",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Quando falamos de uma mania que virou charme",
+    "pergunta": "Se a gente pudesse exagerar em uma mania que virou charme, como seria?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "sair-da-rotina",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Desafios",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0133",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Tema: uma mania que virou charme",
+    "pergunta": "O que você toparia fazer hoje envolvendo uma mania que virou charme?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0134",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Entre nós: uma mania que virou charme",
+    "pergunta": "Qual lembrança engraçada sobre uma mania que virou charme você guarda?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0135",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Nosso olhar sobre uma mania que virou charme",
+    "pergunta": "Em uma mania que virou charme, qual é a nossa marca registrada?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0136",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "O que nos une: uma mania que virou charme",
+    "pergunta": "O que em uma mania que virou charme sempre melhora o seu humor?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Desafios",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0137",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Sobre uma mania que virou charme",
+    "pergunta": "Como a gente pode brincar mais com uma mania que virou charme?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0138",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Quando falamos de uma mania que virou charme",
+    "pergunta": "Qual seria a versão perfeita de uma mania que virou charme para nós?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0139",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Tema: uma mania que virou charme",
+    "pergunta": "O que você gostaria de repetir em uma mania que virou charme?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0140",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Entre nós: uma mania que virou charme",
+    "pergunta": "Qual momento de uma mania que virou charme você quer criar essa semana?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Desafios",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0141",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Nosso olhar sobre a viagem que renderia histórias",
+    "pergunta": "Qual parte da viagem que renderia histórias mais te diverte na gente?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conhecer-melhor",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0142",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "O que nos une: a viagem que renderia histórias",
+    "pergunta": "Se a gente pudesse exagerar na viagem que renderia histórias, como seria?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0143",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Sobre a viagem que renderia histórias",
+    "pergunta": "O que você toparia fazer hoje envolvendo a viagem que renderia histórias?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0144",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Quando falamos da viagem que renderia histórias",
+    "pergunta": "Qual lembrança engraçada sobre a viagem que renderia histórias você guarda?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "sair-da-rotina",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Desafios",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0145",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Tema: a viagem que renderia histórias",
+    "pergunta": "Na viagem que renderia histórias, qual é a nossa marca registrada?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0146",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Entre nós: a viagem que renderia histórias",
+    "pergunta": "O que na viagem que renderia histórias sempre melhora o seu humor?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0147",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Nosso olhar sobre a viagem que renderia histórias",
+    "pergunta": "Como a gente pode brincar mais com a viagem que renderia histórias?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0148",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "O que nos une: a viagem que renderia histórias",
+    "pergunta": "Qual seria a versão perfeita da viagem que renderia histórias para nós?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Desafios",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0149",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Sobre a viagem que renderia histórias",
+    "pergunta": "O que você gostaria de repetir na viagem que renderia histórias?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0150",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Quando falamos da viagem que renderia histórias",
+    "pergunta": "Qual momento da viagem que renderia histórias você quer criar essa semana?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0151",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Tema: a música que combina com hoje",
+    "pergunta": "Qual parte da música que combina com hoje mais te diverte na gente?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0152",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Entre nós: a música que combina com hoje",
+    "pergunta": "Se a gente pudesse exagerar na música que combina com hoje, como seria?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Desafios",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0153",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Nosso olhar sobre a música que combina com hoje",
+    "pergunta": "O que você toparia fazer hoje envolvendo a música que combina com hoje?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conhecer-melhor",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0154",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "O que nos une: a música que combina com hoje",
+    "pergunta": "Qual lembrança engraçada sobre a música que combina com hoje você guarda?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0155",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Sobre a música que combina com hoje",
+    "pergunta": "Na música que combina com hoje, qual é a nossa marca registrada?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0156",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Quando falamos da música que combina com hoje",
+    "pergunta": "O que na música que combina com hoje sempre melhora o seu humor?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "sair-da-rotina",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Desafios",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0157",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Tema: a música que combina com hoje",
+    "pergunta": "Como a gente pode brincar mais com a música que combina com hoje?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0158",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Entre nós: a música que combina com hoje",
+    "pergunta": "Qual seria a versão perfeita da música que combina com hoje para nós?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0159",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Nosso olhar sobre a música que combina com hoje",
+    "pergunta": "O que você gostaria de repetir na música que combina com hoje?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0160",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "O que nos une: a música que combina com hoje",
+    "pergunta": "Qual momento da música que combina com hoje você quer criar essa semana?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Desafios",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0161",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Sobre o restaurante que dá vontade de voltar",
+    "pergunta": "Qual parte do restaurante que dá vontade de voltar mais te diverte na gente?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0162",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Quando falamos do restaurante que dá vontade de voltar",
+    "pergunta": "Se a gente pudesse exagerar no restaurante que dá vontade de voltar, como seria?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0163",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Tema: o restaurante que dá vontade de voltar",
+    "pergunta": "O que você toparia fazer hoje envolvendo o restaurante que dá vontade de voltar?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0164",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Entre nós: o restaurante que dá vontade de voltar",
+    "pergunta": "Qual lembrança engraçada sobre o restaurante que dá vontade de voltar você guarda?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Desafios",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0165",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Nosso olhar sobre o restaurante que dá vontade de voltar",
+    "pergunta": "No restaurante que dá vontade de voltar, qual é a nossa marca registrada?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conhecer-melhor",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0166",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "O que nos une: o restaurante que dá vontade de voltar",
+    "pergunta": "O que no restaurante que dá vontade de voltar sempre melhora o seu humor?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0167",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Sobre o restaurante que dá vontade de voltar",
+    "pergunta": "Como a gente pode brincar mais com o restaurante que dá vontade de voltar?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0168",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Quando falamos do restaurante que dá vontade de voltar",
+    "pergunta": "Qual seria a versão perfeita do restaurante que dá vontade de voltar para nós?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "sair-da-rotina",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Desafios",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0169",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Tema: o restaurante que dá vontade de voltar",
+    "pergunta": "O que você gostaria de repetir no restaurante que dá vontade de voltar?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0170",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Entre nós: o restaurante que dá vontade de voltar",
+    "pergunta": "Qual momento do restaurante que dá vontade de voltar você quer criar essa semana?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0171",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Nosso olhar sobre a fantasia de viagem engraçada",
+    "pergunta": "Qual parte da fantasia de viagem engraçada mais te diverte na gente?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0172",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "O que nos une: a fantasia de viagem engraçada",
+    "pergunta": "Se a gente pudesse exagerar na fantasia de viagem engraçada, como seria?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Desafios",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0173",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Sobre a fantasia de viagem engraçada",
+    "pergunta": "O que você toparia fazer hoje envolvendo a fantasia de viagem engraçada?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0174",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Quando falamos da fantasia de viagem engraçada",
+    "pergunta": "Qual lembrança engraçada sobre a fantasia de viagem engraçada você guarda?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0175",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Tema: a fantasia de viagem engraçada",
+    "pergunta": "Na fantasia de viagem engraçada, qual é a nossa marca registrada?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0176",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Entre nós: a fantasia de viagem engraçada",
+    "pergunta": "O que na fantasia de viagem engraçada sempre melhora o seu humor?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Desafios",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0177",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Nosso olhar sobre a fantasia de viagem engraçada",
+    "pergunta": "Como a gente pode brincar mais com a fantasia de viagem engraçada?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conhecer-melhor",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0178",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "O que nos une: a fantasia de viagem engraçada",
+    "pergunta": "Qual seria a versão perfeita da fantasia de viagem engraçada para nós?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0179",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Sobre a fantasia de viagem engraçada",
+    "pergunta": "O que você gostaria de repetir na fantasia de viagem engraçada?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0180",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Quando falamos da fantasia de viagem engraçada",
+    "pergunta": "Qual momento da fantasia de viagem engraçada você quer criar essa semana?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "sair-da-rotina",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Desafios",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0181",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Tema: o desafio bobo da semana",
+    "pergunta": "Qual parte do desafio bobo da semana mais te diverte na gente?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0182",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Entre nós: o desafio bobo da semana",
+    "pergunta": "Se a gente pudesse exagerar no desafio bobo da semana, como seria?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0183",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Nosso olhar sobre o desafio bobo da semana",
+    "pergunta": "O que você toparia fazer hoje envolvendo o desafio bobo da semana?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0184",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "O que nos une: o desafio bobo da semana",
+    "pergunta": "Qual lembrança engraçada sobre o desafio bobo da semana você guarda?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Desafios",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0185",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Sobre o desafio bobo da semana",
+    "pergunta": "No desafio bobo da semana, qual é a nossa marca registrada?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0186",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Quando falamos do desafio bobo da semana",
+    "pergunta": "O que no desafio bobo da semana sempre melhora o seu humor?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0187",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Tema: o desafio bobo da semana",
+    "pergunta": "Como a gente pode brincar mais com o desafio bobo da semana?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0188",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Entre nós: o desafio bobo da semana",
+    "pergunta": "Qual seria a versão perfeita do desafio bobo da semana para nós?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Desafios",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0189",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Nosso olhar sobre o desafio bobo da semana",
+    "pergunta": "O que você gostaria de repetir no desafio bobo da semana?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conhecer-melhor",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0190",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "O que nos une: o desafio bobo da semana",
+    "pergunta": "Qual momento do desafio bobo da semana você quer criar essa semana?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0191",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Sobre o elogio mais criativo",
+    "pergunta": "Qual parte do elogio mais criativo mais te diverte na gente?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0192",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Quando falamos do elogio mais criativo",
+    "pergunta": "Se a gente pudesse exagerar no elogio mais criativo, como seria?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "sair-da-rotina",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Desafios",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0193",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Tema: o elogio mais criativo",
+    "pergunta": "O que você toparia fazer hoje envolvendo o elogio mais criativo?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0194",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Entre nós: o elogio mais criativo",
+    "pergunta": "Qual lembrança engraçada sobre o elogio mais criativo você guarda?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0195",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Nosso olhar sobre o elogio mais criativo",
+    "pergunta": "No elogio mais criativo, qual é a nossa marca registrada?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0196",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "O que nos une: o elogio mais criativo",
+    "pergunta": "O que no elogio mais criativo sempre melhora o seu humor?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Desafios",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0197",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Sobre o elogio mais criativo",
+    "pergunta": "Como a gente pode brincar mais com o elogio mais criativo?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0198",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Quando falamos do elogio mais criativo",
+    "pergunta": "Qual seria a versão perfeita do elogio mais criativo para nós?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0199",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Tema: o elogio mais criativo",
+    "pergunta": "O que você gostaria de repetir no elogio mais criativo?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "LED-0200",
+    "categoria_principal": "Leve e Divertido",
+    "titulo_curto": "Entre nós: o elogio mais criativo",
+    "pergunta": "Qual momento do elogio mais criativo você quer criar essa semana?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Desafios",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  }
+]

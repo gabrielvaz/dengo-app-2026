@@ -1,0 +1,4990 @@
+[
+  {
+    "id": "MEM-0001",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Tema: o dia em que nos conhecemos",
+    "pergunta": "Qual lembrança do dia em que nos conhecemos você guarda com mais carinho?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0002",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Entre nós: o dia em que nos conhecemos",
+    "pergunta": "Quando você lembra do dia em que nos conhecemos, o que sente primeiro?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "falar-do-passado"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0003",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Nosso olhar sobre o dia em que nos conhecemos",
+    "pergunta": "O que o dia em que nos conhecemos te ensinou sobre nós?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "falar-do-passado",
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0004",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "O que nos une: o dia em que nos conhecemos",
+    "pergunta": "Qual detalhe do dia em que nos conhecemos você ainda ri ao lembrar?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0005",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Sobre o dia em que nos conhecemos",
+    "pergunta": "Se pudéssemos reviver o dia em que nos conhecemos, o que faria igual?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "falar-do-passado"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0006",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Quando falamos do dia em que nos conhecemos",
+    "pergunta": "Que parte do dia em que nos conhecemos você gostaria de repetir?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "falar-do-passado",
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0007",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Tema: o dia em que nos conhecemos",
+    "pergunta": "Quem nos ajudou no dia em que nos conhecemos e como isso marcou?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0008",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Entre nós: o dia em que nos conhecemos",
+    "pergunta": "O que o dia em que nos conhecemos revela sobre o nosso jeito de estar juntos?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "falar-do-passado"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0009",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Nosso olhar sobre o dia em que nos conhecemos",
+    "pergunta": "Qual foi a melhor surpresa no dia em que nos conhecemos?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "falar-do-passado",
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0010",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "O que nos une: o dia em que nos conhecemos",
+    "pergunta": "Como o dia em que nos conhecemos fortaleceu nossa conexão?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "MEM-0011",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Sobre nosso primeiro encontro",
+    "pergunta": "Qual lembrança de nosso primeiro encontro você guarda com mais carinho?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "falar-do-passado"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0012",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Quando falamos de nosso primeiro encontro",
+    "pergunta": "Quando você lembra de nosso primeiro encontro, o que sente primeiro?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "falar-do-passado",
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0013",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Tema: nosso primeiro encontro",
+    "pergunta": "O que nosso primeiro encontro te ensinou sobre nós?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0014",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Entre nós: nosso primeiro encontro",
+    "pergunta": "Qual detalhe de nosso primeiro encontro você ainda ri ao lembrar?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "falar-do-passado"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0015",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Nosso olhar sobre nosso primeiro encontro",
+    "pergunta": "Se pudéssemos reviver nosso primeiro encontro, o que faria igual?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "falar-do-passado",
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0016",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "O que nos une: nosso primeiro encontro",
+    "pergunta": "Que parte de nosso primeiro encontro você gostaria de repetir?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0017",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Sobre nosso primeiro encontro",
+    "pergunta": "Quem nos ajudou em nosso primeiro encontro e como isso marcou?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "falar-do-passado"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0018",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Quando falamos de nosso primeiro encontro",
+    "pergunta": "O que nosso primeiro encontro revela sobre o nosso jeito de estar juntos?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "falar-do-passado",
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0019",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Tema: nosso primeiro encontro",
+    "pergunta": "Qual foi a melhor surpresa em nosso primeiro encontro?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0020",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Entre nós: nosso primeiro encontro",
+    "pergunta": "Como nosso primeiro encontro fortaleceu nossa conexão?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "falar-do-passado"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "MEM-0021",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Nosso olhar sobre a primeira viagem juntos",
+    "pergunta": "Qual lembrança da primeira viagem juntos você guarda com mais carinho?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "falar-do-passado",
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0022",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "O que nos une: a primeira viagem juntos",
+    "pergunta": "Quando você lembra da primeira viagem juntos, o que sente primeiro?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0023",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Sobre a primeira viagem juntos",
+    "pergunta": "O que a primeira viagem juntos te ensinou sobre nós?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "falar-do-passado"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0024",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Quando falamos da primeira viagem juntos",
+    "pergunta": "Qual detalhe da primeira viagem juntos você ainda ri ao lembrar?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "falar-do-passado",
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0025",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Tema: a primeira viagem juntos",
+    "pergunta": "Se pudéssemos reviver a primeira viagem juntos, o que faria igual?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0026",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Entre nós: a primeira viagem juntos",
+    "pergunta": "Que parte da primeira viagem juntos você gostaria de repetir?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "falar-do-passado"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0027",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Nosso olhar sobre a primeira viagem juntos",
+    "pergunta": "Quem nos ajudou na primeira viagem juntos e como isso marcou?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "falar-do-passado",
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0028",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "O que nos une: a primeira viagem juntos",
+    "pergunta": "O que a primeira viagem juntos revela sobre o nosso jeito de estar juntos?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0029",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Sobre a primeira viagem juntos",
+    "pergunta": "Qual foi a melhor surpresa na primeira viagem juntos?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "falar-do-passado"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0030",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Quando falamos da primeira viagem juntos",
+    "pergunta": "Como a primeira viagem juntos fortaleceu nossa conexão?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "falar-do-passado",
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "MEM-0031",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Tema: um aniversário especial",
+    "pergunta": "Qual lembrança de um aniversário especial você guarda com mais carinho?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0032",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Entre nós: um aniversário especial",
+    "pergunta": "Quando você lembra de um aniversário especial, o que sente primeiro?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "falar-do-passado"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0033",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Nosso olhar sobre um aniversário especial",
+    "pergunta": "O que um aniversário especial te ensinou sobre nós?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "falar-do-passado",
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0034",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "O que nos une: um aniversário especial",
+    "pergunta": "Qual detalhe de um aniversário especial você ainda ri ao lembrar?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0035",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Sobre um aniversário especial",
+    "pergunta": "Se pudéssemos reviver um aniversário especial, o que faria igual?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "falar-do-passado"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0036",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Quando falamos de um aniversário especial",
+    "pergunta": "Que parte de um aniversário especial você gostaria de repetir?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "falar-do-passado",
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0037",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Tema: um aniversário especial",
+    "pergunta": "Quem nos ajudou em um aniversário especial e como isso marcou?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0038",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Entre nós: um aniversário especial",
+    "pergunta": "O que um aniversário especial revela sobre o nosso jeito de estar juntos?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "falar-do-passado"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0039",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Nosso olhar sobre um aniversário especial",
+    "pergunta": "Qual foi a melhor surpresa em um aniversário especial?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "falar-do-passado",
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0040",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "O que nos une: um aniversário especial",
+    "pergunta": "Como um aniversário especial fortaleceu nossa conexão?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "MEM-0041",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Sobre o primeiro jantar que fizemos",
+    "pergunta": "Qual lembrança do primeiro jantar que fizemos você guarda com mais carinho?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "falar-do-passado"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0042",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Quando falamos do primeiro jantar que fizemos",
+    "pergunta": "Quando você lembra do primeiro jantar que fizemos, o que sente primeiro?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "falar-do-passado",
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0043",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Tema: o primeiro jantar que fizemos",
+    "pergunta": "O que o primeiro jantar que fizemos te ensinou sobre nós?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0044",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Entre nós: o primeiro jantar que fizemos",
+    "pergunta": "Qual detalhe do primeiro jantar que fizemos você ainda ri ao lembrar?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "falar-do-passado"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0045",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Nosso olhar sobre o primeiro jantar que fizemos",
+    "pergunta": "Se pudéssemos reviver o primeiro jantar que fizemos, o que faria igual?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "falar-do-passado",
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0046",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "O que nos une: o primeiro jantar que fizemos",
+    "pergunta": "Que parte do primeiro jantar que fizemos você gostaria de repetir?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0047",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Sobre o primeiro jantar que fizemos",
+    "pergunta": "Quem nos ajudou no primeiro jantar que fizemos e como isso marcou?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "falar-do-passado"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0048",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Quando falamos do primeiro jantar que fizemos",
+    "pergunta": "O que o primeiro jantar que fizemos revela sobre o nosso jeito de estar juntos?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "falar-do-passado",
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0049",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Tema: o primeiro jantar que fizemos",
+    "pergunta": "Qual foi a melhor surpresa no primeiro jantar que fizemos?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0050",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Entre nós: o primeiro jantar que fizemos",
+    "pergunta": "Como o primeiro jantar que fizemos fortaleceu nossa conexão?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "falar-do-passado"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "MEM-0051",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Nosso olhar sobre a primeira vez que dissemos 'eu te amo'",
+    "pergunta": "Qual lembrança da primeira vez que dissemos 'eu te amo' você guarda com mais carinho?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "falar-do-passado",
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0052",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "O que nos une: a primeira vez que dissemos 'eu te amo'",
+    "pergunta": "Quando você lembra da primeira vez que dissemos 'eu te amo', o que sente primeiro?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0053",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Sobre a primeira vez que dissemos 'eu te amo'",
+    "pergunta": "O que a primeira vez que dissemos 'eu te amo' te ensinou sobre nós?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "falar-do-passado"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0054",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Quando falamos da primeira vez que dissemos 'eu te amo'",
+    "pergunta": "Qual detalhe da primeira vez que dissemos 'eu te amo' você ainda ri ao lembrar?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "falar-do-passado",
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0055",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Tema: a primeira vez que dissemos 'eu te amo'",
+    "pergunta": "Se pudéssemos reviver a primeira vez que dissemos 'eu te amo', o que faria igual?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0056",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Entre nós: a primeira vez que dissemos 'eu te amo'",
+    "pergunta": "Que parte da primeira vez que dissemos 'eu te amo' você gostaria de repetir?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "falar-do-passado"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0057",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Nosso olhar sobre a primeira vez que dissemos 'eu te amo'",
+    "pergunta": "Quem nos ajudou na primeira vez que dissemos 'eu te amo' e como isso marcou?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "falar-do-passado",
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0058",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "O que nos une: a primeira vez que dissemos 'eu te amo'",
+    "pergunta": "O que a primeira vez que dissemos 'eu te amo' revela sobre o nosso jeito de estar juntos?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0059",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Sobre a primeira vez que dissemos 'eu te amo'",
+    "pergunta": "Qual foi a melhor surpresa na primeira vez que dissemos 'eu te amo'?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "falar-do-passado"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0060",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Quando falamos da primeira vez que dissemos 'eu te amo'",
+    "pergunta": "Como a primeira vez que dissemos 'eu te amo' fortaleceu nossa conexão?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "falar-do-passado",
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "MEM-0061",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Tema: um momento de superação juntos",
+    "pergunta": "Qual lembrança de um momento de superação juntos você guarda com mais carinho?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0062",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Entre nós: um momento de superação juntos",
+    "pergunta": "Quando você lembra de um momento de superação juntos, o que sente primeiro?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "falar-do-passado"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0063",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Nosso olhar sobre um momento de superação juntos",
+    "pergunta": "O que um momento de superação juntos te ensinou sobre nós?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "falar-do-passado",
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0064",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "O que nos une: um momento de superação juntos",
+    "pergunta": "Qual detalhe de um momento de superação juntos você ainda ri ao lembrar?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0065",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Sobre um momento de superação juntos",
+    "pergunta": "Se pudéssemos reviver um momento de superação juntos, o que faria igual?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "falar-do-passado"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0066",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Quando falamos de um momento de superação juntos",
+    "pergunta": "Que parte de um momento de superação juntos você gostaria de repetir?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "falar-do-passado",
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0067",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Tema: um momento de superação juntos",
+    "pergunta": "Quem nos ajudou em um momento de superação juntos e como isso marcou?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0068",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Entre nós: um momento de superação juntos",
+    "pergunta": "O que um momento de superação juntos revela sobre o nosso jeito de estar juntos?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "falar-do-passado"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0069",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Nosso olhar sobre um momento de superação juntos",
+    "pergunta": "Qual foi a melhor surpresa em um momento de superação juntos?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "falar-do-passado",
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0070",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "O que nos une: um momento de superação juntos",
+    "pergunta": "Como um momento de superação juntos fortaleceu nossa conexão?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "MEM-0071",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Sobre a melhor surpresa que recebemos",
+    "pergunta": "Qual lembrança da melhor surpresa que recebemos você guarda com mais carinho?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "falar-do-passado"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0072",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Quando falamos da melhor surpresa que recebemos",
+    "pergunta": "Quando você lembra da melhor surpresa que recebemos, o que sente primeiro?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "falar-do-passado",
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0073",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Tema: a melhor surpresa que recebemos",
+    "pergunta": "O que a melhor surpresa que recebemos te ensinou sobre nós?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0074",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Entre nós: a melhor surpresa que recebemos",
+    "pergunta": "Qual detalhe da melhor surpresa que recebemos você ainda ri ao lembrar?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "falar-do-passado"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0075",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Nosso olhar sobre a melhor surpresa que recebemos",
+    "pergunta": "Se pudéssemos reviver a melhor surpresa que recebemos, o que faria igual?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "falar-do-passado",
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0076",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "O que nos une: a melhor surpresa que recebemos",
+    "pergunta": "Que parte da melhor surpresa que recebemos você gostaria de repetir?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0077",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Sobre a melhor surpresa que recebemos",
+    "pergunta": "Quem nos ajudou na melhor surpresa que recebemos e como isso marcou?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "falar-do-passado"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0078",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Quando falamos da melhor surpresa que recebemos",
+    "pergunta": "O que a melhor surpresa que recebemos revela sobre o nosso jeito de estar juntos?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "falar-do-passado",
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0079",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Tema: a melhor surpresa que recebemos",
+    "pergunta": "Qual foi a melhor surpresa na melhor surpresa que recebemos?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0080",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Entre nós: a melhor surpresa que recebemos",
+    "pergunta": "Como a melhor surpresa que recebemos fortaleceu nossa conexão?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "falar-do-passado"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "MEM-0081",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Nosso olhar sobre uma festa inesquecível",
+    "pergunta": "Qual lembrança de uma festa inesquecível você guarda com mais carinho?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "falar-do-passado",
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0082",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "O que nos une: uma festa inesquecível",
+    "pergunta": "Quando você lembra de uma festa inesquecível, o que sente primeiro?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0083",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Sobre uma festa inesquecível",
+    "pergunta": "O que uma festa inesquecível te ensinou sobre nós?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "falar-do-passado"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0084",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Quando falamos de uma festa inesquecível",
+    "pergunta": "Qual detalhe de uma festa inesquecível você ainda ri ao lembrar?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "falar-do-passado",
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0085",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Tema: uma festa inesquecível",
+    "pergunta": "Se pudéssemos reviver uma festa inesquecível, o que faria igual?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0086",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Entre nós: uma festa inesquecível",
+    "pergunta": "Que parte de uma festa inesquecível você gostaria de repetir?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "falar-do-passado"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0087",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Nosso olhar sobre uma festa inesquecível",
+    "pergunta": "Quem nos ajudou em uma festa inesquecível e como isso marcou?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "falar-do-passado",
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0088",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "O que nos une: uma festa inesquecível",
+    "pergunta": "O que uma festa inesquecível revela sobre o nosso jeito de estar juntos?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0089",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Sobre uma festa inesquecível",
+    "pergunta": "Qual foi a melhor surpresa em uma festa inesquecível?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "falar-do-passado"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0090",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Quando falamos de uma festa inesquecível",
+    "pergunta": "Como uma festa inesquecível fortaleceu nossa conexão?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "falar-do-passado",
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "MEM-0091",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Tema: uma cena engraçada em público",
+    "pergunta": "Qual lembrança de uma cena engraçada em público você guarda com mais carinho?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0092",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Entre nós: uma cena engraçada em público",
+    "pergunta": "Quando você lembra de uma cena engraçada em público, o que sente primeiro?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "falar-do-passado"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0093",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Nosso olhar sobre uma cena engraçada em público",
+    "pergunta": "O que uma cena engraçada em público te ensinou sobre nós?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "falar-do-passado",
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0094",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "O que nos une: uma cena engraçada em público",
+    "pergunta": "Qual detalhe de uma cena engraçada em público você ainda ri ao lembrar?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0095",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Sobre uma cena engraçada em público",
+    "pergunta": "Se pudéssemos reviver uma cena engraçada em público, o que faria igual?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "falar-do-passado"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0096",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Quando falamos de uma cena engraçada em público",
+    "pergunta": "Que parte de uma cena engraçada em público você gostaria de repetir?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "falar-do-passado",
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0097",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Tema: uma cena engraçada em público",
+    "pergunta": "Quem nos ajudou em uma cena engraçada em público e como isso marcou?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0098",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Entre nós: uma cena engraçada em público",
+    "pergunta": "O que uma cena engraçada em público revela sobre o nosso jeito de estar juntos?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "falar-do-passado"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0099",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Nosso olhar sobre uma cena engraçada em público",
+    "pergunta": "Qual foi a melhor surpresa em uma cena engraçada em público?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "falar-do-passado",
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0100",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "O que nos une: uma cena engraçada em público",
+    "pergunta": "Como uma cena engraçada em público fortaleceu nossa conexão?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "MEM-0101",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Sobre o primeiro presente marcante",
+    "pergunta": "Qual lembrança do primeiro presente marcante você guarda com mais carinho?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "falar-do-passado"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0102",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Quando falamos do primeiro presente marcante",
+    "pergunta": "Quando você lembra do primeiro presente marcante, o que sente primeiro?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "falar-do-passado",
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0103",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Tema: o primeiro presente marcante",
+    "pergunta": "O que o primeiro presente marcante te ensinou sobre nós?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0104",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Entre nós: o primeiro presente marcante",
+    "pergunta": "Qual detalhe do primeiro presente marcante você ainda ri ao lembrar?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "falar-do-passado"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0105",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Nosso olhar sobre o primeiro presente marcante",
+    "pergunta": "Se pudéssemos reviver o primeiro presente marcante, o que faria igual?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "falar-do-passado",
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0106",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "O que nos une: o primeiro presente marcante",
+    "pergunta": "Que parte do primeiro presente marcante você gostaria de repetir?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0107",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Sobre o primeiro presente marcante",
+    "pergunta": "Quem nos ajudou no primeiro presente marcante e como isso marcou?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "falar-do-passado"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0108",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Quando falamos do primeiro presente marcante",
+    "pergunta": "O que o primeiro presente marcante revela sobre o nosso jeito de estar juntos?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "falar-do-passado",
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0109",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Tema: o primeiro presente marcante",
+    "pergunta": "Qual foi a melhor surpresa no primeiro presente marcante?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0110",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Entre nós: o primeiro presente marcante",
+    "pergunta": "Como o primeiro presente marcante fortaleceu nossa conexão?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "falar-do-passado"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "MEM-0111",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Nosso olhar sobre um dia de chuva que virou memória",
+    "pergunta": "Qual lembrança de um dia de chuva que virou memória você guarda com mais carinho?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "falar-do-passado",
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0112",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "O que nos une: um dia de chuva que virou memória",
+    "pergunta": "Quando você lembra de um dia de chuva que virou memória, o que sente primeiro?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0113",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Sobre um dia de chuva que virou memória",
+    "pergunta": "O que um dia de chuva que virou memória te ensinou sobre nós?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "falar-do-passado"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0114",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Quando falamos de um dia de chuva que virou memória",
+    "pergunta": "Qual detalhe de um dia de chuva que virou memória você ainda ri ao lembrar?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "falar-do-passado",
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0115",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Tema: um dia de chuva que virou memória",
+    "pergunta": "Se pudéssemos reviver um dia de chuva que virou memória, o que faria igual?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0116",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Entre nós: um dia de chuva que virou memória",
+    "pergunta": "Que parte de um dia de chuva que virou memória você gostaria de repetir?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "falar-do-passado"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0117",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Nosso olhar sobre um dia de chuva que virou memória",
+    "pergunta": "Quem nos ajudou em um dia de chuva que virou memória e como isso marcou?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "falar-do-passado",
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0118",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "O que nos une: um dia de chuva que virou memória",
+    "pergunta": "O que um dia de chuva que virou memória revela sobre o nosso jeito de estar juntos?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0119",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Sobre um dia de chuva que virou memória",
+    "pergunta": "Qual foi a melhor surpresa em um dia de chuva que virou memória?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "falar-do-passado"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0120",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Quando falamos de um dia de chuva que virou memória",
+    "pergunta": "Como um dia de chuva que virou memória fortaleceu nossa conexão?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "falar-do-passado",
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "MEM-0121",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Tema: um passeio simples que ficou",
+    "pergunta": "Qual lembrança de um passeio simples que ficou você guarda com mais carinho?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0122",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Entre nós: um passeio simples que ficou",
+    "pergunta": "Quando você lembra de um passeio simples que ficou, o que sente primeiro?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "falar-do-passado"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0123",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Nosso olhar sobre um passeio simples que ficou",
+    "pergunta": "O que um passeio simples que ficou te ensinou sobre nós?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "falar-do-passado",
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0124",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "O que nos une: um passeio simples que ficou",
+    "pergunta": "Qual detalhe de um passeio simples que ficou você ainda ri ao lembrar?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0125",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Sobre um passeio simples que ficou",
+    "pergunta": "Se pudéssemos reviver um passeio simples que ficou, o que faria igual?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "falar-do-passado"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0126",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Quando falamos de um passeio simples que ficou",
+    "pergunta": "Que parte de um passeio simples que ficou você gostaria de repetir?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "falar-do-passado",
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0127",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Tema: um passeio simples que ficou",
+    "pergunta": "Quem nos ajudou em um passeio simples que ficou e como isso marcou?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0128",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Entre nós: um passeio simples que ficou",
+    "pergunta": "O que um passeio simples que ficou revela sobre o nosso jeito de estar juntos?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "falar-do-passado"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0129",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Nosso olhar sobre um passeio simples que ficou",
+    "pergunta": "Qual foi a melhor surpresa em um passeio simples que ficou?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "falar-do-passado",
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0130",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "O que nos une: um passeio simples que ficou",
+    "pergunta": "Como um passeio simples que ficou fortaleceu nossa conexão?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "MEM-0131",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Sobre um momento em que rimos muito",
+    "pergunta": "Qual lembrança de um momento em que rimos muito você guarda com mais carinho?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "falar-do-passado"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0132",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Quando falamos de um momento em que rimos muito",
+    "pergunta": "Quando você lembra de um momento em que rimos muito, o que sente primeiro?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "falar-do-passado",
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0133",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Tema: um momento em que rimos muito",
+    "pergunta": "O que um momento em que rimos muito te ensinou sobre nós?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0134",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Entre nós: um momento em que rimos muito",
+    "pergunta": "Qual detalhe de um momento em que rimos muito você ainda ri ao lembrar?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "falar-do-passado"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0135",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Nosso olhar sobre um momento em que rimos muito",
+    "pergunta": "Se pudéssemos reviver um momento em que rimos muito, o que faria igual?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "falar-do-passado",
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0136",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "O que nos une: um momento em que rimos muito",
+    "pergunta": "Que parte de um momento em que rimos muito você gostaria de repetir?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0137",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Sobre um momento em que rimos muito",
+    "pergunta": "Quem nos ajudou em um momento em que rimos muito e como isso marcou?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "falar-do-passado"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0138",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Quando falamos de um momento em que rimos muito",
+    "pergunta": "O que um momento em que rimos muito revela sobre o nosso jeito de estar juntos?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "falar-do-passado",
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0139",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Tema: um momento em que rimos muito",
+    "pergunta": "Qual foi a melhor surpresa em um momento em que rimos muito?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0140",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Entre nós: um momento em que rimos muito",
+    "pergunta": "Como um momento em que rimos muito fortaleceu nossa conexão?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "falar-do-passado"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "MEM-0141",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Nosso olhar sobre uma conversa que mudou algo",
+    "pergunta": "Qual lembrança de uma conversa que mudou algo você guarda com mais carinho?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "falar-do-passado",
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0142",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "O que nos une: uma conversa que mudou algo",
+    "pergunta": "Quando você lembra de uma conversa que mudou algo, o que sente primeiro?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0143",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Sobre uma conversa que mudou algo",
+    "pergunta": "O que uma conversa que mudou algo te ensinou sobre nós?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "falar-do-passado"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0144",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Quando falamos de uma conversa que mudou algo",
+    "pergunta": "Qual detalhe de uma conversa que mudou algo você ainda ri ao lembrar?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "falar-do-passado",
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0145",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Tema: uma conversa que mudou algo",
+    "pergunta": "Se pudéssemos reviver uma conversa que mudou algo, o que faria igual?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0146",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Entre nós: uma conversa que mudou algo",
+    "pergunta": "Que parte de uma conversa que mudou algo você gostaria de repetir?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "falar-do-passado"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0147",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Nosso olhar sobre uma conversa que mudou algo",
+    "pergunta": "Quem nos ajudou em uma conversa que mudou algo e como isso marcou?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "falar-do-passado",
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0148",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "O que nos une: uma conversa que mudou algo",
+    "pergunta": "O que uma conversa que mudou algo revela sobre o nosso jeito de estar juntos?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0149",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Sobre uma conversa que mudou algo",
+    "pergunta": "Qual foi a melhor surpresa em uma conversa que mudou algo?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "falar-do-passado"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0150",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Quando falamos de uma conversa que mudou algo",
+    "pergunta": "Como uma conversa que mudou algo fortaleceu nossa conexão?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "falar-do-passado",
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "MEM-0151",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Tema: um abraço que marcou",
+    "pergunta": "Qual lembrança de um abraço que marcou você guarda com mais carinho?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0152",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Entre nós: um abraço que marcou",
+    "pergunta": "Quando você lembra de um abraço que marcou, o que sente primeiro?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "falar-do-passado"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0153",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Nosso olhar sobre um abraço que marcou",
+    "pergunta": "O que um abraço que marcou te ensinou sobre nós?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "falar-do-passado",
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0154",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "O que nos une: um abraço que marcou",
+    "pergunta": "Qual detalhe de um abraço que marcou você ainda ri ao lembrar?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0155",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Sobre um abraço que marcou",
+    "pergunta": "Se pudéssemos reviver um abraço que marcou, o que faria igual?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "falar-do-passado"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0156",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Quando falamos de um abraço que marcou",
+    "pergunta": "Que parte de um abraço que marcou você gostaria de repetir?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "falar-do-passado",
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0157",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Tema: um abraço que marcou",
+    "pergunta": "Quem nos ajudou em um abraço que marcou e como isso marcou?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0158",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Entre nós: um abraço que marcou",
+    "pergunta": "O que um abraço que marcou revela sobre o nosso jeito de estar juntos?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "falar-do-passado"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0159",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Nosso olhar sobre um abraço que marcou",
+    "pergunta": "Qual foi a melhor surpresa em um abraço que marcou?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "falar-do-passado",
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0160",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "O que nos une: um abraço que marcou",
+    "pergunta": "Como um abraço que marcou fortaleceu nossa conexão?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "MEM-0161",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Sobre um dia de recomeço",
+    "pergunta": "Qual lembrança de um dia de recomeço você guarda com mais carinho?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "falar-do-passado"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0162",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Quando falamos de um dia de recomeço",
+    "pergunta": "Quando você lembra de um dia de recomeço, o que sente primeiro?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "falar-do-passado",
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0163",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Tema: um dia de recomeço",
+    "pergunta": "O que um dia de recomeço te ensinou sobre nós?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0164",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Entre nós: um dia de recomeço",
+    "pergunta": "Qual detalhe de um dia de recomeço você ainda ri ao lembrar?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "falar-do-passado"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0165",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Nosso olhar sobre um dia de recomeço",
+    "pergunta": "Se pudéssemos reviver um dia de recomeço, o que faria igual?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "falar-do-passado",
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0166",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "O que nos une: um dia de recomeço",
+    "pergunta": "Que parte de um dia de recomeço você gostaria de repetir?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0167",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Sobre um dia de recomeço",
+    "pergunta": "Quem nos ajudou em um dia de recomeço e como isso marcou?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "falar-do-passado"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0168",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Quando falamos de um dia de recomeço",
+    "pergunta": "O que um dia de recomeço revela sobre o nosso jeito de estar juntos?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "falar-do-passado",
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0169",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Tema: um dia de recomeço",
+    "pergunta": "Qual foi a melhor surpresa em um dia de recomeço?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0170",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Entre nós: um dia de recomeço",
+    "pergunta": "Como um dia de recomeço fortaleceu nossa conexão?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "falar-do-passado"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "MEM-0171",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Nosso olhar sobre um gesto de cuidado inesperado",
+    "pergunta": "Qual lembrança de um gesto de cuidado inesperado você guarda com mais carinho?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "falar-do-passado",
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0172",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "O que nos une: um gesto de cuidado inesperado",
+    "pergunta": "Quando você lembra de um gesto de cuidado inesperado, o que sente primeiro?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0173",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Sobre um gesto de cuidado inesperado",
+    "pergunta": "O que um gesto de cuidado inesperado te ensinou sobre nós?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "falar-do-passado"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0174",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Quando falamos de um gesto de cuidado inesperado",
+    "pergunta": "Qual detalhe de um gesto de cuidado inesperado você ainda ri ao lembrar?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "falar-do-passado",
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0175",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Tema: um gesto de cuidado inesperado",
+    "pergunta": "Se pudéssemos reviver um gesto de cuidado inesperado, o que faria igual?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0176",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Entre nós: um gesto de cuidado inesperado",
+    "pergunta": "Que parte de um gesto de cuidado inesperado você gostaria de repetir?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "falar-do-passado"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0177",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Nosso olhar sobre um gesto de cuidado inesperado",
+    "pergunta": "Quem nos ajudou em um gesto de cuidado inesperado e como isso marcou?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "falar-do-passado",
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0178",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "O que nos une: um gesto de cuidado inesperado",
+    "pergunta": "O que um gesto de cuidado inesperado revela sobre o nosso jeito de estar juntos?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0179",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Sobre um gesto de cuidado inesperado",
+    "pergunta": "Qual foi a melhor surpresa em um gesto de cuidado inesperado?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "falar-do-passado"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0180",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Quando falamos de um gesto de cuidado inesperado",
+    "pergunta": "Como um gesto de cuidado inesperado fortaleceu nossa conexão?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "falar-do-passado",
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "MEM-0181",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Tema: um lugar que virou nosso",
+    "pergunta": "Qual lembrança de um lugar que virou nosso você guarda com mais carinho?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0182",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Entre nós: um lugar que virou nosso",
+    "pergunta": "Quando você lembra de um lugar que virou nosso, o que sente primeiro?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "falar-do-passado"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0183",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Nosso olhar sobre um lugar que virou nosso",
+    "pergunta": "O que um lugar que virou nosso te ensinou sobre nós?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "falar-do-passado",
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0184",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "O que nos une: um lugar que virou nosso",
+    "pergunta": "Qual detalhe de um lugar que virou nosso você ainda ri ao lembrar?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0185",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Sobre um lugar que virou nosso",
+    "pergunta": "Se pudéssemos reviver um lugar que virou nosso, o que faria igual?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "falar-do-passado"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0186",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Quando falamos de um lugar que virou nosso",
+    "pergunta": "Que parte de um lugar que virou nosso você gostaria de repetir?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "falar-do-passado",
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0187",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Tema: um lugar que virou nosso",
+    "pergunta": "Quem nos ajudou em um lugar que virou nosso e como isso marcou?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0188",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Entre nós: um lugar que virou nosso",
+    "pergunta": "O que um lugar que virou nosso revela sobre o nosso jeito de estar juntos?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "falar-do-passado"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0189",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Nosso olhar sobre um lugar que virou nosso",
+    "pergunta": "Qual foi a melhor surpresa em um lugar que virou nosso?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "falar-do-passado",
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0190",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "O que nos une: um lugar que virou nosso",
+    "pergunta": "Como um lugar que virou nosso fortaleceu nossa conexão?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "MEM-0191",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Sobre um momento de despedida e reencontro",
+    "pergunta": "Qual lembrança de um momento de despedida e reencontro você guarda com mais carinho?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "falar-do-passado"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0192",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Quando falamos de um momento de despedida e reencontro",
+    "pergunta": "Quando você lembra de um momento de despedida e reencontro, o que sente primeiro?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "falar-do-passado",
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0193",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Tema: um momento de despedida e reencontro",
+    "pergunta": "O que um momento de despedida e reencontro te ensinou sobre nós?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0194",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Entre nós: um momento de despedida e reencontro",
+    "pergunta": "Qual detalhe de um momento de despedida e reencontro você ainda ri ao lembrar?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "falar-do-passado"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0195",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Nosso olhar sobre um momento de despedida e reencontro",
+    "pergunta": "Se pudéssemos reviver um momento de despedida e reencontro, o que faria igual?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "falar-do-passado",
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0196",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "O que nos une: um momento de despedida e reencontro",
+    "pergunta": "Que parte de um momento de despedida e reencontro você gostaria de repetir?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0197",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Sobre um momento de despedida e reencontro",
+    "pergunta": "Quem nos ajudou em um momento de despedida e reencontro e como isso marcou?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "falar-do-passado"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0198",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Quando falamos de um momento de despedida e reencontro",
+    "pergunta": "O que um momento de despedida e reencontro revela sobre o nosso jeito de estar juntos?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "falar-do-passado",
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0199",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Tema: um momento de despedida e reencontro",
+    "pergunta": "Qual foi a melhor surpresa em um momento de despedida e reencontro?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "MEM-0200",
+    "categoria_principal": "Memórias",
+    "titulo_curto": "Entre nós: um momento de despedida e reencontro",
+    "pergunta": "Como um momento de despedida e reencontro fortaleceu nossa conexão?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "falar-do-passado"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  }
+]

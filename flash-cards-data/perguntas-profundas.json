@@ -1,0 +1,4990 @@
+[
+  {
+    "id": "PRO-0001",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Tema: o propósito da nossa relação",
+    "pergunta": "Ao pensar no propósito da nossa relação, o que isso diz sobre você?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "comunicacao",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0002",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Entre nós: o propósito da nossa relação",
+    "pergunta": "Ao falar sobre o propósito da nossa relação, o que mudou no seu jeito de amar?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0003",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Nosso olhar sobre o propósito da nossa relação",
+    "pergunta": "Quando você pensa no propósito da nossa relação, que medo ou esperança aparece?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "fortalecer-confianca",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0004",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "O que nos une: o propósito da nossa relação",
+    "pergunta": "Que verdade sobre você eu ainda não conheço no propósito da nossa relação?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "PRO-0005",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Sobre o propósito da nossa relação",
+    "pergunta": "O que você gostaria que eu entendesse profundamente sobre o propósito da nossa relação?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0006",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Quando falamos do propósito da nossa relação",
+    "pergunta": "Quando falamos sobre o propósito da nossa relação, como isso influencia as escolhas que fazemos como casal?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "aprofundar-intimidade",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Almas Gêmeas"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0007",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Tema: o propósito da nossa relação",
+    "pergunta": "Que lição de vida você tirou do propósito da nossa relação?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0008",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Entre nós: o propósito da nossa relação",
+    "pergunta": "Ao falar sobre o propósito da nossa relação, o que você quer construir no futuro?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "PRO-0009",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Nosso olhar sobre o propósito da nossa relação",
+    "pergunta": "Como você percebe alinhamento aos seus valores quando falamos sobre o propósito da nossa relação?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0010",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "O que nos une: o propósito da nossa relação",
+    "pergunta": "Que parte do propósito da nossa relação você quer cuidar com mais delicadeza?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Crescimento",
+      "Confiança"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0011",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Sobre o que te dá sentido na vida",
+    "pergunta": "Ao pensar no que te dá sentido na vida, o que isso diz sobre você?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0012",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Quando falamos do que te dá sentido na vida",
+    "pergunta": "Ao falar sobre o que te dá sentido na vida, o que mudou no seu jeito de amar?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conhecer-melhor",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "PRO-0013",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Tema: o que te dá sentido na vida",
+    "pergunta": "Quando você pensa no que te dá sentido na vida, que medo ou esperança aparece?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0014",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Entre nós: o que te dá sentido na vida",
+    "pergunta": "Que verdade sobre você eu ainda não conheço no que te dá sentido na vida?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0015",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Nosso olhar sobre o que te dá sentido na vida",
+    "pergunta": "O que você gostaria que eu entendesse profundamente sobre o que te dá sentido na vida?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0016",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "O que nos une: o que te dá sentido na vida",
+    "pergunta": "Quando falamos sobre o que te dá sentido na vida, como isso influencia as escolhas que fazemos como casal?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Almas Gêmeas"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "PRO-0017",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Sobre o que te dá sentido na vida",
+    "pergunta": "Que lição de vida você tirou do que te dá sentido na vida?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0018",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Quando falamos do que te dá sentido na vida",
+    "pergunta": "Ao falar sobre o que te dá sentido na vida, o que você quer construir no futuro?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "fortalecer-confianca",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0019",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Tema: o que te dá sentido na vida",
+    "pergunta": "Como você percebe alinhamento aos seus valores quando falamos sobre o que te dá sentido na vida?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0020",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Entre nós: o que te dá sentido na vida",
+    "pergunta": "Que parte do que te dá sentido na vida você quer cuidar com mais delicadeza?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Crescimento",
+      "Confiança"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "PRO-0021",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Nosso olhar sobre as mudanças que mais te marcaram",
+    "pergunta": "Ao pensar nas mudanças que mais te marcaram, o que isso diz sobre você?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "aprofundar-intimidade",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0022",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "O que nos une: as mudanças que mais te marcaram",
+    "pergunta": "Ao falar sobre as mudanças que mais te marcaram, o que mudou no seu jeito de amar?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0023",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Sobre as mudanças que mais te marcaram",
+    "pergunta": "Quando você pensa nas mudanças que mais te marcaram, que medo ou esperança aparece?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0024",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Quando falamos das mudanças que mais te marcaram",
+    "pergunta": "Que verdade sobre você eu ainda não conheço nas mudanças que mais te marcaram?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "PRO-0025",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Tema: as mudanças que mais te marcaram",
+    "pergunta": "O que você gostaria que eu entendesse profundamente sobre as mudanças que mais te marcaram?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0026",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Entre nós: as mudanças que mais te marcaram",
+    "pergunta": "Quando falamos sobre as mudanças que mais te marcaram, como isso influencia as escolhas que fazemos como casal?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Almas Gêmeas"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0027",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Nosso olhar sobre as mudanças que mais te marcaram",
+    "pergunta": "Que lição de vida você tirou das mudanças que mais te marcaram?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conhecer-melhor",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0028",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "O que nos une: as mudanças que mais te marcaram",
+    "pergunta": "Ao falar sobre as mudanças que mais te marcaram, o que você quer construir no futuro?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "PRO-0029",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Sobre as mudanças que mais te marcaram",
+    "pergunta": "Como você percebe alinhamento aos seus valores quando falamos sobre as mudanças que mais te marcaram?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0030",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Quando falamos das mudanças que mais te marcaram",
+    "pergunta": "Que parte das mudanças que mais te marcaram você quer cuidar com mais delicadeza?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Crescimento",
+      "Confiança"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0031",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Tema: seus medos mais silenciosos",
+    "pergunta": "Ao pensar em seus medos mais silenciosos, o que isso diz sobre você?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0032",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Entre nós: seus medos mais silenciosos",
+    "pergunta": "Ao falar sobre seus medos mais silenciosos, o que mudou no seu jeito de amar?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "PRO-0033",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Nosso olhar sobre seus medos mais silenciosos",
+    "pergunta": "Quando você pensa em seus medos mais silenciosos, que medo ou esperança aparece?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "fortalecer-confianca",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0034",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "O que nos une: seus medos mais silenciosos",
+    "pergunta": "Que verdade sobre você eu ainda não conheço em seus medos mais silenciosos?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0035",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Sobre seus medos mais silenciosos",
+    "pergunta": "O que você gostaria que eu entendesse profundamente sobre seus medos mais silenciosos?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0036",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Quando falamos de seus medos mais silenciosos",
+    "pergunta": "Quando falamos sobre seus medos mais silenciosos, como isso influencia as escolhas que fazemos como casal?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "aprofundar-intimidade",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Almas Gêmeas"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "PRO-0037",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Tema: seus medos mais silenciosos",
+    "pergunta": "Que lição de vida você tirou de seus medos mais silenciosos?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0038",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Entre nós: seus medos mais silenciosos",
+    "pergunta": "Ao falar sobre seus medos mais silenciosos, o que você quer construir no futuro?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0039",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Nosso olhar sobre seus medos mais silenciosos",
+    "pergunta": "Como você percebe alinhamento aos seus valores quando falamos sobre seus medos mais silenciosos?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0040",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "O que nos une: seus medos mais silenciosos",
+    "pergunta": "Que parte de seus medos mais silenciosos você quer cuidar com mais delicadeza?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Crescimento",
+      "Confiança"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "PRO-0041",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Sobre os limites que você precisa",
+    "pergunta": "Ao pensar nos limites que você precisa, o que isso diz sobre você?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0042",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Quando falamos dos limites que você precisa",
+    "pergunta": "Ao falar sobre os limites que você precisa, o que mudou no seu jeito de amar?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conhecer-melhor",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0043",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Tema: os limites que você precisa",
+    "pergunta": "Quando você pensa nos limites que você precisa, que medo ou esperança aparece?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0044",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Entre nós: os limites que você precisa",
+    "pergunta": "Que verdade sobre você eu ainda não conheço nos limites que você precisa?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "PRO-0045",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Nosso olhar sobre os limites que você precisa",
+    "pergunta": "O que você gostaria que eu entendesse profundamente sobre os limites que você precisa?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0046",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "O que nos une: os limites que você precisa",
+    "pergunta": "Quando falamos sobre os limites que você precisa, como isso influencia as escolhas que fazemos como casal?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Almas Gêmeas"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0047",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Sobre os limites que você precisa",
+    "pergunta": "Que lição de vida você tirou dos limites que você precisa?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0048",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Quando falamos dos limites que você precisa",
+    "pergunta": "Ao falar sobre os limites que você precisa, o que você quer construir no futuro?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "fortalecer-confianca",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "PRO-0049",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Tema: os limites que você precisa",
+    "pergunta": "Como você percebe alinhamento aos seus valores quando falamos sobre os limites que você precisa?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0050",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Entre nós: os limites que você precisa",
+    "pergunta": "Que parte dos limites que você precisa você quer cuidar com mais delicadeza?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Crescimento",
+      "Confiança"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0051",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Nosso olhar sobre o que é lealdade para você",
+    "pergunta": "Ao pensar no que é lealdade para você, o que isso diz sobre você?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "aprofundar-intimidade",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0052",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "O que nos une: o que é lealdade para você",
+    "pergunta": "Ao falar sobre o que é lealdade para você, o que mudou no seu jeito de amar?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "PRO-0053",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Sobre o que é lealdade para você",
+    "pergunta": "Quando você pensa no que é lealdade para você, que medo ou esperança aparece?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0054",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Quando falamos do que é lealdade para você",
+    "pergunta": "Que verdade sobre você eu ainda não conheço no que é lealdade para você?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0055",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Tema: o que é lealdade para você",
+    "pergunta": "O que você gostaria que eu entendesse profundamente sobre o que é lealdade para você?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0056",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Entre nós: o que é lealdade para você",
+    "pergunta": "Quando falamos sobre o que é lealdade para você, como isso influencia as escolhas que fazemos como casal?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Almas Gêmeas"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "PRO-0057",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Nosso olhar sobre o que é lealdade para você",
+    "pergunta": "Que lição de vida você tirou do que é lealdade para você?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conhecer-melhor",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0058",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "O que nos une: o que é lealdade para você",
+    "pergunta": "Ao falar sobre o que é lealdade para você, o que você quer construir no futuro?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0059",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Sobre o que é lealdade para você",
+    "pergunta": "Como você percebe alinhamento aos seus valores quando falamos sobre o que é lealdade para você?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0060",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Quando falamos do que é lealdade para você",
+    "pergunta": "Que parte do que é lealdade para você você quer cuidar com mais delicadeza?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Crescimento",
+      "Confiança"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "PRO-0061",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Tema: o que te dá paz de verdade",
+    "pergunta": "Ao pensar no que te dá paz de verdade, o que isso diz sobre você?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0062",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Entre nós: o que te dá paz de verdade",
+    "pergunta": "Ao falar sobre o que te dá paz de verdade, o que mudou no seu jeito de amar?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0063",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Nosso olhar sobre o que te dá paz de verdade",
+    "pergunta": "Quando você pensa no que te dá paz de verdade, que medo ou esperança aparece?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "fortalecer-confianca",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0064",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "O que nos une: o que te dá paz de verdade",
+    "pergunta": "Que verdade sobre você eu ainda não conheço no que te dá paz de verdade?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "PRO-0065",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Sobre o que te dá paz de verdade",
+    "pergunta": "O que você gostaria que eu entendesse profundamente sobre o que te dá paz de verdade?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0066",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Quando falamos do que te dá paz de verdade",
+    "pergunta": "Quando falamos sobre o que te dá paz de verdade, como isso influencia as escolhas que fazemos como casal?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "comunicacao",
+      "aprofundar-intimidade",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Almas Gêmeas"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0067",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Tema: o que te dá paz de verdade",
+    "pergunta": "Que lição de vida você tirou do que te dá paz de verdade?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0068",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Entre nós: o que te dá paz de verdade",
+    "pergunta": "Ao falar sobre o que te dá paz de verdade, o que você quer construir no futuro?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "PRO-0069",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Nosso olhar sobre o que te dá paz de verdade",
+    "pergunta": "Como você percebe alinhamento aos seus valores quando falamos sobre o que te dá paz de verdade?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0070",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "O que nos une: o que te dá paz de verdade",
+    "pergunta": "Que parte do que te dá paz de verdade você quer cuidar com mais delicadeza?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Crescimento",
+      "Confiança"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0071",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Sobre o que significa liberdade para você",
+    "pergunta": "Ao pensar no que significa liberdade para você, o que isso diz sobre você?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0072",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Quando falamos do que significa liberdade para você",
+    "pergunta": "Ao falar sobre o que significa liberdade para você, o que mudou no seu jeito de amar?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conhecer-melhor",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "PRO-0073",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Tema: o que significa liberdade para você",
+    "pergunta": "Quando você pensa no que significa liberdade para você, que medo ou esperança aparece?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0074",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Entre nós: o que significa liberdade para você",
+    "pergunta": "Que verdade sobre você eu ainda não conheço no que significa liberdade para você?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0075",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Nosso olhar sobre o que significa liberdade para você",
+    "pergunta": "O que você gostaria que eu entendesse profundamente sobre o que significa liberdade para você?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0076",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "O que nos une: o que significa liberdade para você",
+    "pergunta": "Quando falamos sobre o que significa liberdade para você, como isso influencia as escolhas que fazemos como casal?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Almas Gêmeas"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "PRO-0077",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Sobre o que significa liberdade para você",
+    "pergunta": "Que lição de vida você tirou do que significa liberdade para você?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0078",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Quando falamos do que significa liberdade para você",
+    "pergunta": "Ao falar sobre o que significa liberdade para você, o que você quer construir no futuro?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "fortalecer-confianca",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0079",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Tema: o que significa liberdade para você",
+    "pergunta": "Como você percebe alinhamento aos seus valores quando falamos sobre o que significa liberdade para você?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0080",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Entre nós: o que significa liberdade para você",
+    "pergunta": "Que parte do que significa liberdade para você você quer cuidar com mais delicadeza?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Crescimento",
+      "Confiança"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "PRO-0081",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Nosso olhar sobre o que te faz sentir pertencimento",
+    "pergunta": "Ao pensar no que te faz sentir pertencimento, o que isso diz sobre você?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "aprofundar-intimidade",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0082",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "O que nos une: o que te faz sentir pertencimento",
+    "pergunta": "Ao falar sobre o que te faz sentir pertencimento, o que mudou no seu jeito de amar?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0083",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Sobre o que te faz sentir pertencimento",
+    "pergunta": "Quando você pensa no que te faz sentir pertencimento, que medo ou esperança aparece?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0084",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Quando falamos do que te faz sentir pertencimento",
+    "pergunta": "Que verdade sobre você eu ainda não conheço no que te faz sentir pertencimento?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "PRO-0085",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Tema: o que te faz sentir pertencimento",
+    "pergunta": "O que você gostaria que eu entendesse profundamente sobre o que te faz sentir pertencimento?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0086",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Entre nós: o que te faz sentir pertencimento",
+    "pergunta": "Quando falamos sobre o que te faz sentir pertencimento, como isso influencia as escolhas que fazemos como casal?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Almas Gêmeas"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0087",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Nosso olhar sobre o que te faz sentir pertencimento",
+    "pergunta": "Que lição de vida você tirou do que te faz sentir pertencimento?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conhecer-melhor",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0088",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "O que nos une: o que te faz sentir pertencimento",
+    "pergunta": "Ao falar sobre o que te faz sentir pertencimento, o que você quer construir no futuro?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "PRO-0089",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Sobre o que te faz sentir pertencimento",
+    "pergunta": "Como você percebe alinhamento aos seus valores quando falamos sobre o que te faz sentir pertencimento?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0090",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Quando falamos do que te faz sentir pertencimento",
+    "pergunta": "Que parte do que te faz sentir pertencimento você quer cuidar com mais delicadeza?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Crescimento",
+      "Confiança"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0091",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Tema: como você lida com perdas",
+    "pergunta": "Ao pensar em como você lida com perdas, o que isso diz sobre você?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0092",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Entre nós: como você lida com perdas",
+    "pergunta": "Ao falar sobre como você lida com perdas, o que mudou no seu jeito de amar?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "PRO-0093",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Nosso olhar sobre como você lida com perdas",
+    "pergunta": "Quando você pensa em como você lida com perdas, que medo ou esperança aparece?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "fortalecer-confianca",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0094",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "O que nos une: como você lida com perdas",
+    "pergunta": "Que verdade sobre você eu ainda não conheço em como você lida com perdas?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0095",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Sobre como você lida com perdas",
+    "pergunta": "O que você gostaria que eu entendesse profundamente sobre como você lida com perdas?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0096",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Quando falamos de como você lida com perdas",
+    "pergunta": "Quando falamos sobre como você lida com perdas, como isso influencia as escolhas que fazemos como casal?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "aprofundar-intimidade",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Almas Gêmeas"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "PRO-0097",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Tema: como você lida com perdas",
+    "pergunta": "Que lição de vida você tirou de como você lida com perdas?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0098",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Entre nós: como você lida com perdas",
+    "pergunta": "Ao falar sobre como você lida com perdas, o que você quer construir no futuro?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0099",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Nosso olhar sobre como você lida com perdas",
+    "pergunta": "Como você percebe alinhamento aos seus valores quando falamos sobre como você lida com perdas?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0100",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "O que nos une: como você lida com perdas",
+    "pergunta": "Que parte de como você lida com perdas você quer cuidar com mais delicadeza?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Crescimento",
+      "Confiança"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "PRO-0101",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Sobre as escolhas que mais te orgulham",
+    "pergunta": "Ao pensar nas escolhas que mais te orgulham, o que isso diz sobre você?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0102",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Quando falamos das escolhas que mais te orgulham",
+    "pergunta": "Ao falar sobre as escolhas que mais te orgulham, o que mudou no seu jeito de amar?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conhecer-melhor",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0103",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Tema: as escolhas que mais te orgulham",
+    "pergunta": "Quando você pensa nas escolhas que mais te orgulham, que medo ou esperança aparece?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0104",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Entre nós: as escolhas que mais te orgulham",
+    "pergunta": "Que verdade sobre você eu ainda não conheço nas escolhas que mais te orgulham?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "PRO-0105",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Nosso olhar sobre as escolhas que mais te orgulham",
+    "pergunta": "O que você gostaria que eu entendesse profundamente sobre as escolhas que mais te orgulham?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0106",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "O que nos une: as escolhas que mais te orgulham",
+    "pergunta": "Quando falamos sobre as escolhas que mais te orgulham, como isso influencia as escolhas que fazemos como casal?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Almas Gêmeas"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0107",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Sobre as escolhas que mais te orgulham",
+    "pergunta": "Que lição de vida você tirou das escolhas que mais te orgulham?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0108",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Quando falamos das escolhas que mais te orgulham",
+    "pergunta": "Ao falar sobre as escolhas que mais te orgulham, o que você quer construir no futuro?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "fortalecer-confianca",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "PRO-0109",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Tema: as escolhas que mais te orgulham",
+    "pergunta": "Como você percebe alinhamento aos seus valores quando falamos sobre as escolhas que mais te orgulham?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0110",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Entre nós: as escolhas que mais te orgulham",
+    "pergunta": "Que parte das escolhas que mais te orgulham você quer cuidar com mais delicadeza?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Crescimento",
+      "Confiança"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0111",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Nosso olhar sobre o que você quer deixar como legado",
+    "pergunta": "Ao pensar no que você quer deixar como legado, o que isso diz sobre você?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "aprofundar-intimidade",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0112",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "O que nos une: o que você quer deixar como legado",
+    "pergunta": "Ao falar sobre o que você quer deixar como legado, o que mudou no seu jeito de amar?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "PRO-0113",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Sobre o que você quer deixar como legado",
+    "pergunta": "Quando você pensa no que você quer deixar como legado, que medo ou esperança aparece?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0114",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Quando falamos do que você quer deixar como legado",
+    "pergunta": "Que verdade sobre você eu ainda não conheço no que você quer deixar como legado?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0115",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Tema: o que você quer deixar como legado",
+    "pergunta": "O que você gostaria que eu entendesse profundamente sobre o que você quer deixar como legado?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0116",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Entre nós: o que você quer deixar como legado",
+    "pergunta": "Quando falamos sobre o que você quer deixar como legado, como isso influencia as escolhas que fazemos como casal?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Almas Gêmeas"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "PRO-0117",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Nosso olhar sobre o que você quer deixar como legado",
+    "pergunta": "Que lição de vida você tirou do que você quer deixar como legado?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conhecer-melhor",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0118",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "O que nos une: o que você quer deixar como legado",
+    "pergunta": "Ao falar sobre o que você quer deixar como legado, o que você quer construir no futuro?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0119",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Sobre o que você quer deixar como legado",
+    "pergunta": "Como você percebe alinhamento aos seus valores quando falamos sobre o que você quer deixar como legado?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0120",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Quando falamos do que você quer deixar como legado",
+    "pergunta": "Que parte do que você quer deixar como legado você quer cuidar com mais delicadeza?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Crescimento",
+      "Confiança"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "PRO-0121",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Tema: o que te ajuda a confiar",
+    "pergunta": "Ao pensar no que te ajuda a confiar, o que isso diz sobre você?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0122",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Entre nós: o que te ajuda a confiar",
+    "pergunta": "Ao falar sobre o que te ajuda a confiar, o que mudou no seu jeito de amar?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0123",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Nosso olhar sobre o que te ajuda a confiar",
+    "pergunta": "Quando você pensa no que te ajuda a confiar, que medo ou esperança aparece?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "fortalecer-confianca",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0124",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "O que nos une: o que te ajuda a confiar",
+    "pergunta": "Que verdade sobre você eu ainda não conheço no que te ajuda a confiar?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "PRO-0125",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Sobre o que te ajuda a confiar",
+    "pergunta": "O que você gostaria que eu entendesse profundamente sobre o que te ajuda a confiar?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0126",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Quando falamos do que te ajuda a confiar",
+    "pergunta": "Quando falamos sobre o que te ajuda a confiar, como isso influencia as escolhas que fazemos como casal?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "aprofundar-intimidade",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Almas Gêmeas"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0127",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Tema: o que te ajuda a confiar",
+    "pergunta": "Que lição de vida você tirou do que te ajuda a confiar?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0128",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Entre nós: o que te ajuda a confiar",
+    "pergunta": "Ao falar sobre o que te ajuda a confiar, o que você quer construir no futuro?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "PRO-0129",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Nosso olhar sobre o que te ajuda a confiar",
+    "pergunta": "Como você percebe alinhamento aos seus valores quando falamos sobre o que te ajuda a confiar?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0130",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "O que nos une: o que te ajuda a confiar",
+    "pergunta": "Que parte do que te ajuda a confiar você quer cuidar com mais delicadeza?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Crescimento",
+      "Confiança"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0131",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Sobre o que te faz sentir visto(a)",
+    "pergunta": "Ao pensar no que te faz sentir visto(a), o que isso diz sobre você?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "comunicacao",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0132",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Quando falamos do que te faz sentir visto(a)",
+    "pergunta": "Ao falar sobre o que te faz sentir visto(a), o que mudou no seu jeito de amar?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conhecer-melhor",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "PRO-0133",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Tema: o que te faz sentir visto(a)",
+    "pergunta": "Quando você pensa no que te faz sentir visto(a), que medo ou esperança aparece?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0134",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Entre nós: o que te faz sentir visto(a)",
+    "pergunta": "Que verdade sobre você eu ainda não conheço no que te faz sentir visto(a)?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0135",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Nosso olhar sobre o que te faz sentir visto(a)",
+    "pergunta": "O que você gostaria que eu entendesse profundamente sobre o que te faz sentir visto(a)?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0136",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "O que nos une: o que te faz sentir visto(a)",
+    "pergunta": "Quando falamos sobre o que te faz sentir visto(a), como isso influencia as escolhas que fazemos como casal?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Almas Gêmeas"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "PRO-0137",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Sobre o que te faz sentir visto(a)",
+    "pergunta": "Que lição de vida você tirou do que te faz sentir visto(a)?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0138",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Quando falamos do que te faz sentir visto(a)",
+    "pergunta": "Ao falar sobre o que te faz sentir visto(a), o que você quer construir no futuro?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "fortalecer-confianca",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0139",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Tema: o que te faz sentir visto(a)",
+    "pergunta": "Como você percebe alinhamento aos seus valores quando falamos sobre o que te faz sentir visto(a)?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0140",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Entre nós: o que te faz sentir visto(a)",
+    "pergunta": "Que parte do que te faz sentir visto(a) você quer cuidar com mais delicadeza?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Crescimento",
+      "Confiança"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "PRO-0141",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Nosso olhar sobre o que você precisa perdoar",
+    "pergunta": "Ao pensar no que você precisa perdoar, o que isso diz sobre você?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "aprofundar-intimidade",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0142",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "O que nos une: o que você precisa perdoar",
+    "pergunta": "Ao falar sobre o que você precisa perdoar, o que mudou no seu jeito de amar?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0143",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Sobre o que você precisa perdoar",
+    "pergunta": "Quando você pensa no que você precisa perdoar, que medo ou esperança aparece?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0144",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Quando falamos do que você precisa perdoar",
+    "pergunta": "Que verdade sobre você eu ainda não conheço no que você precisa perdoar?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "PRO-0145",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Tema: o que você precisa perdoar",
+    "pergunta": "O que você gostaria que eu entendesse profundamente sobre o que você precisa perdoar?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0146",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Entre nós: o que você precisa perdoar",
+    "pergunta": "Quando falamos sobre o que você precisa perdoar, como isso influencia as escolhas que fazemos como casal?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Almas Gêmeas"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0147",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Nosso olhar sobre o que você precisa perdoar",
+    "pergunta": "Que lição de vida você tirou do que você precisa perdoar?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conhecer-melhor",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0148",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "O que nos une: o que você precisa perdoar",
+    "pergunta": "Ao falar sobre o que você precisa perdoar, o que você quer construir no futuro?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "PRO-0149",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Sobre o que você precisa perdoar",
+    "pergunta": "Como você percebe alinhamento aos seus valores quando falamos sobre o que você precisa perdoar?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0150",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Quando falamos do que você precisa perdoar",
+    "pergunta": "Que parte do que você precisa perdoar você quer cuidar com mais delicadeza?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Crescimento",
+      "Confiança"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0151",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Tema: o que é compromisso para você",
+    "pergunta": "Ao pensar no que é compromisso para você, o que isso diz sobre você?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0152",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Entre nós: o que é compromisso para você",
+    "pergunta": "Ao falar sobre o que é compromisso para você, o que mudou no seu jeito de amar?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "PRO-0153",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Nosso olhar sobre o que é compromisso para você",
+    "pergunta": "Quando você pensa no que é compromisso para você, que medo ou esperança aparece?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "fortalecer-confianca",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0154",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "O que nos une: o que é compromisso para você",
+    "pergunta": "Que verdade sobre você eu ainda não conheço no que é compromisso para você?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0155",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Sobre o que é compromisso para você",
+    "pergunta": "O que você gostaria que eu entendesse profundamente sobre o que é compromisso para você?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0156",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Quando falamos do que é compromisso para você",
+    "pergunta": "Quando falamos sobre o que é compromisso para você, como isso influencia as escolhas que fazemos como casal?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "aprofundar-intimidade",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Almas Gêmeas"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "PRO-0157",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Tema: o que é compromisso para você",
+    "pergunta": "Que lição de vida você tirou do que é compromisso para você?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0158",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Entre nós: o que é compromisso para você",
+    "pergunta": "Ao falar sobre o que é compromisso para você, o que você quer construir no futuro?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0159",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Nosso olhar sobre o que é compromisso para você",
+    "pergunta": "Como você percebe alinhamento aos seus valores quando falamos sobre o que é compromisso para você?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0160",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "O que nos une: o que é compromisso para você",
+    "pergunta": "Que parte do que é compromisso para você você quer cuidar com mais delicadeza?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Crescimento",
+      "Confiança"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "PRO-0161",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Sobre como você quer ser lembrado(a)",
+    "pergunta": "Ao pensar em como você quer ser lembrado(a), o que isso diz sobre você?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0162",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Quando falamos de como você quer ser lembrado(a)",
+    "pergunta": "Ao falar sobre como você quer ser lembrado(a), o que mudou no seu jeito de amar?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conhecer-melhor",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0163",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Tema: como você quer ser lembrado(a)",
+    "pergunta": "Quando você pensa em como você quer ser lembrado(a), que medo ou esperança aparece?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0164",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Entre nós: como você quer ser lembrado(a)",
+    "pergunta": "Que verdade sobre você eu ainda não conheço em como você quer ser lembrado(a)?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "PRO-0165",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Nosso olhar sobre como você quer ser lembrado(a)",
+    "pergunta": "O que você gostaria que eu entendesse profundamente sobre como você quer ser lembrado(a)?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0166",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "O que nos une: como você quer ser lembrado(a)",
+    "pergunta": "Quando falamos sobre como você quer ser lembrado(a), como isso influencia as escolhas que fazemos como casal?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Almas Gêmeas"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0167",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Sobre como você quer ser lembrado(a)",
+    "pergunta": "Que lição de vida você tirou de como você quer ser lembrado(a)?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0168",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Quando falamos de como você quer ser lembrado(a)",
+    "pergunta": "Ao falar sobre como você quer ser lembrado(a), o que você quer construir no futuro?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "fortalecer-confianca",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "PRO-0169",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Tema: como você quer ser lembrado(a)",
+    "pergunta": "Como você percebe alinhamento aos seus valores quando falamos sobre como você quer ser lembrado(a)?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0170",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Entre nós: como você quer ser lembrado(a)",
+    "pergunta": "Que parte de como você quer ser lembrado(a) você quer cuidar com mais delicadeza?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Crescimento",
+      "Confiança"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0171",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Nosso olhar sobre o que te inspira a crescer",
+    "pergunta": "Ao pensar no que te inspira a crescer, o que isso diz sobre você?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "aprofundar-intimidade",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0172",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "O que nos une: o que te inspira a crescer",
+    "pergunta": "Ao falar sobre o que te inspira a crescer, o que mudou no seu jeito de amar?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "PRO-0173",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Sobre o que te inspira a crescer",
+    "pergunta": "Quando você pensa no que te inspira a crescer, que medo ou esperança aparece?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0174",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Quando falamos do que te inspira a crescer",
+    "pergunta": "Que verdade sobre você eu ainda não conheço no que te inspira a crescer?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0175",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Tema: o que te inspira a crescer",
+    "pergunta": "O que você gostaria que eu entendesse profundamente sobre o que te inspira a crescer?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0176",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Entre nós: o que te inspira a crescer",
+    "pergunta": "Quando falamos sobre o que te inspira a crescer, como isso influencia as escolhas que fazemos como casal?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Almas Gêmeas"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "PRO-0177",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Nosso olhar sobre o que te inspira a crescer",
+    "pergunta": "Que lição de vida você tirou do que te inspira a crescer?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conhecer-melhor",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0178",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "O que nos une: o que te inspira a crescer",
+    "pergunta": "Ao falar sobre o que te inspira a crescer, o que você quer construir no futuro?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0179",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Sobre o que te inspira a crescer",
+    "pergunta": "Como você percebe alinhamento aos seus valores quando falamos sobre o que te inspira a crescer?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0180",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Quando falamos do que te inspira a crescer",
+    "pergunta": "Que parte do que te inspira a crescer você quer cuidar com mais delicadeza?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Crescimento",
+      "Confiança"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "PRO-0181",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Tema: os valores que você não abre mão",
+    "pergunta": "Ao pensar nos valores que você não abre mão, o que isso diz sobre você?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0182",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Entre nós: os valores que você não abre mão",
+    "pergunta": "Ao falar sobre os valores que você não abre mão, o que mudou no seu jeito de amar?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0183",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Nosso olhar sobre os valores que você não abre mão",
+    "pergunta": "Quando você pensa nos valores que você não abre mão, que medo ou esperança aparece?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "fortalecer-confianca",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0184",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "O que nos une: os valores que você não abre mão",
+    "pergunta": "Que verdade sobre você eu ainda não conheço nos valores que você não abre mão?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "PRO-0185",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Sobre os valores que você não abre mão",
+    "pergunta": "O que você gostaria que eu entendesse profundamente sobre os valores que você não abre mão?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0186",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Quando falamos dos valores que você não abre mão",
+    "pergunta": "Quando falamos sobre os valores que você não abre mão, como isso influencia as escolhas que fazemos como casal?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "aprofundar-intimidade",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Almas Gêmeas"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0187",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Tema: os valores que você não abre mão",
+    "pergunta": "Que lição de vida você tirou dos valores que você não abre mão?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0188",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Entre nós: os valores que você não abre mão",
+    "pergunta": "Ao falar sobre os valores que você não abre mão, o que você quer construir no futuro?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "PRO-0189",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Nosso olhar sobre os valores que você não abre mão",
+    "pergunta": "Como você percebe alinhamento aos seus valores quando falamos sobre os valores que você não abre mão?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0190",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "O que nos une: os valores que você não abre mão",
+    "pergunta": "Que parte dos valores que você não abre mão você quer cuidar com mais delicadeza?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Crescimento",
+      "Confiança"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0191",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Sobre o que te faz recomeçar",
+    "pergunta": "Ao pensar no que te faz recomeçar, o que isso diz sobre você?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0192",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Quando falamos do que te faz recomeçar",
+    "pergunta": "Ao falar sobre o que te faz recomeçar, o que mudou no seu jeito de amar?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conhecer-melhor",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "PRO-0193",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Tema: o que te faz recomeçar",
+    "pergunta": "Quando você pensa no que te faz recomeçar, que medo ou esperança aparece?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0194",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Entre nós: o que te faz recomeçar",
+    "pergunta": "Que verdade sobre você eu ainda não conheço no que te faz recomeçar?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0195",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Nosso olhar sobre o que te faz recomeçar",
+    "pergunta": "O que você gostaria que eu entendesse profundamente sobre o que te faz recomeçar?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0196",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "O que nos une: o que te faz recomeçar",
+    "pergunta": "Quando falamos sobre o que te faz recomeçar, como isso influencia as escolhas que fazemos como casal?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "comunicacao",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Almas Gêmeas"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "PRO-0197",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Sobre o que te faz recomeçar",
+    "pergunta": "Que lição de vida você tirou do que te faz recomeçar?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0198",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Quando falamos do que te faz recomeçar",
+    "pergunta": "Ao falar sobre o que te faz recomeçar, o que você quer construir no futuro?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "fortalecer-confianca",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Romance"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0199",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Tema: o que te faz recomeçar",
+    "pergunta": "Como você percebe alinhamento aos seus valores quando falamos sobre o que te faz recomeçar?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "PRO-0200",
+    "categoria_principal": "Perguntas Profundas",
+    "titulo_curto": "Entre nós: o que te faz recomeçar",
+    "pergunta": "Que parte do que te faz recomeçar você quer cuidar com mais delicadeza?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Crescimento",
+      "Confiança"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  }
+]

@@ -1,0 +1,4990 @@
+[
+  {
+    "id": "FAM-0001",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Tema: a convivência com a família de cada um",
+    "pergunta": "Quando falamos sobre a convivência com a família de cada um, o que funciona bem para nós?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0002",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Entre nós: a convivência com a família de cada um",
+    "pergunta": "O que você gostaria de combinar melhor sobre a convivência com a família de cada um?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0003",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Nosso olhar sobre a convivência com a família de cada um",
+    "pergunta": "Como podemos cuidar com carinho da convivência com a família de cada um?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "criar-rituais",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0004",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "O que nos une: a convivência com a família de cada um",
+    "pergunta": "Qual gesto ajuda quando pensamos na convivência com a família de cada um?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0005",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Sobre a convivência com a família de cada um",
+    "pergunta": "O que te traz tranquilidade na convivência com a família de cada um?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0006",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Quando falamos da convivência com a família de cada um",
+    "pergunta": "Se precisarmos ajustar a convivência com a família de cada um, por onde começamos?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0007",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Tema: a convivência com a família de cada um",
+    "pergunta": "Que conversa sobre a convivência com a família de cada um você gostaria de ter?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "FAM-0008",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Entre nós: a convivência com a família de cada um",
+    "pergunta": "Quando falamos sobre a convivência com a família de cada um, como isso impacta a nossa rotina?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0009",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Nosso olhar sobre a convivência com a família de cada um",
+    "pergunta": "O que na convivência com a família de cada um fortalece nossa parceria?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "comunicacao",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0010",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "O que nos une: a convivência com a família de cada um",
+    "pergunta": "Qual seria a versão ideal da convivência com a família de cada um para nossa família?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Conexão Diária"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0011",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Sobre as visitas de fim de semana",
+    "pergunta": "Quando falamos sobre as visitas de fim de semana, o que funciona bem para nós?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0012",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Quando falamos das visitas de fim de semana",
+    "pergunta": "O que você gostaria de combinar melhor sobre as visitas de fim de semana?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0013",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Tema: as visitas de fim de semana",
+    "pergunta": "Como podemos cuidar com carinho das visitas de fim de semana?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0014",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Entre nós: as visitas de fim de semana",
+    "pergunta": "Qual gesto ajuda quando pensamos nas visitas de fim de semana?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "criar-rituais",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "FAM-0015",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Nosso olhar sobre as visitas de fim de semana",
+    "pergunta": "O que te traz tranquilidade nas visitas de fim de semana?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "fortalecer-confianca",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0016",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "O que nos une: as visitas de fim de semana",
+    "pergunta": "Se precisarmos ajustar as visitas de fim de semana, por onde começamos?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0017",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Sobre as visitas de fim de semana",
+    "pergunta": "Que conversa sobre as visitas de fim de semana você gostaria de ter?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0018",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Quando falamos das visitas de fim de semana",
+    "pergunta": "Quando falamos sobre as visitas de fim de semana, como isso impacta a nossa rotina?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "criar-rituais",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0019",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Tema: as visitas de fim de semana",
+    "pergunta": "O que nas visitas de fim de semana fortalece nossa parceria?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0020",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Entre nós: as visitas de fim de semana",
+    "pergunta": "Qual seria a versão ideal das visitas de fim de semana para nossa família?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0021",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Nosso olhar sobre as tradições de datas especiais",
+    "pergunta": "Quando falamos sobre as tradições de datas especiais, o que funciona bem para nós?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "FAM-0022",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "O que nos une: as tradições de datas especiais",
+    "pergunta": "O que você gostaria de combinar melhor sobre as tradições de datas especiais?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0023",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Sobre as tradições de datas especiais",
+    "pergunta": "Como podemos cuidar com carinho das tradições de datas especiais?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0024",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Quando falamos das tradições de datas especiais",
+    "pergunta": "Qual gesto ajuda quando pensamos nas tradições de datas especiais?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "comunicacao",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0025",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Tema: as tradições de datas especiais",
+    "pergunta": "O que te traz tranquilidade nas tradições de datas especiais?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0026",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Entre nós: as tradições de datas especiais",
+    "pergunta": "Se precisarmos ajustar as tradições de datas especiais, por onde começamos?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0027",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Nosso olhar sobre as tradições de datas especiais",
+    "pergunta": "Que conversa sobre as tradições de datas especiais você gostaria de ter?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0028",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "O que nos une: as tradições de datas especiais",
+    "pergunta": "Quando falamos sobre as tradições de datas especiais, como isso impacta a nossa rotina?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "FAM-0029",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Sobre as tradições de datas especiais",
+    "pergunta": "O que nas tradições de datas especiais fortalece nossa parceria?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0030",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Quando falamos das tradições de datas especiais",
+    "pergunta": "Qual seria a versão ideal das tradições de datas especiais para nossa família?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "fortalecer-confianca",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Conexão Diária"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0031",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Tema: o jeito de dividir tarefas da casa",
+    "pergunta": "Quando falamos sobre o jeito de dividir tarefas da casa, o que funciona bem para nós?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0032",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Entre nós: o jeito de dividir tarefas da casa",
+    "pergunta": "O que você gostaria de combinar melhor sobre o jeito de dividir tarefas da casa?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0033",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Nosso olhar sobre o jeito de dividir tarefas da casa",
+    "pergunta": "Como podemos cuidar com carinho do jeito de dividir tarefas da casa?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "criar-rituais",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0034",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "O que nos une: o jeito de dividir tarefas da casa",
+    "pergunta": "Qual gesto ajuda quando pensamos no jeito de dividir tarefas da casa?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0035",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Sobre o jeito de dividir tarefas da casa",
+    "pergunta": "O que te traz tranquilidade no jeito de dividir tarefas da casa?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "FAM-0036",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Quando falamos do jeito de dividir tarefas da casa",
+    "pergunta": "Se precisarmos ajustar o jeito de dividir tarefas da casa, por onde começamos?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0037",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Tema: o jeito de dividir tarefas da casa",
+    "pergunta": "Que conversa sobre o jeito de dividir tarefas da casa você gostaria de ter?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0038",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Entre nós: o jeito de dividir tarefas da casa",
+    "pergunta": "Quando falamos sobre o jeito de dividir tarefas da casa, como isso impacta a nossa rotina?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0039",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Nosso olhar sobre o jeito de dividir tarefas da casa",
+    "pergunta": "O que no jeito de dividir tarefas da casa fortalece nossa parceria?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "comunicacao",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0040",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "O que nos une: o jeito de dividir tarefas da casa",
+    "pergunta": "Qual seria a versão ideal do jeito de dividir tarefas da casa para nossa família?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "comunicacao",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0041",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Sobre o cuidado com a casa",
+    "pergunta": "Quando falamos sobre o cuidado com a casa, o que funciona bem para nós?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0042",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Quando falamos do cuidado com a casa",
+    "pergunta": "O que você gostaria de combinar melhor sobre o cuidado com a casa?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "FAM-0043",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Tema: o cuidado com a casa",
+    "pergunta": "Como podemos cuidar com carinho do cuidado com a casa?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0044",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Entre nós: o cuidado com a casa",
+    "pergunta": "Qual gesto ajuda quando pensamos no cuidado com a casa?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0045",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Nosso olhar sobre o cuidado com a casa",
+    "pergunta": "O que te traz tranquilidade no cuidado com a casa?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "fortalecer-confianca",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0046",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "O que nos une: o cuidado com a casa",
+    "pergunta": "Se precisarmos ajustar o cuidado com a casa, por onde começamos?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0047",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Sobre o cuidado com a casa",
+    "pergunta": "Que conversa sobre o cuidado com a casa você gostaria de ter?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0048",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Quando falamos do cuidado com a casa",
+    "pergunta": "Quando falamos sobre o cuidado com a casa, como isso impacta a nossa rotina?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "criar-rituais",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0049",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Tema: o cuidado com a casa",
+    "pergunta": "O que no cuidado com a casa fortalece nossa parceria?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "FAM-0050",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Entre nós: o cuidado com a casa",
+    "pergunta": "Qual seria a versão ideal do cuidado com a casa para nossa família?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Conexão Diária"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0051",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Nosso olhar sobre as regras que fazem sentido para nós",
+    "pergunta": "Quando falamos sobre as regras que fazem sentido para nós, o que funciona bem para nós?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0052",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "O que nos une: as regras que fazem sentido para nós",
+    "pergunta": "O que você gostaria de combinar melhor sobre as regras que fazem sentido para nós?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0053",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Sobre as regras que fazem sentido para nós",
+    "pergunta": "Como podemos cuidar com carinho das regras que fazem sentido para nós?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0054",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Quando falamos das regras que fazem sentido para nós",
+    "pergunta": "Qual gesto ajuda quando pensamos nas regras que fazem sentido para nós?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "comunicacao",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0055",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Tema: as regras que fazem sentido para nós",
+    "pergunta": "O que te traz tranquilidade nas regras que fazem sentido para nós?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0056",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Entre nós: as regras que fazem sentido para nós",
+    "pergunta": "Se precisarmos ajustar as regras que fazem sentido para nós, por onde começamos?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "FAM-0057",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Nosso olhar sobre as regras que fazem sentido para nós",
+    "pergunta": "Que conversa sobre as regras que fazem sentido para nós você gostaria de ter?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0058",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "O que nos une: as regras que fazem sentido para nós",
+    "pergunta": "Quando falamos sobre as regras que fazem sentido para nós, como isso impacta a nossa rotina?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0059",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Sobre as regras que fazem sentido para nós",
+    "pergunta": "O que nas regras que fazem sentido para nós fortalece nossa parceria?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0060",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Quando falamos das regras que fazem sentido para nós",
+    "pergunta": "Qual seria a versão ideal das regras que fazem sentido para nós para nossa família?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "fortalecer-confianca",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0061",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Tema: como apoiamos a carreira um do outro",
+    "pergunta": "Quando falamos sobre como apoiamos a carreira um do outro, o que funciona bem para nós?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0062",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Entre nós: como apoiamos a carreira um do outro",
+    "pergunta": "O que você gostaria de combinar melhor sobre como apoiamos a carreira um do outro?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0063",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Nosso olhar sobre como apoiamos a carreira um do outro",
+    "pergunta": "Como podemos cuidar com carinho de como apoiamos a carreira um do outro?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "criar-rituais",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "FAM-0064",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "O que nos une: como apoiamos a carreira um do outro",
+    "pergunta": "Qual gesto ajuda quando pensamos em como apoiamos a carreira um do outro?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0065",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Sobre como apoiamos a carreira um do outro",
+    "pergunta": "O que te traz tranquilidade em como apoiamos a carreira um do outro?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0066",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Quando falamos de como apoiamos a carreira um do outro",
+    "pergunta": "Se precisarmos ajustar como apoiamos a carreira um do outro, por onde começamos?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0067",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Tema: como apoiamos a carreira um do outro",
+    "pergunta": "Que conversa sobre como apoiamos a carreira um do outro você gostaria de ter?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0068",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Entre nós: como apoiamos a carreira um do outro",
+    "pergunta": "Quando falamos sobre como apoiamos a carreira um do outro, como isso impacta a nossa rotina?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0069",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Nosso olhar sobre como apoiamos a carreira um do outro",
+    "pergunta": "O que em como apoiamos a carreira um do outro fortalece nossa parceria?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "comunicacao",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0070",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "O que nos une: como apoiamos a carreira um do outro",
+    "pergunta": "Qual seria a versão ideal de como apoiamos a carreira um do outro para nossa família?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Conexão Diária"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "FAM-0071",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Sobre o equilíbrio entre casal e família",
+    "pergunta": "Quando falamos sobre o equilíbrio entre casal e família, o que funciona bem para nós?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0072",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Quando falamos do equilíbrio entre casal e família",
+    "pergunta": "O que você gostaria de combinar melhor sobre o equilíbrio entre casal e família?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0073",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Tema: o equilíbrio entre casal e família",
+    "pergunta": "Como podemos cuidar com carinho do equilíbrio entre casal e família?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0074",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Entre nós: o equilíbrio entre casal e família",
+    "pergunta": "Qual gesto ajuda quando pensamos no equilíbrio entre casal e família?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0075",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Nosso olhar sobre o equilíbrio entre casal e família",
+    "pergunta": "O que te traz tranquilidade no equilíbrio entre casal e família?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "fortalecer-confianca",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0076",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "O que nos une: o equilíbrio entre casal e família",
+    "pergunta": "Se precisarmos ajustar o equilíbrio entre casal e família, por onde começamos?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0077",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Sobre o equilíbrio entre casal e família",
+    "pergunta": "Que conversa sobre o equilíbrio entre casal e família você gostaria de ter?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "FAM-0078",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Quando falamos do equilíbrio entre casal e família",
+    "pergunta": "Quando falamos sobre o equilíbrio entre casal e família, como isso impacta a nossa rotina?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "criar-rituais",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0079",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Tema: o equilíbrio entre casal e família",
+    "pergunta": "O que no equilíbrio entre casal e família fortalece nossa parceria?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "criar-rituais",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0080",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Entre nós: o equilíbrio entre casal e família",
+    "pergunta": "Qual seria a versão ideal do equilíbrio entre casal e família para nossa família?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0081",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Nosso olhar sobre as decisões importantes do lar",
+    "pergunta": "Quando falamos sobre as decisões importantes do lar, o que funciona bem para nós?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0082",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "O que nos une: as decisões importantes do lar",
+    "pergunta": "O que você gostaria de combinar melhor sobre as decisões importantes do lar?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0083",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Sobre as decisões importantes do lar",
+    "pergunta": "Como podemos cuidar com carinho das decisões importantes do lar?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0084",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Quando falamos das decisões importantes do lar",
+    "pergunta": "Qual gesto ajuda quando pensamos nas decisões importantes do lar?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "comunicacao",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "FAM-0085",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Tema: as decisões importantes do lar",
+    "pergunta": "O que te traz tranquilidade nas decisões importantes do lar?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0086",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Entre nós: as decisões importantes do lar",
+    "pergunta": "Se precisarmos ajustar as decisões importantes do lar, por onde começamos?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0087",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Nosso olhar sobre as decisões importantes do lar",
+    "pergunta": "Que conversa sobre as decisões importantes do lar você gostaria de ter?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0088",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "O que nos une: as decisões importantes do lar",
+    "pergunta": "Quando falamos sobre as decisões importantes do lar, como isso impacta a nossa rotina?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0089",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Sobre as decisões importantes do lar",
+    "pergunta": "O que nas decisões importantes do lar fortalece nossa parceria?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0090",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Quando falamos das decisões importantes do lar",
+    "pergunta": "Qual seria a versão ideal das decisões importantes do lar para nossa família?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "fortalecer-confianca",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Conexão Diária"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0091",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Tema: o respeito às diferenças familiares",
+    "pergunta": "Quando falamos sobre o respeito às diferenças familiares, o que funciona bem para nós?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "FAM-0092",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Entre nós: o respeito às diferenças familiares",
+    "pergunta": "O que você gostaria de combinar melhor sobre o respeito às diferenças familiares?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0093",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Nosso olhar sobre o respeito às diferenças familiares",
+    "pergunta": "Como podemos cuidar com carinho do respeito às diferenças familiares?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "criar-rituais",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0094",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "O que nos une: o respeito às diferenças familiares",
+    "pergunta": "Qual gesto ajuda quando pensamos no respeito às diferenças familiares?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0095",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Sobre o respeito às diferenças familiares",
+    "pergunta": "O que te traz tranquilidade no respeito às diferenças familiares?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0096",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Quando falamos do respeito às diferenças familiares",
+    "pergunta": "Se precisarmos ajustar o respeito às diferenças familiares, por onde começamos?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0097",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Tema: o respeito às diferenças familiares",
+    "pergunta": "Que conversa sobre o respeito às diferenças familiares você gostaria de ter?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0098",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Entre nós: o respeito às diferenças familiares",
+    "pergunta": "Quando falamos sobre o respeito às diferenças familiares, como isso impacta a nossa rotina?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "FAM-0099",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Nosso olhar sobre o respeito às diferenças familiares",
+    "pergunta": "O que no respeito às diferenças familiares fortalece nossa parceria?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "comunicacao",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0100",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "O que nos une: o respeito às diferenças familiares",
+    "pergunta": "Qual seria a versão ideal do respeito às diferenças familiares para nossa família?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0101",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Sobre as escolhas sobre onde morar",
+    "pergunta": "Quando falamos sobre as escolhas sobre onde morar, o que funciona bem para nós?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0102",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Quando falamos das escolhas sobre onde morar",
+    "pergunta": "O que você gostaria de combinar melhor sobre as escolhas sobre onde morar?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0103",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Tema: as escolhas sobre onde morar",
+    "pergunta": "Como podemos cuidar com carinho das escolhas sobre onde morar?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0104",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Entre nós: as escolhas sobre onde morar",
+    "pergunta": "Qual gesto ajuda quando pensamos nas escolhas sobre onde morar?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0105",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Nosso olhar sobre as escolhas sobre onde morar",
+    "pergunta": "O que te traz tranquilidade nas escolhas sobre onde morar?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "comunicacao",
+      "fortalecer-confianca",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "FAM-0106",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "O que nos une: as escolhas sobre onde morar",
+    "pergunta": "Se precisarmos ajustar as escolhas sobre onde morar, por onde começamos?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0107",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Sobre as escolhas sobre onde morar",
+    "pergunta": "Que conversa sobre as escolhas sobre onde morar você gostaria de ter?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0108",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Quando falamos das escolhas sobre onde morar",
+    "pergunta": "Quando falamos sobre as escolhas sobre onde morar, como isso impacta a nossa rotina?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "criar-rituais",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0109",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Tema: as escolhas sobre onde morar",
+    "pergunta": "O que nas escolhas sobre onde morar fortalece nossa parceria?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0110",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Entre nós: as escolhas sobre onde morar",
+    "pergunta": "Qual seria a versão ideal das escolhas sobre onde morar para nossa família?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Conexão Diária"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0111",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Nosso olhar sobre o planejamento de gastos da casa",
+    "pergunta": "Quando falamos sobre o planejamento de gastos da casa, o que funciona bem para nós?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0112",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "O que nos une: o planejamento de gastos da casa",
+    "pergunta": "O que você gostaria de combinar melhor sobre o planejamento de gastos da casa?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "FAM-0113",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Sobre o planejamento de gastos da casa",
+    "pergunta": "Como podemos cuidar com carinho do planejamento de gastos da casa?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0114",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Quando falamos do planejamento de gastos da casa",
+    "pergunta": "Qual gesto ajuda quando pensamos no planejamento de gastos da casa?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "comunicacao",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0115",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Tema: o planejamento de gastos da casa",
+    "pergunta": "O que te traz tranquilidade no planejamento de gastos da casa?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0116",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Entre nós: o planejamento de gastos da casa",
+    "pergunta": "Se precisarmos ajustar o planejamento de gastos da casa, por onde começamos?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0117",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Nosso olhar sobre o planejamento de gastos da casa",
+    "pergunta": "Que conversa sobre o planejamento de gastos da casa você gostaria de ter?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0118",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "O que nos une: o planejamento de gastos da casa",
+    "pergunta": "Quando falamos sobre o planejamento de gastos da casa, como isso impacta a nossa rotina?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0119",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Sobre o planejamento de gastos da casa",
+    "pergunta": "O que no planejamento de gastos da casa fortalece nossa parceria?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "FAM-0120",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Quando falamos do planejamento de gastos da casa",
+    "pergunta": "Qual seria a versão ideal do planejamento de gastos da casa para nossa família?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "fortalecer-confianca",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0121",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Tema: a organização do dia a dia",
+    "pergunta": "Quando falamos sobre a organização do dia a dia, o que funciona bem para nós?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0122",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Entre nós: a organização do dia a dia",
+    "pergunta": "O que você gostaria de combinar melhor sobre a organização do dia a dia?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0123",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Nosso olhar sobre a organização do dia a dia",
+    "pergunta": "Como podemos cuidar com carinho da organização do dia a dia?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "criar-rituais",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0124",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "O que nos une: a organização do dia a dia",
+    "pergunta": "Qual gesto ajuda quando pensamos na organização do dia a dia?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0125",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Sobre a organização do dia a dia",
+    "pergunta": "O que te traz tranquilidade na organização do dia a dia?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0126",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Quando falamos da organização do dia a dia",
+    "pergunta": "Se precisarmos ajustar a organização do dia a dia, por onde começamos?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "FAM-0127",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Tema: a organização do dia a dia",
+    "pergunta": "Que conversa sobre a organização do dia a dia você gostaria de ter?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0128",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Entre nós: a organização do dia a dia",
+    "pergunta": "Quando falamos sobre a organização do dia a dia, como isso impacta a nossa rotina?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0129",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Nosso olhar sobre a organização do dia a dia",
+    "pergunta": "O que na organização do dia a dia fortalece nossa parceria?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "comunicacao",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0130",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "O que nos une: a organização do dia a dia",
+    "pergunta": "Qual seria a versão ideal da organização do dia a dia para nossa família?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Conexão Diária"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0131",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Sobre como recebemos pessoas em casa",
+    "pergunta": "Quando falamos sobre como recebemos pessoas em casa, o que funciona bem para nós?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0132",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Quando falamos de como recebemos pessoas em casa",
+    "pergunta": "O que você gostaria de combinar melhor sobre como recebemos pessoas em casa?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0133",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Tema: como recebemos pessoas em casa",
+    "pergunta": "Como podemos cuidar com carinho de como recebemos pessoas em casa?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "FAM-0134",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Entre nós: como recebemos pessoas em casa",
+    "pergunta": "Qual gesto ajuda quando pensamos em como recebemos pessoas em casa?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0135",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Nosso olhar sobre como recebemos pessoas em casa",
+    "pergunta": "O que te traz tranquilidade em como recebemos pessoas em casa?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "fortalecer-confianca",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0136",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "O que nos une: como recebemos pessoas em casa",
+    "pergunta": "Se precisarmos ajustar como recebemos pessoas em casa, por onde começamos?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0137",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Sobre como recebemos pessoas em casa",
+    "pergunta": "Que conversa sobre como recebemos pessoas em casa você gostaria de ter?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0138",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Quando falamos de como recebemos pessoas em casa",
+    "pergunta": "Quando falamos sobre como recebemos pessoas em casa, como isso impacta a nossa rotina?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "criar-rituais",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0139",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Tema: como recebemos pessoas em casa",
+    "pergunta": "O que em como recebemos pessoas em casa fortalece nossa parceria?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0140",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Entre nós: como recebemos pessoas em casa",
+    "pergunta": "Qual seria a versão ideal de como recebemos pessoas em casa para nossa família?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "FAM-0141",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Nosso olhar sobre o tempo de descanso em família",
+    "pergunta": "Quando falamos sobre o tempo de descanso em família, o que funciona bem para nós?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0142",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "O que nos une: o tempo de descanso em família",
+    "pergunta": "O que você gostaria de combinar melhor sobre o tempo de descanso em família?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0143",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Sobre o tempo de descanso em família",
+    "pergunta": "Como podemos cuidar com carinho do tempo de descanso em família?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0144",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Quando falamos do tempo de descanso em família",
+    "pergunta": "Qual gesto ajuda quando pensamos no tempo de descanso em família?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "criar-rituais",
+      "comunicacao",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0145",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Tema: o tempo de descanso em família",
+    "pergunta": "O que te traz tranquilidade no tempo de descanso em família?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0146",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Entre nós: o tempo de descanso em família",
+    "pergunta": "Se precisarmos ajustar o tempo de descanso em família, por onde começamos?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0147",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Nosso olhar sobre o tempo de descanso em família",
+    "pergunta": "Que conversa sobre o tempo de descanso em família você gostaria de ter?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "FAM-0148",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "O que nos une: o tempo de descanso em família",
+    "pergunta": "Quando falamos sobre o tempo de descanso em família, como isso impacta a nossa rotina?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0149",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Sobre o tempo de descanso em família",
+    "pergunta": "O que no tempo de descanso em família fortalece nossa parceria?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0150",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Quando falamos do tempo de descanso em família",
+    "pergunta": "Qual seria a versão ideal do tempo de descanso em família para nossa família?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "fortalecer-confianca",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Conexão Diária"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0151",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Tema: como lidamos com opiniões de parentes",
+    "pergunta": "Quando falamos sobre como lidamos com opiniões de parentes, o que funciona bem para nós?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0152",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Entre nós: como lidamos com opiniões de parentes",
+    "pergunta": "O que você gostaria de combinar melhor sobre como lidamos com opiniões de parentes?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0153",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Nosso olhar sobre como lidamos com opiniões de parentes",
+    "pergunta": "Como podemos cuidar com carinho de como lidamos com opiniões de parentes?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "criar-rituais",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0154",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "O que nos une: como lidamos com opiniões de parentes",
+    "pergunta": "Qual gesto ajuda quando pensamos em como lidamos com opiniões de parentes?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "FAM-0155",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Sobre como lidamos com opiniões de parentes",
+    "pergunta": "O que te traz tranquilidade em como lidamos com opiniões de parentes?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0156",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Quando falamos de como lidamos com opiniões de parentes",
+    "pergunta": "Se precisarmos ajustar como lidamos com opiniões de parentes, por onde começamos?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0157",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Tema: como lidamos com opiniões de parentes",
+    "pergunta": "Que conversa sobre como lidamos com opiniões de parentes você gostaria de ter?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0158",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Entre nós: como lidamos com opiniões de parentes",
+    "pergunta": "Quando falamos sobre como lidamos com opiniões de parentes, como isso impacta a nossa rotina?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0159",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Nosso olhar sobre como lidamos com opiniões de parentes",
+    "pergunta": "O que em como lidamos com opiniões de parentes fortalece nossa parceria?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "comunicacao",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0160",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "O que nos une: como lidamos com opiniões de parentes",
+    "pergunta": "Qual seria a versão ideal de como lidamos com opiniões de parentes para nossa família?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0161",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Sobre o apoio em momentos de doença na família",
+    "pergunta": "Quando falamos sobre o apoio em momentos de doença na família, o que funciona bem para nós?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "FAM-0162",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Quando falamos do apoio em momentos de doença na família",
+    "pergunta": "O que você gostaria de combinar melhor sobre o apoio em momentos de doença na família?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0163",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Tema: o apoio em momentos de doença na família",
+    "pergunta": "Como podemos cuidar com carinho do apoio em momentos de doença na família?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0164",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Entre nós: o apoio em momentos de doença na família",
+    "pergunta": "Qual gesto ajuda quando pensamos no apoio em momentos de doença na família?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0165",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Nosso olhar sobre o apoio em momentos de doença na família",
+    "pergunta": "O que te traz tranquilidade no apoio em momentos de doença na família?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "fortalecer-confianca",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0166",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "O que nos une: o apoio em momentos de doença na família",
+    "pergunta": "Se precisarmos ajustar o apoio em momentos de doença na família, por onde começamos?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0167",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Sobre o apoio em momentos de doença na família",
+    "pergunta": "Que conversa sobre o apoio em momentos de doença na família você gostaria de ter?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0168",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Quando falamos do apoio em momentos de doença na família",
+    "pergunta": "Quando falamos sobre o apoio em momentos de doença na família, como isso impacta a nossa rotina?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "criar-rituais",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "FAM-0169",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Tema: o apoio em momentos de doença na família",
+    "pergunta": "O que no apoio em momentos de doença na família fortalece nossa parceria?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0170",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Entre nós: o apoio em momentos de doença na família",
+    "pergunta": "Qual seria a versão ideal do apoio em momentos de doença na família para nossa família?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "comunicacao",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Conexão Diária"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0171",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Nosso olhar sobre a convivência com crianças na família",
+    "pergunta": "Quando falamos sobre a convivência com crianças na família, o que funciona bem para nós?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0172",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "O que nos une: a convivência com crianças na família",
+    "pergunta": "O que você gostaria de combinar melhor sobre a convivência com crianças na família?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0173",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Sobre a convivência com crianças na família",
+    "pergunta": "Como podemos cuidar com carinho da convivência com crianças na família?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0174",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Quando falamos da convivência com crianças na família",
+    "pergunta": "Qual gesto ajuda quando pensamos na convivência com crianças na família?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "comunicacao",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0175",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Tema: a convivência com crianças na família",
+    "pergunta": "O que te traz tranquilidade na convivência com crianças na família?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "FAM-0176",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Entre nós: a convivência com crianças na família",
+    "pergunta": "Se precisarmos ajustar a convivência com crianças na família, por onde começamos?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0177",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Nosso olhar sobre a convivência com crianças na família",
+    "pergunta": "Que conversa sobre a convivência com crianças na família você gostaria de ter?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0178",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "O que nos une: a convivência com crianças na família",
+    "pergunta": "Quando falamos sobre a convivência com crianças na família, como isso impacta a nossa rotina?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0179",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Sobre a convivência com crianças na família",
+    "pergunta": "O que na convivência com crianças na família fortalece nossa parceria?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0180",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Quando falamos da convivência com crianças na família",
+    "pergunta": "Qual seria a versão ideal da convivência com crianças na família para nossa família?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "fortalecer-confianca",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0181",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Tema: as viagens em família",
+    "pergunta": "Quando falamos sobre as viagens em família, o que funciona bem para nós?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0182",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Entre nós: as viagens em família",
+    "pergunta": "O que você gostaria de combinar melhor sobre as viagens em família?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "FAM-0183",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Nosso olhar sobre as viagens em família",
+    "pergunta": "Como podemos cuidar com carinho das viagens em família?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "criar-rituais",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0184",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "O que nos une: as viagens em família",
+    "pergunta": "Qual gesto ajuda quando pensamos nas viagens em família?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0185",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Sobre as viagens em família",
+    "pergunta": "O que te traz tranquilidade nas viagens em família?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0186",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Quando falamos das viagens em família",
+    "pergunta": "Se precisarmos ajustar as viagens em família, por onde começamos?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0187",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Tema: as viagens em família",
+    "pergunta": "Que conversa sobre as viagens em família você gostaria de ter?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0188",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Entre nós: as viagens em família",
+    "pergunta": "Quando falamos sobre as viagens em família, como isso impacta a nossa rotina?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0189",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Nosso olhar sobre as viagens em família",
+    "pergunta": "O que nas viagens em família fortalece nossa parceria?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "comunicacao",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "1min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "FAM-0190",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "O que nos une: as viagens em família",
+    "pergunta": "Qual seria a versão ideal das viagens em família para nossa família?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Conexão Diária"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0191",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Sobre os rituais simples do nosso lar",
+    "pergunta": "Quando falamos sobre os rituais simples do nosso lar, o que funciona bem para nós?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0192",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Quando falamos dos rituais simples do nosso lar",
+    "pergunta": "O que você gostaria de combinar melhor sobre os rituais simples do nosso lar?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0193",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Tema: os rituais simples do nosso lar",
+    "pergunta": "Como podemos cuidar com carinho dos rituais simples do nosso lar?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0194",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Entre nós: os rituais simples do nosso lar",
+    "pergunta": "Qual gesto ajuda quando pensamos nos rituais simples do nosso lar?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0195",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Nosso olhar sobre os rituais simples do nosso lar",
+    "pergunta": "O que te traz tranquilidade nos rituais simples do nosso lar?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "fortalecer-confianca",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0196",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "O que nos une: os rituais simples do nosso lar",
+    "pergunta": "Se precisarmos ajustar os rituais simples do nosso lar, por onde começamos?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "fortalecer-confianca",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "FAM-0197",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Sobre os rituais simples do nosso lar",
+    "pergunta": "Que conversa sobre os rituais simples do nosso lar você gostaria de ter?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0198",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Quando falamos dos rituais simples do nosso lar",
+    "pergunta": "Quando falamos sobre os rituais simples do nosso lar, como isso impacta a nossa rotina?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "criar-rituais",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0199",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Tema: os rituais simples do nosso lar",
+    "pergunta": "O que nos rituais simples do nosso lar fortalece nossa parceria?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "FAM-0200",
+    "categoria_principal": "Modo Família",
+    "titulo_curto": "Entre nós: os rituais simples do nosso lar",
+    "pergunta": "Qual seria a versão ideal dos rituais simples do nosso lar para nossa família?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "fortalecer-confianca"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  }
+]
