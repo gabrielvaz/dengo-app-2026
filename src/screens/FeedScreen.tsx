@@ -117,12 +117,22 @@ export const FeedScreen = () => {
     );
   }
 
-  if (ritualCompleted || currentIndex >= cards.length) {
+  if (ritualCompleted || (currentIndex >= cards.length && cards.length > 0)) {
     return (
       <SafeAreaView style={styles.container}>
         <View style={styles.emptyContainer}>
-          <Animated.Text style={styles.title}>O ritual de hoje terminou.</Animated.Text>
-          <Animated.Text style={styles.subtitle}>Volte amanhã para mais momentos juntos.</Animated.Text>
+          <Text style={styles.ritualIcon}>✨</Text>
+          <Text style={[styles.title, { fontFamily: 'serif' }]}>O ritual de hoje floresceu.</Text>
+          <Text style={styles.subtitle}>
+            Que estas palavras ecoem entre vocês até o próximo encontro.
+          </Text>
+          
+          <TouchableOpacity style={styles.resetButton} onPress={async () => {
+            await RitualService.resetRitual();
+            // Force reload or navigate
+          }}>
+            <Text style={styles.resetButtonText}>Refazer (Debug)</Text>
+          </TouchableOpacity>
         </View>
       </SafeAreaView>
     );
@@ -130,6 +140,18 @@ export const FeedScreen = () => {
 
   return (
     <SafeAreaView style={styles.container}>
+      <View style={styles.progressContainer}>
+        {cards.map((_, index) => (
+          <View 
+            key={index} 
+            style={[
+              styles.progressBar, 
+              index <= currentIndex && styles.progressBarActive
+            ]} 
+          />
+        ))}
+      </View>
+      
       <View style={styles.cardStack}>
         {/* Next Card (Background) */}
         {currentIndex + 1 < cards.length && (
@@ -174,6 +196,25 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     padding: theme.spacing.xl,
   },
+  ritualIcon: {
+    fontSize: 48,
+    marginBottom: theme.spacing.l,
+  },
+  progressContainer: {
+    flexDirection: 'row',
+    paddingHorizontal: theme.spacing.xl,
+    paddingTop: theme.spacing.m,
+    gap: 4,
+  },
+  progressBar: {
+    flex: 1,
+    height: 4,
+    backgroundColor: '#E0E0E0',
+    borderRadius: 2,
+  },
+  progressBarActive: {
+    backgroundColor: theme.colors.primary,
+  },
   title: {
     fontSize: 24,
     fontWeight: 'bold',
@@ -185,5 +226,16 @@ const styles = StyleSheet.create({
     fontSize: 16,
     color: theme.colors.textLight,
     textAlign: 'center',
+    lineHeight: 24,
+  },
+  resetButton: {
+    marginTop: theme.spacing.xl,
+    padding: theme.spacing.m,
+  },
+  resetButtonText: {
+    color: theme.colors.primary,
+    textDecorationLine: 'underline',
+    fontSize: 14,
+    opacity: 0.5,
   },
 });
