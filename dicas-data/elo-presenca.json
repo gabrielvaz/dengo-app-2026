@@ -1,0 +1,1301 @@
+{
+  "elo": {
+    "id": "ELO-PRE",
+    "nome": "Elo da Presença",
+    "descricao": "Constrói atenção mútua com micro-momentos de presença no dia a dia.",
+    "tipo_de_casal": "Casais com rotina corrida ou que se veem pouco.",
+    "objetivo": "Aumentar a sensação de ser visto(a) e ouvido(a) em pequenos encontros diários.",
+    "progressao": {
+      "total_etapas": 20,
+      "descricao": "Do encontro rápido ao apoio em decisões e dias difíceis."
+    }
+  },
+  "artigos": [
+    {
+      "id": "PRE-001",
+      "titulo": "O minuto de chegada",
+      "nivel": 1,
+      "fase": "base",
+      "tempo_leitura": "2-3 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 1/20 do Elo da Presença, o foco é a prática do minuto de chegada. A proposta é trazer mais presença mesmo em dias corridos com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção ao minuto de chegada. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática do minuto de chegada acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor do minuto de chegada não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: as conversas viram atualização rápida. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é vocês se encontram e já abrem o celular. Esses momentos são oportunidades para testar o minuto de chegada sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: reservem dois minutos para praticar o minuto de chegada. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"O que você precisa de mim no minuto de chegada?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Qual pequeno gesto ajudaria no minuto de chegada hoje?\" e escolham um gesto de um olhar atento como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: transformar o momento em cobrança. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é querer presença perfeita e longa. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"O que você precisa de mim no minuto de chegada?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Qual pequeno gesto ajudaria no minuto de chegada hoje?\". Concluam com um acordo pequeno para o dia e um gesto de um olhar atento. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem no minuto de chegada.",
+        "Como a constância da prática do minuto de chegada fortalece a conexão.",
+        "Quais sinais mostram que o minuto de chegada precisa de atenção.",
+        "Um roteiro simples para conversar sobre o minuto de chegada."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem o minuto de chegada por três dias seguidos.",
+        "Usem a pergunta \"O que você precisa de mim no minuto de chegada?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um olhar atento sempre que fizerem o minuto de chegada.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "PRE-002",
+      "titulo": "Contato visual breve",
+      "nivel": 2,
+      "fase": "base",
+      "tempo_leitura": "2-3 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 2/20 do Elo da Presença, o foco é a prática do contato visual breve. A proposta é trazer sensação de ser visto(a) sem esforço com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção ao contato visual breve. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática do contato visual breve acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor do contato visual breve não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: vocês se encontram e já abrem o celular. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é um dos dois se sente ignorado mesmo junto. Esses momentos são oportunidades para testar o contato visual breve sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: escolham um momento do dia para praticar o contato visual breve. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Como você gostaria que a gente cuidasse do contato visual breve?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"O que podemos combinar para melhorar o contato visual breve nesta semana?\" e escolham um gesto de um toque leve no ombro como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: querer presença perfeita e longa. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é fazer no automático sem intenção. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Como você gostaria que a gente cuidasse do contato visual breve?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"O que podemos combinar para melhorar o contato visual breve nesta semana?\". Concluam com um acordo pequeno para o dia e um gesto de um toque leve no ombro. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem no contato visual breve.",
+        "Como a constância da prática do contato visual breve fortalece a conexão.",
+        "Quais sinais mostram que o contato visual breve precisa de atenção.",
+        "Um roteiro simples para conversar sobre o contato visual breve."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem o contato visual breve por três dias seguidos.",
+        "Usem a pergunta \"Como você gostaria que a gente cuidasse do contato visual breve?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um toque leve no ombro sempre que fizerem o contato visual breve.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "PRE-003",
+      "titulo": "Checagem emocional de 30 segundos",
+      "nivel": 3,
+      "fase": "base",
+      "tempo_leitura": "2-3 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 3/20 do Elo da Presença, o foco é a prática da checagem emocional de 30 segundos. A proposta é trazer calma nas transições do dia com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção à checagem emocional de 30 segundos. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática da checagem emocional de 30 segundos acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor da checagem emocional de 30 segundos não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: um dos dois se sente ignorado mesmo junto. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é o cansaço toma conta do encontro. Esses momentos são oportunidades para testar a checagem emocional de 30 segundos sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: testem hoje praticar a checagem emocional de 30 segundos de forma simples. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"O que torna a checagem emocional de 30 segundos mais leve para você?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Como você percebe que a checagem emocional de 30 segundos está acontecendo de um jeito bom?\" e escolham um gesto de um abraço curto e inteiro como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: fazer no automático sem intenção. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é usar o celular no meio do gesto. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"O que torna a checagem emocional de 30 segundos mais leve para você?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Como você percebe que a checagem emocional de 30 segundos está acontecendo de um jeito bom?\". Concluam com um acordo pequeno para o dia e um gesto de um abraço curto e inteiro. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem na checagem emocional de 30 segundos.",
+        "Como a constância da prática da checagem emocional de 30 segundos fortalece a conexão.",
+        "Quais sinais mostram que a checagem emocional de 30 segundos precisa de atenção.",
+        "Um roteiro simples para conversar sobre a checagem emocional de 30 segundos."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem a checagem emocional de 30 segundos por três dias seguidos.",
+        "Usem a pergunta \"O que torna a checagem emocional de 30 segundos mais leve para você?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um abraço curto e inteiro sempre que fizerem a checagem emocional de 30 segundos.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "PRE-004",
+      "titulo": "Pausa do celular",
+      "nivel": 4,
+      "fase": "base",
+      "tempo_leitura": "2-3 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 4/20 do Elo da Presença, o foco é a prática da pausa do celular. A proposta é trazer redução de distância emocional com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção à pausa do celular. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática da pausa do celular acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor da pausa do celular não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: o cansaço toma conta do encontro. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é o abraço de chegada vira automático. Esses momentos são oportunidades para testar a pausa do celular sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: combinem um micro-ritual para praticar a pausa do celular. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Quando falamos da pausa do celular, o que funciona bem entre nós?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"O que você quer que eu lembre sobre a pausa do celular?\" e escolham um gesto de um sorriso demorado como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: usar o celular no meio do gesto. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é abrir conversa difícil na chegada. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Quando falamos da pausa do celular, o que funciona bem entre nós?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"O que você quer que eu lembre sobre a pausa do celular?\". Concluam com um acordo pequeno para o dia e um gesto de um sorriso demorado. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem na pausa do celular.",
+        "Como a constância da prática da pausa do celular fortalece a conexão.",
+        "Quais sinais mostram que a pausa do celular precisa de atenção.",
+        "Um roteiro simples para conversar sobre a pausa do celular."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem a pausa do celular por três dias seguidos.",
+        "Usem a pergunta \"Quando falamos da pausa do celular, o que funciona bem entre nós?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um sorriso demorado sempre que fizerem a pausa do celular.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "PRE-005",
+      "titulo": "Escuta sem interrupção",
+      "nivel": 5,
+      "fase": "base",
+      "tempo_leitura": "2-3 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 5/20 do Elo da Presença, o foco é a prática da escuta sem interrupção. A proposta é trazer mais sintonia nas pequenas escolhas com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção à escuta sem interrupção. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática da escuta sem interrupção acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor da escuta sem interrupção não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: o abraço de chegada vira automático. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é as conversas viram atualização rápida. Esses momentos são oportunidades para testar a escuta sem interrupção sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: reservem dois minutos para praticar a escuta sem interrupção. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Qual parte da escuta sem interrupção te faz sentir mais conectado(a)?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Como posso apoiar você na escuta sem interrupção agora?\" e escolham um gesto de uma mão segurando a outra como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: abrir conversa difícil na chegada. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é transformar o momento em cobrança. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Qual parte da escuta sem interrupção te faz sentir mais conectado(a)?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Como posso apoiar você na escuta sem interrupção agora?\". Concluam com um acordo pequeno para o dia e um gesto de uma mão segurando a outra. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem na escuta sem interrupção.",
+        "Como a constância da prática da escuta sem interrupção fortalece a conexão.",
+        "Quais sinais mostram que a escuta sem interrupção precisa de atenção.",
+        "Um roteiro simples para conversar sobre a escuta sem interrupção."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem a escuta sem interrupção por três dias seguidos.",
+        "Usem a pergunta \"Qual parte da escuta sem interrupção te faz sentir mais conectado(a)?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de uma mão segurando a outra sempre que fizerem a escuta sem interrupção.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "PRE-006",
+      "titulo": "Respirar juntos por um minuto",
+      "nivel": 6,
+      "fase": "base",
+      "tempo_leitura": "2-3 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 6/20 do Elo da Presença, o foco é a prática do minuto de respiração juntos. A proposta é trazer mais presença mesmo em dias corridos com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção ao minuto de respiração juntos. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática do minuto de respiração juntos acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor do minuto de respiração juntos não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: as conversas viram atualização rápida. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é vocês se encontram e já abrem o celular. Esses momentos são oportunidades para testar o minuto de respiração juntos sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: escolham um momento do dia para praticar o minuto de respiração juntos. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"O que você precisa de mim no minuto de respiração juntos?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Qual pequeno gesto ajudaria no minuto de respiração juntos hoje?\" e escolham um gesto de um olhar atento como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: transformar o momento em cobrança. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é querer presença perfeita e longa. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"O que você precisa de mim no minuto de respiração juntos?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Qual pequeno gesto ajudaria no minuto de respiração juntos hoje?\". Concluam com um acordo pequeno para o dia e um gesto de um olhar atento. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem no minuto de respiração juntos.",
+        "Como a constância da prática do minuto de respiração juntos fortalece a conexão.",
+        "Quais sinais mostram que o minuto de respiração juntos precisa de atenção.",
+        "Um roteiro simples para conversar sobre o minuto de respiração juntos."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem o minuto de respiração juntos por três dias seguidos.",
+        "Usem a pergunta \"O que você precisa de mim no minuto de respiração juntos?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um olhar atento sempre que fizerem o minuto de respiração juntos.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "PRE-007",
+      "titulo": "Nomear o melhor do dia",
+      "nivel": 7,
+      "fase": "intermediario",
+      "tempo_leitura": "3-4 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 7/20 do Elo da Presença, o foco é a prática de nomear o melhor do dia. A proposta é trazer sensação de ser visto(a) sem esforço com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção a nomear o melhor do dia. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática de nomear o melhor do dia acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor de nomear o melhor do dia não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: vocês se encontram e já abrem o celular. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é um dos dois se sente ignorado mesmo junto. Esses momentos são oportunidades para testar nomear o melhor do dia sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: testem hoje nomear o melhor do dia de forma simples. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Como você gostaria que a gente cuidasse de nomear o melhor do dia?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"O que podemos combinar para melhorar nomear o melhor do dia nesta semana?\" e escolham um gesto de um toque leve no ombro como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: querer presença perfeita e longa. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é fazer no automático sem intenção. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Como você gostaria que a gente cuidasse de nomear o melhor do dia?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"O que podemos combinar para melhorar nomear o melhor do dia nesta semana?\". Concluam com um acordo pequeno para o dia e um gesto de um toque leve no ombro. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem em nomear o melhor do dia.",
+        "Como a constância da prática de nomear o melhor do dia fortalece a conexão.",
+        "Quais sinais mostram que nomear o melhor do dia precisa de atenção.",
+        "Um roteiro simples para conversar sobre nomear o melhor do dia."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem nomear o melhor do dia por três dias seguidos.",
+        "Usem a pergunta \"Como você gostaria que a gente cuidasse de nomear o melhor do dia?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um toque leve no ombro sempre que fizerem nomear o melhor do dia.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "PRE-008",
+      "titulo": "Perceber o cansaço do outro",
+      "nivel": 8,
+      "fase": "intermediario",
+      "tempo_leitura": "3-4 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 8/20 do Elo da Presença, o foco é a prática de perceber o cansaço do outro. A proposta é trazer calma nas transições do dia com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção a perceber o cansaço do outro. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática de perceber o cansaço do outro acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor de perceber o cansaço do outro não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: um dos dois se sente ignorado mesmo junto. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é o cansaço toma conta do encontro. Esses momentos são oportunidades para testar perceber o cansaço do outro sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: combinem um micro-ritual para perceber o cansaço do outro. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"O que torna perceber o cansaço do outro mais leve para você?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Como você percebe que perceber o cansaço do outro está acontecendo de um jeito bom?\" e escolham um gesto de um abraço curto e inteiro como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: fazer no automático sem intenção. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é usar o celular no meio do gesto. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"O que torna perceber o cansaço do outro mais leve para você?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Como você percebe que perceber o cansaço do outro está acontecendo de um jeito bom?\". Concluam com um acordo pequeno para o dia e um gesto de um abraço curto e inteiro. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem em perceber o cansaço do outro.",
+        "Como a constância da prática de perceber o cansaço do outro fortalece a conexão.",
+        "Quais sinais mostram que perceber o cansaço do outro precisa de atenção.",
+        "Um roteiro simples para conversar sobre perceber o cansaço do outro."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem perceber o cansaço do outro por três dias seguidos.",
+        "Usem a pergunta \"O que torna perceber o cansaço do outro mais leve para você?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um abraço curto e inteiro sempre que fizerem perceber o cansaço do outro.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "PRE-009",
+      "titulo": "Ajustar o ritmo da conversa",
+      "nivel": 9,
+      "fase": "intermediario",
+      "tempo_leitura": "3-4 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 9/20 do Elo da Presença, o foco é a prática de ajustar o ritmo da conversa. A proposta é trazer redução de distância emocional com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção a ajustar o ritmo da conversa. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática de ajustar o ritmo da conversa acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor de ajustar o ritmo da conversa não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: o cansaço toma conta do encontro. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é o abraço de chegada vira automático. Esses momentos são oportunidades para testar ajustar o ritmo da conversa sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: reservem dois minutos para ajustar o ritmo da conversa. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Quando falamos de ajustar o ritmo da conversa, o que funciona bem entre nós?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"O que você quer que eu lembre sobre ajustar o ritmo da conversa?\" e escolham um gesto de um sorriso demorado como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: usar o celular no meio do gesto. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é abrir conversa difícil na chegada. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Quando falamos de ajustar o ritmo da conversa, o que funciona bem entre nós?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"O que você quer que eu lembre sobre ajustar o ritmo da conversa?\". Concluam com um acordo pequeno para o dia e um gesto de um sorriso demorado. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem em ajustar o ritmo da conversa.",
+        "Como a constância da prática de ajustar o ritmo da conversa fortalece a conexão.",
+        "Quais sinais mostram que ajustar o ritmo da conversa precisa de atenção.",
+        "Um roteiro simples para conversar sobre ajustar o ritmo da conversa."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem ajustar o ritmo da conversa por três dias seguidos.",
+        "Usem a pergunta \"Quando falamos de ajustar o ritmo da conversa, o que funciona bem entre nós?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um sorriso demorado sempre que fizerem ajustar o ritmo da conversa.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "PRE-010",
+      "titulo": "Silêncio confortável",
+      "nivel": 10,
+      "fase": "intermediario",
+      "tempo_leitura": "3-4 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 10/20 do Elo da Presença, o foco é a prática do silêncio confortável. A proposta é trazer mais sintonia nas pequenas escolhas com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção ao silêncio confortável. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática do silêncio confortável acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor do silêncio confortável não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: o abraço de chegada vira automático. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é as conversas viram atualização rápida. Esses momentos são oportunidades para testar o silêncio confortável sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: escolham um momento do dia para praticar o silêncio confortável. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Qual parte do silêncio confortável te faz sentir mais conectado(a)?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Como posso apoiar você no silêncio confortável agora?\" e escolham um gesto de uma mão segurando a outra como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: abrir conversa difícil na chegada. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é transformar o momento em cobrança. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Qual parte do silêncio confortável te faz sentir mais conectado(a)?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Como posso apoiar você no silêncio confortável agora?\". Concluam com um acordo pequeno para o dia e um gesto de uma mão segurando a outra. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem no silêncio confortável.",
+        "Como a constância da prática do silêncio confortável fortalece a conexão.",
+        "Quais sinais mostram que o silêncio confortável precisa de atenção.",
+        "Um roteiro simples para conversar sobre o silêncio confortável."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem o silêncio confortável por três dias seguidos.",
+        "Usem a pergunta \"Qual parte do silêncio confortável te faz sentir mais conectado(a)?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de uma mão segurando a outra sempre que fizerem o silêncio confortável.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "PRE-011",
+      "titulo": "Presença nas tarefas da casa",
+      "nivel": 11,
+      "fase": "intermediario",
+      "tempo_leitura": "3-4 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 11/20 do Elo da Presença, o foco é a prática da presença nas tarefas da casa. A proposta é trazer mais presença mesmo em dias corridos com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção à presença nas tarefas da casa. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática da presença nas tarefas da casa acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor da presença nas tarefas da casa não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: as conversas viram atualização rápida. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é vocês se encontram e já abrem o celular. Esses momentos são oportunidades para testar a presença nas tarefas da casa sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: testem hoje praticar a presença nas tarefas da casa de forma simples. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"O que você precisa de mim na presença nas tarefas da casa?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Qual pequeno gesto ajudaria na presença nas tarefas da casa hoje?\" e escolham um gesto de um olhar atento como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: transformar o momento em cobrança. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é querer presença perfeita e longa. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"O que você precisa de mim na presença nas tarefas da casa?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Qual pequeno gesto ajudaria na presença nas tarefas da casa hoje?\". Concluam com um acordo pequeno para o dia e um gesto de um olhar atento. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem na presença nas tarefas da casa.",
+        "Como a constância da prática da presença nas tarefas da casa fortalece a conexão.",
+        "Quais sinais mostram que a presença nas tarefas da casa precisa de atenção.",
+        "Um roteiro simples para conversar sobre a presença nas tarefas da casa."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem a presença nas tarefas da casa por três dias seguidos.",
+        "Usem a pergunta \"O que você precisa de mim na presença nas tarefas da casa?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um olhar atento sempre que fizerem a presença nas tarefas da casa.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "PRE-012",
+      "titulo": "Caminhada curta a dois",
+      "nivel": 12,
+      "fase": "intermediario",
+      "tempo_leitura": "3-4 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 12/20 do Elo da Presença, o foco é a prática da caminhada curta a dois. A proposta é trazer sensação de ser visto(a) sem esforço com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção à caminhada curta a dois. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática da caminhada curta a dois acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor da caminhada curta a dois não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: vocês se encontram e já abrem o celular. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é um dos dois se sente ignorado mesmo junto. Esses momentos são oportunidades para testar a caminhada curta a dois sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: combinem um micro-ritual para praticar a caminhada curta a dois. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Como você gostaria que a gente cuidasse da caminhada curta a dois?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"O que podemos combinar para melhorar a caminhada curta a dois nesta semana?\" e escolham um gesto de um toque leve no ombro como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: querer presença perfeita e longa. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é fazer no automático sem intenção. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Como você gostaria que a gente cuidasse da caminhada curta a dois?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"O que podemos combinar para melhorar a caminhada curta a dois nesta semana?\". Concluam com um acordo pequeno para o dia e um gesto de um toque leve no ombro. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem na caminhada curta a dois.",
+        "Como a constância da prática da caminhada curta a dois fortalece a conexão.",
+        "Quais sinais mostram que a caminhada curta a dois precisa de atenção.",
+        "Um roteiro simples para conversar sobre a caminhada curta a dois."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem a caminhada curta a dois por três dias seguidos.",
+        "Usem a pergunta \"Como você gostaria que a gente cuidasse da caminhada curta a dois?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um toque leve no ombro sempre que fizerem a caminhada curta a dois.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "PRE-013",
+      "titulo": "Micro-elogios de presença",
+      "nivel": 13,
+      "fase": "intermediario",
+      "tempo_leitura": "3-4 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 13/20 do Elo da Presença, o foco é a prática dos micro-elogios de presença. A proposta é trazer calma nas transições do dia com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção aos micro-elogios de presença. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática dos micro-elogios de presença acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor dos micro-elogios de presença não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: um dos dois se sente ignorado mesmo junto. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é o cansaço toma conta do encontro. Esses momentos são oportunidades para testar os micro-elogios de presença sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: reservem dois minutos para praticar os micro-elogios de presença. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"O que torna os micro-elogios de presença mais leve para você?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Como você percebe que os micro-elogios de presença está acontecendo de um jeito bom?\" e escolham um gesto de um abraço curto e inteiro como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: fazer no automático sem intenção. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é usar o celular no meio do gesto. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"O que torna os micro-elogios de presença mais leve para você?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Como você percebe que os micro-elogios de presença está acontecendo de um jeito bom?\". Concluam com um acordo pequeno para o dia e um gesto de um abraço curto e inteiro. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem nos micro-elogios de presença.",
+        "Como a constância da prática dos micro-elogios de presença fortalece a conexão.",
+        "Quais sinais mostram que os micro-elogios de presença precisa de atenção.",
+        "Um roteiro simples para conversar sobre os micro-elogios de presença."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem os micro-elogios de presença por três dias seguidos.",
+        "Usem a pergunta \"O que torna os micro-elogios de presença mais leve para você?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um abraço curto e inteiro sempre que fizerem os micro-elogios de presença.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "PRE-014",
+      "titulo": "Presença nos dias difíceis",
+      "nivel": 14,
+      "fase": "intermediario",
+      "tempo_leitura": "3-4 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 14/20 do Elo da Presença, o foco é a prática da presença nos dias difíceis. A proposta é trazer redução de distância emocional com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção à presença nos dias difíceis. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática da presença nos dias difíceis acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor da presença nos dias difíceis não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: o cansaço toma conta do encontro. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é o abraço de chegada vira automático. Esses momentos são oportunidades para testar a presença nos dias difíceis sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: escolham um momento do dia para praticar a presença nos dias difíceis. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Quando falamos da presença nos dias difíceis, o que funciona bem entre nós?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"O que você quer que eu lembre sobre a presença nos dias difíceis?\" e escolham um gesto de um sorriso demorado como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: usar o celular no meio do gesto. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é abrir conversa difícil na chegada. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Quando falamos da presença nos dias difíceis, o que funciona bem entre nós?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"O que você quer que eu lembre sobre a presença nos dias difíceis?\". Concluam com um acordo pequeno para o dia e um gesto de um sorriso demorado. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem na presença nos dias difíceis.",
+        "Como a constância da prática da presença nos dias difíceis fortalece a conexão.",
+        "Quais sinais mostram que a presença nos dias difíceis precisa de atenção.",
+        "Um roteiro simples para conversar sobre a presença nos dias difíceis."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem a presença nos dias difíceis por três dias seguidos.",
+        "Usem a pergunta \"Quando falamos da presença nos dias difíceis, o que funciona bem entre nós?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um sorriso demorado sempre que fizerem a presença nos dias difíceis.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "PRE-015",
+      "titulo": "Conexão à distância",
+      "nivel": 15,
+      "fase": "avancado",
+      "tempo_leitura": "4-5 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 15/20 do Elo da Presença, o foco é a prática da conexão à distância. A proposta é trazer mais sintonia nas pequenas escolhas com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção à conexão à distância. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática da conexão à distância acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor da conexão à distância não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: o abraço de chegada vira automático. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é as conversas viram atualização rápida. Esses momentos são oportunidades para testar a conexão à distância sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: testem hoje praticar a conexão à distância de forma simples. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Qual parte da conexão à distância te faz sentir mais conectado(a)?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Como posso apoiar você na conexão à distância agora?\" e escolham um gesto de uma mão segurando a outra como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos.",
+            "Para aprofundar, separem um momento na semana para revisar a conexão à distância com calma e combinar um ajuste pequeno. Esse olhar mais demorado ajuda a consolidar o aprendizado e prepara o casal para conversas mais profundas."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: abrir conversa difícil na chegada. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é transformar o momento em cobrança. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Qual parte da conexão à distância te faz sentir mais conectado(a)?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Como posso apoiar você na conexão à distância agora?\". Concluam com um acordo pequeno para o dia e um gesto de uma mão segurando a outra. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem na conexão à distância.",
+        "Como a constância da prática da conexão à distância fortalece a conexão.",
+        "Quais sinais mostram que a conexão à distância precisa de atenção.",
+        "Um roteiro simples para conversar sobre a conexão à distância."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem a conexão à distância por três dias seguidos.",
+        "Usem a pergunta \"Qual parte da conexão à distância te faz sentir mais conectado(a)?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de uma mão segurando a outra sempre que fizerem a conexão à distância.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "PRE-016",
+      "titulo": "Fechamento do dia",
+      "nivel": 16,
+      "fase": "avancado",
+      "tempo_leitura": "4-5 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 16/20 do Elo da Presença, o foco é a prática do fechamento do dia. A proposta é trazer mais presença mesmo em dias corridos com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção ao fechamento do dia. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática do fechamento do dia acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor do fechamento do dia não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: as conversas viram atualização rápida. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é vocês se encontram e já abrem o celular. Esses momentos são oportunidades para testar o fechamento do dia sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: combinem um micro-ritual para praticar o fechamento do dia. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"O que você precisa de mim no fechamento do dia?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Qual pequeno gesto ajudaria no fechamento do dia hoje?\" e escolham um gesto de um olhar atento como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos.",
+            "Se quiserem ir além, revisitem o fechamento do dia no fim da semana e anotem o que funcionou. Esse registro simples cria consciência e evita que o cuidado se perca quando a rotina apertar."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: transformar o momento em cobrança. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é querer presença perfeita e longa. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"O que você precisa de mim no fechamento do dia?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Qual pequeno gesto ajudaria no fechamento do dia hoje?\". Concluam com um acordo pequeno para o dia e um gesto de um olhar atento. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem no fechamento do dia.",
+        "Como a constância da prática do fechamento do dia fortalece a conexão.",
+        "Quais sinais mostram que o fechamento do dia precisa de atenção.",
+        "Um roteiro simples para conversar sobre o fechamento do dia."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem o fechamento do dia por três dias seguidos.",
+        "Usem a pergunta \"O que você precisa de mim no fechamento do dia?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um olhar atento sempre que fizerem o fechamento do dia.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "PRE-017",
+      "titulo": "Reencontro após desentendimento",
+      "nivel": 17,
+      "fase": "avancado",
+      "tempo_leitura": "4-5 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 17/20 do Elo da Presença, o foco é a prática do reencontro após um desentendimento. A proposta é trazer sensação de ser visto(a) sem esforço com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção ao reencontro após um desentendimento. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática do reencontro após um desentendimento acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor do reencontro após um desentendimento não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: vocês se encontram e já abrem o celular. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é um dos dois se sente ignorado mesmo junto. Esses momentos são oportunidades para testar o reencontro após um desentendimento sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: reservem dois minutos para praticar o reencontro após um desentendimento. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Como você gostaria que a gente cuidasse do reencontro após um desentendimento?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"O que podemos combinar para melhorar o reencontro após um desentendimento nesta semana?\" e escolham um gesto de um toque leve no ombro como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos.",
+            "Para aprofundar, separem um momento na semana para revisar o reencontro após um desentendimento com calma e combinar um ajuste pequeno. Esse olhar mais demorado ajuda a consolidar o aprendizado e prepara o casal para conversas mais profundas."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: querer presença perfeita e longa. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é fazer no automático sem intenção. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Como você gostaria que a gente cuidasse do reencontro após um desentendimento?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"O que podemos combinar para melhorar o reencontro após um desentendimento nesta semana?\". Concluam com um acordo pequeno para o dia e um gesto de um toque leve no ombro. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem no reencontro após um desentendimento.",
+        "Como a constância da prática do reencontro após um desentendimento fortalece a conexão.",
+        "Quais sinais mostram que o reencontro após um desentendimento precisa de atenção.",
+        "Um roteiro simples para conversar sobre o reencontro após um desentendimento."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem o reencontro após um desentendimento por três dias seguidos.",
+        "Usem a pergunta \"Como você gostaria que a gente cuidasse do reencontro após um desentendimento?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um toque leve no ombro sempre que fizerem o reencontro após um desentendimento.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "PRE-018",
+      "titulo": "Presença em datas importantes",
+      "nivel": 18,
+      "fase": "avancado",
+      "tempo_leitura": "4-5 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 18/20 do Elo da Presença, o foco é a prática da presença em datas importantes. A proposta é trazer calma nas transições do dia com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção à presença em datas importantes. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática da presença em datas importantes acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor da presença em datas importantes não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: um dos dois se sente ignorado mesmo junto. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é o cansaço toma conta do encontro. Esses momentos são oportunidades para testar a presença em datas importantes sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: escolham um momento do dia para praticar a presença em datas importantes. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"O que torna a presença em datas importantes mais leve para você?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Como você percebe que a presença em datas importantes está acontecendo de um jeito bom?\" e escolham um gesto de um abraço curto e inteiro como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos.",
+            "Se quiserem ir além, revisitem a presença em datas importantes no fim da semana e anotem o que funcionou. Esse registro simples cria consciência e evita que o cuidado se perca quando a rotina apertar."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: fazer no automático sem intenção. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é usar o celular no meio do gesto. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"O que torna a presença em datas importantes mais leve para você?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Como você percebe que a presença em datas importantes está acontecendo de um jeito bom?\". Concluam com um acordo pequeno para o dia e um gesto de um abraço curto e inteiro. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem na presença em datas importantes.",
+        "Como a constância da prática da presença em datas importantes fortalece a conexão.",
+        "Quais sinais mostram que a presença em datas importantes precisa de atenção.",
+        "Um roteiro simples para conversar sobre a presença em datas importantes."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem a presença em datas importantes por três dias seguidos.",
+        "Usem a pergunta \"O que torna a presença em datas importantes mais leve para você?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um abraço curto e inteiro sempre que fizerem a presença em datas importantes.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "PRE-019",
+      "titulo": "Co-regulação emocional",
+      "nivel": 19,
+      "fase": "avancado",
+      "tempo_leitura": "4-5 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 19/20 do Elo da Presença, o foco é a prática da co-regulação emocional. A proposta é trazer redução de distância emocional com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção à co-regulação emocional. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática da co-regulação emocional acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor da co-regulação emocional não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: o cansaço toma conta do encontro. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é o abraço de chegada vira automático. Esses momentos são oportunidades para testar a co-regulação emocional sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: testem hoje praticar a co-regulação emocional de forma simples. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Quando falamos da co-regulação emocional, o que funciona bem entre nós?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"O que você quer que eu lembre sobre a co-regulação emocional?\" e escolham um gesto de um sorriso demorado como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos.",
+            "Para aprofundar, separem um momento na semana para revisar a co-regulação emocional com calma e combinar um ajuste pequeno. Esse olhar mais demorado ajuda a consolidar o aprendizado e prepara o casal para conversas mais profundas."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: usar o celular no meio do gesto. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é abrir conversa difícil na chegada. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Quando falamos da co-regulação emocional, o que funciona bem entre nós?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"O que você quer que eu lembre sobre a co-regulação emocional?\". Concluam com um acordo pequeno para o dia e um gesto de um sorriso demorado. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem na co-regulação emocional.",
+        "Como a constância da prática da co-regulação emocional fortalece a conexão.",
+        "Quais sinais mostram que a co-regulação emocional precisa de atenção.",
+        "Um roteiro simples para conversar sobre a co-regulação emocional."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem a co-regulação emocional por três dias seguidos.",
+        "Usem a pergunta \"Quando falamos da co-regulação emocional, o que funciona bem entre nós?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um sorriso demorado sempre que fizerem a co-regulação emocional.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "PRE-020",
+      "titulo": "Presença em decisões",
+      "nivel": 20,
+      "fase": "avancado",
+      "tempo_leitura": "4-5 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 20/20 do Elo da Presença, o foco é a prática da presença nas decisões. A proposta é trazer mais sintonia nas pequenas escolhas com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção à presença nas decisões. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática da presença nas decisões acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor da presença nas decisões não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: o abraço de chegada vira automático. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é as conversas viram atualização rápida. Esses momentos são oportunidades para testar a presença nas decisões sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: combinem um micro-ritual para praticar a presença nas decisões. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Qual parte da presença nas decisões te faz sentir mais conectado(a)?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Como posso apoiar você na presença nas decisões agora?\" e escolham um gesto de uma mão segurando a outra como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos.",
+            "Se quiserem ir além, revisitem a presença nas decisões no fim da semana e anotem o que funcionou. Esse registro simples cria consciência e evita que o cuidado se perca quando a rotina apertar."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: abrir conversa difícil na chegada. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é transformar o momento em cobrança. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Qual parte da presença nas decisões te faz sentir mais conectado(a)?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Como posso apoiar você na presença nas decisões agora?\". Concluam com um acordo pequeno para o dia e um gesto de uma mão segurando a outra. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem na presença nas decisões.",
+        "Como a constância da prática da presença nas decisões fortalece a conexão.",
+        "Quais sinais mostram que a presença nas decisões precisa de atenção.",
+        "Um roteiro simples para conversar sobre a presença nas decisões."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem a presença nas decisões por três dias seguidos.",
+        "Usem a pergunta \"Qual parte da presença nas decisões te faz sentir mais conectado(a)?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de uma mão segurando a outra sempre que fizerem a presença nas decisões.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    }
+  ]
+}

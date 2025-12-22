@@ -1,0 +1,1301 @@
+{
+  "elo": {
+    "id": "ELO-ADM",
+    "nome": "Elo da Admiração e Afeto",
+    "descricao": "Fortalece o olhar positivo e o carinho físico com elegância.",
+    "tipo_de_casal": "Casais que querem reacender a ternura e o desejo.",
+    "objetivo": "Aumentar a expressão de admiração e afeto de forma consistente.",
+    "progressao": {
+      "total_etapas": 20,
+      "descricao": "Do elogio simples à manutenção da chama."
+    }
+  },
+  "artigos": [
+    {
+      "id": "ADM-001",
+      "titulo": "Perceber qualidades",
+      "nivel": 1,
+      "fase": "base",
+      "tempo_leitura": "2-3 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 1/20 do Elo da Admiração e Afeto, o foco é a prática de perceber qualidades. A proposta é trazer aumento de ternura com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção a perceber qualidades. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática de perceber qualidades acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor de perceber qualidades não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: os elogios ficaram raros. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é o carinho virou automático. Esses momentos são oportunidades para testar perceber qualidades sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: reservem dois minutos para perceber qualidades. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"O que você precisa de mim em perceber qualidades?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Qual pequeno gesto ajudaria em perceber qualidades hoje?\" e escolham um gesto de um abraço mais longo como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: elogiar de forma vaga e sem detalhe. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é usar afeto apenas quando quer algo. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"O que você precisa de mim em perceber qualidades?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Qual pequeno gesto ajudaria em perceber qualidades hoje?\". Concluam com um acordo pequeno para o dia e um gesto de um abraço mais longo. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem em perceber qualidades.",
+        "Como a constância da prática de perceber qualidades fortalece a conexão.",
+        "Quais sinais mostram que perceber qualidades precisa de atenção.",
+        "Um roteiro simples para conversar sobre perceber qualidades."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem perceber qualidades por três dias seguidos.",
+        "Usem a pergunta \"O que você precisa de mim em perceber qualidades?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um abraço mais longo sempre que fizerem perceber qualidades.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "ADM-002",
+      "titulo": "Elogio específico",
+      "nivel": 2,
+      "fase": "base",
+      "tempo_leitura": "2-3 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 2/20 do Elo da Admiração e Afeto, o foco é a prática do elogio específico. A proposta é trazer sensação de ser valorizado(a) com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção ao elogio específico. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática do elogio específico acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor do elogio específico não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: o carinho virou automático. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é o casal nota mais falhas que qualidades. Esses momentos são oportunidades para testar o elogio específico sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: escolham um momento do dia para praticar o elogio específico. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Como você gostaria que a gente cuidasse do elogio específico?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"O que podemos combinar para melhorar o elogio específico nesta semana?\" e escolham um gesto de um toque na nuca como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: usar afeto apenas quando quer algo. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é fazer comparação com outras pessoas. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Como você gostaria que a gente cuidasse do elogio específico?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"O que podemos combinar para melhorar o elogio específico nesta semana?\". Concluam com um acordo pequeno para o dia e um gesto de um toque na nuca. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem no elogio específico.",
+        "Como a constância da prática do elogio específico fortalece a conexão.",
+        "Quais sinais mostram que o elogio específico precisa de atenção.",
+        "Um roteiro simples para conversar sobre o elogio específico."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem o elogio específico por três dias seguidos.",
+        "Usem a pergunta \"Como você gostaria que a gente cuidasse do elogio específico?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um toque na nuca sempre que fizerem o elogio específico.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "ADM-003",
+      "titulo": "Agradecimento do dia",
+      "nivel": 3,
+      "fase": "base",
+      "tempo_leitura": "2-3 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 3/20 do Elo da Admiração e Afeto, o foco é a prática do agradecimento do dia. A proposta é trazer mais desejo com respeito com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção ao agradecimento do dia. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática do agradecimento do dia acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor do agradecimento do dia não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: o casal nota mais falhas que qualidades. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é as conquistas passam sem celebração. Esses momentos são oportunidades para testar o agradecimento do dia sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: testem hoje praticar o agradecimento do dia de forma simples. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"O que torna o agradecimento do dia mais leve para você?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Como você percebe que o agradecimento do dia está acontecendo de um jeito bom?\" e escolham um gesto de um beijo de chegada como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: fazer comparação com outras pessoas. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é forçar demonstrações quando o outro está tenso. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"O que torna o agradecimento do dia mais leve para você?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Como você percebe que o agradecimento do dia está acontecendo de um jeito bom?\". Concluam com um acordo pequeno para o dia e um gesto de um beijo de chegada. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem no agradecimento do dia.",
+        "Como a constância da prática do agradecimento do dia fortalece a conexão.",
+        "Quais sinais mostram que o agradecimento do dia precisa de atenção.",
+        "Um roteiro simples para conversar sobre o agradecimento do dia."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem o agradecimento do dia por três dias seguidos.",
+        "Usem a pergunta \"O que torna o agradecimento do dia mais leve para você?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um beijo de chegada sempre que fizerem o agradecimento do dia.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "ADM-004",
+      "titulo": "Elogio no momento certo",
+      "nivel": 4,
+      "fase": "base",
+      "tempo_leitura": "2-3 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 4/20 do Elo da Admiração e Afeto, o foco é a prática do elogio no momento certo. A proposta é trazer ambiente mais positivo com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção ao elogio no momento certo. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática do elogio no momento certo acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor do elogio no momento certo não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: as conquistas passam sem celebração. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é o toque diminuiu com a rotina. Esses momentos são oportunidades para testar o elogio no momento certo sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: combinem um micro-ritual para praticar o elogio no momento certo. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Quando falamos do elogio no momento certo, o que funciona bem entre nós?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"O que você quer que eu lembre sobre o elogio no momento certo?\" e escolham um gesto de um carinho no rosto como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: forçar demonstrações quando o outro está tenso. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é confundir afeto com cobrança. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Quando falamos do elogio no momento certo, o que funciona bem entre nós?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"O que você quer que eu lembre sobre o elogio no momento certo?\". Concluam com um acordo pequeno para o dia e um gesto de um carinho no rosto. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem no elogio no momento certo.",
+        "Como a constância da prática do elogio no momento certo fortalece a conexão.",
+        "Quais sinais mostram que o elogio no momento certo precisa de atenção.",
+        "Um roteiro simples para conversar sobre o elogio no momento certo."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem o elogio no momento certo por três dias seguidos.",
+        "Usem a pergunta \"Quando falamos do elogio no momento certo, o que funciona bem entre nós?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um carinho no rosto sempre que fizerem o elogio no momento certo.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "ADM-005",
+      "titulo": "Gestos pequenos",
+      "nivel": 5,
+      "fase": "base",
+      "tempo_leitura": "2-3 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 5/20 do Elo da Admiração e Afeto, o foco é a prática dos gestos pequenos. A proposta é trazer mais generosidade no dia a dia com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção aos gestos pequenos. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática dos gestos pequenos acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor dos gestos pequenos não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: o toque diminuiu com a rotina. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é os elogios ficaram raros. Esses momentos são oportunidades para testar os gestos pequenos sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: reservem dois minutos para praticar os gestos pequenos. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Qual parte dos gestos pequenos te faz sentir mais conectado(a)?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Como posso apoiar você nos gestos pequenos agora?\" e escolham um gesto de um elogio ao ouvido como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: confundir afeto com cobrança. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é elogiar de forma vaga e sem detalhe. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Qual parte dos gestos pequenos te faz sentir mais conectado(a)?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Como posso apoiar você nos gestos pequenos agora?\". Concluam com um acordo pequeno para o dia e um gesto de um elogio ao ouvido. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem nos gestos pequenos.",
+        "Como a constância da prática dos gestos pequenos fortalece a conexão.",
+        "Quais sinais mostram que os gestos pequenos precisa de atenção.",
+        "Um roteiro simples para conversar sobre os gestos pequenos."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem os gestos pequenos por três dias seguidos.",
+        "Usem a pergunta \"Qual parte dos gestos pequenos te faz sentir mais conectado(a)?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um elogio ao ouvido sempre que fizerem os gestos pequenos.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "ADM-006",
+      "titulo": "Toque de passagem",
+      "nivel": 6,
+      "fase": "base",
+      "tempo_leitura": "2-3 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 6/20 do Elo da Admiração e Afeto, o foco é a prática do toque de passagem. A proposta é trazer aumento de ternura com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção ao toque de passagem. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática do toque de passagem acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor do toque de passagem não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: os elogios ficaram raros. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é o carinho virou automático. Esses momentos são oportunidades para testar o toque de passagem sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: escolham um momento do dia para praticar o toque de passagem. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"O que você precisa de mim no toque de passagem?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Qual pequeno gesto ajudaria no toque de passagem hoje?\" e escolham um gesto de um abraço mais longo como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: elogiar de forma vaga e sem detalhe. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é usar afeto apenas quando quer algo. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"O que você precisa de mim no toque de passagem?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Qual pequeno gesto ajudaria no toque de passagem hoje?\". Concluam com um acordo pequeno para o dia e um gesto de um abraço mais longo. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem no toque de passagem.",
+        "Como a constância da prática do toque de passagem fortalece a conexão.",
+        "Quais sinais mostram que o toque de passagem precisa de atenção.",
+        "Um roteiro simples para conversar sobre o toque de passagem."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem o toque de passagem por três dias seguidos.",
+        "Usem a pergunta \"O que você precisa de mim no toque de passagem?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um abraço mais longo sempre que fizerem o toque de passagem.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "ADM-007",
+      "titulo": "Abraço prolongado",
+      "nivel": 7,
+      "fase": "intermediario",
+      "tempo_leitura": "3-4 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 7/20 do Elo da Admiração e Afeto, o foco é a prática do abraço prolongado. A proposta é trazer sensação de ser valorizado(a) com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção ao abraço prolongado. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática do abraço prolongado acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor do abraço prolongado não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: o carinho virou automático. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é o casal nota mais falhas que qualidades. Esses momentos são oportunidades para testar o abraço prolongado sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: testem hoje praticar o abraço prolongado de forma simples. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Como você gostaria que a gente cuidasse do abraço prolongado?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"O que podemos combinar para melhorar o abraço prolongado nesta semana?\" e escolham um gesto de um toque na nuca como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: usar afeto apenas quando quer algo. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é fazer comparação com outras pessoas. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Como você gostaria que a gente cuidasse do abraço prolongado?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"O que podemos combinar para melhorar o abraço prolongado nesta semana?\". Concluam com um acordo pequeno para o dia e um gesto de um toque na nuca. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem no abraço prolongado.",
+        "Como a constância da prática do abraço prolongado fortalece a conexão.",
+        "Quais sinais mostram que o abraço prolongado precisa de atenção.",
+        "Um roteiro simples para conversar sobre o abraço prolongado."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem o abraço prolongado por três dias seguidos.",
+        "Usem a pergunta \"Como você gostaria que a gente cuidasse do abraço prolongado?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um toque na nuca sempre que fizerem o abraço prolongado.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "ADM-008",
+      "titulo": "Beijo de presença",
+      "nivel": 8,
+      "fase": "intermediario",
+      "tempo_leitura": "3-4 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 8/20 do Elo da Admiração e Afeto, o foco é a prática do beijo de presença. A proposta é trazer mais desejo com respeito com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção ao beijo de presença. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática do beijo de presença acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor do beijo de presença não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: o casal nota mais falhas que qualidades. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é as conquistas passam sem celebração. Esses momentos são oportunidades para testar o beijo de presença sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: combinem um micro-ritual para praticar o beijo de presença. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"O que torna o beijo de presença mais leve para você?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Como você percebe que o beijo de presença está acontecendo de um jeito bom?\" e escolham um gesto de um beijo de chegada como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: fazer comparação com outras pessoas. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é forçar demonstrações quando o outro está tenso. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"O que torna o beijo de presença mais leve para você?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Como você percebe que o beijo de presença está acontecendo de um jeito bom?\". Concluam com um acordo pequeno para o dia e um gesto de um beijo de chegada. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem no beijo de presença.",
+        "Como a constância da prática do beijo de presença fortalece a conexão.",
+        "Quais sinais mostram que o beijo de presença precisa de atenção.",
+        "Um roteiro simples para conversar sobre o beijo de presença."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem o beijo de presença por três dias seguidos.",
+        "Usem a pergunta \"O que torna o beijo de presença mais leve para você?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um beijo de chegada sempre que fizerem o beijo de presença.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "ADM-009",
+      "titulo": "Cuidado com detalhes do outro",
+      "nivel": 9,
+      "fase": "intermediario",
+      "tempo_leitura": "3-4 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 9/20 do Elo da Admiração e Afeto, o foco é a prática do cuidado com detalhes do outro. A proposta é trazer ambiente mais positivo com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção ao cuidado com detalhes do outro. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática do cuidado com detalhes do outro acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor do cuidado com detalhes do outro não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: as conquistas passam sem celebração. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é o toque diminuiu com a rotina. Esses momentos são oportunidades para testar o cuidado com detalhes do outro sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: reservem dois minutos para praticar o cuidado com detalhes do outro. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Quando falamos do cuidado com detalhes do outro, o que funciona bem entre nós?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"O que você quer que eu lembre sobre o cuidado com detalhes do outro?\" e escolham um gesto de um carinho no rosto como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: forçar demonstrações quando o outro está tenso. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é confundir afeto com cobrança. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Quando falamos do cuidado com detalhes do outro, o que funciona bem entre nós?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"O que você quer que eu lembre sobre o cuidado com detalhes do outro?\". Concluam com um acordo pequeno para o dia e um gesto de um carinho no rosto. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem no cuidado com detalhes do outro.",
+        "Como a constância da prática do cuidado com detalhes do outro fortalece a conexão.",
+        "Quais sinais mostram que o cuidado com detalhes do outro precisa de atenção.",
+        "Um roteiro simples para conversar sobre o cuidado com detalhes do outro."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem o cuidado com detalhes do outro por três dias seguidos.",
+        "Usem a pergunta \"Quando falamos do cuidado com detalhes do outro, o que funciona bem entre nós?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um carinho no rosto sempre que fizerem o cuidado com detalhes do outro.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "ADM-010",
+      "titulo": "Celebrar conquistas",
+      "nivel": 10,
+      "fase": "intermediario",
+      "tempo_leitura": "3-4 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 10/20 do Elo da Admiração e Afeto, o foco é a prática de celebrar conquistas. A proposta é trazer mais generosidade no dia a dia com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção a celebrar conquistas. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática de celebrar conquistas acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor de celebrar conquistas não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: o toque diminuiu com a rotina. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é os elogios ficaram raros. Esses momentos são oportunidades para testar celebrar conquistas sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: escolham um momento do dia para celebrar conquistas. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Qual parte de celebrar conquistas te faz sentir mais conectado(a)?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Como posso apoiar você em celebrar conquistas agora?\" e escolham um gesto de um elogio ao ouvido como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: confundir afeto com cobrança. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é elogiar de forma vaga e sem detalhe. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Qual parte de celebrar conquistas te faz sentir mais conectado(a)?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Como posso apoiar você em celebrar conquistas agora?\". Concluam com um acordo pequeno para o dia e um gesto de um elogio ao ouvido. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem em celebrar conquistas.",
+        "Como a constância da prática de celebrar conquistas fortalece a conexão.",
+        "Quais sinais mostram que celebrar conquistas precisa de atenção.",
+        "Um roteiro simples para conversar sobre celebrar conquistas."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem celebrar conquistas por três dias seguidos.",
+        "Usem a pergunta \"Qual parte de celebrar conquistas te faz sentir mais conectado(a)?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um elogio ao ouvido sempre que fizerem celebrar conquistas.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "ADM-011",
+      "titulo": "Reconhecer esforços invisíveis",
+      "nivel": 11,
+      "fase": "intermediario",
+      "tempo_leitura": "3-4 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 11/20 do Elo da Admiração e Afeto, o foco é a prática de reconhecer esforços invisíveis. A proposta é trazer aumento de ternura com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção a reconhecer esforços invisíveis. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática de reconhecer esforços invisíveis acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor de reconhecer esforços invisíveis não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: os elogios ficaram raros. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é o carinho virou automático. Esses momentos são oportunidades para testar reconhecer esforços invisíveis sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: testem hoje reconhecer esforços invisíveis de forma simples. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"O que você precisa de mim em reconhecer esforços invisíveis?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Qual pequeno gesto ajudaria em reconhecer esforços invisíveis hoje?\" e escolham um gesto de um abraço mais longo como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: elogiar de forma vaga e sem detalhe. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é usar afeto apenas quando quer algo. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"O que você precisa de mim em reconhecer esforços invisíveis?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Qual pequeno gesto ajudaria em reconhecer esforços invisíveis hoje?\". Concluam com um acordo pequeno para o dia e um gesto de um abraço mais longo. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem em reconhecer esforços invisíveis.",
+        "Como a constância da prática de reconhecer esforços invisíveis fortalece a conexão.",
+        "Quais sinais mostram que reconhecer esforços invisíveis precisa de atenção.",
+        "Um roteiro simples para conversar sobre reconhecer esforços invisíveis."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem reconhecer esforços invisíveis por três dias seguidos.",
+        "Usem a pergunta \"O que você precisa de mim em reconhecer esforços invisíveis?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um abraço mais longo sempre que fizerem reconhecer esforços invisíveis.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "ADM-012",
+      "titulo": "Admiração por escolhas",
+      "nivel": 12,
+      "fase": "intermediario",
+      "tempo_leitura": "3-4 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 12/20 do Elo da Admiração e Afeto, o foco é a prática da admiração pelas escolhas do outro. A proposta é trazer sensação de ser valorizado(a) com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção à admiração pelas escolhas do outro. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática da admiração pelas escolhas do outro acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor da admiração pelas escolhas do outro não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: o carinho virou automático. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é o casal nota mais falhas que qualidades. Esses momentos são oportunidades para testar a admiração pelas escolhas do outro sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: combinem um micro-ritual para praticar a admiração pelas escolhas do outro. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Como você gostaria que a gente cuidasse da admiração pelas escolhas do outro?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"O que podemos combinar para melhorar a admiração pelas escolhas do outro nesta semana?\" e escolham um gesto de um toque na nuca como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: usar afeto apenas quando quer algo. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é fazer comparação com outras pessoas. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Como você gostaria que a gente cuidasse da admiração pelas escolhas do outro?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"O que podemos combinar para melhorar a admiração pelas escolhas do outro nesta semana?\". Concluam com um acordo pequeno para o dia e um gesto de um toque na nuca. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem na admiração pelas escolhas do outro.",
+        "Como a constância da prática da admiração pelas escolhas do outro fortalece a conexão.",
+        "Quais sinais mostram que a admiração pelas escolhas do outro precisa de atenção.",
+        "Um roteiro simples para conversar sobre a admiração pelas escolhas do outro."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem a admiração pelas escolhas do outro por três dias seguidos.",
+        "Usem a pergunta \"Como você gostaria que a gente cuidasse da admiração pelas escolhas do outro?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um toque na nuca sempre que fizerem a admiração pelas escolhas do outro.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "ADM-013",
+      "titulo": "Relembrar nossa história",
+      "nivel": 13,
+      "fase": "intermediario",
+      "tempo_leitura": "3-4 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 13/20 do Elo da Admiração e Afeto, o foco é a prática de relembrar nossa história. A proposta é trazer mais desejo com respeito com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção a relembrar nossa história. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática de relembrar nossa história acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor de relembrar nossa história não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: o casal nota mais falhas que qualidades. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é as conquistas passam sem celebração. Esses momentos são oportunidades para testar relembrar nossa história sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: reservem dois minutos para relembrar nossa história. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"O que torna relembrar nossa história mais leve para você?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Como você percebe que relembrar nossa história está acontecendo de um jeito bom?\" e escolham um gesto de um beijo de chegada como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: fazer comparação com outras pessoas. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é forçar demonstrações quando o outro está tenso. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"O que torna relembrar nossa história mais leve para você?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Como você percebe que relembrar nossa história está acontecendo de um jeito bom?\". Concluam com um acordo pequeno para o dia e um gesto de um beijo de chegada. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem em relembrar nossa história.",
+        "Como a constância da prática de relembrar nossa história fortalece a conexão.",
+        "Quais sinais mostram que relembrar nossa história precisa de atenção.",
+        "Um roteiro simples para conversar sobre relembrar nossa história."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem relembrar nossa história por três dias seguidos.",
+        "Usem a pergunta \"O que torna relembrar nossa história mais leve para você?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um beijo de chegada sempre que fizerem relembrar nossa história.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "ADM-014",
+      "titulo": "Apelidos carinhosos",
+      "nivel": 14,
+      "fase": "intermediario",
+      "tempo_leitura": "3-4 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 14/20 do Elo da Admiração e Afeto, o foco é a prática dos apelidos carinhosos. A proposta é trazer ambiente mais positivo com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção aos apelidos carinhosos. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática dos apelidos carinhosos acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor dos apelidos carinhosos não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: as conquistas passam sem celebração. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é o toque diminuiu com a rotina. Esses momentos são oportunidades para testar os apelidos carinhosos sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: escolham um momento do dia para praticar os apelidos carinhosos. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Quando falamos dos apelidos carinhosos, o que funciona bem entre nós?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"O que você quer que eu lembre sobre os apelidos carinhosos?\" e escolham um gesto de um carinho no rosto como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: forçar demonstrações quando o outro está tenso. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é confundir afeto com cobrança. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Quando falamos dos apelidos carinhosos, o que funciona bem entre nós?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"O que você quer que eu lembre sobre os apelidos carinhosos?\". Concluam com um acordo pequeno para o dia e um gesto de um carinho no rosto. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem nos apelidos carinhosos.",
+        "Como a constância da prática dos apelidos carinhosos fortalece a conexão.",
+        "Quais sinais mostram que os apelidos carinhosos precisa de atenção.",
+        "Um roteiro simples para conversar sobre os apelidos carinhosos."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem os apelidos carinhosos por três dias seguidos.",
+        "Usem a pergunta \"Quando falamos dos apelidos carinhosos, o que funciona bem entre nós?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um carinho no rosto sempre que fizerem os apelidos carinhosos.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "ADM-015",
+      "titulo": "Afeto nos dias difíceis",
+      "nivel": 15,
+      "fase": "avancado",
+      "tempo_leitura": "4-5 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 15/20 do Elo da Admiração e Afeto, o foco é a prática do afeto nos dias difíceis. A proposta é trazer mais generosidade no dia a dia com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção ao afeto nos dias difíceis. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática do afeto nos dias difíceis acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor do afeto nos dias difíceis não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: o toque diminuiu com a rotina. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é os elogios ficaram raros. Esses momentos são oportunidades para testar o afeto nos dias difíceis sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: testem hoje praticar o afeto nos dias difíceis de forma simples. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Qual parte do afeto nos dias difíceis te faz sentir mais conectado(a)?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Como posso apoiar você no afeto nos dias difíceis agora?\" e escolham um gesto de um elogio ao ouvido como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos.",
+            "Para aprofundar, separem um momento na semana para revisar o afeto nos dias difíceis com calma e combinar um ajuste pequeno. Esse olhar mais demorado ajuda a consolidar o aprendizado e prepara o casal para conversas mais profundas."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: confundir afeto com cobrança. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é elogiar de forma vaga e sem detalhe. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Qual parte do afeto nos dias difíceis te faz sentir mais conectado(a)?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Como posso apoiar você no afeto nos dias difíceis agora?\". Concluam com um acordo pequeno para o dia e um gesto de um elogio ao ouvido. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem no afeto nos dias difíceis.",
+        "Como a constância da prática do afeto nos dias difíceis fortalece a conexão.",
+        "Quais sinais mostram que o afeto nos dias difíceis precisa de atenção.",
+        "Um roteiro simples para conversar sobre o afeto nos dias difíceis."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem o afeto nos dias difíceis por três dias seguidos.",
+        "Usem a pergunta \"Qual parte do afeto nos dias difíceis te faz sentir mais conectado(a)?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um elogio ao ouvido sempre que fizerem o afeto nos dias difíceis.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "ADM-016",
+      "titulo": "Reconexão após rotina pesada",
+      "nivel": 16,
+      "fase": "avancado",
+      "tempo_leitura": "4-5 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 16/20 do Elo da Admiração e Afeto, o foco é a prática da reconexão após rotina pesada. A proposta é trazer aumento de ternura com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção à reconexão após rotina pesada. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática da reconexão após rotina pesada acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor da reconexão após rotina pesada não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: os elogios ficaram raros. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é o carinho virou automático. Esses momentos são oportunidades para testar a reconexão após rotina pesada sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: combinem um micro-ritual para praticar a reconexão após rotina pesada. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"O que você precisa de mim na reconexão após rotina pesada?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Qual pequeno gesto ajudaria na reconexão após rotina pesada hoje?\" e escolham um gesto de um abraço mais longo como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos.",
+            "Se quiserem ir além, revisitem a reconexão após rotina pesada no fim da semana e anotem o que funcionou. Esse registro simples cria consciência e evita que o cuidado se perca quando a rotina apertar."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: elogiar de forma vaga e sem detalhe. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é usar afeto apenas quando quer algo. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"O que você precisa de mim na reconexão após rotina pesada?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Qual pequeno gesto ajudaria na reconexão após rotina pesada hoje?\". Concluam com um acordo pequeno para o dia e um gesto de um abraço mais longo. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem na reconexão após rotina pesada.",
+        "Como a constância da prática da reconexão após rotina pesada fortalece a conexão.",
+        "Quais sinais mostram que a reconexão após rotina pesada precisa de atenção.",
+        "Um roteiro simples para conversar sobre a reconexão após rotina pesada."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem a reconexão após rotina pesada por três dias seguidos.",
+        "Usem a pergunta \"O que você precisa de mim na reconexão após rotina pesada?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um abraço mais longo sempre que fizerem a reconexão após rotina pesada.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "ADM-017",
+      "titulo": "Surpresa simples",
+      "nivel": 17,
+      "fase": "avancado",
+      "tempo_leitura": "4-5 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 17/20 do Elo da Admiração e Afeto, o foco é a prática da surpresa simples. A proposta é trazer sensação de ser valorizado(a) com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção à surpresa simples. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática da surpresa simples acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor da surpresa simples não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: o carinho virou automático. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é o casal nota mais falhas que qualidades. Esses momentos são oportunidades para testar a surpresa simples sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: reservem dois minutos para praticar a surpresa simples. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Como você gostaria que a gente cuidasse da surpresa simples?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"O que podemos combinar para melhorar a surpresa simples nesta semana?\" e escolham um gesto de um toque na nuca como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos.",
+            "Para aprofundar, separem um momento na semana para revisar a surpresa simples com calma e combinar um ajuste pequeno. Esse olhar mais demorado ajuda a consolidar o aprendizado e prepara o casal para conversas mais profundas."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: usar afeto apenas quando quer algo. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é fazer comparação com outras pessoas. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Como você gostaria que a gente cuidasse da surpresa simples?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"O que podemos combinar para melhorar a surpresa simples nesta semana?\". Concluam com um acordo pequeno para o dia e um gesto de um toque na nuca. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem na surpresa simples.",
+        "Como a constância da prática da surpresa simples fortalece a conexão.",
+        "Quais sinais mostram que a surpresa simples precisa de atenção.",
+        "Um roteiro simples para conversar sobre a surpresa simples."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem a surpresa simples por três dias seguidos.",
+        "Usem a pergunta \"Como você gostaria que a gente cuidasse da surpresa simples?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um toque na nuca sempre que fizerem a surpresa simples.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "ADM-018",
+      "titulo": "Demonstrar desejo com elegância",
+      "nivel": 18,
+      "fase": "avancado",
+      "tempo_leitura": "4-5 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 18/20 do Elo da Admiração e Afeto, o foco é a prática de demonstrar desejo com elegância. A proposta é trazer mais desejo com respeito com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção a demonstrar desejo com elegância. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática de demonstrar desejo com elegância acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor de demonstrar desejo com elegância não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: o casal nota mais falhas que qualidades. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é as conquistas passam sem celebração. Esses momentos são oportunidades para testar demonstrar desejo com elegância sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: escolham um momento do dia para demonstrar desejo com elegância. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"O que torna demonstrar desejo com elegância mais leve para você?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Como você percebe que demonstrar desejo com elegância está acontecendo de um jeito bom?\" e escolham um gesto de um beijo de chegada como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos.",
+            "Se quiserem ir além, revisitem demonstrar desejo com elegância no fim da semana e anotem o que funcionou. Esse registro simples cria consciência e evita que o cuidado se perca quando a rotina apertar."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: fazer comparação com outras pessoas. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é forçar demonstrações quando o outro está tenso. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"O que torna demonstrar desejo com elegância mais leve para você?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Como você percebe que demonstrar desejo com elegância está acontecendo de um jeito bom?\". Concluam com um acordo pequeno para o dia e um gesto de um beijo de chegada. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem em demonstrar desejo com elegância.",
+        "Como a constância da prática de demonstrar desejo com elegância fortalece a conexão.",
+        "Quais sinais mostram que demonstrar desejo com elegância precisa de atenção.",
+        "Um roteiro simples para conversar sobre demonstrar desejo com elegância."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem demonstrar desejo com elegância por três dias seguidos.",
+        "Usem a pergunta \"O que torna demonstrar desejo com elegância mais leve para você?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um beijo de chegada sempre que fizerem demonstrar desejo com elegância.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "ADM-019",
+      "titulo": "Admiração em público com respeito",
+      "nivel": 19,
+      "fase": "avancado",
+      "tempo_leitura": "4-5 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 19/20 do Elo da Admiração e Afeto, o foco é a prática de admiração em público com respeito. A proposta é trazer ambiente mais positivo com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção a admiração em público com respeito. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática de admiração em público com respeito acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor de admiração em público com respeito não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: as conquistas passam sem celebração. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é o toque diminuiu com a rotina. Esses momentos são oportunidades para testar admiração em público com respeito sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: testem hoje praticar admiração em público com respeito de forma simples. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Quando falamos de admiração em público com respeito, o que funciona bem entre nós?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"O que você quer que eu lembre sobre admiração em público com respeito?\" e escolham um gesto de um carinho no rosto como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos.",
+            "Para aprofundar, separem um momento na semana para revisar admiração em público com respeito com calma e combinar um ajuste pequeno. Esse olhar mais demorado ajuda a consolidar o aprendizado e prepara o casal para conversas mais profundas."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: forçar demonstrações quando o outro está tenso. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é confundir afeto com cobrança. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Quando falamos de admiração em público com respeito, o que funciona bem entre nós?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"O que você quer que eu lembre sobre admiração em público com respeito?\". Concluam com um acordo pequeno para o dia e um gesto de um carinho no rosto. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem em admiração em público com respeito.",
+        "Como a constância da prática de admiração em público com respeito fortalece a conexão.",
+        "Quais sinais mostram que admiração em público com respeito precisa de atenção.",
+        "Um roteiro simples para conversar sobre admiração em público com respeito."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem admiração em público com respeito por três dias seguidos.",
+        "Usem a pergunta \"Quando falamos de admiração em público com respeito, o que funciona bem entre nós?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um carinho no rosto sempre que fizerem admiração em público com respeito.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "ADM-020",
+      "titulo": "Manter a chama com cuidado",
+      "nivel": 20,
+      "fase": "avancado",
+      "tempo_leitura": "4-5 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 20/20 do Elo da Admiração e Afeto, o foco é a prática de manter a chama com cuidado. A proposta é trazer mais generosidade no dia a dia com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção a manter a chama com cuidado. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática de manter a chama com cuidado acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor de manter a chama com cuidado não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: o toque diminuiu com a rotina. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é os elogios ficaram raros. Esses momentos são oportunidades para testar manter a chama com cuidado sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: combinem um micro-ritual para manter a chama com cuidado. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Qual parte de manter a chama com cuidado te faz sentir mais conectado(a)?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Como posso apoiar você em manter a chama com cuidado agora?\" e escolham um gesto de um elogio ao ouvido como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos.",
+            "Se quiserem ir além, revisitem manter a chama com cuidado no fim da semana e anotem o que funcionou. Esse registro simples cria consciência e evita que o cuidado se perca quando a rotina apertar."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: confundir afeto com cobrança. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é elogiar de forma vaga e sem detalhe. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Qual parte de manter a chama com cuidado te faz sentir mais conectado(a)?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Como posso apoiar você em manter a chama com cuidado agora?\". Concluam com um acordo pequeno para o dia e um gesto de um elogio ao ouvido. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem em manter a chama com cuidado.",
+        "Como a constância da prática de manter a chama com cuidado fortalece a conexão.",
+        "Quais sinais mostram que manter a chama com cuidado precisa de atenção.",
+        "Um roteiro simples para conversar sobre manter a chama com cuidado."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem manter a chama com cuidado por três dias seguidos.",
+        "Usem a pergunta \"Qual parte de manter a chama com cuidado te faz sentir mais conectado(a)?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um elogio ao ouvido sempre que fizerem manter a chama com cuidado.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    }
+  ]
+}

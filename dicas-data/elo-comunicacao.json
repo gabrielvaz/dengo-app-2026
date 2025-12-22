@@ -1,0 +1,1301 @@
+{
+  "elo": {
+    "id": "ELO-COM",
+    "nome": "Elo da Comunicação Clara",
+    "descricao": "Organiza a forma de falar e ouvir para diminuir ruídos e aumentar a compreensão.",
+    "tipo_de_casal": "Casais que sentem que se desencontram nas conversas.",
+    "objetivo": "Criar um diálogo mais claro, gentil e direto.",
+    "progressao": {
+      "total_etapas": 20,
+      "descricao": "Do tom e pedidos básicos até conversas difíceis e planejamento."
+    }
+  },
+  "artigos": [
+    {
+      "id": "COM-001",
+      "titulo": "Tom de voz acolhedor",
+      "nivel": 1,
+      "fase": "base",
+      "tempo_leitura": "2-3 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 1/20 do Elo da Comunicação Clara, o foco é a prática do tom de voz acolhedor. A proposta é trazer clareza nas mensagens com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção ao tom de voz acolhedor. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática do tom de voz acolhedor acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor do tom de voz acolhedor não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: vocês discutem por detalhes pequenos. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é um fala e o outro se defende rápido. Esses momentos são oportunidades para testar o tom de voz acolhedor sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: reservem dois minutos para praticar o tom de voz acolhedor. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"O que você precisa de mim no tom de voz acolhedor?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Qual pequeno gesto ajudaria no tom de voz acolhedor hoje?\" e escolham um gesto de um tom mais baixo como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: usar generalizações como sempre e nunca. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é misturar muitos assuntos na mesma conversa. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"O que você precisa de mim no tom de voz acolhedor?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Qual pequeno gesto ajudaria no tom de voz acolhedor hoje?\". Concluam com um acordo pequeno para o dia e um gesto de um tom mais baixo. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem no tom de voz acolhedor.",
+        "Como a constância da prática do tom de voz acolhedor fortalece a conexão.",
+        "Quais sinais mostram que o tom de voz acolhedor precisa de atenção.",
+        "Um roteiro simples para conversar sobre o tom de voz acolhedor."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem o tom de voz acolhedor por três dias seguidos.",
+        "Usem a pergunta \"O que você precisa de mim no tom de voz acolhedor?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um tom mais baixo sempre que fizerem o tom de voz acolhedor.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "COM-002",
+      "titulo": "Falar em primeira pessoa",
+      "nivel": 2,
+      "fase": "base",
+      "tempo_leitura": "2-3 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 2/20 do Elo da Comunicação Clara, o foco é a prática de falar em primeira pessoa. A proposta é trazer menos suposições com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção a falar em primeira pessoa. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática de falar em primeira pessoa acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor de falar em primeira pessoa não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: um fala e o outro se defende rápido. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é as conversas terminam sem conclusão. Esses momentos são oportunidades para testar falar em primeira pessoa sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: escolham um momento do dia para falar em primeira pessoa. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Como você gostaria que a gente cuidasse de falar em primeira pessoa?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"O que podemos combinar para melhorar falar em primeira pessoa nesta semana?\" e escolham um gesto de uma pausa breve como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: misturar muitos assuntos na mesma conversa. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é falar com pressa e sem checar entendimento. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Como você gostaria que a gente cuidasse de falar em primeira pessoa?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"O que podemos combinar para melhorar falar em primeira pessoa nesta semana?\". Concluam com um acordo pequeno para o dia e um gesto de uma pausa breve. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem em falar em primeira pessoa.",
+        "Como a constância da prática de falar em primeira pessoa fortalece a conexão.",
+        "Quais sinais mostram que falar em primeira pessoa precisa de atenção.",
+        "Um roteiro simples para conversar sobre falar em primeira pessoa."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem falar em primeira pessoa por três dias seguidos.",
+        "Usem a pergunta \"Como você gostaria que a gente cuidasse de falar em primeira pessoa?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de uma pausa breve sempre que fizerem falar em primeira pessoa.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "COM-003",
+      "titulo": "Pedido claro",
+      "nivel": 3,
+      "fase": "base",
+      "tempo_leitura": "2-3 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 3/20 do Elo da Comunicação Clara, o foco é a prática do pedido claro. A proposta é trazer mais respeito nas conversas com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção ao pedido claro. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática do pedido claro acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor do pedido claro não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: as conversas terminam sem conclusão. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é um interpreta e o outro se cala. Esses momentos são oportunidades para testar o pedido claro sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: testem hoje praticar o pedido claro de forma simples. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"O que torna o pedido claro mais leve para você?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Como você percebe que o pedido claro está acontecendo de um jeito bom?\" e escolham um gesto de um contato visual calmo como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: falar com pressa e sem checar entendimento. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é interromper para se defender. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"O que torna o pedido claro mais leve para você?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Como você percebe que o pedido claro está acontecendo de um jeito bom?\". Concluam com um acordo pequeno para o dia e um gesto de um contato visual calmo. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem no pedido claro.",
+        "Como a constância da prática do pedido claro fortalece a conexão.",
+        "Quais sinais mostram que o pedido claro precisa de atenção.",
+        "Um roteiro simples para conversar sobre o pedido claro."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem o pedido claro por três dias seguidos.",
+        "Usem a pergunta \"O que torna o pedido claro mais leve para você?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um contato visual calmo sempre que fizerem o pedido claro.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "COM-004",
+      "titulo": "Checar entendimento",
+      "nivel": 4,
+      "fase": "base",
+      "tempo_leitura": "2-3 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 4/20 do Elo da Comunicação Clara, o foco é a prática de checar entendimento. A proposta é trazer senso de parceria com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção a checar entendimento. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática de checar entendimento acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor de checar entendimento não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: um interpreta e o outro se cala. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é a conversa vira lista de reclamações. Esses momentos são oportunidades para testar checar entendimento sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: combinem um micro-ritual para checar entendimento. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Quando falamos de checar entendimento, o que funciona bem entre nós?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"O que você quer que eu lembre sobre checar entendimento?\" e escolham um gesto de um aceno de concordância como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: interromper para se defender. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é responder no calor sem respirar. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Quando falamos de checar entendimento, o que funciona bem entre nós?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"O que você quer que eu lembre sobre checar entendimento?\". Concluam com um acordo pequeno para o dia e um gesto de um aceno de concordância. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem em checar entendimento.",
+        "Como a constância da prática de checar entendimento fortalece a conexão.",
+        "Quais sinais mostram que checar entendimento precisa de atenção.",
+        "Um roteiro simples para conversar sobre checar entendimento."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem checar entendimento por três dias seguidos.",
+        "Usem a pergunta \"Quando falamos de checar entendimento, o que funciona bem entre nós?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um aceno de concordância sempre que fizerem checar entendimento.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "COM-005",
+      "titulo": "Validar antes de responder",
+      "nivel": 5,
+      "fase": "base",
+      "tempo_leitura": "2-3 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 5/20 do Elo da Comunicação Clara, o foco é a prática de validar antes de responder. A proposta é trazer decisões mais leves com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção a validar antes de responder. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática de validar antes de responder acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor de validar antes de responder não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: a conversa vira lista de reclamações. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é vocês discutem por detalhes pequenos. Esses momentos são oportunidades para testar validar antes de responder sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: reservem dois minutos para validar antes de responder. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Qual parte de validar antes de responder te faz sentir mais conectado(a)?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Como posso apoiar você em validar antes de responder agora?\" e escolham um gesto de um toque leve para sinalizar escuta como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: responder no calor sem respirar. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é usar generalizações como sempre e nunca. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Qual parte de validar antes de responder te faz sentir mais conectado(a)?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Como posso apoiar você em validar antes de responder agora?\". Concluam com um acordo pequeno para o dia e um gesto de um toque leve para sinalizar escuta. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem em validar antes de responder.",
+        "Como a constância da prática de validar antes de responder fortalece a conexão.",
+        "Quais sinais mostram que validar antes de responder precisa de atenção.",
+        "Um roteiro simples para conversar sobre validar antes de responder."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem validar antes de responder por três dias seguidos.",
+        "Usem a pergunta \"Qual parte de validar antes de responder te faz sentir mais conectado(a)?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um toque leve para sinalizar escuta sempre que fizerem validar antes de responder.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "COM-006",
+      "titulo": "Perguntas abertas",
+      "nivel": 6,
+      "fase": "base",
+      "tempo_leitura": "2-3 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 6/20 do Elo da Comunicação Clara, o foco é a prática das perguntas abertas. A proposta é trazer clareza nas mensagens com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção às perguntas abertas. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática das perguntas abertas acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor das perguntas abertas não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: vocês discutem por detalhes pequenos. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é um fala e o outro se defende rápido. Esses momentos são oportunidades para testar as perguntas abertas sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: escolham um momento do dia para praticar as perguntas abertas. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"O que você precisa de mim nas perguntas abertas?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Qual pequeno gesto ajudaria nas perguntas abertas hoje?\" e escolham um gesto de um tom mais baixo como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: usar generalizações como sempre e nunca. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é misturar muitos assuntos na mesma conversa. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"O que você precisa de mim nas perguntas abertas?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Qual pequeno gesto ajudaria nas perguntas abertas hoje?\". Concluam com um acordo pequeno para o dia e um gesto de um tom mais baixo. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem nas perguntas abertas.",
+        "Como a constância da prática das perguntas abertas fortalece a conexão.",
+        "Quais sinais mostram que as perguntas abertas precisa de atenção.",
+        "Um roteiro simples para conversar sobre as perguntas abertas."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem as perguntas abertas por três dias seguidos.",
+        "Usem a pergunta \"O que você precisa de mim nas perguntas abertas?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um tom mais baixo sempre que fizerem as perguntas abertas.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "COM-007",
+      "titulo": "Negociar combinados",
+      "nivel": 7,
+      "fase": "intermediario",
+      "tempo_leitura": "3-4 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 7/20 do Elo da Comunicação Clara, o foco é a prática de negociar combinados. A proposta é trazer menos suposições com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção a negociar combinados. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática de negociar combinados acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor de negociar combinados não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: um fala e o outro se defende rápido. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é as conversas terminam sem conclusão. Esses momentos são oportunidades para testar negociar combinados sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: testem hoje negociar combinados de forma simples. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Como você gostaria que a gente cuidasse de negociar combinados?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"O que podemos combinar para melhorar negociar combinados nesta semana?\" e escolham um gesto de uma pausa breve como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: misturar muitos assuntos na mesma conversa. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é falar com pressa e sem checar entendimento. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Como você gostaria que a gente cuidasse de negociar combinados?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"O que podemos combinar para melhorar negociar combinados nesta semana?\". Concluam com um acordo pequeno para o dia e um gesto de uma pausa breve. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem em negociar combinados.",
+        "Como a constância da prática de negociar combinados fortalece a conexão.",
+        "Quais sinais mostram que negociar combinados precisa de atenção.",
+        "Um roteiro simples para conversar sobre negociar combinados."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem negociar combinados por três dias seguidos.",
+        "Usem a pergunta \"Como você gostaria que a gente cuidasse de negociar combinados?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de uma pausa breve sempre que fizerem negociar combinados.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "COM-008",
+      "titulo": "Atenção às palavras sensíveis",
+      "nivel": 8,
+      "fase": "intermediario",
+      "tempo_leitura": "3-4 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 8/20 do Elo da Comunicação Clara, o foco é a prática das palavras sensíveis. A proposta é trazer mais respeito nas conversas com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção às palavras sensíveis. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática das palavras sensíveis acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor das palavras sensíveis não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: as conversas terminam sem conclusão. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é um interpreta e o outro se cala. Esses momentos são oportunidades para testar as palavras sensíveis sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: combinem um micro-ritual para praticar as palavras sensíveis. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"O que torna as palavras sensíveis mais leve para você?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Como você percebe que as palavras sensíveis está acontecendo de um jeito bom?\" e escolham um gesto de um contato visual calmo como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: falar com pressa e sem checar entendimento. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é interromper para se defender. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"O que torna as palavras sensíveis mais leve para você?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Como você percebe que as palavras sensíveis está acontecendo de um jeito bom?\". Concluam com um acordo pequeno para o dia e um gesto de um contato visual calmo. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem nas palavras sensíveis.",
+        "Como a constância da prática das palavras sensíveis fortalece a conexão.",
+        "Quais sinais mostram que as palavras sensíveis precisa de atenção.",
+        "Um roteiro simples para conversar sobre as palavras sensíveis."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem as palavras sensíveis por três dias seguidos.",
+        "Usem a pergunta \"O que torna as palavras sensíveis mais leve para você?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um contato visual calmo sempre que fizerem as palavras sensíveis.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "COM-009",
+      "titulo": "Feedback sem acusação",
+      "nivel": 9,
+      "fase": "intermediario",
+      "tempo_leitura": "3-4 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 9/20 do Elo da Comunicação Clara, o foco é a prática do feedback sem acusação. A proposta é trazer senso de parceria com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção ao feedback sem acusação. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática do feedback sem acusação acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor do feedback sem acusação não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: um interpreta e o outro se cala. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é a conversa vira lista de reclamações. Esses momentos são oportunidades para testar o feedback sem acusação sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: reservem dois minutos para praticar o feedback sem acusação. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Quando falamos do feedback sem acusação, o que funciona bem entre nós?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"O que você quer que eu lembre sobre o feedback sem acusação?\" e escolham um gesto de um aceno de concordância como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: interromper para se defender. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é responder no calor sem respirar. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Quando falamos do feedback sem acusação, o que funciona bem entre nós?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"O que você quer que eu lembre sobre o feedback sem acusação?\". Concluam com um acordo pequeno para o dia e um gesto de um aceno de concordância. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem no feedback sem acusação.",
+        "Como a constância da prática do feedback sem acusação fortalece a conexão.",
+        "Quais sinais mostram que o feedback sem acusação precisa de atenção.",
+        "Um roteiro simples para conversar sobre o feedback sem acusação."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem o feedback sem acusação por três dias seguidos.",
+        "Usem a pergunta \"Quando falamos do feedback sem acusação, o que funciona bem entre nós?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um aceno de concordância sempre que fizerem o feedback sem acusação.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "COM-010",
+      "titulo": "Conversas difíceis com cuidado",
+      "nivel": 10,
+      "fase": "intermediario",
+      "tempo_leitura": "3-4 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 10/20 do Elo da Comunicação Clara, o foco é a prática de conversas difíceis com cuidado. A proposta é trazer decisões mais leves com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção a conversas difíceis com cuidado. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática de conversas difíceis com cuidado acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor de conversas difíceis com cuidado não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: a conversa vira lista de reclamações. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é vocês discutem por detalhes pequenos. Esses momentos são oportunidades para testar conversas difíceis com cuidado sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: escolham um momento do dia para praticar conversas difíceis com cuidado. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Qual parte de conversas difíceis com cuidado te faz sentir mais conectado(a)?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Como posso apoiar você em conversas difíceis com cuidado agora?\" e escolham um gesto de um toque leve para sinalizar escuta como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: responder no calor sem respirar. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é usar generalizações como sempre e nunca. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Qual parte de conversas difíceis com cuidado te faz sentir mais conectado(a)?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Como posso apoiar você em conversas difíceis com cuidado agora?\". Concluam com um acordo pequeno para o dia e um gesto de um toque leve para sinalizar escuta. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem em conversas difíceis com cuidado.",
+        "Como a constância da prática de conversas difíceis com cuidado fortalece a conexão.",
+        "Quais sinais mostram que conversas difíceis com cuidado precisa de atenção.",
+        "Um roteiro simples para conversar sobre conversas difíceis com cuidado."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem conversas difíceis com cuidado por três dias seguidos.",
+        "Usem a pergunta \"Qual parte de conversas difíceis com cuidado te faz sentir mais conectado(a)?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um toque leve para sinalizar escuta sempre que fizerem conversas difíceis com cuidado.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "COM-011",
+      "titulo": "Limites com respeito",
+      "nivel": 11,
+      "fase": "intermediario",
+      "tempo_leitura": "3-4 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 11/20 do Elo da Comunicação Clara, o foco é a prática de limites com respeito. A proposta é trazer clareza nas mensagens com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção a limites com respeito. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática de limites com respeito acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor de limites com respeito não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: vocês discutem por detalhes pequenos. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é um fala e o outro se defende rápido. Esses momentos são oportunidades para testar limites com respeito sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: testem hoje praticar limites com respeito de forma simples. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"O que você precisa de mim em limites com respeito?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Qual pequeno gesto ajudaria em limites com respeito hoje?\" e escolham um gesto de um tom mais baixo como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: usar generalizações como sempre e nunca. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é misturar muitos assuntos na mesma conversa. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"O que você precisa de mim em limites com respeito?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Qual pequeno gesto ajudaria em limites com respeito hoje?\". Concluam com um acordo pequeno para o dia e um gesto de um tom mais baixo. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem em limites com respeito.",
+        "Como a constância da prática de limites com respeito fortalece a conexão.",
+        "Quais sinais mostram que limites com respeito precisa de atenção.",
+        "Um roteiro simples para conversar sobre limites com respeito."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem limites com respeito por três dias seguidos.",
+        "Usem a pergunta \"O que você precisa de mim em limites com respeito?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um tom mais baixo sempre que fizerem limites com respeito.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "COM-012",
+      "titulo": "Revisar combinados",
+      "nivel": 12,
+      "fase": "intermediario",
+      "tempo_leitura": "3-4 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 12/20 do Elo da Comunicação Clara, o foco é a prática de revisar combinados. A proposta é trazer menos suposições com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção a revisar combinados. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática de revisar combinados acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor de revisar combinados não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: um fala e o outro se defende rápido. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é as conversas terminam sem conclusão. Esses momentos são oportunidades para testar revisar combinados sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: combinem um micro-ritual para revisar combinados. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Como você gostaria que a gente cuidasse de revisar combinados?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"O que podemos combinar para melhorar revisar combinados nesta semana?\" e escolham um gesto de uma pausa breve como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: misturar muitos assuntos na mesma conversa. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é falar com pressa e sem checar entendimento. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Como você gostaria que a gente cuidasse de revisar combinados?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"O que podemos combinar para melhorar revisar combinados nesta semana?\". Concluam com um acordo pequeno para o dia e um gesto de uma pausa breve. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem em revisar combinados.",
+        "Como a constância da prática de revisar combinados fortalece a conexão.",
+        "Quais sinais mostram que revisar combinados precisa de atenção.",
+        "Um roteiro simples para conversar sobre revisar combinados."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem revisar combinados por três dias seguidos.",
+        "Usem a pergunta \"Como você gostaria que a gente cuidasse de revisar combinados?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de uma pausa breve sempre que fizerem revisar combinados.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "COM-013",
+      "titulo": "Evitar generalizações",
+      "nivel": 13,
+      "fase": "intermediario",
+      "tempo_leitura": "3-4 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 13/20 do Elo da Comunicação Clara, o foco é a prática de evitar generalizações. A proposta é trazer mais respeito nas conversas com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção a evitar generalizações. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática de evitar generalizações acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor de evitar generalizações não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: as conversas terminam sem conclusão. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é um interpreta e o outro se cala. Esses momentos são oportunidades para testar evitar generalizações sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: reservem dois minutos para evitar generalizações. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"O que torna evitar generalizações mais leve para você?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Como você percebe que evitar generalizações está acontecendo de um jeito bom?\" e escolham um gesto de um contato visual calmo como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: falar com pressa e sem checar entendimento. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é interromper para se defender. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"O que torna evitar generalizações mais leve para você?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Como você percebe que evitar generalizações está acontecendo de um jeito bom?\". Concluam com um acordo pequeno para o dia e um gesto de um contato visual calmo. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem em evitar generalizações.",
+        "Como a constância da prática de evitar generalizações fortalece a conexão.",
+        "Quais sinais mostram que evitar generalizações precisa de atenção.",
+        "Um roteiro simples para conversar sobre evitar generalizações."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem evitar generalizações por três dias seguidos.",
+        "Usem a pergunta \"O que torna evitar generalizações mais leve para você?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um contato visual calmo sempre que fizerem evitar generalizações.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "COM-014",
+      "titulo": "Resumo do que foi dito",
+      "nivel": 14,
+      "fase": "intermediario",
+      "tempo_leitura": "3-4 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 14/20 do Elo da Comunicação Clara, o foco é a prática de resumir o que foi dito. A proposta é trazer senso de parceria com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção a resumir o que foi dito. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática de resumir o que foi dito acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor de resumir o que foi dito não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: um interpreta e o outro se cala. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é a conversa vira lista de reclamações. Esses momentos são oportunidades para testar resumir o que foi dito sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: escolham um momento do dia para resumir o que foi dito. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Quando falamos de resumir o que foi dito, o que funciona bem entre nós?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"O que você quer que eu lembre sobre resumir o que foi dito?\" e escolham um gesto de um aceno de concordância como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: interromper para se defender. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é responder no calor sem respirar. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Quando falamos de resumir o que foi dito, o que funciona bem entre nós?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"O que você quer que eu lembre sobre resumir o que foi dito?\". Concluam com um acordo pequeno para o dia e um gesto de um aceno de concordância. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem em resumir o que foi dito.",
+        "Como a constância da prática de resumir o que foi dito fortalece a conexão.",
+        "Quais sinais mostram que resumir o que foi dito precisa de atenção.",
+        "Um roteiro simples para conversar sobre resumir o que foi dito."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem resumir o que foi dito por três dias seguidos.",
+        "Usem a pergunta \"Quando falamos de resumir o que foi dito, o que funciona bem entre nós?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um aceno de concordância sempre que fizerem resumir o que foi dito.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "COM-015",
+      "titulo": "Conversar sobre dinheiro",
+      "nivel": 15,
+      "fase": "avancado",
+      "tempo_leitura": "4-5 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 15/20 do Elo da Comunicação Clara, o foco é a prática de conversar sobre dinheiro. A proposta é trazer decisões mais leves com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção a conversar sobre dinheiro. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática de conversar sobre dinheiro acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor de conversar sobre dinheiro não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: a conversa vira lista de reclamações. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é vocês discutem por detalhes pequenos. Esses momentos são oportunidades para testar conversar sobre dinheiro sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: testem hoje conversar sobre dinheiro de forma simples. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Qual parte de conversar sobre dinheiro te faz sentir mais conectado(a)?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Como posso apoiar você em conversar sobre dinheiro agora?\" e escolham um gesto de um toque leve para sinalizar escuta como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos.",
+            "Para aprofundar, separem um momento na semana para revisar conversar sobre dinheiro com calma e combinar um ajuste pequeno. Esse olhar mais demorado ajuda a consolidar o aprendizado e prepara o casal para conversas mais profundas."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: responder no calor sem respirar. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é usar generalizações como sempre e nunca. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Qual parte de conversar sobre dinheiro te faz sentir mais conectado(a)?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Como posso apoiar você em conversar sobre dinheiro agora?\". Concluam com um acordo pequeno para o dia e um gesto de um toque leve para sinalizar escuta. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem em conversar sobre dinheiro.",
+        "Como a constância da prática de conversar sobre dinheiro fortalece a conexão.",
+        "Quais sinais mostram que conversar sobre dinheiro precisa de atenção.",
+        "Um roteiro simples para conversar sobre conversar sobre dinheiro."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem conversar sobre dinheiro por três dias seguidos.",
+        "Usem a pergunta \"Qual parte de conversar sobre dinheiro te faz sentir mais conectado(a)?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um toque leve para sinalizar escuta sempre que fizerem conversar sobre dinheiro.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "COM-016",
+      "titulo": "Conversar sobre família",
+      "nivel": 16,
+      "fase": "avancado",
+      "tempo_leitura": "4-5 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 16/20 do Elo da Comunicação Clara, o foco é a prática de conversar sobre família. A proposta é trazer clareza nas mensagens com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção a conversar sobre família. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática de conversar sobre família acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor de conversar sobre família não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: vocês discutem por detalhes pequenos. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é um fala e o outro se defende rápido. Esses momentos são oportunidades para testar conversar sobre família sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: combinem um micro-ritual para conversar sobre família. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"O que você precisa de mim em conversar sobre família?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Qual pequeno gesto ajudaria em conversar sobre família hoje?\" e escolham um gesto de um tom mais baixo como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos.",
+            "Se quiserem ir além, revisitem conversar sobre família no fim da semana e anotem o que funcionou. Esse registro simples cria consciência e evita que o cuidado se perca quando a rotina apertar."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: usar generalizações como sempre e nunca. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é misturar muitos assuntos na mesma conversa. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"O que você precisa de mim em conversar sobre família?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Qual pequeno gesto ajudaria em conversar sobre família hoje?\". Concluam com um acordo pequeno para o dia e um gesto de um tom mais baixo. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem em conversar sobre família.",
+        "Como a constância da prática de conversar sobre família fortalece a conexão.",
+        "Quais sinais mostram que conversar sobre família precisa de atenção.",
+        "Um roteiro simples para conversar sobre conversar sobre família."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem conversar sobre família por três dias seguidos.",
+        "Usem a pergunta \"O que você precisa de mim em conversar sobre família?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um tom mais baixo sempre que fizerem conversar sobre família.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "COM-017",
+      "titulo": "Conversar sobre intimidade",
+      "nivel": 17,
+      "fase": "avancado",
+      "tempo_leitura": "4-5 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 17/20 do Elo da Comunicação Clara, o foco é a prática de conversar sobre intimidade. A proposta é trazer menos suposições com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção a conversar sobre intimidade. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática de conversar sobre intimidade acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor de conversar sobre intimidade não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: um fala e o outro se defende rápido. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é as conversas terminam sem conclusão. Esses momentos são oportunidades para testar conversar sobre intimidade sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: reservem dois minutos para conversar sobre intimidade. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Como você gostaria que a gente cuidasse de conversar sobre intimidade?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"O que podemos combinar para melhorar conversar sobre intimidade nesta semana?\" e escolham um gesto de uma pausa breve como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos.",
+            "Para aprofundar, separem um momento na semana para revisar conversar sobre intimidade com calma e combinar um ajuste pequeno. Esse olhar mais demorado ajuda a consolidar o aprendizado e prepara o casal para conversas mais profundas."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: misturar muitos assuntos na mesma conversa. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é falar com pressa e sem checar entendimento. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Como você gostaria que a gente cuidasse de conversar sobre intimidade?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"O que podemos combinar para melhorar conversar sobre intimidade nesta semana?\". Concluam com um acordo pequeno para o dia e um gesto de uma pausa breve. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem em conversar sobre intimidade.",
+        "Como a constância da prática de conversar sobre intimidade fortalece a conexão.",
+        "Quais sinais mostram que conversar sobre intimidade precisa de atenção.",
+        "Um roteiro simples para conversar sobre conversar sobre intimidade."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem conversar sobre intimidade por três dias seguidos.",
+        "Usem a pergunta \"Como você gostaria que a gente cuidasse de conversar sobre intimidade?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de uma pausa breve sempre que fizerem conversar sobre intimidade.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "COM-018",
+      "titulo": "Pedir ajuda sem culpa",
+      "nivel": 18,
+      "fase": "avancado",
+      "tempo_leitura": "4-5 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 18/20 do Elo da Comunicação Clara, o foco é a prática de pedir ajuda sem culpa. A proposta é trazer mais respeito nas conversas com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção a pedir ajuda sem culpa. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática de pedir ajuda sem culpa acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor de pedir ajuda sem culpa não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: as conversas terminam sem conclusão. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é um interpreta e o outro se cala. Esses momentos são oportunidades para testar pedir ajuda sem culpa sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: escolham um momento do dia para pedir ajuda sem culpa. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"O que torna pedir ajuda sem culpa mais leve para você?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Como você percebe que pedir ajuda sem culpa está acontecendo de um jeito bom?\" e escolham um gesto de um contato visual calmo como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos.",
+            "Se quiserem ir além, revisitem pedir ajuda sem culpa no fim da semana e anotem o que funcionou. Esse registro simples cria consciência e evita que o cuidado se perca quando a rotina apertar."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: falar com pressa e sem checar entendimento. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é interromper para se defender. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"O que torna pedir ajuda sem culpa mais leve para você?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Como você percebe que pedir ajuda sem culpa está acontecendo de um jeito bom?\". Concluam com um acordo pequeno para o dia e um gesto de um contato visual calmo. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem em pedir ajuda sem culpa.",
+        "Como a constância da prática de pedir ajuda sem culpa fortalece a conexão.",
+        "Quais sinais mostram que pedir ajuda sem culpa precisa de atenção.",
+        "Um roteiro simples para conversar sobre pedir ajuda sem culpa."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem pedir ajuda sem culpa por três dias seguidos.",
+        "Usem a pergunta \"O que torna pedir ajuda sem culpa mais leve para você?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um contato visual calmo sempre que fizerem pedir ajuda sem culpa.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "COM-019",
+      "titulo": "Falar sobre sonhos",
+      "nivel": 19,
+      "fase": "avancado",
+      "tempo_leitura": "4-5 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 19/20 do Elo da Comunicação Clara, o foco é a prática de falar sobre sonhos. A proposta é trazer senso de parceria com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção a falar sobre sonhos. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática de falar sobre sonhos acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor de falar sobre sonhos não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: um interpreta e o outro se cala. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é a conversa vira lista de reclamações. Esses momentos são oportunidades para testar falar sobre sonhos sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: testem hoje falar sobre sonhos de forma simples. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Quando falamos de falar sobre sonhos, o que funciona bem entre nós?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"O que você quer que eu lembre sobre falar sobre sonhos?\" e escolham um gesto de um aceno de concordância como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos.",
+            "Para aprofundar, separem um momento na semana para revisar falar sobre sonhos com calma e combinar um ajuste pequeno. Esse olhar mais demorado ajuda a consolidar o aprendizado e prepara o casal para conversas mais profundas."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: interromper para se defender. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é responder no calor sem respirar. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Quando falamos de falar sobre sonhos, o que funciona bem entre nós?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"O que você quer que eu lembre sobre falar sobre sonhos?\". Concluam com um acordo pequeno para o dia e um gesto de um aceno de concordância. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem em falar sobre sonhos.",
+        "Como a constância da prática de falar sobre sonhos fortalece a conexão.",
+        "Quais sinais mostram que falar sobre sonhos precisa de atenção.",
+        "Um roteiro simples para conversar sobre falar sobre sonhos."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem falar sobre sonhos por três dias seguidos.",
+        "Usem a pergunta \"Quando falamos de falar sobre sonhos, o que funciona bem entre nós?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um aceno de concordância sempre que fizerem falar sobre sonhos.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "COM-020",
+      "titulo": "Marcar conversas futuras",
+      "nivel": 20,
+      "fase": "avancado",
+      "tempo_leitura": "4-5 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 20/20 do Elo da Comunicação Clara, o foco é a prática de marcar conversas futuras. A proposta é trazer decisões mais leves com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção a marcar conversas futuras. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática de marcar conversas futuras acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor de marcar conversas futuras não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: a conversa vira lista de reclamações. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é vocês discutem por detalhes pequenos. Esses momentos são oportunidades para testar marcar conversas futuras sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: combinem um micro-ritual para marcar conversas futuras. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Qual parte de marcar conversas futuras te faz sentir mais conectado(a)?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Como posso apoiar você em marcar conversas futuras agora?\" e escolham um gesto de um toque leve para sinalizar escuta como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos.",
+            "Se quiserem ir além, revisitem marcar conversas futuras no fim da semana e anotem o que funcionou. Esse registro simples cria consciência e evita que o cuidado se perca quando a rotina apertar."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: responder no calor sem respirar. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é usar generalizações como sempre e nunca. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Qual parte de marcar conversas futuras te faz sentir mais conectado(a)?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Como posso apoiar você em marcar conversas futuras agora?\". Concluam com um acordo pequeno para o dia e um gesto de um toque leve para sinalizar escuta. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem em marcar conversas futuras.",
+        "Como a constância da prática de marcar conversas futuras fortalece a conexão.",
+        "Quais sinais mostram que marcar conversas futuras precisa de atenção.",
+        "Um roteiro simples para conversar sobre marcar conversas futuras."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem marcar conversas futuras por três dias seguidos.",
+        "Usem a pergunta \"Qual parte de marcar conversas futuras te faz sentir mais conectado(a)?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um toque leve para sinalizar escuta sempre que fizerem marcar conversas futuras.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    }
+  ]
+}

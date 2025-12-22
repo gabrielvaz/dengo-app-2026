@@ -1,0 +1,1301 @@
+{
+  "elo": {
+    "id": "ELO-CONF",
+    "nome": "Elo da Confiança e Segurança",
+    "descricao": "Fortalece previsibilidade e segurança emocional.",
+    "tipo_de_casal": "Casais que querem mais estabilidade e transparência.",
+    "objetivo": "Construir confiança por meio de combinados e coerência.",
+    "progressao": {
+      "total_etapas": 20,
+      "descricao": "De acordos simples a reconstrução após erros."
+    }
+  },
+  "artigos": [
+    {
+      "id": "CONF-001",
+      "titulo": "Combinados simples",
+      "nivel": 1,
+      "fase": "base",
+      "tempo_leitura": "2-3 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 1/20 do Elo da Confiança e Segurança, o foco é a prática dos combinados simples. A proposta é trazer mais segurança emocional com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção aos combinados simples. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática dos combinados simples acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor dos combinados simples não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: um fica inseguro com pequenas coisas. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é há necessidade de checar tudo. Esses momentos são oportunidades para testar os combinados simples sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: reservem dois minutos para praticar os combinados simples. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"O que você precisa de mim nos combinados simples?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Qual pequeno gesto ajudaria nos combinados simples hoje?\" e escolham um gesto de um aviso gentil como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: prometer mais do que consegue. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é guardar informações por medo de conflito. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"O que você precisa de mim nos combinados simples?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Qual pequeno gesto ajudaria nos combinados simples hoje?\". Concluam com um acordo pequeno para o dia e um gesto de um aviso gentil. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem nos combinados simples.",
+        "Como a constância da prática dos combinados simples fortalece a conexão.",
+        "Quais sinais mostram que os combinados simples precisa de atenção.",
+        "Um roteiro simples para conversar sobre os combinados simples."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem os combinados simples por três dias seguidos.",
+        "Usem a pergunta \"O que você precisa de mim nos combinados simples?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um aviso gentil sempre que fizerem os combinados simples.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "CONF-002",
+      "titulo": "Cumprir o que promete",
+      "nivel": 2,
+      "fase": "base",
+      "tempo_leitura": "2-3 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 2/20 do Elo da Confiança e Segurança, o foco é a prática de cumprir o que promete. A proposta é trazer menos dúvidas sobre o outro com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção a cumprir o que promete. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática de cumprir o que promete acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor de cumprir o que promete não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: há necessidade de checar tudo. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é promessas pequenas não são cumpridas. Esses momentos são oportunidades para testar cumprir o que promete sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: escolham um momento do dia para cumprir o que promete. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Como você gostaria que a gente cuidasse de cumprir o que promete?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"O que podemos combinar para melhorar cumprir o que promete nesta semana?\" e escolham um gesto de um check-in rápido como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: guardar informações por medo de conflito. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é cobrar prova constante de amor. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Como você gostaria que a gente cuidasse de cumprir o que promete?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"O que podemos combinar para melhorar cumprir o que promete nesta semana?\". Concluam com um acordo pequeno para o dia e um gesto de um check-in rápido. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem em cumprir o que promete.",
+        "Como a constância da prática de cumprir o que promete fortalece a conexão.",
+        "Quais sinais mostram que cumprir o que promete precisa de atenção.",
+        "Um roteiro simples para conversar sobre cumprir o que promete."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem cumprir o que promete por três dias seguidos.",
+        "Usem a pergunta \"Como você gostaria que a gente cuidasse de cumprir o que promete?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um check-in rápido sempre que fizerem cumprir o que promete.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "CONF-003",
+      "titulo": "Transparência cotidiana",
+      "nivel": 3,
+      "fase": "base",
+      "tempo_leitura": "2-3 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 3/20 do Elo da Confiança e Segurança, o foco é a prática da transparência cotidiana. A proposta é trazer sensação de estabilidade com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção à transparência cotidiana. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática da transparência cotidiana acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor da transparência cotidiana não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: promessas pequenas não são cumpridas. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é ciúmes aparece sem motivo claro. Esses momentos são oportunidades para testar a transparência cotidiana sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: testem hoje praticar a transparência cotidiana de forma simples. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"O que torna a transparência cotidiana mais leve para você?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Como você percebe que a transparência cotidiana está acontecendo de um jeito bom?\" e escolham um gesto de um olhar de segurança como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: cobrar prova constante de amor. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é invadir privacidade como teste. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"O que torna a transparência cotidiana mais leve para você?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Como você percebe que a transparência cotidiana está acontecendo de um jeito bom?\". Concluam com um acordo pequeno para o dia e um gesto de um olhar de segurança. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem na transparência cotidiana.",
+        "Como a constância da prática da transparência cotidiana fortalece a conexão.",
+        "Quais sinais mostram que a transparência cotidiana precisa de atenção.",
+        "Um roteiro simples para conversar sobre a transparência cotidiana."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem a transparência cotidiana por três dias seguidos.",
+        "Usem a pergunta \"O que torna a transparência cotidiana mais leve para você?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um olhar de segurança sempre que fizerem a transparência cotidiana.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "CONF-004",
+      "titulo": "Privacidade e respeito",
+      "nivel": 4,
+      "fase": "base",
+      "tempo_leitura": "2-3 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 4/20 do Elo da Confiança e Segurança, o foco é a prática da privacidade com respeito. A proposta é trazer mais liberdade com compromisso com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção à privacidade com respeito. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática da privacidade com respeito acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor da privacidade com respeito não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: ciúmes aparece sem motivo claro. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é o casal evita falar de limites. Esses momentos são oportunidades para testar a privacidade com respeito sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: combinem um micro-ritual para praticar a privacidade com respeito. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Quando falamos da privacidade com respeito, o que funciona bem entre nós?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"O que você quer que eu lembre sobre a privacidade com respeito?\" e escolham um gesto de um abraço de confirmação como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: invadir privacidade como teste. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é deixar combinados no ar. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Quando falamos da privacidade com respeito, o que funciona bem entre nós?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"O que você quer que eu lembre sobre a privacidade com respeito?\". Concluam com um acordo pequeno para o dia e um gesto de um abraço de confirmação. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem na privacidade com respeito.",
+        "Como a constância da prática da privacidade com respeito fortalece a conexão.",
+        "Quais sinais mostram que a privacidade com respeito precisa de atenção.",
+        "Um roteiro simples para conversar sobre a privacidade com respeito."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem a privacidade com respeito por três dias seguidos.",
+        "Usem a pergunta \"Quando falamos da privacidade com respeito, o que funciona bem entre nós?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um abraço de confirmação sempre que fizerem a privacidade com respeito.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "CONF-005",
+      "titulo": "Ciume e segurança",
+      "nivel": 5,
+      "fase": "base",
+      "tempo_leitura": "2-3 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 5/20 do Elo da Confiança e Segurança, o foco é a prática de ciúme e segurança. A proposta é trazer paz nas pequenas decisões com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção a ciúme e segurança. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática de ciúme e segurança acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor de ciúme e segurança não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: o casal evita falar de limites. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é um fica inseguro com pequenas coisas. Esses momentos são oportunidades para testar ciúme e segurança sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: reservem dois minutos para praticar ciúme e segurança. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Qual parte de ciúme e segurança te faz sentir mais conectado(a)?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Como posso apoiar você em ciúme e segurança agora?\" e escolham um gesto de um toque de confiança como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: deixar combinados no ar. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é prometer mais do que consegue. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Qual parte de ciúme e segurança te faz sentir mais conectado(a)?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Como posso apoiar você em ciúme e segurança agora?\". Concluam com um acordo pequeno para o dia e um gesto de um toque de confiança. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem em ciúme e segurança.",
+        "Como a constância da prática de ciúme e segurança fortalece a conexão.",
+        "Quais sinais mostram que ciúme e segurança precisa de atenção.",
+        "Um roteiro simples para conversar sobre ciúme e segurança."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem ciúme e segurança por três dias seguidos.",
+        "Usem a pergunta \"Qual parte de ciúme e segurança te faz sentir mais conectado(a)?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um toque de confiança sempre que fizerem ciúme e segurança.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "CONF-006",
+      "titulo": "Liberdade com compromisso",
+      "nivel": 6,
+      "fase": "base",
+      "tempo_leitura": "2-3 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 6/20 do Elo da Confiança e Segurança, o foco é a prática de liberdade com compromisso. A proposta é trazer mais segurança emocional com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção a liberdade com compromisso. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática de liberdade com compromisso acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor de liberdade com compromisso não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: um fica inseguro com pequenas coisas. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é há necessidade de checar tudo. Esses momentos são oportunidades para testar liberdade com compromisso sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: escolham um momento do dia para praticar liberdade com compromisso. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"O que você precisa de mim em liberdade com compromisso?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Qual pequeno gesto ajudaria em liberdade com compromisso hoje?\" e escolham um gesto de um aviso gentil como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: prometer mais do que consegue. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é guardar informações por medo de conflito. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"O que você precisa de mim em liberdade com compromisso?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Qual pequeno gesto ajudaria em liberdade com compromisso hoje?\". Concluam com um acordo pequeno para o dia e um gesto de um aviso gentil. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem em liberdade com compromisso.",
+        "Como a constância da prática de liberdade com compromisso fortalece a conexão.",
+        "Quais sinais mostram que liberdade com compromisso precisa de atenção.",
+        "Um roteiro simples para conversar sobre liberdade com compromisso."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem liberdade com compromisso por três dias seguidos.",
+        "Usem a pergunta \"O que você precisa de mim em liberdade com compromisso?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um aviso gentil sempre que fizerem liberdade com compromisso.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "CONF-007",
+      "titulo": "Apoio em decisões",
+      "nivel": 7,
+      "fase": "intermediario",
+      "tempo_leitura": "3-4 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 7/20 do Elo da Confiança e Segurança, o foco é a prática de apoio em decisões. A proposta é trazer menos dúvidas sobre o outro com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção a apoio em decisões. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática de apoio em decisões acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor de apoio em decisões não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: há necessidade de checar tudo. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é promessas pequenas não são cumpridas. Esses momentos são oportunidades para testar apoio em decisões sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: testem hoje praticar apoio em decisões de forma simples. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Como você gostaria que a gente cuidasse de apoio em decisões?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"O que podemos combinar para melhorar apoio em decisões nesta semana?\" e escolham um gesto de um check-in rápido como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: guardar informações por medo de conflito. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é cobrar prova constante de amor. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Como você gostaria que a gente cuidasse de apoio em decisões?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"O que podemos combinar para melhorar apoio em decisões nesta semana?\". Concluam com um acordo pequeno para o dia e um gesto de um check-in rápido. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem em apoio em decisões.",
+        "Como a constância da prática de apoio em decisões fortalece a conexão.",
+        "Quais sinais mostram que apoio em decisões precisa de atenção.",
+        "Um roteiro simples para conversar sobre apoio em decisões."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem apoio em decisões por três dias seguidos.",
+        "Usem a pergunta \"Como você gostaria que a gente cuidasse de apoio em decisões?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um check-in rápido sempre que fizerem apoio em decisões.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "CONF-008",
+      "titulo": "Honestidade em dias difíceis",
+      "nivel": 8,
+      "fase": "intermediario",
+      "tempo_leitura": "3-4 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 8/20 do Elo da Confiança e Segurança, o foco é a prática da honestidade em dias difíceis. A proposta é trazer sensação de estabilidade com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção à honestidade em dias difíceis. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática da honestidade em dias difíceis acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor da honestidade em dias difíceis não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: promessas pequenas não são cumpridas. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é ciúmes aparece sem motivo claro. Esses momentos são oportunidades para testar a honestidade em dias difíceis sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: combinem um micro-ritual para praticar a honestidade em dias difíceis. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"O que torna a honestidade em dias difíceis mais leve para você?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Como você percebe que a honestidade em dias difíceis está acontecendo de um jeito bom?\" e escolham um gesto de um olhar de segurança como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: cobrar prova constante de amor. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é invadir privacidade como teste. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"O que torna a honestidade em dias difíceis mais leve para você?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Como você percebe que a honestidade em dias difíceis está acontecendo de um jeito bom?\". Concluam com um acordo pequeno para o dia e um gesto de um olhar de segurança. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem na honestidade em dias difíceis.",
+        "Como a constância da prática da honestidade em dias difíceis fortalece a conexão.",
+        "Quais sinais mostram que a honestidade em dias difíceis precisa de atenção.",
+        "Um roteiro simples para conversar sobre a honestidade em dias difíceis."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem a honestidade em dias difíceis por três dias seguidos.",
+        "Usem a pergunta \"O que torna a honestidade em dias difíceis mais leve para você?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um olhar de segurança sempre que fizerem a honestidade em dias difíceis.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "CONF-009",
+      "titulo": "Coerência entre fala e ação",
+      "nivel": 9,
+      "fase": "intermediario",
+      "tempo_leitura": "3-4 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 9/20 do Elo da Confiança e Segurança, o foco é a prática da coerência entre fala e ação. A proposta é trazer mais liberdade com compromisso com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção à coerência entre fala e ação. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática da coerência entre fala e ação acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor da coerência entre fala e ação não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: ciúmes aparece sem motivo claro. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é o casal evita falar de limites. Esses momentos são oportunidades para testar a coerência entre fala e ação sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: reservem dois minutos para praticar a coerência entre fala e ação. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Quando falamos da coerência entre fala e ação, o que funciona bem entre nós?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"O que você quer que eu lembre sobre a coerência entre fala e ação?\" e escolham um gesto de um abraço de confirmação como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: invadir privacidade como teste. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é deixar combinados no ar. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Quando falamos da coerência entre fala e ação, o que funciona bem entre nós?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"O que você quer que eu lembre sobre a coerência entre fala e ação?\". Concluam com um acordo pequeno para o dia e um gesto de um abraço de confirmação. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem na coerência entre fala e ação.",
+        "Como a constância da prática da coerência entre fala e ação fortalece a conexão.",
+        "Quais sinais mostram que a coerência entre fala e ação precisa de atenção.",
+        "Um roteiro simples para conversar sobre a coerência entre fala e ação."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem a coerência entre fala e ação por três dias seguidos.",
+        "Usem a pergunta \"Quando falamos da coerência entre fala e ação, o que funciona bem entre nós?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um abraço de confirmação sempre que fizerem a coerência entre fala e ação.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "CONF-010",
+      "titulo": "Confiança na distância",
+      "nivel": 10,
+      "fase": "intermediario",
+      "tempo_leitura": "3-4 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 10/20 do Elo da Confiança e Segurança, o foco é a prática de confiança na distância. A proposta é trazer paz nas pequenas decisões com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção a confiança na distância. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática de confiança na distância acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor de confiança na distância não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: o casal evita falar de limites. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é um fica inseguro com pequenas coisas. Esses momentos são oportunidades para testar confiança na distância sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: escolham um momento do dia para praticar confiança na distância. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Qual parte de confiança na distância te faz sentir mais conectado(a)?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Como posso apoiar você em confiança na distância agora?\" e escolham um gesto de um toque de confiança como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: deixar combinados no ar. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é prometer mais do que consegue. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Qual parte de confiança na distância te faz sentir mais conectado(a)?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Como posso apoiar você em confiança na distância agora?\". Concluam com um acordo pequeno para o dia e um gesto de um toque de confiança. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem em confiança na distância.",
+        "Como a constância da prática de confiança na distância fortalece a conexão.",
+        "Quais sinais mostram que confiança na distância precisa de atenção.",
+        "Um roteiro simples para conversar sobre confiança na distância."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem confiança na distância por três dias seguidos.",
+        "Usem a pergunta \"Qual parte de confiança na distância te faz sentir mais conectado(a)?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um toque de confiança sempre que fizerem confiança na distância.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "CONF-011",
+      "titulo": "Confiança com amigos e família",
+      "nivel": 11,
+      "fase": "intermediario",
+      "tempo_leitura": "3-4 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 11/20 do Elo da Confiança e Segurança, o foco é a prática de confiança com amigos e família. A proposta é trazer mais segurança emocional com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção a confiança com amigos e família. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática de confiança com amigos e família acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor de confiança com amigos e família não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: um fica inseguro com pequenas coisas. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é há necessidade de checar tudo. Esses momentos são oportunidades para testar confiança com amigos e família sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: testem hoje praticar confiança com amigos e família de forma simples. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"O que você precisa de mim em confiança com amigos e família?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Qual pequeno gesto ajudaria em confiança com amigos e família hoje?\" e escolham um gesto de um aviso gentil como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: prometer mais do que consegue. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é guardar informações por medo de conflito. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"O que você precisa de mim em confiança com amigos e família?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Qual pequeno gesto ajudaria em confiança com amigos e família hoje?\". Concluam com um acordo pequeno para o dia e um gesto de um aviso gentil. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem em confiança com amigos e família.",
+        "Como a constância da prática de confiança com amigos e família fortalece a conexão.",
+        "Quais sinais mostram que confiança com amigos e família precisa de atenção.",
+        "Um roteiro simples para conversar sobre confiança com amigos e família."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem confiança com amigos e família por três dias seguidos.",
+        "Usem a pergunta \"O que você precisa de mim em confiança com amigos e família?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um aviso gentil sempre que fizerem confiança com amigos e família.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "CONF-012",
+      "titulo": "Confiança na rotina financeira",
+      "nivel": 12,
+      "fase": "intermediario",
+      "tempo_leitura": "3-4 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 12/20 do Elo da Confiança e Segurança, o foco é a prática de confiança na rotina financeira. A proposta é trazer menos dúvidas sobre o outro com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção a confiança na rotina financeira. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática de confiança na rotina financeira acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor de confiança na rotina financeira não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: há necessidade de checar tudo. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é promessas pequenas não são cumpridas. Esses momentos são oportunidades para testar confiança na rotina financeira sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: combinem um micro-ritual para praticar confiança na rotina financeira. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Como você gostaria que a gente cuidasse de confiança na rotina financeira?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"O que podemos combinar para melhorar confiança na rotina financeira nesta semana?\" e escolham um gesto de um check-in rápido como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: guardar informações por medo de conflito. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é cobrar prova constante de amor. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Como você gostaria que a gente cuidasse de confiança na rotina financeira?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"O que podemos combinar para melhorar confiança na rotina financeira nesta semana?\". Concluam com um acordo pequeno para o dia e um gesto de um check-in rápido. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem em confiança na rotina financeira.",
+        "Como a constância da prática de confiança na rotina financeira fortalece a conexão.",
+        "Quais sinais mostram que confiança na rotina financeira precisa de atenção.",
+        "Um roteiro simples para conversar sobre confiança na rotina financeira."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem confiança na rotina financeira por três dias seguidos.",
+        "Usem a pergunta \"Como você gostaria que a gente cuidasse de confiança na rotina financeira?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um check-in rápido sempre que fizerem confiança na rotina financeira.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "CONF-013",
+      "titulo": "Confiança na intimidade",
+      "nivel": 13,
+      "fase": "intermediario",
+      "tempo_leitura": "3-4 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 13/20 do Elo da Confiança e Segurança, o foco é a prática de confiança na intimidade. A proposta é trazer sensação de estabilidade com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção a confiança na intimidade. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática de confiança na intimidade acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor de confiança na intimidade não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: promessas pequenas não são cumpridas. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é ciúmes aparece sem motivo claro. Esses momentos são oportunidades para testar confiança na intimidade sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: reservem dois minutos para praticar confiança na intimidade. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"O que torna confiança na intimidade mais leve para você?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Como você percebe que confiança na intimidade está acontecendo de um jeito bom?\" e escolham um gesto de um olhar de segurança como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: cobrar prova constante de amor. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é invadir privacidade como teste. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"O que torna confiança na intimidade mais leve para você?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Como você percebe que confiança na intimidade está acontecendo de um jeito bom?\". Concluam com um acordo pequeno para o dia e um gesto de um olhar de segurança. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem em confiança na intimidade.",
+        "Como a constância da prática de confiança na intimidade fortalece a conexão.",
+        "Quais sinais mostram que confiança na intimidade precisa de atenção.",
+        "Um roteiro simples para conversar sobre confiança na intimidade."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem confiança na intimidade por três dias seguidos.",
+        "Usem a pergunta \"O que torna confiança na intimidade mais leve para você?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um olhar de segurança sempre que fizerem confiança na intimidade.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "CONF-014",
+      "titulo": "Reparar pequenas quebras",
+      "nivel": 14,
+      "fase": "intermediario",
+      "tempo_leitura": "3-4 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 14/20 do Elo da Confiança e Segurança, o foco é a prática de reparar pequenas quebras. A proposta é trazer mais liberdade com compromisso com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção a reparar pequenas quebras. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática de reparar pequenas quebras acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor de reparar pequenas quebras não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: ciúmes aparece sem motivo claro. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é o casal evita falar de limites. Esses momentos são oportunidades para testar reparar pequenas quebras sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: escolham um momento do dia para reparar pequenas quebras. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Quando falamos de reparar pequenas quebras, o que funciona bem entre nós?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"O que você quer que eu lembre sobre reparar pequenas quebras?\" e escolham um gesto de um abraço de confirmação como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: invadir privacidade como teste. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é deixar combinados no ar. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Quando falamos de reparar pequenas quebras, o que funciona bem entre nós?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"O que você quer que eu lembre sobre reparar pequenas quebras?\". Concluam com um acordo pequeno para o dia e um gesto de um abraço de confirmação. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem em reparar pequenas quebras.",
+        "Como a constância da prática de reparar pequenas quebras fortalece a conexão.",
+        "Quais sinais mostram que reparar pequenas quebras precisa de atenção.",
+        "Um roteiro simples para conversar sobre reparar pequenas quebras."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem reparar pequenas quebras por três dias seguidos.",
+        "Usem a pergunta \"Quando falamos de reparar pequenas quebras, o que funciona bem entre nós?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um abraço de confirmação sempre que fizerem reparar pequenas quebras.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "CONF-015",
+      "titulo": "Pedir clareza",
+      "nivel": 15,
+      "fase": "avancado",
+      "tempo_leitura": "4-5 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 15/20 do Elo da Confiança e Segurança, o foco é a prática de pedir clareza. A proposta é trazer paz nas pequenas decisões com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção a pedir clareza. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática de pedir clareza acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor de pedir clareza não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: o casal evita falar de limites. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é um fica inseguro com pequenas coisas. Esses momentos são oportunidades para testar pedir clareza sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: testem hoje pedir clareza de forma simples. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Qual parte de pedir clareza te faz sentir mais conectado(a)?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Como posso apoiar você em pedir clareza agora?\" e escolham um gesto de um toque de confiança como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos.",
+            "Para aprofundar, separem um momento na semana para revisar pedir clareza com calma e combinar um ajuste pequeno. Esse olhar mais demorado ajuda a consolidar o aprendizado e prepara o casal para conversas mais profundas."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: deixar combinados no ar. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é prometer mais do que consegue. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Qual parte de pedir clareza te faz sentir mais conectado(a)?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Como posso apoiar você em pedir clareza agora?\". Concluam com um acordo pequeno para o dia e um gesto de um toque de confiança. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem em pedir clareza.",
+        "Como a constância da prática de pedir clareza fortalece a conexão.",
+        "Quais sinais mostram que pedir clareza precisa de atenção.",
+        "Um roteiro simples para conversar sobre pedir clareza."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem pedir clareza por três dias seguidos.",
+        "Usem a pergunta \"Qual parte de pedir clareza te faz sentir mais conectado(a)?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um toque de confiança sempre que fizerem pedir clareza.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "CONF-016",
+      "titulo": "Vulnerabilidade e confiança",
+      "nivel": 16,
+      "fase": "avancado",
+      "tempo_leitura": "4-5 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 16/20 do Elo da Confiança e Segurança, o foco é a prática de vulnerabilidade e confiança. A proposta é trazer mais segurança emocional com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção a vulnerabilidade e confiança. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática de vulnerabilidade e confiança acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor de vulnerabilidade e confiança não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: um fica inseguro com pequenas coisas. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é há necessidade de checar tudo. Esses momentos são oportunidades para testar vulnerabilidade e confiança sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: combinem um micro-ritual para praticar vulnerabilidade e confiança. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"O que você precisa de mim em vulnerabilidade e confiança?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Qual pequeno gesto ajudaria em vulnerabilidade e confiança hoje?\" e escolham um gesto de um aviso gentil como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos.",
+            "Se quiserem ir além, revisitem vulnerabilidade e confiança no fim da semana e anotem o que funcionou. Esse registro simples cria consciência e evita que o cuidado se perca quando a rotina apertar."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: prometer mais do que consegue. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é guardar informações por medo de conflito. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"O que você precisa de mim em vulnerabilidade e confiança?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Qual pequeno gesto ajudaria em vulnerabilidade e confiança hoje?\". Concluam com um acordo pequeno para o dia e um gesto de um aviso gentil. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem em vulnerabilidade e confiança.",
+        "Como a constância da prática de vulnerabilidade e confiança fortalece a conexão.",
+        "Quais sinais mostram que vulnerabilidade e confiança precisa de atenção.",
+        "Um roteiro simples para conversar sobre vulnerabilidade e confiança."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem vulnerabilidade e confiança por três dias seguidos.",
+        "Usem a pergunta \"O que você precisa de mim em vulnerabilidade e confiança?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um aviso gentil sempre que fizerem vulnerabilidade e confiança.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "CONF-017",
+      "titulo": "Previsibilidade gentil",
+      "nivel": 17,
+      "fase": "avancado",
+      "tempo_leitura": "4-5 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 17/20 do Elo da Confiança e Segurança, o foco é a prática da previsibilidade gentil. A proposta é trazer menos dúvidas sobre o outro com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção à previsibilidade gentil. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática da previsibilidade gentil acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor da previsibilidade gentil não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: há necessidade de checar tudo. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é promessas pequenas não são cumpridas. Esses momentos são oportunidades para testar a previsibilidade gentil sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: reservem dois minutos para praticar a previsibilidade gentil. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Como você gostaria que a gente cuidasse da previsibilidade gentil?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"O que podemos combinar para melhorar a previsibilidade gentil nesta semana?\" e escolham um gesto de um check-in rápido como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos.",
+            "Para aprofundar, separem um momento na semana para revisar a previsibilidade gentil com calma e combinar um ajuste pequeno. Esse olhar mais demorado ajuda a consolidar o aprendizado e prepara o casal para conversas mais profundas."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: guardar informações por medo de conflito. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é cobrar prova constante de amor. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Como você gostaria que a gente cuidasse da previsibilidade gentil?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"O que podemos combinar para melhorar a previsibilidade gentil nesta semana?\". Concluam com um acordo pequeno para o dia e um gesto de um check-in rápido. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem na previsibilidade gentil.",
+        "Como a constância da prática da previsibilidade gentil fortalece a conexão.",
+        "Quais sinais mostram que a previsibilidade gentil precisa de atenção.",
+        "Um roteiro simples para conversar sobre a previsibilidade gentil."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem a previsibilidade gentil por três dias seguidos.",
+        "Usem a pergunta \"Como você gostaria que a gente cuidasse da previsibilidade gentil?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um check-in rápido sempre que fizerem a previsibilidade gentil.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "CONF-018",
+      "titulo": "Reconstruir após erro",
+      "nivel": 18,
+      "fase": "avancado",
+      "tempo_leitura": "4-5 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 18/20 do Elo da Confiança e Segurança, o foco é a prática de reconstruir após erro. A proposta é trazer sensação de estabilidade com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção a reconstruir após erro. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática de reconstruir após erro acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor de reconstruir após erro não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: promessas pequenas não são cumpridas. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é ciúmes aparece sem motivo claro. Esses momentos são oportunidades para testar reconstruir após erro sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: escolham um momento do dia para reconstruir após erro. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"O que torna reconstruir após erro mais leve para você?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Como você percebe que reconstruir após erro está acontecendo de um jeito bom?\" e escolham um gesto de um olhar de segurança como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos.",
+            "Se quiserem ir além, revisitem reconstruir após erro no fim da semana e anotem o que funcionou. Esse registro simples cria consciência e evita que o cuidado se perca quando a rotina apertar."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: cobrar prova constante de amor. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é invadir privacidade como teste. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"O que torna reconstruir após erro mais leve para você?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Como você percebe que reconstruir após erro está acontecendo de um jeito bom?\". Concluam com um acordo pequeno para o dia e um gesto de um olhar de segurança. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem em reconstruir após erro.",
+        "Como a constância da prática de reconstruir após erro fortalece a conexão.",
+        "Quais sinais mostram que reconstruir após erro precisa de atenção.",
+        "Um roteiro simples para conversar sobre reconstruir após erro."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem reconstruir após erro por três dias seguidos.",
+        "Usem a pergunta \"O que torna reconstruir após erro mais leve para você?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um olhar de segurança sempre que fizerem reconstruir após erro.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "CONF-019",
+      "titulo": "Confiança no futuro",
+      "nivel": 19,
+      "fase": "avancado",
+      "tempo_leitura": "4-5 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 19/20 do Elo da Confiança e Segurança, o foco é a prática de confiança no futuro. A proposta é trazer mais liberdade com compromisso com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção a confiança no futuro. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática de confiança no futuro acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor de confiança no futuro não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: ciúmes aparece sem motivo claro. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é o casal evita falar de limites. Esses momentos são oportunidades para testar confiança no futuro sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: testem hoje praticar confiança no futuro de forma simples. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Quando falamos de confiança no futuro, o que funciona bem entre nós?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"O que você quer que eu lembre sobre confiança no futuro?\" e escolham um gesto de um abraço de confirmação como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos.",
+            "Para aprofundar, separem um momento na semana para revisar confiança no futuro com calma e combinar um ajuste pequeno. Esse olhar mais demorado ajuda a consolidar o aprendizado e prepara o casal para conversas mais profundas."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: invadir privacidade como teste. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é deixar combinados no ar. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Quando falamos de confiança no futuro, o que funciona bem entre nós?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"O que você quer que eu lembre sobre confiança no futuro?\". Concluam com um acordo pequeno para o dia e um gesto de um abraço de confirmação. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem em confiança no futuro.",
+        "Como a constância da prática de confiança no futuro fortalece a conexão.",
+        "Quais sinais mostram que confiança no futuro precisa de atenção.",
+        "Um roteiro simples para conversar sobre confiança no futuro."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem confiança no futuro por três dias seguidos.",
+        "Usem a pergunta \"Quando falamos de confiança no futuro, o que funciona bem entre nós?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um abraço de confirmação sempre que fizerem confiança no futuro.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "CONF-020",
+      "titulo": "Segurança emocional diária",
+      "nivel": 20,
+      "fase": "avancado",
+      "tempo_leitura": "4-5 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 20/20 do Elo da Confiança e Segurança, o foco é a prática da segurança emocional diária. A proposta é trazer paz nas pequenas decisões com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção à segurança emocional diária. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática da segurança emocional diária acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor da segurança emocional diária não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: o casal evita falar de limites. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é um fica inseguro com pequenas coisas. Esses momentos são oportunidades para testar a segurança emocional diária sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: combinem um micro-ritual para praticar a segurança emocional diária. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Qual parte da segurança emocional diária te faz sentir mais conectado(a)?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Como posso apoiar você na segurança emocional diária agora?\" e escolham um gesto de um toque de confiança como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos.",
+            "Se quiserem ir além, revisitem a segurança emocional diária no fim da semana e anotem o que funcionou. Esse registro simples cria consciência e evita que o cuidado se perca quando a rotina apertar."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: deixar combinados no ar. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é prometer mais do que consegue. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Qual parte da segurança emocional diária te faz sentir mais conectado(a)?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Como posso apoiar você na segurança emocional diária agora?\". Concluam com um acordo pequeno para o dia e um gesto de um toque de confiança. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem na segurança emocional diária.",
+        "Como a constância da prática da segurança emocional diária fortalece a conexão.",
+        "Quais sinais mostram que a segurança emocional diária precisa de atenção.",
+        "Um roteiro simples para conversar sobre a segurança emocional diária."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem a segurança emocional diária por três dias seguidos.",
+        "Usem a pergunta \"Qual parte da segurança emocional diária te faz sentir mais conectado(a)?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um toque de confiança sempre que fizerem a segurança emocional diária.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    }
+  ]
+}

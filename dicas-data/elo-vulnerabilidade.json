@@ -1,0 +1,1301 @@
+{
+  "elo": {
+    "id": "ELO-VUL",
+    "nome": "Elo da Vulnerabilidade",
+    "descricao": "Aprofunda a intimidade emocional por meio de abertura segura.",
+    "tipo_de_casal": "Casais que desejam se conhecer além da superfície.",
+    "objetivo": "Criar espaço para sentimentos, necessidades e histórias pessoais.",
+    "progressao": {
+      "total_etapas": 20,
+      "descricao": "De pequenos sentimentos a acordos de cuidado emocional."
+    }
+  },
+  "artigos": [
+    {
+      "id": "VUL-001",
+      "titulo": "Dizer como você está hoje",
+      "nivel": 1,
+      "fase": "base",
+      "tempo_leitura": "2-3 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 1/20 do Elo da Vulnerabilidade, o foco é a prática de dizer como você está hoje. A proposta é trazer mais confiança para se abrir com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção a dizer como você está hoje. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática de dizer como você está hoje acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor de dizer como você está hoje não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: vocês falam do dia, mas pouco do que sentem. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é um evita temas por medo de incomodar. Esses momentos são oportunidades para testar dizer como você está hoje sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: reservem dois minutos para praticar dizer como você está hoje. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"O que você precisa de mim em dizer como você está hoje?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Qual pequeno gesto ajudaria em dizer como você está hoje hoje?\" e escolham um gesto de um olhar acolhedor como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: se abrir sem combinar o momento. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é esperar resposta perfeita na hora. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"O que você precisa de mim em dizer como você está hoje?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Qual pequeno gesto ajudaria em dizer como você está hoje hoje?\". Concluam com um acordo pequeno para o dia e um gesto de um olhar acolhedor. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem em dizer como você está hoje.",
+        "Como a constância da prática de dizer como você está hoje fortalece a conexão.",
+        "Quais sinais mostram que dizer como você está hoje precisa de atenção.",
+        "Um roteiro simples para conversar sobre dizer como você está hoje."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem dizer como você está hoje por três dias seguidos.",
+        "Usem a pergunta \"O que você precisa de mim em dizer como você está hoje?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um olhar acolhedor sempre que fizerem dizer como você está hoje.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "VUL-002",
+      "titulo": "Nomear necessidades",
+      "nivel": 2,
+      "fase": "base",
+      "tempo_leitura": "2-3 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 2/20 do Elo da Vulnerabilidade, o foco é a prática de nomear necessidades. A proposta é trazer sensação de acolhimento com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção a nomear necessidades. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática de nomear necessidades acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor de nomear necessidades não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: um evita temas por medo de incomodar. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é as emoções ficam guardadas. Esses momentos são oportunidades para testar nomear necessidades sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: escolham um momento do dia para nomear necessidades. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Como você gostaria que a gente cuidasse de nomear necessidades?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"O que podemos combinar para melhorar nomear necessidades nesta semana?\" e escolham um gesto de um toque de mãos como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: esperar resposta perfeita na hora. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é transformar vulnerabilidade em acusação. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Como você gostaria que a gente cuidasse de nomear necessidades?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"O que podemos combinar para melhorar nomear necessidades nesta semana?\". Concluam com um acordo pequeno para o dia e um gesto de um toque de mãos. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem em nomear necessidades.",
+        "Como a constância da prática de nomear necessidades fortalece a conexão.",
+        "Quais sinais mostram que nomear necessidades precisa de atenção.",
+        "Um roteiro simples para conversar sobre nomear necessidades."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem nomear necessidades por três dias seguidos.",
+        "Usem a pergunta \"Como você gostaria que a gente cuidasse de nomear necessidades?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um toque de mãos sempre que fizerem nomear necessidades.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "VUL-003",
+      "titulo": "Inseguranças leves",
+      "nivel": 3,
+      "fase": "base",
+      "tempo_leitura": "2-3 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 3/20 do Elo da Vulnerabilidade, o foco é a prática das inseguranças leves. A proposta é trazer conexão emocional mais profunda com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção às inseguranças leves. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática das inseguranças leves acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor das inseguranças leves não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: as emoções ficam guardadas. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é o casal se protege demais e se afasta. Esses momentos são oportunidades para testar as inseguranças leves sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: testem hoje praticar as inseguranças leves de forma simples. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"O que torna as inseguranças leves mais leve para você?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Como você percebe que as inseguranças leves está acontecendo de um jeito bom?\" e escolham um gesto de um abraço silencioso como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: transformar vulnerabilidade em acusação. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é querer resolver tudo em uma conversa. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"O que torna as inseguranças leves mais leve para você?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Como você percebe que as inseguranças leves está acontecendo de um jeito bom?\". Concluam com um acordo pequeno para o dia e um gesto de um abraço silencioso. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem nas inseguranças leves.",
+        "Como a constância da prática das inseguranças leves fortalece a conexão.",
+        "Quais sinais mostram que as inseguranças leves precisa de atenção.",
+        "Um roteiro simples para conversar sobre as inseguranças leves."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem as inseguranças leves por três dias seguidos.",
+        "Usem a pergunta \"O que torna as inseguranças leves mais leve para você?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um abraço silencioso sempre que fizerem as inseguranças leves.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "VUL-004",
+      "titulo": "Histórias do passado",
+      "nivel": 4,
+      "fase": "base",
+      "tempo_leitura": "2-3 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 4/20 do Elo da Vulnerabilidade, o foco é a prática das histórias do passado. A proposta é trazer menos defesas na conversa com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção às histórias do passado. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática das histórias do passado acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor das histórias do passado não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: o casal se protege demais e se afasta. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é assuntos importantes ficam para depois. Esses momentos são oportunidades para testar as histórias do passado sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: combinem um micro-ritual para praticar as histórias do passado. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Quando falamos das histórias do passado, o que funciona bem entre nós?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"O que você quer que eu lembre sobre as histórias do passado?\" e escolham um gesto de uma pausa para ouvir como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: querer resolver tudo em uma conversa. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é não respeitar o limite do outro. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Quando falamos das histórias do passado, o que funciona bem entre nós?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"O que você quer que eu lembre sobre as histórias do passado?\". Concluam com um acordo pequeno para o dia e um gesto de uma pausa para ouvir. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem nas histórias do passado.",
+        "Como a constância da prática das histórias do passado fortalece a conexão.",
+        "Quais sinais mostram que as histórias do passado precisa de atenção.",
+        "Um roteiro simples para conversar sobre as histórias do passado."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem as histórias do passado por três dias seguidos.",
+        "Usem a pergunta \"Quando falamos das histórias do passado, o que funciona bem entre nós?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de uma pausa para ouvir sempre que fizerem as histórias do passado.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "VUL-005",
+      "titulo": "Medos que você evita",
+      "nivel": 5,
+      "fase": "base",
+      "tempo_leitura": "2-3 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 5/20 do Elo da Vulnerabilidade, o foco é a prática dos medos que você evita. A proposta é trazer mais intimidade no cotidiano com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção aos medos que você evita. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática dos medos que você evita acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor dos medos que você evita não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: assuntos importantes ficam para depois. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é vocês falam do dia, mas pouco do que sentem. Esses momentos são oportunidades para testar os medos que você evita sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: reservem dois minutos para praticar os medos que você evita. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Qual parte dos medos que você evita te faz sentir mais conectado(a)?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Como posso apoiar você nos medos que você evita agora?\" e escolham um gesto de um copo de agua como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: não respeitar o limite do outro. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é se abrir sem combinar o momento. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Qual parte dos medos que você evita te faz sentir mais conectado(a)?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Como posso apoiar você nos medos que você evita agora?\". Concluam com um acordo pequeno para o dia e um gesto de um copo de agua. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem nos medos que você evita.",
+        "Como a constância da prática dos medos que você evita fortalece a conexão.",
+        "Quais sinais mostram que os medos que você evita precisa de atenção.",
+        "Um roteiro simples para conversar sobre os medos que você evita."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem os medos que você evita por três dias seguidos.",
+        "Usem a pergunta \"Qual parte dos medos que você evita te faz sentir mais conectado(a)?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um copo de agua sempre que fizerem os medos que você evita.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "VUL-006",
+      "titulo": "Pedir acolhimento",
+      "nivel": 6,
+      "fase": "base",
+      "tempo_leitura": "2-3 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 6/20 do Elo da Vulnerabilidade, o foco é a prática de pedir acolhimento. A proposta é trazer mais confiança para se abrir com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção a pedir acolhimento. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática de pedir acolhimento acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor de pedir acolhimento não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: vocês falam do dia, mas pouco do que sentem. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é um evita temas por medo de incomodar. Esses momentos são oportunidades para testar pedir acolhimento sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: escolham um momento do dia para pedir acolhimento. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"O que você precisa de mim em pedir acolhimento?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Qual pequeno gesto ajudaria em pedir acolhimento hoje?\" e escolham um gesto de um olhar acolhedor como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: se abrir sem combinar o momento. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é esperar resposta perfeita na hora. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"O que você precisa de mim em pedir acolhimento?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Qual pequeno gesto ajudaria em pedir acolhimento hoje?\". Concluam com um acordo pequeno para o dia e um gesto de um olhar acolhedor. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem em pedir acolhimento.",
+        "Como a constância da prática de pedir acolhimento fortalece a conexão.",
+        "Quais sinais mostram que pedir acolhimento precisa de atenção.",
+        "Um roteiro simples para conversar sobre pedir acolhimento."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem pedir acolhimento por três dias seguidos.",
+        "Usem a pergunta \"O que você precisa de mim em pedir acolhimento?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um olhar acolhedor sempre que fizerem pedir acolhimento.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "VUL-007",
+      "titulo": "O que te acalma",
+      "nivel": 7,
+      "fase": "intermediario",
+      "tempo_leitura": "3-4 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 7/20 do Elo da Vulnerabilidade, o foco é a prática do que te acalma. A proposta é trazer sensação de acolhimento com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção ao que te acalma. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática do que te acalma acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor do que te acalma não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: um evita temas por medo de incomodar. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é as emoções ficam guardadas. Esses momentos são oportunidades para testar o que te acalma sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: testem hoje praticar o que te acalma de forma simples. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Como você gostaria que a gente cuidasse do que te acalma?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"O que podemos combinar para melhorar o que te acalma nesta semana?\" e escolham um gesto de um toque de mãos como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: esperar resposta perfeita na hora. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é transformar vulnerabilidade em acusação. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Como você gostaria que a gente cuidasse do que te acalma?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"O que podemos combinar para melhorar o que te acalma nesta semana?\". Concluam com um acordo pequeno para o dia e um gesto de um toque de mãos. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem no que te acalma.",
+        "Como a constância da prática do que te acalma fortalece a conexão.",
+        "Quais sinais mostram que o que te acalma precisa de atenção.",
+        "Um roteiro simples para conversar sobre o que te acalma."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem o que te acalma por três dias seguidos.",
+        "Usem a pergunta \"Como você gostaria que a gente cuidasse do que te acalma?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um toque de mãos sempre que fizerem o que te acalma.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "VUL-008",
+      "titulo": "Limites pessoais",
+      "nivel": 8,
+      "fase": "intermediario",
+      "tempo_leitura": "3-4 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 8/20 do Elo da Vulnerabilidade, o foco é a prática dos limites pessoais. A proposta é trazer conexão emocional mais profunda com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção aos limites pessoais. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática dos limites pessoais acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor dos limites pessoais não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: as emoções ficam guardadas. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é o casal se protege demais e se afasta. Esses momentos são oportunidades para testar os limites pessoais sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: combinem um micro-ritual para praticar os limites pessoais. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"O que torna os limites pessoais mais leve para você?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Como você percebe que os limites pessoais está acontecendo de um jeito bom?\" e escolham um gesto de um abraço silencioso como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: transformar vulnerabilidade em acusação. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é querer resolver tudo em uma conversa. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"O que torna os limites pessoais mais leve para você?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Como você percebe que os limites pessoais está acontecendo de um jeito bom?\". Concluam com um acordo pequeno para o dia e um gesto de um abraço silencioso. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem nos limites pessoais.",
+        "Como a constância da prática dos limites pessoais fortalece a conexão.",
+        "Quais sinais mostram que os limites pessoais precisa de atenção.",
+        "Um roteiro simples para conversar sobre os limites pessoais."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem os limites pessoais por três dias seguidos.",
+        "Usem a pergunta \"O que torna os limites pessoais mais leve para você?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um abraço silencioso sempre que fizerem os limites pessoais.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "VUL-009",
+      "titulo": "Falar do que machuca",
+      "nivel": 9,
+      "fase": "intermediario",
+      "tempo_leitura": "3-4 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 9/20 do Elo da Vulnerabilidade, o foco é a prática de falar do que machuca. A proposta é trazer menos defesas na conversa com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção a falar do que machuca. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática de falar do que machuca acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor de falar do que machuca não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: o casal se protege demais e se afasta. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é assuntos importantes ficam para depois. Esses momentos são oportunidades para testar falar do que machuca sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: reservem dois minutos para falar do que machuca. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Quando falamos de falar do que machuca, o que funciona bem entre nós?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"O que você quer que eu lembre sobre falar do que machuca?\" e escolham um gesto de uma pausa para ouvir como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: querer resolver tudo em uma conversa. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é não respeitar o limite do outro. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Quando falamos de falar do que machuca, o que funciona bem entre nós?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"O que você quer que eu lembre sobre falar do que machuca?\". Concluam com um acordo pequeno para o dia e um gesto de uma pausa para ouvir. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem em falar do que machuca.",
+        "Como a constância da prática de falar do que machuca fortalece a conexão.",
+        "Quais sinais mostram que falar do que machuca precisa de atenção.",
+        "Um roteiro simples para conversar sobre falar do que machuca."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem falar do que machuca por três dias seguidos.",
+        "Usem a pergunta \"Quando falamos de falar do que machuca, o que funciona bem entre nós?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de uma pausa para ouvir sempre que fizerem falar do que machuca.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "VUL-010",
+      "titulo": "Sonhos íntimos",
+      "nivel": 10,
+      "fase": "intermediario",
+      "tempo_leitura": "3-4 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 10/20 do Elo da Vulnerabilidade, o foco é a prática dos sonhos íntimos. A proposta é trazer mais intimidade no cotidiano com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção aos sonhos íntimos. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática dos sonhos íntimos acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor dos sonhos íntimos não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: assuntos importantes ficam para depois. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é vocês falam do dia, mas pouco do que sentem. Esses momentos são oportunidades para testar os sonhos íntimos sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: escolham um momento do dia para praticar os sonhos íntimos. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Qual parte dos sonhos íntimos te faz sentir mais conectado(a)?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Como posso apoiar você nos sonhos íntimos agora?\" e escolham um gesto de um copo de agua como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: não respeitar o limite do outro. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é se abrir sem combinar o momento. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Qual parte dos sonhos íntimos te faz sentir mais conectado(a)?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Como posso apoiar você nos sonhos íntimos agora?\". Concluam com um acordo pequeno para o dia e um gesto de um copo de agua. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem nos sonhos íntimos.",
+        "Como a constância da prática dos sonhos íntimos fortalece a conexão.",
+        "Quais sinais mostram que os sonhos íntimos precisa de atenção.",
+        "Um roteiro simples para conversar sobre os sonhos íntimos."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem os sonhos íntimos por três dias seguidos.",
+        "Usem a pergunta \"Qual parte dos sonhos íntimos te faz sentir mais conectado(a)?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um copo de agua sempre que fizerem os sonhos íntimos.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "VUL-011",
+      "titulo": "Assumir erros",
+      "nivel": 11,
+      "fase": "intermediario",
+      "tempo_leitura": "3-4 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 11/20 do Elo da Vulnerabilidade, o foco é a prática de assumir erros. A proposta é trazer mais confiança para se abrir com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção a assumir erros. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática de assumir erros acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor de assumir erros não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: vocês falam do dia, mas pouco do que sentem. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é um evita temas por medo de incomodar. Esses momentos são oportunidades para testar assumir erros sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: testem hoje assumir erros de forma simples. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"O que você precisa de mim em assumir erros?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Qual pequeno gesto ajudaria em assumir erros hoje?\" e escolham um gesto de um olhar acolhedor como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: se abrir sem combinar o momento. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é esperar resposta perfeita na hora. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"O que você precisa de mim em assumir erros?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Qual pequeno gesto ajudaria em assumir erros hoje?\". Concluam com um acordo pequeno para o dia e um gesto de um olhar acolhedor. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem em assumir erros.",
+        "Como a constância da prática de assumir erros fortalece a conexão.",
+        "Quais sinais mostram que assumir erros precisa de atenção.",
+        "Um roteiro simples para conversar sobre assumir erros."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem assumir erros por três dias seguidos.",
+        "Usem a pergunta \"O que você precisa de mim em assumir erros?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um olhar acolhedor sempre que fizerem assumir erros.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "VUL-012",
+      "titulo": "Pedir perdão com clareza",
+      "nivel": 12,
+      "fase": "intermediario",
+      "tempo_leitura": "3-4 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 12/20 do Elo da Vulnerabilidade, o foco é a prática de pedir perdão com clareza. A proposta é trazer sensação de acolhimento com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção a pedir perdão com clareza. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática de pedir perdão com clareza acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor de pedir perdão com clareza não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: um evita temas por medo de incomodar. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é as emoções ficam guardadas. Esses momentos são oportunidades para testar pedir perdão com clareza sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: combinem um micro-ritual para pedir perdão com clareza. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Como você gostaria que a gente cuidasse de pedir perdão com clareza?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"O que podemos combinar para melhorar pedir perdão com clareza nesta semana?\" e escolham um gesto de um toque de mãos como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: esperar resposta perfeita na hora. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é transformar vulnerabilidade em acusação. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Como você gostaria que a gente cuidasse de pedir perdão com clareza?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"O que podemos combinar para melhorar pedir perdão com clareza nesta semana?\". Concluam com um acordo pequeno para o dia e um gesto de um toque de mãos. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem em pedir perdão com clareza.",
+        "Como a constância da prática de pedir perdão com clareza fortalece a conexão.",
+        "Quais sinais mostram que pedir perdão com clareza precisa de atenção.",
+        "Um roteiro simples para conversar sobre pedir perdão com clareza."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem pedir perdão com clareza por três dias seguidos.",
+        "Usem a pergunta \"Como você gostaria que a gente cuidasse de pedir perdão com clareza?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um toque de mãos sempre que fizerem pedir perdão com clareza.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "VUL-013",
+      "titulo": "Autoimagem",
+      "nivel": 13,
+      "fase": "intermediario",
+      "tempo_leitura": "3-4 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 13/20 do Elo da Vulnerabilidade, o foco é a prática da autoimagem. A proposta é trazer conexão emocional mais profunda com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção à autoimagem. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática da autoimagem acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor da autoimagem não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: as emoções ficam guardadas. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é o casal se protege demais e se afasta. Esses momentos são oportunidades para testar a autoimagem sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: reservem dois minutos para praticar a autoimagem. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"O que torna a autoimagem mais leve para você?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Como você percebe que a autoimagem está acontecendo de um jeito bom?\" e escolham um gesto de um abraço silencioso como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: transformar vulnerabilidade em acusação. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é querer resolver tudo em uma conversa. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"O que torna a autoimagem mais leve para você?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Como você percebe que a autoimagem está acontecendo de um jeito bom?\". Concluam com um acordo pequeno para o dia e um gesto de um abraço silencioso. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem na autoimagem.",
+        "Como a constância da prática da autoimagem fortalece a conexão.",
+        "Quais sinais mostram que a autoimagem precisa de atenção.",
+        "Um roteiro simples para conversar sobre a autoimagem."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem a autoimagem por três dias seguidos.",
+        "Usem a pergunta \"O que torna a autoimagem mais leve para você?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um abraço silencioso sempre que fizerem a autoimagem.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "VUL-014",
+      "titulo": "Família de origem",
+      "nivel": 14,
+      "fase": "intermediario",
+      "tempo_leitura": "3-4 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 14/20 do Elo da Vulnerabilidade, o foco é a prática da família de origem. A proposta é trazer menos defesas na conversa com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção à família de origem. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática da família de origem acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor da família de origem não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: o casal se protege demais e se afasta. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é assuntos importantes ficam para depois. Esses momentos são oportunidades para testar a família de origem sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: escolham um momento do dia para praticar a família de origem. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Quando falamos da família de origem, o que funciona bem entre nós?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"O que você quer que eu lembre sobre a família de origem?\" e escolham um gesto de uma pausa para ouvir como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: querer resolver tudo em uma conversa. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é não respeitar o limite do outro. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Quando falamos da família de origem, o que funciona bem entre nós?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"O que você quer que eu lembre sobre a família de origem?\". Concluam com um acordo pequeno para o dia e um gesto de uma pausa para ouvir. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem na família de origem.",
+        "Como a constância da prática da família de origem fortalece a conexão.",
+        "Quais sinais mostram que a família de origem precisa de atenção.",
+        "Um roteiro simples para conversar sobre a família de origem."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem a família de origem por três dias seguidos.",
+        "Usem a pergunta \"Quando falamos da família de origem, o que funciona bem entre nós?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de uma pausa para ouvir sempre que fizerem a família de origem.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "VUL-015",
+      "titulo": "Mudanças importantes",
+      "nivel": 15,
+      "fase": "avancado",
+      "tempo_leitura": "4-5 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 15/20 do Elo da Vulnerabilidade, o foco é a prática de mudanças importantes. A proposta é trazer mais intimidade no cotidiano com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção a mudanças importantes. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática de mudanças importantes acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor de mudanças importantes não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: assuntos importantes ficam para depois. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é vocês falam do dia, mas pouco do que sentem. Esses momentos são oportunidades para testar mudanças importantes sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: testem hoje praticar mudanças importantes de forma simples. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Qual parte de mudanças importantes te faz sentir mais conectado(a)?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Como posso apoiar você em mudanças importantes agora?\" e escolham um gesto de um copo de agua como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos.",
+            "Para aprofundar, separem um momento na semana para revisar mudanças importantes com calma e combinar um ajuste pequeno. Esse olhar mais demorado ajuda a consolidar o aprendizado e prepara o casal para conversas mais profundas."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: não respeitar o limite do outro. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é se abrir sem combinar o momento. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Qual parte de mudanças importantes te faz sentir mais conectado(a)?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Como posso apoiar você em mudanças importantes agora?\". Concluam com um acordo pequeno para o dia e um gesto de um copo de agua. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem em mudanças importantes.",
+        "Como a constância da prática de mudanças importantes fortalece a conexão.",
+        "Quais sinais mostram que mudanças importantes precisa de atenção.",
+        "Um roteiro simples para conversar sobre mudanças importantes."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem mudanças importantes por três dias seguidos.",
+        "Usem a pergunta \"Qual parte de mudanças importantes te faz sentir mais conectado(a)?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um copo de agua sempre que fizerem mudanças importantes.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "VUL-016",
+      "titulo": "Lidar com perdas",
+      "nivel": 16,
+      "fase": "avancado",
+      "tempo_leitura": "4-5 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 16/20 do Elo da Vulnerabilidade, o foco é a prática de lidar com perdas. A proposta é trazer mais confiança para se abrir com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção a lidar com perdas. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática de lidar com perdas acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor de lidar com perdas não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: vocês falam do dia, mas pouco do que sentem. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é um evita temas por medo de incomodar. Esses momentos são oportunidades para testar lidar com perdas sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: combinem um micro-ritual para lidar com perdas. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"O que você precisa de mim em lidar com perdas?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Qual pequeno gesto ajudaria em lidar com perdas hoje?\" e escolham um gesto de um olhar acolhedor como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos.",
+            "Se quiserem ir além, revisitem lidar com perdas no fim da semana e anotem o que funcionou. Esse registro simples cria consciência e evita que o cuidado se perca quando a rotina apertar."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: se abrir sem combinar o momento. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é esperar resposta perfeita na hora. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"O que você precisa de mim em lidar com perdas?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Qual pequeno gesto ajudaria em lidar com perdas hoje?\". Concluam com um acordo pequeno para o dia e um gesto de um olhar acolhedor. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem em lidar com perdas.",
+        "Como a constância da prática de lidar com perdas fortalece a conexão.",
+        "Quais sinais mostram que lidar com perdas precisa de atenção.",
+        "Um roteiro simples para conversar sobre lidar com perdas."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem lidar com perdas por três dias seguidos.",
+        "Usem a pergunta \"O que você precisa de mim em lidar com perdas?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um olhar acolhedor sempre que fizerem lidar com perdas.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "VUL-017",
+      "titulo": "Expectativas realistas",
+      "nivel": 17,
+      "fase": "avancado",
+      "tempo_leitura": "4-5 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 17/20 do Elo da Vulnerabilidade, o foco é a prática das expectativas realistas. A proposta é trazer sensação de acolhimento com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção às expectativas realistas. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática das expectativas realistas acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor das expectativas realistas não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: um evita temas por medo de incomodar. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é as emoções ficam guardadas. Esses momentos são oportunidades para testar as expectativas realistas sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: reservem dois minutos para praticar as expectativas realistas. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Como você gostaria que a gente cuidasse das expectativas realistas?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"O que podemos combinar para melhorar as expectativas realistas nesta semana?\" e escolham um gesto de um toque de mãos como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos.",
+            "Para aprofundar, separem um momento na semana para revisar as expectativas realistas com calma e combinar um ajuste pequeno. Esse olhar mais demorado ajuda a consolidar o aprendizado e prepara o casal para conversas mais profundas."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: esperar resposta perfeita na hora. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é transformar vulnerabilidade em acusação. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Como você gostaria que a gente cuidasse das expectativas realistas?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"O que podemos combinar para melhorar as expectativas realistas nesta semana?\". Concluam com um acordo pequeno para o dia e um gesto de um toque de mãos. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem nas expectativas realistas.",
+        "Como a constância da prática das expectativas realistas fortalece a conexão.",
+        "Quais sinais mostram que as expectativas realistas precisa de atenção.",
+        "Um roteiro simples para conversar sobre as expectativas realistas."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem as expectativas realistas por três dias seguidos.",
+        "Usem a pergunta \"Como você gostaria que a gente cuidasse das expectativas realistas?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um toque de mãos sempre que fizerem as expectativas realistas.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "VUL-018",
+      "titulo": "Confiar contando uma dúvida",
+      "nivel": 18,
+      "fase": "avancado",
+      "tempo_leitura": "4-5 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 18/20 do Elo da Vulnerabilidade, o foco é a prática de contar uma dúvida. A proposta é trazer conexão emocional mais profunda com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção a contar uma dúvida. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática de contar uma dúvida acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor de contar uma dúvida não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: as emoções ficam guardadas. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é o casal se protege demais e se afasta. Esses momentos são oportunidades para testar contar uma dúvida sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: escolham um momento do dia para contar uma dúvida. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"O que torna contar uma dúvida mais leve para você?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Como você percebe que contar uma dúvida está acontecendo de um jeito bom?\" e escolham um gesto de um abraço silencioso como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos.",
+            "Se quiserem ir além, revisitem contar uma dúvida no fim da semana e anotem o que funcionou. Esse registro simples cria consciência e evita que o cuidado se perca quando a rotina apertar."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: transformar vulnerabilidade em acusação. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é querer resolver tudo em uma conversa. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"O que torna contar uma dúvida mais leve para você?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Como você percebe que contar uma dúvida está acontecendo de um jeito bom?\". Concluam com um acordo pequeno para o dia e um gesto de um abraço silencioso. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem em contar uma dúvida.",
+        "Como a constância da prática de contar uma dúvida fortalece a conexão.",
+        "Quais sinais mostram que contar uma dúvida precisa de atenção.",
+        "Um roteiro simples para conversar sobre contar uma dúvida."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem contar uma dúvida por três dias seguidos.",
+        "Usem a pergunta \"O que torna contar uma dúvida mais leve para você?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um abraço silencioso sempre que fizerem contar uma dúvida.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "VUL-019",
+      "titulo": "Compartilhar limites de energia",
+      "nivel": 19,
+      "fase": "avancado",
+      "tempo_leitura": "4-5 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 19/20 do Elo da Vulnerabilidade, o foco é a prática dos limites de energia. A proposta é trazer menos defesas na conversa com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção aos limites de energia. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática dos limites de energia acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor dos limites de energia não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: o casal se protege demais e se afasta. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é assuntos importantes ficam para depois. Esses momentos são oportunidades para testar os limites de energia sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: testem hoje praticar os limites de energia de forma simples. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Quando falamos dos limites de energia, o que funciona bem entre nós?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"O que você quer que eu lembre sobre os limites de energia?\" e escolham um gesto de uma pausa para ouvir como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos.",
+            "Para aprofundar, separem um momento na semana para revisar os limites de energia com calma e combinar um ajuste pequeno. Esse olhar mais demorado ajuda a consolidar o aprendizado e prepara o casal para conversas mais profundas."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: querer resolver tudo em uma conversa. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é não respeitar o limite do outro. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Quando falamos dos limites de energia, o que funciona bem entre nós?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"O que você quer que eu lembre sobre os limites de energia?\". Concluam com um acordo pequeno para o dia e um gesto de uma pausa para ouvir. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem nos limites de energia.",
+        "Como a constância da prática dos limites de energia fortalece a conexão.",
+        "Quais sinais mostram que os limites de energia precisa de atenção.",
+        "Um roteiro simples para conversar sobre os limites de energia."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem os limites de energia por três dias seguidos.",
+        "Usem a pergunta \"Quando falamos dos limites de energia, o que funciona bem entre nós?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de uma pausa para ouvir sempre que fizerem os limites de energia.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "VUL-020",
+      "titulo": "Acordo de cuidado emocional",
+      "nivel": 20,
+      "fase": "avancado",
+      "tempo_leitura": "4-5 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 20/20 do Elo da Vulnerabilidade, o foco é a prática do acordo de cuidado emocional. A proposta é trazer mais intimidade no cotidiano com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção ao acordo de cuidado emocional. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática do acordo de cuidado emocional acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor do acordo de cuidado emocional não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: assuntos importantes ficam para depois. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é vocês falam do dia, mas pouco do que sentem. Esses momentos são oportunidades para testar o acordo de cuidado emocional sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: combinem um micro-ritual para praticar o acordo de cuidado emocional. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Qual parte do acordo de cuidado emocional te faz sentir mais conectado(a)?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Como posso apoiar você no acordo de cuidado emocional agora?\" e escolham um gesto de um copo de agua como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos.",
+            "Se quiserem ir além, revisitem o acordo de cuidado emocional no fim da semana e anotem o que funcionou. Esse registro simples cria consciência e evita que o cuidado se perca quando a rotina apertar."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: não respeitar o limite do outro. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é se abrir sem combinar o momento. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Qual parte do acordo de cuidado emocional te faz sentir mais conectado(a)?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Como posso apoiar você no acordo de cuidado emocional agora?\". Concluam com um acordo pequeno para o dia e um gesto de um copo de agua. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem no acordo de cuidado emocional.",
+        "Como a constância da prática do acordo de cuidado emocional fortalece a conexão.",
+        "Quais sinais mostram que o acordo de cuidado emocional precisa de atenção.",
+        "Um roteiro simples para conversar sobre o acordo de cuidado emocional."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem o acordo de cuidado emocional por três dias seguidos.",
+        "Usem a pergunta \"Qual parte do acordo de cuidado emocional te faz sentir mais conectado(a)?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um copo de agua sempre que fizerem o acordo de cuidado emocional.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    }
+  ]
+}

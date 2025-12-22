@@ -1,0 +1,1301 @@
+{
+  "elo": {
+    "id": "ELO-REP",
+    "nome": "Elo do Reparo",
+    "descricao": "Ensina a discordar com respeito e a reparar rapidamente.",
+    "tipo_de_casal": "Casais que discutem com frequência ou evitam conflitos.",
+    "objetivo": "Reduzir escaladas e aumentar o reparo.",
+    "progressao": {
+      "total_etapas": 20,
+      "descricao": "De pausas e tom a planos pós-conflito."
+    }
+  },
+  "artigos": [
+    {
+      "id": "REP-001",
+      "titulo": "Identificar gatilhos",
+      "nivel": 1,
+      "fase": "base",
+      "tempo_leitura": "2-3 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 1/20 do Elo do Reparo, o foco é a prática de identificar gatilhos. A proposta é trazer menos escalada em discussões com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção a identificar gatilhos. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática de identificar gatilhos acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor de identificar gatilhos não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: o tom sobe rápido. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é vocês discutem o mesmo tema repetidamente. Esses momentos são oportunidades para testar identificar gatilhos sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: reservem dois minutos para identificar gatilhos. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"O que você precisa de mim em identificar gatilhos?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Qual pequeno gesto ajudaria em identificar gatilhos hoje?\" e escolham um gesto de uma respiração conjunta como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: querer ganhar a discussão. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é falar em bloco, sem deixar o outro responder. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"O que você precisa de mim em identificar gatilhos?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Qual pequeno gesto ajudaria em identificar gatilhos hoje?\". Concluam com um acordo pequeno para o dia e um gesto de uma respiração conjunta. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem em identificar gatilhos.",
+        "Como a constância da prática de identificar gatilhos fortalece a conexão.",
+        "Quais sinais mostram que identificar gatilhos precisa de atenção.",
+        "Um roteiro simples para conversar sobre identificar gatilhos."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem identificar gatilhos por três dias seguidos.",
+        "Usem a pergunta \"O que você precisa de mim em identificar gatilhos?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de uma respiração conjunta sempre que fizerem identificar gatilhos.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "REP-002",
+      "titulo": "Pausa segura",
+      "nivel": 2,
+      "fase": "base",
+      "tempo_leitura": "2-3 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 2/20 do Elo do Reparo, o foco é a prática da pausa segura. A proposta é trazer mais rapidez para reparar com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção à pausa segura. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática da pausa segura acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor da pausa segura não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: vocês discutem o mesmo tema repetidamente. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é um se fecha e o outro insiste. Esses momentos são oportunidades para testar a pausa segura sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: escolham um momento do dia para praticar a pausa segura. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Como você gostaria que a gente cuidasse da pausa segura?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"O que podemos combinar para melhorar a pausa segura nesta semana?\" e escolham um gesto de um pedido de pausa como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: falar em bloco, sem deixar o outro responder. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é trazer assuntos antigos no meio do tema atual. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Como você gostaria que a gente cuidasse da pausa segura?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"O que podemos combinar para melhorar a pausa segura nesta semana?\". Concluam com um acordo pequeno para o dia e um gesto de um pedido de pausa. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem na pausa segura.",
+        "Como a constância da prática da pausa segura fortalece a conexão.",
+        "Quais sinais mostram que a pausa segura precisa de atenção.",
+        "Um roteiro simples para conversar sobre a pausa segura."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem a pausa segura por três dias seguidos.",
+        "Usem a pergunta \"Como você gostaria que a gente cuidasse da pausa segura?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um pedido de pausa sempre que fizerem a pausa segura.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "REP-003",
+      "titulo": "Cuidar do tom",
+      "nivel": 3,
+      "fase": "base",
+      "tempo_leitura": "2-3 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 3/20 do Elo do Reparo, o foco é a prática de cuidar do tom. A proposta é trazer sensação de justiça e respeito com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção a cuidar do tom. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática de cuidar do tom acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor de cuidar do tom não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: um se fecha e o outro insiste. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é o conflito termina sem reparo. Esses momentos são oportunidades para testar cuidar do tom sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: testem hoje cuidar do tom de forma simples. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"O que torna cuidar do tom mais leve para você?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Como você percebe que cuidar do tom está acontecendo de um jeito bom?\" e escolham um gesto de um toque leve na mão como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: trazer assuntos antigos no meio do tema atual. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é usar sarcasmo para se defender. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"O que torna cuidar do tom mais leve para você?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Como você percebe que cuidar do tom está acontecendo de um jeito bom?\". Concluam com um acordo pequeno para o dia e um gesto de um toque leve na mão. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem em cuidar do tom.",
+        "Como a constância da prática de cuidar do tom fortalece a conexão.",
+        "Quais sinais mostram que cuidar do tom precisa de atenção.",
+        "Um roteiro simples para conversar sobre cuidar do tom."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem cuidar do tom por três dias seguidos.",
+        "Usem a pergunta \"O que torna cuidar do tom mais leve para você?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um toque leve na mão sempre que fizerem cuidar do tom.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "REP-004",
+      "titulo": "Falar sem acusar",
+      "nivel": 4,
+      "fase": "base",
+      "tempo_leitura": "2-3 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 4/20 do Elo do Reparo, o foco é a prática de falar sem acusar. A proposta é trazer conversas mais produtivas com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção a falar sem acusar. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática de falar sem acusar acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor de falar sem acusar não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: o conflito termina sem reparo. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é o humor fica pesado depois da discussão. Esses momentos são oportunidades para testar falar sem acusar sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: combinem um micro-ritual para falar sem acusar. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Quando falamos de falar sem acusar, o que funciona bem entre nós?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"O que você quer que eu lembre sobre falar sem acusar?\" e escolham um gesto de um olhar de calma como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: usar sarcasmo para se defender. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é deixar o reparo para depois e esquecer. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Quando falamos de falar sem acusar, o que funciona bem entre nós?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"O que você quer que eu lembre sobre falar sem acusar?\". Concluam com um acordo pequeno para o dia e um gesto de um olhar de calma. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem em falar sem acusar.",
+        "Como a constância da prática de falar sem acusar fortalece a conexão.",
+        "Quais sinais mostram que falar sem acusar precisa de atenção.",
+        "Um roteiro simples para conversar sobre falar sem acusar."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem falar sem acusar por três dias seguidos.",
+        "Usem a pergunta \"Quando falamos de falar sem acusar, o que funciona bem entre nós?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um olhar de calma sempre que fizerem falar sem acusar.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "REP-005",
+      "titulo": "Validar antes de rebater",
+      "nivel": 5,
+      "fase": "base",
+      "tempo_leitura": "2-3 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 5/20 do Elo do Reparo, o foco é a prática de validar antes de rebater. A proposta é trazer mais segurança após conflitos com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção a validar antes de rebater. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática de validar antes de rebater acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor de validar antes de rebater não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: o humor fica pesado depois da discussão. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é o tom sobe rápido. Esses momentos são oportunidades para testar validar antes de rebater sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: reservem dois minutos para validar antes de rebater. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Qual parte de validar antes de rebater te faz sentir mais conectado(a)?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Como posso apoiar você em validar antes de rebater agora?\" e escolham um gesto de um copo de agua como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: deixar o reparo para depois e esquecer. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é querer ganhar a discussão. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Qual parte de validar antes de rebater te faz sentir mais conectado(a)?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Como posso apoiar você em validar antes de rebater agora?\". Concluam com um acordo pequeno para o dia e um gesto de um copo de agua. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem em validar antes de rebater.",
+        "Como a constância da prática de validar antes de rebater fortalece a conexão.",
+        "Quais sinais mostram que validar antes de rebater precisa de atenção.",
+        "Um roteiro simples para conversar sobre validar antes de rebater."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem validar antes de rebater por três dias seguidos.",
+        "Usem a pergunta \"Qual parte de validar antes de rebater te faz sentir mais conectado(a)?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um copo de agua sempre que fizerem validar antes de rebater.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "REP-006",
+      "titulo": "Reparos pequenos",
+      "nivel": 6,
+      "fase": "base",
+      "tempo_leitura": "2-3 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 6/20 do Elo do Reparo, o foco é a prática dos reparos pequenos. A proposta é trazer menos escalada em discussões com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção aos reparos pequenos. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática dos reparos pequenos acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor dos reparos pequenos não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: o tom sobe rápido. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é vocês discutem o mesmo tema repetidamente. Esses momentos são oportunidades para testar os reparos pequenos sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: escolham um momento do dia para praticar os reparos pequenos. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"O que você precisa de mim nos reparos pequenos?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Qual pequeno gesto ajudaria nos reparos pequenos hoje?\" e escolham um gesto de uma respiração conjunta como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: querer ganhar a discussão. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é falar em bloco, sem deixar o outro responder. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"O que você precisa de mim nos reparos pequenos?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Qual pequeno gesto ajudaria nos reparos pequenos hoje?\". Concluam com um acordo pequeno para o dia e um gesto de uma respiração conjunta. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem nos reparos pequenos.",
+        "Como a constância da prática dos reparos pequenos fortalece a conexão.",
+        "Quais sinais mostram que os reparos pequenos precisa de atenção.",
+        "Um roteiro simples para conversar sobre os reparos pequenos."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem os reparos pequenos por três dias seguidos.",
+        "Usem a pergunta \"O que você precisa de mim nos reparos pequenos?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de uma respiração conjunta sempre que fizerem os reparos pequenos.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "REP-007",
+      "titulo": "Pedido de desculpas efetivo",
+      "nivel": 7,
+      "fase": "intermediario",
+      "tempo_leitura": "3-4 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 7/20 do Elo do Reparo, o foco é a prática do pedido de desculpas efetivo. A proposta é trazer mais rapidez para reparar com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção ao pedido de desculpas efetivo. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática do pedido de desculpas efetivo acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor do pedido de desculpas efetivo não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: vocês discutem o mesmo tema repetidamente. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é um se fecha e o outro insiste. Esses momentos são oportunidades para testar o pedido de desculpas efetivo sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: testem hoje praticar o pedido de desculpas efetivo de forma simples. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Como você gostaria que a gente cuidasse do pedido de desculpas efetivo?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"O que podemos combinar para melhorar o pedido de desculpas efetivo nesta semana?\" e escolham um gesto de um pedido de pausa como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: falar em bloco, sem deixar o outro responder. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é trazer assuntos antigos no meio do tema atual. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Como você gostaria que a gente cuidasse do pedido de desculpas efetivo?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"O que podemos combinar para melhorar o pedido de desculpas efetivo nesta semana?\". Concluam com um acordo pequeno para o dia e um gesto de um pedido de pausa. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem no pedido de desculpas efetivo.",
+        "Como a constância da prática do pedido de desculpas efetivo fortalece a conexão.",
+        "Quais sinais mostram que o pedido de desculpas efetivo precisa de atenção.",
+        "Um roteiro simples para conversar sobre o pedido de desculpas efetivo."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem o pedido de desculpas efetivo por três dias seguidos.",
+        "Usem a pergunta \"Como você gostaria que a gente cuidasse do pedido de desculpas efetivo?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um pedido de pausa sempre que fizerem o pedido de desculpas efetivo.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "REP-008",
+      "titulo": "Aceitar desculpas",
+      "nivel": 8,
+      "fase": "intermediario",
+      "tempo_leitura": "3-4 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 8/20 do Elo do Reparo, o foco é a prática de aceitar desculpas. A proposta é trazer sensação de justiça e respeito com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção a aceitar desculpas. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática de aceitar desculpas acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor de aceitar desculpas não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: um se fecha e o outro insiste. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é o conflito termina sem reparo. Esses momentos são oportunidades para testar aceitar desculpas sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: combinem um micro-ritual para aceitar desculpas. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"O que torna aceitar desculpas mais leve para você?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Como você percebe que aceitar desculpas está acontecendo de um jeito bom?\" e escolham um gesto de um toque leve na mão como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: trazer assuntos antigos no meio do tema atual. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é usar sarcasmo para se defender. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"O que torna aceitar desculpas mais leve para você?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Como você percebe que aceitar desculpas está acontecendo de um jeito bom?\". Concluam com um acordo pequeno para o dia e um gesto de um toque leve na mão. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem em aceitar desculpas.",
+        "Como a constância da prática de aceitar desculpas fortalece a conexão.",
+        "Quais sinais mostram que aceitar desculpas precisa de atenção.",
+        "Um roteiro simples para conversar sobre aceitar desculpas."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem aceitar desculpas por três dias seguidos.",
+        "Usem a pergunta \"O que torna aceitar desculpas mais leve para você?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um toque leve na mão sempre que fizerem aceitar desculpas.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "REP-009",
+      "titulo": "Negociar acordos",
+      "nivel": 9,
+      "fase": "intermediario",
+      "tempo_leitura": "3-4 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 9/20 do Elo do Reparo, o foco é a prática de negociar acordos. A proposta é trazer conversas mais produtivas com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção a negociar acordos. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática de negociar acordos acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor de negociar acordos não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: o conflito termina sem reparo. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é o humor fica pesado depois da discussão. Esses momentos são oportunidades para testar negociar acordos sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: reservem dois minutos para negociar acordos. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Quando falamos de negociar acordos, o que funciona bem entre nós?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"O que você quer que eu lembre sobre negociar acordos?\" e escolham um gesto de um olhar de calma como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: usar sarcasmo para se defender. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é deixar o reparo para depois e esquecer. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Quando falamos de negociar acordos, o que funciona bem entre nós?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"O que você quer que eu lembre sobre negociar acordos?\". Concluam com um acordo pequeno para o dia e um gesto de um olhar de calma. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem em negociar acordos.",
+        "Como a constância da prática de negociar acordos fortalece a conexão.",
+        "Quais sinais mostram que negociar acordos precisa de atenção.",
+        "Um roteiro simples para conversar sobre negociar acordos."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem negociar acordos por três dias seguidos.",
+        "Usem a pergunta \"Quando falamos de negociar acordos, o que funciona bem entre nós?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um olhar de calma sempre que fizerem negociar acordos.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "REP-010",
+      "titulo": "Revisar o que funcionou",
+      "nivel": 10,
+      "fase": "intermediario",
+      "tempo_leitura": "3-4 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 10/20 do Elo do Reparo, o foco é a prática de revisar o que funcionou. A proposta é trazer mais segurança após conflitos com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção a revisar o que funcionou. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática de revisar o que funcionou acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor de revisar o que funcionou não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: o humor fica pesado depois da discussão. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é o tom sobe rápido. Esses momentos são oportunidades para testar revisar o que funcionou sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: escolham um momento do dia para revisar o que funcionou. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Qual parte de revisar o que funcionou te faz sentir mais conectado(a)?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Como posso apoiar você em revisar o que funcionou agora?\" e escolham um gesto de um copo de agua como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: deixar o reparo para depois e esquecer. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é querer ganhar a discussão. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Qual parte de revisar o que funcionou te faz sentir mais conectado(a)?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Como posso apoiar você em revisar o que funcionou agora?\". Concluam com um acordo pequeno para o dia e um gesto de um copo de agua. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem em revisar o que funcionou.",
+        "Como a constância da prática de revisar o que funcionou fortalece a conexão.",
+        "Quais sinais mostram que revisar o que funcionou precisa de atenção.",
+        "Um roteiro simples para conversar sobre revisar o que funcionou."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem revisar o que funcionou por três dias seguidos.",
+        "Usem a pergunta \"Qual parte de revisar o que funcionou te faz sentir mais conectado(a)?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um copo de agua sempre que fizerem revisar o que funcionou.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "REP-011",
+      "titulo": "Ciumes com respeito",
+      "nivel": 11,
+      "fase": "intermediario",
+      "tempo_leitura": "3-4 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 11/20 do Elo do Reparo, o foco é a prática de ciúmes com respeito. A proposta é trazer menos escalada em discussões com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção a ciúmes com respeito. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática de ciúmes com respeito acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor de ciúmes com respeito não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: o tom sobe rápido. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é vocês discutem o mesmo tema repetidamente. Esses momentos são oportunidades para testar ciúmes com respeito sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: testem hoje praticar ciúmes com respeito de forma simples. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"O que você precisa de mim em ciúmes com respeito?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Qual pequeno gesto ajudaria em ciúmes com respeito hoje?\" e escolham um gesto de uma respiração conjunta como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: querer ganhar a discussão. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é falar em bloco, sem deixar o outro responder. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"O que você precisa de mim em ciúmes com respeito?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Qual pequeno gesto ajudaria em ciúmes com respeito hoje?\". Concluam com um acordo pequeno para o dia e um gesto de uma respiração conjunta. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem em ciúmes com respeito.",
+        "Como a constância da prática de ciúmes com respeito fortalece a conexão.",
+        "Quais sinais mostram que ciúmes com respeito precisa de atenção.",
+        "Um roteiro simples para conversar sobre ciúmes com respeito."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem ciúmes com respeito por três dias seguidos.",
+        "Usem a pergunta \"O que você precisa de mim em ciúmes com respeito?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de uma respiração conjunta sempre que fizerem ciúmes com respeito.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "REP-012",
+      "titulo": "Conflitos sobre dinheiro",
+      "nivel": 12,
+      "fase": "intermediario",
+      "tempo_leitura": "3-4 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 12/20 do Elo do Reparo, o foco é a prática de conflitos sobre dinheiro. A proposta é trazer mais rapidez para reparar com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção a conflitos sobre dinheiro. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática de conflitos sobre dinheiro acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor de conflitos sobre dinheiro não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: vocês discutem o mesmo tema repetidamente. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é um se fecha e o outro insiste. Esses momentos são oportunidades para testar conflitos sobre dinheiro sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: combinem um micro-ritual para praticar conflitos sobre dinheiro. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Como você gostaria que a gente cuidasse de conflitos sobre dinheiro?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"O que podemos combinar para melhorar conflitos sobre dinheiro nesta semana?\" e escolham um gesto de um pedido de pausa como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: falar em bloco, sem deixar o outro responder. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é trazer assuntos antigos no meio do tema atual. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Como você gostaria que a gente cuidasse de conflitos sobre dinheiro?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"O que podemos combinar para melhorar conflitos sobre dinheiro nesta semana?\". Concluam com um acordo pequeno para o dia e um gesto de um pedido de pausa. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem em conflitos sobre dinheiro.",
+        "Como a constância da prática de conflitos sobre dinheiro fortalece a conexão.",
+        "Quais sinais mostram que conflitos sobre dinheiro precisa de atenção.",
+        "Um roteiro simples para conversar sobre conflitos sobre dinheiro."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem conflitos sobre dinheiro por três dias seguidos.",
+        "Usem a pergunta \"Como você gostaria que a gente cuidasse de conflitos sobre dinheiro?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um pedido de pausa sempre que fizerem conflitos sobre dinheiro.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "REP-013",
+      "titulo": "Conflitos sobre família",
+      "nivel": 13,
+      "fase": "intermediario",
+      "tempo_leitura": "3-4 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 13/20 do Elo do Reparo, o foco é a prática de conflitos sobre família. A proposta é trazer sensação de justiça e respeito com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção a conflitos sobre família. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática de conflitos sobre família acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor de conflitos sobre família não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: um se fecha e o outro insiste. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é o conflito termina sem reparo. Esses momentos são oportunidades para testar conflitos sobre família sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: reservem dois minutos para praticar conflitos sobre família. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"O que torna conflitos sobre família mais leve para você?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Como você percebe que conflitos sobre família está acontecendo de um jeito bom?\" e escolham um gesto de um toque leve na mão como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: trazer assuntos antigos no meio do tema atual. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é usar sarcasmo para se defender. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"O que torna conflitos sobre família mais leve para você?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Como você percebe que conflitos sobre família está acontecendo de um jeito bom?\". Concluam com um acordo pequeno para o dia e um gesto de um toque leve na mão. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem em conflitos sobre família.",
+        "Como a constância da prática de conflitos sobre família fortalece a conexão.",
+        "Quais sinais mostram que conflitos sobre família precisa de atenção.",
+        "Um roteiro simples para conversar sobre conflitos sobre família."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem conflitos sobre família por três dias seguidos.",
+        "Usem a pergunta \"O que torna conflitos sobre família mais leve para você?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um toque leve na mão sempre que fizerem conflitos sobre família.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "REP-014",
+      "titulo": "Conflitos sobre tempo",
+      "nivel": 14,
+      "fase": "intermediario",
+      "tempo_leitura": "3-4 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 14/20 do Elo do Reparo, o foco é a prática de conflitos sobre tempo. A proposta é trazer conversas mais produtivas com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção a conflitos sobre tempo. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática de conflitos sobre tempo acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor de conflitos sobre tempo não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: o conflito termina sem reparo. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é o humor fica pesado depois da discussão. Esses momentos são oportunidades para testar conflitos sobre tempo sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: escolham um momento do dia para praticar conflitos sobre tempo. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Quando falamos de conflitos sobre tempo, o que funciona bem entre nós?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"O que você quer que eu lembre sobre conflitos sobre tempo?\" e escolham um gesto de um olhar de calma como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: usar sarcasmo para se defender. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é deixar o reparo para depois e esquecer. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Quando falamos de conflitos sobre tempo, o que funciona bem entre nós?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"O que você quer que eu lembre sobre conflitos sobre tempo?\". Concluam com um acordo pequeno para o dia e um gesto de um olhar de calma. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem em conflitos sobre tempo.",
+        "Como a constância da prática de conflitos sobre tempo fortalece a conexão.",
+        "Quais sinais mostram que conflitos sobre tempo precisa de atenção.",
+        "Um roteiro simples para conversar sobre conflitos sobre tempo."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem conflitos sobre tempo por três dias seguidos.",
+        "Usem a pergunta \"Quando falamos de conflitos sobre tempo, o que funciona bem entre nós?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um olhar de calma sempre que fizerem conflitos sobre tempo.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "REP-015",
+      "titulo": "Conflitos sobre trabalho",
+      "nivel": 15,
+      "fase": "avancado",
+      "tempo_leitura": "4-5 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 15/20 do Elo do Reparo, o foco é a prática de conflitos sobre trabalho. A proposta é trazer mais segurança após conflitos com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção a conflitos sobre trabalho. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática de conflitos sobre trabalho acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor de conflitos sobre trabalho não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: o humor fica pesado depois da discussão. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é o tom sobe rápido. Esses momentos são oportunidades para testar conflitos sobre trabalho sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: testem hoje praticar conflitos sobre trabalho de forma simples. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Qual parte de conflitos sobre trabalho te faz sentir mais conectado(a)?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Como posso apoiar você em conflitos sobre trabalho agora?\" e escolham um gesto de um copo de agua como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos.",
+            "Para aprofundar, separem um momento na semana para revisar conflitos sobre trabalho com calma e combinar um ajuste pequeno. Esse olhar mais demorado ajuda a consolidar o aprendizado e prepara o casal para conversas mais profundas."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: deixar o reparo para depois e esquecer. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é querer ganhar a discussão. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Qual parte de conflitos sobre trabalho te faz sentir mais conectado(a)?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Como posso apoiar você em conflitos sobre trabalho agora?\". Concluam com um acordo pequeno para o dia e um gesto de um copo de agua. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem em conflitos sobre trabalho.",
+        "Como a constância da prática de conflitos sobre trabalho fortalece a conexão.",
+        "Quais sinais mostram que conflitos sobre trabalho precisa de atenção.",
+        "Um roteiro simples para conversar sobre conflitos sobre trabalho."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem conflitos sobre trabalho por três dias seguidos.",
+        "Usem a pergunta \"Qual parte de conflitos sobre trabalho te faz sentir mais conectado(a)?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um copo de agua sempre que fizerem conflitos sobre trabalho.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "REP-016",
+      "titulo": "Conflitos sobre intimidade",
+      "nivel": 16,
+      "fase": "avancado",
+      "tempo_leitura": "4-5 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 16/20 do Elo do Reparo, o foco é a prática de conflitos sobre intimidade. A proposta é trazer menos escalada em discussões com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção a conflitos sobre intimidade. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática de conflitos sobre intimidade acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor de conflitos sobre intimidade não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: o tom sobe rápido. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é vocês discutem o mesmo tema repetidamente. Esses momentos são oportunidades para testar conflitos sobre intimidade sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: combinem um micro-ritual para praticar conflitos sobre intimidade. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"O que você precisa de mim em conflitos sobre intimidade?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Qual pequeno gesto ajudaria em conflitos sobre intimidade hoje?\" e escolham um gesto de uma respiração conjunta como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos.",
+            "Se quiserem ir além, revisitem conflitos sobre intimidade no fim da semana e anotem o que funcionou. Esse registro simples cria consciência e evita que o cuidado se perca quando a rotina apertar."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: querer ganhar a discussão. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é falar em bloco, sem deixar o outro responder. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"O que você precisa de mim em conflitos sobre intimidade?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Qual pequeno gesto ajudaria em conflitos sobre intimidade hoje?\". Concluam com um acordo pequeno para o dia e um gesto de uma respiração conjunta. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem em conflitos sobre intimidade.",
+        "Como a constância da prática de conflitos sobre intimidade fortalece a conexão.",
+        "Quais sinais mostram que conflitos sobre intimidade precisa de atenção.",
+        "Um roteiro simples para conversar sobre conflitos sobre intimidade."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem conflitos sobre intimidade por três dias seguidos.",
+        "Usem a pergunta \"O que você precisa de mim em conflitos sobre intimidade?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de uma respiração conjunta sempre que fizerem conflitos sobre intimidade.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "REP-017",
+      "titulo": "Reparar após crítica",
+      "nivel": 17,
+      "fase": "avancado",
+      "tempo_leitura": "4-5 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 17/20 do Elo do Reparo, o foco é a prática de reparar após crítica. A proposta é trazer mais rapidez para reparar com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção a reparar após crítica. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática de reparar após crítica acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor de reparar após crítica não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: vocês discutem o mesmo tema repetidamente. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é um se fecha e o outro insiste. Esses momentos são oportunidades para testar reparar após crítica sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: reservem dois minutos para reparar após crítica. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Como você gostaria que a gente cuidasse de reparar após crítica?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"O que podemos combinar para melhorar reparar após crítica nesta semana?\" e escolham um gesto de um pedido de pausa como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos.",
+            "Para aprofundar, separem um momento na semana para revisar reparar após crítica com calma e combinar um ajuste pequeno. Esse olhar mais demorado ajuda a consolidar o aprendizado e prepara o casal para conversas mais profundas."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: falar em bloco, sem deixar o outro responder. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é trazer assuntos antigos no meio do tema atual. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Como você gostaria que a gente cuidasse de reparar após crítica?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"O que podemos combinar para melhorar reparar após crítica nesta semana?\". Concluam com um acordo pequeno para o dia e um gesto de um pedido de pausa. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem em reparar após crítica.",
+        "Como a constância da prática de reparar após crítica fortalece a conexão.",
+        "Quais sinais mostram que reparar após crítica precisa de atenção.",
+        "Um roteiro simples para conversar sobre reparar após crítica."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem reparar após crítica por três dias seguidos.",
+        "Usem a pergunta \"Como você gostaria que a gente cuidasse de reparar após crítica?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um pedido de pausa sempre que fizerem reparar após crítica.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "REP-018",
+      "titulo": "Evitar sarcasmo",
+      "nivel": 18,
+      "fase": "avancado",
+      "tempo_leitura": "4-5 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 18/20 do Elo do Reparo, o foco é a prática de evitar sarcasmo. A proposta é trazer sensação de justiça e respeito com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção a evitar sarcasmo. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática de evitar sarcasmo acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor de evitar sarcasmo não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: um se fecha e o outro insiste. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é o conflito termina sem reparo. Esses momentos são oportunidades para testar evitar sarcasmo sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: escolham um momento do dia para evitar sarcasmo. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"O que torna evitar sarcasmo mais leve para você?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Como você percebe que evitar sarcasmo está acontecendo de um jeito bom?\" e escolham um gesto de um toque leve na mão como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos.",
+            "Se quiserem ir além, revisitem evitar sarcasmo no fim da semana e anotem o que funcionou. Esse registro simples cria consciência e evita que o cuidado se perca quando a rotina apertar."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: trazer assuntos antigos no meio do tema atual. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é usar sarcasmo para se defender. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"O que torna evitar sarcasmo mais leve para você?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Como você percebe que evitar sarcasmo está acontecendo de um jeito bom?\". Concluam com um acordo pequeno para o dia e um gesto de um toque leve na mão. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem em evitar sarcasmo.",
+        "Como a constância da prática de evitar sarcasmo fortalece a conexão.",
+        "Quais sinais mostram que evitar sarcasmo precisa de atenção.",
+        "Um roteiro simples para conversar sobre evitar sarcasmo."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem evitar sarcasmo por três dias seguidos.",
+        "Usem a pergunta \"O que torna evitar sarcasmo mais leve para você?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um toque leve na mão sempre que fizerem evitar sarcasmo.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "REP-019",
+      "titulo": "Plano pós-conflito",
+      "nivel": 19,
+      "fase": "avancado",
+      "tempo_leitura": "4-5 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 19/20 do Elo do Reparo, o foco é a prática do plano pós-conflito. A proposta é trazer conversas mais produtivas com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção ao plano pós-conflito. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática do plano pós-conflito acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor do plano pós-conflito não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: o conflito termina sem reparo. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é o humor fica pesado depois da discussão. Esses momentos são oportunidades para testar o plano pós-conflito sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: testem hoje praticar o plano pós-conflito de forma simples. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Quando falamos do plano pós-conflito, o que funciona bem entre nós?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"O que você quer que eu lembre sobre o plano pós-conflito?\" e escolham um gesto de um olhar de calma como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos.",
+            "Para aprofundar, separem um momento na semana para revisar o plano pós-conflito com calma e combinar um ajuste pequeno. Esse olhar mais demorado ajuda a consolidar o aprendizado e prepara o casal para conversas mais profundas."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: usar sarcasmo para se defender. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é deixar o reparo para depois e esquecer. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Quando falamos do plano pós-conflito, o que funciona bem entre nós?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"O que você quer que eu lembre sobre o plano pós-conflito?\". Concluam com um acordo pequeno para o dia e um gesto de um olhar de calma. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem no plano pós-conflito.",
+        "Como a constância da prática do plano pós-conflito fortalece a conexão.",
+        "Quais sinais mostram que o plano pós-conflito precisa de atenção.",
+        "Um roteiro simples para conversar sobre o plano pós-conflito."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem o plano pós-conflito por três dias seguidos.",
+        "Usem a pergunta \"Quando falamos do plano pós-conflito, o que funciona bem entre nós?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um olhar de calma sempre que fizerem o plano pós-conflito.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "REP-020",
+      "titulo": "Discordar com conexão",
+      "nivel": 20,
+      "fase": "avancado",
+      "tempo_leitura": "4-5 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 20/20 do Elo do Reparo, o foco é a prática de discordar com conexão. A proposta é trazer mais segurança após conflitos com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção a discordar com conexão. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática de discordar com conexão acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor de discordar com conexão não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: o humor fica pesado depois da discussão. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é o tom sobe rápido. Esses momentos são oportunidades para testar discordar com conexão sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: combinem um micro-ritual para discordar com conexão. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Qual parte de discordar com conexão te faz sentir mais conectado(a)?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Como posso apoiar você em discordar com conexão agora?\" e escolham um gesto de um copo de agua como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos.",
+            "Se quiserem ir além, revisitem discordar com conexão no fim da semana e anotem o que funcionou. Esse registro simples cria consciência e evita que o cuidado se perca quando a rotina apertar."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: deixar o reparo para depois e esquecer. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é querer ganhar a discussão. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Qual parte de discordar com conexão te faz sentir mais conectado(a)?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Como posso apoiar você em discordar com conexão agora?\". Concluam com um acordo pequeno para o dia e um gesto de um copo de agua. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem em discordar com conexão.",
+        "Como a constância da prática de discordar com conexão fortalece a conexão.",
+        "Quais sinais mostram que discordar com conexão precisa de atenção.",
+        "Um roteiro simples para conversar sobre discordar com conexão."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem discordar com conexão por três dias seguidos.",
+        "Usem a pergunta \"Qual parte de discordar com conexão te faz sentir mais conectado(a)?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um copo de agua sempre que fizerem discordar com conexão.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1301 @@
+{
+  "elo": {
+    "id": "ELO-SON",
+    "nome": "Elo dos Sonhos em Comum",
+    "descricao": "Constrói visão de futuro e projetos compartilhados.",
+    "tipo_de_casal": "Casais que querem alinhar planos e crescer juntos.",
+    "objetivo": "Transformar desejos em decisões e ações leves.",
+    "progressao": {
+      "total_etapas": 20,
+      "descricao": "De sonhos do mês a revisão anual."
+    }
+  },
+  "artigos": [
+    {
+      "id": "SON-001",
+      "titulo": "Sonhos leves para este mês",
+      "nivel": 1,
+      "fase": "base",
+      "tempo_leitura": "2-3 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 1/20 do Elo dos Sonhos em Comum, o foco é a prática dos sonhos leves para este mês. A proposta é trazer sensação de direção com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção aos sonhos leves para este mês. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática dos sonhos leves para este mês acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor dos sonhos leves para este mês não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: cada um sonha separado e não compartilha. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é os planos ficam vagos e se perdem. Esses momentos são oportunidades para testar os sonhos leves para este mês sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: reservem dois minutos para praticar os sonhos leves para este mês. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"O que você precisa de mim nos sonhos leves para este mês?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Qual pequeno gesto ajudaria nos sonhos leves para este mês hoje?\" e escolham um gesto de um caderno aberto como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: fazer planos grandes demais sem etapas. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é comparar o ritmo dos dois. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"O que você precisa de mim nos sonhos leves para este mês?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Qual pequeno gesto ajudaria nos sonhos leves para este mês hoje?\". Concluam com um acordo pequeno para o dia e um gesto de um caderno aberto. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem nos sonhos leves para este mês.",
+        "Como a constância da prática dos sonhos leves para este mês fortalece a conexão.",
+        "Quais sinais mostram que os sonhos leves para este mês precisa de atenção.",
+        "Um roteiro simples para conversar sobre os sonhos leves para este mês."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem os sonhos leves para este mês por três dias seguidos.",
+        "Usem a pergunta \"O que você precisa de mim nos sonhos leves para este mês?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um caderno aberto sempre que fizerem os sonhos leves para este mês.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "SON-002",
+      "titulo": "Mapa de desejos",
+      "nivel": 2,
+      "fase": "base",
+      "tempo_leitura": "2-3 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 2/20 do Elo dos Sonhos em Comum, o foco é a prática do mapa de desejos. A proposta é trazer motivação compartilhada com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção ao mapa de desejos. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática do mapa de desejos acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor do mapa de desejos não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: os planos ficam vagos e se perdem. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é um sente que carrega tudo sozinho. Esses momentos são oportunidades para testar o mapa de desejos sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: escolham um momento do dia para praticar o mapa de desejos. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Como você gostaria que a gente cuidasse do mapa de desejos?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"O que podemos combinar para melhorar o mapa de desejos nesta semana?\" e escolham um gesto de um post-it no espelho como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: comparar o ritmo dos dois. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é tomar decisões sem conversar. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Como você gostaria que a gente cuidasse do mapa de desejos?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"O que podemos combinar para melhorar o mapa de desejos nesta semana?\". Concluam com um acordo pequeno para o dia e um gesto de um post-it no espelho. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem no mapa de desejos.",
+        "Como a constância da prática do mapa de desejos fortalece a conexão.",
+        "Quais sinais mostram que o mapa de desejos precisa de atenção.",
+        "Um roteiro simples para conversar sobre o mapa de desejos."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem o mapa de desejos por três dias seguidos.",
+        "Usem a pergunta \"Como você gostaria que a gente cuidasse do mapa de desejos?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um post-it no espelho sempre que fizerem o mapa de desejos.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "SON-003",
+      "titulo": "Valores em comum",
+      "nivel": 3,
+      "fase": "base",
+      "tempo_leitura": "2-3 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 3/20 do Elo dos Sonhos em Comum, o foco é a prática dos valores em comum. A proposta é trazer mais união em decisões com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção aos valores em comum. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática dos valores em comum acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor dos valores em comum não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: um sente que carrega tudo sozinho. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é as conversas sobre futuro viram tensão. Esses momentos são oportunidades para testar os valores em comum sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: testem hoje praticar os valores em comum de forma simples. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"O que torna os valores em comum mais leve para você?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Como você percebe que os valores em comum está acontecendo de um jeito bom?\" e escolham um gesto de um cafe para planejar como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: tomar decisões sem conversar. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é usar o sonho como cobrança. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"O que torna os valores em comum mais leve para você?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Como você percebe que os valores em comum está acontecendo de um jeito bom?\". Concluam com um acordo pequeno para o dia e um gesto de um cafe para planejar. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem nos valores em comum.",
+        "Como a constância da prática dos valores em comum fortalece a conexão.",
+        "Quais sinais mostram que os valores em comum precisa de atenção.",
+        "Um roteiro simples para conversar sobre os valores em comum."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem os valores em comum por três dias seguidos.",
+        "Usem a pergunta \"O que torna os valores em comum mais leve para você?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um cafe para planejar sempre que fizerem os valores em comum.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "SON-004",
+      "titulo": "Visão de 1 ano",
+      "nivel": 4,
+      "fase": "base",
+      "tempo_leitura": "2-3 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 4/20 do Elo dos Sonhos em Comum, o foco é a prática da visão de 1 ano. A proposta é trazer clareza sobre prioridades com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção à visão de 1 ano. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática da visão de 1 ano acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor da visão de 1 ano não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: as conversas sobre futuro viram tensão. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é o casal foca só nos problemas do presente. Esses momentos são oportunidades para testar a visão de 1 ano sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: combinem um micro-ritual para praticar a visão de 1 ano. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Quando falamos da visão de 1 ano, o que funciona bem entre nós?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"O que você quer que eu lembre sobre a visão de 1 ano?\" e escolham um gesto de um abraço de incentivo como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: usar o sonho como cobrança. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é desistir no primeiro obstáculo. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Quando falamos da visão de 1 ano, o que funciona bem entre nós?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"O que você quer que eu lembre sobre a visão de 1 ano?\". Concluam com um acordo pequeno para o dia e um gesto de um abraço de incentivo. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem na visão de 1 ano.",
+        "Como a constância da prática da visão de 1 ano fortalece a conexão.",
+        "Quais sinais mostram que a visão de 1 ano precisa de atenção.",
+        "Um roteiro simples para conversar sobre a visão de 1 ano."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem a visão de 1 ano por três dias seguidos.",
+        "Usem a pergunta \"Quando falamos da visão de 1 ano, o que funciona bem entre nós?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um abraço de incentivo sempre que fizerem a visão de 1 ano.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "SON-005",
+      "titulo": "Visão de 5 anos",
+      "nivel": 5,
+      "fase": "base",
+      "tempo_leitura": "2-3 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 5/20 do Elo dos Sonhos em Comum, o foco é a prática da visão de 5 anos. A proposta é trazer energia para construir juntos com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção à visão de 5 anos. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática da visão de 5 anos acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor da visão de 5 anos não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: o casal foca só nos problemas do presente. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é cada um sonha separado e não compartilha. Esses momentos são oportunidades para testar a visão de 5 anos sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: reservem dois minutos para praticar a visão de 5 anos. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Qual parte da visão de 5 anos te faz sentir mais conectado(a)?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Como posso apoiar você na visão de 5 anos agora?\" e escolham um gesto de um sorriso de parceria como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: desistir no primeiro obstáculo. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é fazer planos grandes demais sem etapas. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Qual parte da visão de 5 anos te faz sentir mais conectado(a)?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Como posso apoiar você na visão de 5 anos agora?\". Concluam com um acordo pequeno para o dia e um gesto de um sorriso de parceria. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem na visão de 5 anos.",
+        "Como a constância da prática da visão de 5 anos fortalece a conexão.",
+        "Quais sinais mostram que a visão de 5 anos precisa de atenção.",
+        "Um roteiro simples para conversar sobre a visão de 5 anos."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem a visão de 5 anos por três dias seguidos.",
+        "Usem a pergunta \"Qual parte da visão de 5 anos te faz sentir mais conectado(a)?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um sorriso de parceria sempre que fizerem a visão de 5 anos.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "SON-006",
+      "titulo": "Projetos de lazer",
+      "nivel": 6,
+      "fase": "base",
+      "tempo_leitura": "2-3 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 6/20 do Elo dos Sonhos em Comum, o foco é a prática dos projetos de lazer. A proposta é trazer sensação de direção com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção aos projetos de lazer. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática dos projetos de lazer acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor dos projetos de lazer não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: cada um sonha separado e não compartilha. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é os planos ficam vagos e se perdem. Esses momentos são oportunidades para testar os projetos de lazer sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: escolham um momento do dia para praticar os projetos de lazer. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"O que você precisa de mim nos projetos de lazer?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Qual pequeno gesto ajudaria nos projetos de lazer hoje?\" e escolham um gesto de um caderno aberto como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: fazer planos grandes demais sem etapas. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é comparar o ritmo dos dois. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"O que você precisa de mim nos projetos de lazer?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Qual pequeno gesto ajudaria nos projetos de lazer hoje?\". Concluam com um acordo pequeno para o dia e um gesto de um caderno aberto. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem nos projetos de lazer.",
+        "Como a constância da prática dos projetos de lazer fortalece a conexão.",
+        "Quais sinais mostram que os projetos de lazer precisa de atenção.",
+        "Um roteiro simples para conversar sobre os projetos de lazer."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem os projetos de lazer por três dias seguidos.",
+        "Usem a pergunta \"O que você precisa de mim nos projetos de lazer?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um caderno aberto sempre que fizerem os projetos de lazer.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "SON-007",
+      "titulo": "Projetos de moradia",
+      "nivel": 7,
+      "fase": "intermediario",
+      "tempo_leitura": "3-4 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 7/20 do Elo dos Sonhos em Comum, o foco é a prática dos projetos de moradia. A proposta é trazer motivação compartilhada com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção aos projetos de moradia. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática dos projetos de moradia acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor dos projetos de moradia não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: os planos ficam vagos e se perdem. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é um sente que carrega tudo sozinho. Esses momentos são oportunidades para testar os projetos de moradia sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: testem hoje praticar os projetos de moradia de forma simples. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Como você gostaria que a gente cuidasse dos projetos de moradia?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"O que podemos combinar para melhorar os projetos de moradia nesta semana?\" e escolham um gesto de um post-it no espelho como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: comparar o ritmo dos dois. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é tomar decisões sem conversar. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Como você gostaria que a gente cuidasse dos projetos de moradia?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"O que podemos combinar para melhorar os projetos de moradia nesta semana?\". Concluam com um acordo pequeno para o dia e um gesto de um post-it no espelho. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem nos projetos de moradia.",
+        "Como a constância da prática dos projetos de moradia fortalece a conexão.",
+        "Quais sinais mostram que os projetos de moradia precisa de atenção.",
+        "Um roteiro simples para conversar sobre os projetos de moradia."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem os projetos de moradia por três dias seguidos.",
+        "Usem a pergunta \"Como você gostaria que a gente cuidasse dos projetos de moradia?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um post-it no espelho sempre que fizerem os projetos de moradia.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "SON-008",
+      "titulo": "Planejamento financeiro leve",
+      "nivel": 8,
+      "fase": "intermediario",
+      "tempo_leitura": "3-4 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 8/20 do Elo dos Sonhos em Comum, o foco é a prática do planejamento financeiro leve. A proposta é trazer mais união em decisões com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção ao planejamento financeiro leve. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática do planejamento financeiro leve acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor do planejamento financeiro leve não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: um sente que carrega tudo sozinho. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é as conversas sobre futuro viram tensão. Esses momentos são oportunidades para testar o planejamento financeiro leve sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: combinem um micro-ritual para praticar o planejamento financeiro leve. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"O que torna o planejamento financeiro leve mais leve para você?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Como você percebe que o planejamento financeiro leve está acontecendo de um jeito bom?\" e escolham um gesto de um cafe para planejar como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: tomar decisões sem conversar. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é usar o sonho como cobrança. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"O que torna o planejamento financeiro leve mais leve para você?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Como você percebe que o planejamento financeiro leve está acontecendo de um jeito bom?\". Concluam com um acordo pequeno para o dia e um gesto de um cafe para planejar. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem no planejamento financeiro leve.",
+        "Como a constância da prática do planejamento financeiro leve fortalece a conexão.",
+        "Quais sinais mostram que o planejamento financeiro leve precisa de atenção.",
+        "Um roteiro simples para conversar sobre o planejamento financeiro leve."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem o planejamento financeiro leve por três dias seguidos.",
+        "Usem a pergunta \"O que torna o planejamento financeiro leve mais leve para você?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um cafe para planejar sempre que fizerem o planejamento financeiro leve.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "SON-009",
+      "titulo": "Apoio a metas pessoais",
+      "nivel": 9,
+      "fase": "intermediario",
+      "tempo_leitura": "3-4 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 9/20 do Elo dos Sonhos em Comum, o foco é a prática do apoio a metas pessoais. A proposta é trazer clareza sobre prioridades com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção ao apoio a metas pessoais. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática do apoio a metas pessoais acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor do apoio a metas pessoais não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: as conversas sobre futuro viram tensão. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é o casal foca só nos problemas do presente. Esses momentos são oportunidades para testar o apoio a metas pessoais sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: reservem dois minutos para praticar o apoio a metas pessoais. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Quando falamos do apoio a metas pessoais, o que funciona bem entre nós?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"O que você quer que eu lembre sobre o apoio a metas pessoais?\" e escolham um gesto de um abraço de incentivo como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: usar o sonho como cobrança. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é desistir no primeiro obstáculo. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Quando falamos do apoio a metas pessoais, o que funciona bem entre nós?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"O que você quer que eu lembre sobre o apoio a metas pessoais?\". Concluam com um acordo pequeno para o dia e um gesto de um abraço de incentivo. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem no apoio a metas pessoais.",
+        "Como a constância da prática do apoio a metas pessoais fortalece a conexão.",
+        "Quais sinais mostram que o apoio a metas pessoais precisa de atenção.",
+        "Um roteiro simples para conversar sobre o apoio a metas pessoais."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem o apoio a metas pessoais por três dias seguidos.",
+        "Usem a pergunta \"Quando falamos do apoio a metas pessoais, o que funciona bem entre nós?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um abraço de incentivo sempre que fizerem o apoio a metas pessoais.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "SON-010",
+      "titulo": "Rotina a favor dos sonhos",
+      "nivel": 10,
+      "fase": "intermediario",
+      "tempo_leitura": "3-4 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 10/20 do Elo dos Sonhos em Comum, o foco é a prática da rotina a favor dos sonhos. A proposta é trazer energia para construir juntos com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção à rotina a favor dos sonhos. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática da rotina a favor dos sonhos acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor da rotina a favor dos sonhos não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: o casal foca só nos problemas do presente. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é cada um sonha separado e não compartilha. Esses momentos são oportunidades para testar a rotina a favor dos sonhos sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: escolham um momento do dia para praticar a rotina a favor dos sonhos. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Qual parte da rotina a favor dos sonhos te faz sentir mais conectado(a)?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Como posso apoiar você na rotina a favor dos sonhos agora?\" e escolham um gesto de um sorriso de parceria como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: desistir no primeiro obstáculo. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é fazer planos grandes demais sem etapas. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Qual parte da rotina a favor dos sonhos te faz sentir mais conectado(a)?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Como posso apoiar você na rotina a favor dos sonhos agora?\". Concluam com um acordo pequeno para o dia e um gesto de um sorriso de parceria. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem na rotina a favor dos sonhos.",
+        "Como a constância da prática da rotina a favor dos sonhos fortalece a conexão.",
+        "Quais sinais mostram que a rotina a favor dos sonhos precisa de atenção.",
+        "Um roteiro simples para conversar sobre a rotina a favor dos sonhos."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem a rotina a favor dos sonhos por três dias seguidos.",
+        "Usem a pergunta \"Qual parte da rotina a favor dos sonhos te faz sentir mais conectado(a)?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um sorriso de parceria sempre que fizerem a rotina a favor dos sonhos.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "SON-011",
+      "titulo": "Dividir tarefas do projeto",
+      "nivel": 11,
+      "fase": "intermediario",
+      "tempo_leitura": "3-4 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 11/20 do Elo dos Sonhos em Comum, o foco é a prática de dividir tarefas do projeto. A proposta é trazer sensação de direção com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção a dividir tarefas do projeto. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática de dividir tarefas do projeto acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor de dividir tarefas do projeto não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: cada um sonha separado e não compartilha. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é os planos ficam vagos e se perdem. Esses momentos são oportunidades para testar dividir tarefas do projeto sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: testem hoje dividir tarefas do projeto de forma simples. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"O que você precisa de mim em dividir tarefas do projeto?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Qual pequeno gesto ajudaria em dividir tarefas do projeto hoje?\" e escolham um gesto de um caderno aberto como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: fazer planos grandes demais sem etapas. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é comparar o ritmo dos dois. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"O que você precisa de mim em dividir tarefas do projeto?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Qual pequeno gesto ajudaria em dividir tarefas do projeto hoje?\". Concluam com um acordo pequeno para o dia e um gesto de um caderno aberto. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem em dividir tarefas do projeto.",
+        "Como a constância da prática de dividir tarefas do projeto fortalece a conexão.",
+        "Quais sinais mostram que dividir tarefas do projeto precisa de atenção.",
+        "Um roteiro simples para conversar sobre dividir tarefas do projeto."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem dividir tarefas do projeto por três dias seguidos.",
+        "Usem a pergunta \"O que você precisa de mim em dividir tarefas do projeto?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um caderno aberto sempre que fizerem dividir tarefas do projeto.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "SON-012",
+      "titulo": "Ajustar expectativas",
+      "nivel": 12,
+      "fase": "intermediario",
+      "tempo_leitura": "3-4 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 12/20 do Elo dos Sonhos em Comum, o foco é a prática de ajustar expectativas. A proposta é trazer motivação compartilhada com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção a ajustar expectativas. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática de ajustar expectativas acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor de ajustar expectativas não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: os planos ficam vagos e se perdem. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é um sente que carrega tudo sozinho. Esses momentos são oportunidades para testar ajustar expectativas sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: combinem um micro-ritual para ajustar expectativas. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Como você gostaria que a gente cuidasse de ajustar expectativas?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"O que podemos combinar para melhorar ajustar expectativas nesta semana?\" e escolham um gesto de um post-it no espelho como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: comparar o ritmo dos dois. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é tomar decisões sem conversar. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Como você gostaria que a gente cuidasse de ajustar expectativas?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"O que podemos combinar para melhorar ajustar expectativas nesta semana?\". Concluam com um acordo pequeno para o dia e um gesto de um post-it no espelho. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem em ajustar expectativas.",
+        "Como a constância da prática de ajustar expectativas fortalece a conexão.",
+        "Quais sinais mostram que ajustar expectativas precisa de atenção.",
+        "Um roteiro simples para conversar sobre ajustar expectativas."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem ajustar expectativas por três dias seguidos.",
+        "Usem a pergunta \"Como você gostaria que a gente cuidasse de ajustar expectativas?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um post-it no espelho sempre que fizerem ajustar expectativas.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "SON-013",
+      "titulo": "Celebrar avanços",
+      "nivel": 13,
+      "fase": "intermediario",
+      "tempo_leitura": "3-4 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 13/20 do Elo dos Sonhos em Comum, o foco é a prática de celebrar avanços. A proposta é trazer mais união em decisões com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção a celebrar avanços. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática de celebrar avanços acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor de celebrar avanços não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: um sente que carrega tudo sozinho. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é as conversas sobre futuro viram tensão. Esses momentos são oportunidades para testar celebrar avanços sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: reservem dois minutos para celebrar avanços. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"O que torna celebrar avanços mais leve para você?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Como você percebe que celebrar avanços está acontecendo de um jeito bom?\" e escolham um gesto de um cafe para planejar como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: tomar decisões sem conversar. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é usar o sonho como cobrança. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"O que torna celebrar avanços mais leve para você?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Como você percebe que celebrar avanços está acontecendo de um jeito bom?\". Concluam com um acordo pequeno para o dia e um gesto de um cafe para planejar. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem em celebrar avanços.",
+        "Como a constância da prática de celebrar avanços fortalece a conexão.",
+        "Quais sinais mostram que celebrar avanços precisa de atenção.",
+        "Um roteiro simples para conversar sobre celebrar avanços."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem celebrar avanços por três dias seguidos.",
+        "Usem a pergunta \"O que torna celebrar avanços mais leve para você?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um cafe para planejar sempre que fizerem celebrar avanços.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "SON-014",
+      "titulo": "Planos de viagem",
+      "nivel": 14,
+      "fase": "intermediario",
+      "tempo_leitura": "3-4 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 14/20 do Elo dos Sonhos em Comum, o foco é a prática dos planos de viagem. A proposta é trazer clareza sobre prioridades com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção aos planos de viagem. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática dos planos de viagem acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor dos planos de viagem não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: as conversas sobre futuro viram tensão. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é o casal foca só nos problemas do presente. Esses momentos são oportunidades para testar os planos de viagem sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: escolham um momento do dia para praticar os planos de viagem. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Quando falamos dos planos de viagem, o que funciona bem entre nós?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"O que você quer que eu lembre sobre os planos de viagem?\" e escolham um gesto de um abraço de incentivo como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: usar o sonho como cobrança. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é desistir no primeiro obstáculo. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Quando falamos dos planos de viagem, o que funciona bem entre nós?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"O que você quer que eu lembre sobre os planos de viagem?\". Concluam com um acordo pequeno para o dia e um gesto de um abraço de incentivo. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem nos planos de viagem.",
+        "Como a constância da prática dos planos de viagem fortalece a conexão.",
+        "Quais sinais mostram que os planos de viagem precisa de atenção.",
+        "Um roteiro simples para conversar sobre os planos de viagem."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem os planos de viagem por três dias seguidos.",
+        "Usem a pergunta \"Quando falamos dos planos de viagem, o que funciona bem entre nós?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um abraço de incentivo sempre que fizerem os planos de viagem.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "SON-015",
+      "titulo": "Projetos criativos",
+      "nivel": 15,
+      "fase": "avancado",
+      "tempo_leitura": "4-5 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 15/20 do Elo dos Sonhos em Comum, o foco é a prática dos projetos criativos. A proposta é trazer energia para construir juntos com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção aos projetos criativos. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática dos projetos criativos acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor dos projetos criativos não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: o casal foca só nos problemas do presente. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é cada um sonha separado e não compartilha. Esses momentos são oportunidades para testar os projetos criativos sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: testem hoje praticar os projetos criativos de forma simples. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Qual parte dos projetos criativos te faz sentir mais conectado(a)?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Como posso apoiar você nos projetos criativos agora?\" e escolham um gesto de um sorriso de parceria como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos.",
+            "Para aprofundar, separem um momento na semana para revisar os projetos criativos com calma e combinar um ajuste pequeno. Esse olhar mais demorado ajuda a consolidar o aprendizado e prepara o casal para conversas mais profundas."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: desistir no primeiro obstáculo. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é fazer planos grandes demais sem etapas. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Qual parte dos projetos criativos te faz sentir mais conectado(a)?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Como posso apoiar você nos projetos criativos agora?\". Concluam com um acordo pequeno para o dia e um gesto de um sorriso de parceria. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem nos projetos criativos.",
+        "Como a constância da prática dos projetos criativos fortalece a conexão.",
+        "Quais sinais mostram que os projetos criativos precisa de atenção.",
+        "Um roteiro simples para conversar sobre os projetos criativos."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem os projetos criativos por três dias seguidos.",
+        "Usem a pergunta \"Qual parte dos projetos criativos te faz sentir mais conectado(a)?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um sorriso de parceria sempre que fizerem os projetos criativos.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "SON-016",
+      "titulo": "Projetos de família",
+      "nivel": 16,
+      "fase": "avancado",
+      "tempo_leitura": "4-5 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 16/20 do Elo dos Sonhos em Comum, o foco é a prática dos projetos de família. A proposta é trazer sensação de direção com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção aos projetos de família. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática dos projetos de família acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor dos projetos de família não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: cada um sonha separado e não compartilha. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é os planos ficam vagos e se perdem. Esses momentos são oportunidades para testar os projetos de família sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: combinem um micro-ritual para praticar os projetos de família. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"O que você precisa de mim nos projetos de família?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Qual pequeno gesto ajudaria nos projetos de família hoje?\" e escolham um gesto de um caderno aberto como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos.",
+            "Se quiserem ir além, revisitem os projetos de família no fim da semana e anotem o que funcionou. Esse registro simples cria consciência e evita que o cuidado se perca quando a rotina apertar."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: fazer planos grandes demais sem etapas. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é comparar o ritmo dos dois. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"O que você precisa de mim nos projetos de família?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Qual pequeno gesto ajudaria nos projetos de família hoje?\". Concluam com um acordo pequeno para o dia e um gesto de um caderno aberto. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem nos projetos de família.",
+        "Como a constância da prática dos projetos de família fortalece a conexão.",
+        "Quais sinais mostram que os projetos de família precisa de atenção.",
+        "Um roteiro simples para conversar sobre os projetos de família."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem os projetos de família por três dias seguidos.",
+        "Usem a pergunta \"O que você precisa de mim nos projetos de família?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um caderno aberto sempre que fizerem os projetos de família.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "SON-017",
+      "titulo": "Mudanças de carreira",
+      "nivel": 17,
+      "fase": "avancado",
+      "tempo_leitura": "4-5 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 17/20 do Elo dos Sonhos em Comum, o foco é a prática de mudanças de carreira. A proposta é trazer motivação compartilhada com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção a mudanças de carreira. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática de mudanças de carreira acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor de mudanças de carreira não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: os planos ficam vagos e se perdem. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é um sente que carrega tudo sozinho. Esses momentos são oportunidades para testar mudanças de carreira sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: reservem dois minutos para praticar mudanças de carreira. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Como você gostaria que a gente cuidasse de mudanças de carreira?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"O que podemos combinar para melhorar mudanças de carreira nesta semana?\" e escolham um gesto de um post-it no espelho como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos.",
+            "Para aprofundar, separem um momento na semana para revisar mudanças de carreira com calma e combinar um ajuste pequeno. Esse olhar mais demorado ajuda a consolidar o aprendizado e prepara o casal para conversas mais profundas."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: comparar o ritmo dos dois. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é tomar decisões sem conversar. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Como você gostaria que a gente cuidasse de mudanças de carreira?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"O que podemos combinar para melhorar mudanças de carreira nesta semana?\". Concluam com um acordo pequeno para o dia e um gesto de um post-it no espelho. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem em mudanças de carreira.",
+        "Como a constância da prática de mudanças de carreira fortalece a conexão.",
+        "Quais sinais mostram que mudanças de carreira precisa de atenção.",
+        "Um roteiro simples para conversar sobre mudanças de carreira."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem mudanças de carreira por três dias seguidos.",
+        "Usem a pergunta \"Como você gostaria que a gente cuidasse de mudanças de carreira?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um post-it no espelho sempre que fizerem mudanças de carreira.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "SON-018",
+      "titulo": "Decisões conjuntas",
+      "nivel": 18,
+      "fase": "avancado",
+      "tempo_leitura": "4-5 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 18/20 do Elo dos Sonhos em Comum, o foco é a prática de decisões conjuntas. A proposta é trazer mais união em decisões com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção a decisões conjuntas. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática de decisões conjuntas acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor de decisões conjuntas não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: um sente que carrega tudo sozinho. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é as conversas sobre futuro viram tensão. Esses momentos são oportunidades para testar decisões conjuntas sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: escolham um momento do dia para praticar decisões conjuntas. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"O que torna decisões conjuntas mais leve para você?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Como você percebe que decisões conjuntas está acontecendo de um jeito bom?\" e escolham um gesto de um cafe para planejar como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos.",
+            "Se quiserem ir além, revisitem decisões conjuntas no fim da semana e anotem o que funcionou. Esse registro simples cria consciência e evita que o cuidado se perca quando a rotina apertar."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: tomar decisões sem conversar. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é usar o sonho como cobrança. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"O que torna decisões conjuntas mais leve para você?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Como você percebe que decisões conjuntas está acontecendo de um jeito bom?\". Concluam com um acordo pequeno para o dia e um gesto de um cafe para planejar. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem em decisões conjuntas.",
+        "Como a constância da prática de decisões conjuntas fortalece a conexão.",
+        "Quais sinais mostram que decisões conjuntas precisa de atenção.",
+        "Um roteiro simples para conversar sobre decisões conjuntas."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem decisões conjuntas por três dias seguidos.",
+        "Usem a pergunta \"O que torna decisões conjuntas mais leve para você?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um cafe para planejar sempre que fizerem decisões conjuntas.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "SON-019",
+      "titulo": "Plano B e flexibilidade",
+      "nivel": 19,
+      "fase": "avancado",
+      "tempo_leitura": "4-5 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 19/20 do Elo dos Sonhos em Comum, o foco é a prática do plano B e a flexibilidade. A proposta é trazer clareza sobre prioridades com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção ao plano B e a flexibilidade. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática do plano B e a flexibilidade acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor do plano B e a flexibilidade não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: as conversas sobre futuro viram tensão. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é o casal foca só nos problemas do presente. Esses momentos são oportunidades para testar o plano B e a flexibilidade sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: testem hoje praticar o plano B e a flexibilidade de forma simples. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Quando falamos do plano B e a flexibilidade, o que funciona bem entre nós?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"O que você quer que eu lembre sobre o plano B e a flexibilidade?\" e escolham um gesto de um abraço de incentivo como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos.",
+            "Para aprofundar, separem um momento na semana para revisar o plano B e a flexibilidade com calma e combinar um ajuste pequeno. Esse olhar mais demorado ajuda a consolidar o aprendizado e prepara o casal para conversas mais profundas."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: usar o sonho como cobrança. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é desistir no primeiro obstáculo. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Quando falamos do plano B e a flexibilidade, o que funciona bem entre nós?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"O que você quer que eu lembre sobre o plano B e a flexibilidade?\". Concluam com um acordo pequeno para o dia e um gesto de um abraço de incentivo. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem no plano B e a flexibilidade.",
+        "Como a constância da prática do plano B e a flexibilidade fortalece a conexão.",
+        "Quais sinais mostram que o plano B e a flexibilidade precisa de atenção.",
+        "Um roteiro simples para conversar sobre o plano B e a flexibilidade."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem o plano B e a flexibilidade por três dias seguidos.",
+        "Usem a pergunta \"Quando falamos do plano B e a flexibilidade, o que funciona bem entre nós?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um abraço de incentivo sempre que fizerem o plano B e a flexibilidade.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "SON-020",
+      "titulo": "Revisão anual de sonhos",
+      "nivel": 20,
+      "fase": "avancado",
+      "tempo_leitura": "4-5 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 20/20 do Elo dos Sonhos em Comum, o foco é a prática da revisão anual de sonhos. A proposta é trazer energia para construir juntos com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção à revisão anual de sonhos. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática da revisão anual de sonhos acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor da revisão anual de sonhos não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: o casal foca só nos problemas do presente. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é cada um sonha separado e não compartilha. Esses momentos são oportunidades para testar a revisão anual de sonhos sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: combinem um micro-ritual para praticar a revisão anual de sonhos. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Qual parte da revisão anual de sonhos te faz sentir mais conectado(a)?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Como posso apoiar você na revisão anual de sonhos agora?\" e escolham um gesto de um sorriso de parceria como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos.",
+            "Se quiserem ir além, revisitem a revisão anual de sonhos no fim da semana e anotem o que funcionou. Esse registro simples cria consciência e evita que o cuidado se perca quando a rotina apertar."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: desistir no primeiro obstáculo. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é fazer planos grandes demais sem etapas. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Qual parte da revisão anual de sonhos te faz sentir mais conectado(a)?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Como posso apoiar você na revisão anual de sonhos agora?\". Concluam com um acordo pequeno para o dia e um gesto de um sorriso de parceria. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem na revisão anual de sonhos.",
+        "Como a constância da prática da revisão anual de sonhos fortalece a conexão.",
+        "Quais sinais mostram que a revisão anual de sonhos precisa de atenção.",
+        "Um roteiro simples para conversar sobre a revisão anual de sonhos."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem a revisão anual de sonhos por três dias seguidos.",
+        "Usem a pergunta \"Qual parte da revisão anual de sonhos te faz sentir mais conectado(a)?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um sorriso de parceria sempre que fizerem a revisão anual de sonhos.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    }
+  ]
+}

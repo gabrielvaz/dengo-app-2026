@@ -1,0 +1,7 @@
+{
+  "id": "streaks_retention_20251222",
+  "name": "Streaks & Retention System",
+  "description": "Implementation of the gamification loop, badges, and notification strategy.",
+  "status": "planned",
+  "priority": "high"
+}

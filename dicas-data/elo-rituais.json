@@ -1,0 +1,1301 @@
+{
+  "elo": {
+    "id": "ELO-RIT",
+    "nome": "Elo dos Rituais de Conexão",
+    "descricao": "Cria rituais simples que mantêm a conexão mesmo com a rotina.",
+    "tipo_de_casal": "Casais que querem previsibilidade afetiva.",
+    "objetivo": "Transformar momentos cotidianos em pontos de encontro.",
+    "progressao": {
+      "total_etapas": 20,
+      "descricao": "De rituais diários a revisões e celebrações mais profundas."
+    }
+  },
+  "artigos": [
+    {
+      "id": "RIT-001",
+      "titulo": "Ritual de bom dia",
+      "nivel": 1,
+      "fase": "base",
+      "tempo_leitura": "2-3 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 1/20 do Elo dos Rituais de Conexão, o foco é a prática do ritual de bom dia. A proposta é trazer previsibilidade afetiva com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção ao ritual de bom dia. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática do ritual de bom dia acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor do ritual de bom dia não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: os dias passam sem um momento só de vocês. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é o casal se encontra apenas para resolver tarefas. Esses momentos são oportunidades para testar o ritual de bom dia sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: reservem dois minutos para praticar o ritual de bom dia. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"O que você precisa de mim no ritual de bom dia?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Qual pequeno gesto ajudaria no ritual de bom dia hoje?\" e escolham um gesto de um beijo na testa como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: tentar criar rituais complexos demais. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é exigir perfeição e desistir rápido. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"O que você precisa de mim no ritual de bom dia?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Qual pequeno gesto ajudaria no ritual de bom dia hoje?\". Concluam com um acordo pequeno para o dia e um gesto de um beijo na testa. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem no ritual de bom dia.",
+        "Como a constância da prática do ritual de bom dia fortalece a conexão.",
+        "Quais sinais mostram que o ritual de bom dia precisa de atenção.",
+        "Um roteiro simples para conversar sobre o ritual de bom dia."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem o ritual de bom dia por três dias seguidos.",
+        "Usem a pergunta \"O que você precisa de mim no ritual de bom dia?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um beijo na testa sempre que fizerem o ritual de bom dia.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "RIT-002",
+      "titulo": "Ritual de boa noite",
+      "nivel": 2,
+      "fase": "base",
+      "tempo_leitura": "2-3 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 2/20 do Elo dos Rituais de Conexão, o foco é a prática do ritual de boa noite. A proposta é trazer sensação de conexão contínua com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção ao ritual de boa noite. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática do ritual de boa noite acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor do ritual de boa noite não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: o casal se encontra apenas para resolver tarefas. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é os finais de semana ficam sem intenção. Esses momentos são oportunidades para testar o ritual de boa noite sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: escolham um momento do dia para praticar o ritual de boa noite. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Como você gostaria que a gente cuidasse do ritual de boa noite?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"O que podemos combinar para melhorar o ritual de boa noite nesta semana?\" e escolham um gesto de um abraço ao acordar como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: exigir perfeição e desistir rápido. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é transformar ritual em obrigação. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Como você gostaria que a gente cuidasse do ritual de boa noite?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"O que podemos combinar para melhorar o ritual de boa noite nesta semana?\". Concluam com um acordo pequeno para o dia e um gesto de um abraço ao acordar. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem no ritual de boa noite.",
+        "Como a constância da prática do ritual de boa noite fortalece a conexão.",
+        "Quais sinais mostram que o ritual de boa noite precisa de atenção.",
+        "Um roteiro simples para conversar sobre o ritual de boa noite."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem o ritual de boa noite por três dias seguidos.",
+        "Usem a pergunta \"Como você gostaria que a gente cuidasse do ritual de boa noite?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um abraço ao acordar sempre que fizerem o ritual de boa noite.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "RIT-003",
+      "titulo": "Café ou chá da semana",
+      "nivel": 3,
+      "fase": "base",
+      "tempo_leitura": "2-3 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 3/20 do Elo dos Rituais de Conexão, o foco é a prática do café ou chá da semana. A proposta é trazer memórias simples e repetíveis com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção ao café ou chá da semana. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática do café ou chá da semana acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor do café ou chá da semana não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: os finais de semana ficam sem intenção. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é a rotina consome a conversa. Esses momentos são oportunidades para testar o café ou chá da semana sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: testem hoje praticar o café ou chá da semana de forma simples. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"O que torna o café ou chá da semana mais leve para você?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Como você percebe que o café ou chá da semana está acontecendo de um jeito bom?\" e escolham um gesto de um toque na mão durante a refeição como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: transformar ritual em obrigação. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é não combinar horários e se frustrar. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"O que torna o café ou chá da semana mais leve para você?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Como você percebe que o café ou chá da semana está acontecendo de um jeito bom?\". Concluam com um acordo pequeno para o dia e um gesto de um toque na mão durante a refeição. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem no café ou chá da semana.",
+        "Como a constância da prática do café ou chá da semana fortalece a conexão.",
+        "Quais sinais mostram que o café ou chá da semana precisa de atenção.",
+        "Um roteiro simples para conversar sobre o café ou chá da semana."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem o café ou chá da semana por três dias seguidos.",
+        "Usem a pergunta \"O que torna o café ou chá da semana mais leve para você?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um toque na mão durante a refeição sempre que fizerem o café ou chá da semana.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "RIT-004",
+      "titulo": "Check-in de domingo",
+      "nivel": 4,
+      "fase": "base",
+      "tempo_leitura": "2-3 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 4/20 do Elo dos Rituais de Conexão, o foco é a prática do check-in de domingo. A proposta é trazer alívio da rotina pesada com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção ao check-in de domingo. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática do check-in de domingo acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor do check-in de domingo não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: a rotina consome a conversa. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é as pequenas celebrações somem. Esses momentos são oportunidades para testar o check-in de domingo sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: combinem um micro-ritual para praticar o check-in de domingo. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Quando falamos do check-in de domingo, o que funciona bem entre nós?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"O que você quer que eu lembre sobre o check-in de domingo?\" e escolham um gesto de um sorriso de cumplicidade como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: não combinar horários e se frustrar. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é abandonar o ritual na primeira semana difícil. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Quando falamos do check-in de domingo, o que funciona bem entre nós?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"O que você quer que eu lembre sobre o check-in de domingo?\". Concluam com um acordo pequeno para o dia e um gesto de um sorriso de cumplicidade. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem no check-in de domingo.",
+        "Como a constância da prática do check-in de domingo fortalece a conexão.",
+        "Quais sinais mostram que o check-in de domingo precisa de atenção.",
+        "Um roteiro simples para conversar sobre o check-in de domingo."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem o check-in de domingo por três dias seguidos.",
+        "Usem a pergunta \"Quando falamos do check-in de domingo, o que funciona bem entre nós?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um sorriso de cumplicidade sempre que fizerem o check-in de domingo.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "RIT-005",
+      "titulo": "Pequenas comemorações",
+      "nivel": 5,
+      "fase": "base",
+      "tempo_leitura": "2-3 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 5/20 do Elo dos Rituais de Conexão, o foco é a prática das pequenas comemorações. A proposta é trazer mais leveza no cotidiano com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção às pequenas comemorações. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática das pequenas comemorações acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor das pequenas comemorações não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: as pequenas celebrações somem. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é os dias passam sem um momento só de vocês. Esses momentos são oportunidades para testar as pequenas comemorações sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: reservem dois minutos para praticar as pequenas comemorações. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Qual parte das pequenas comemorações te faz sentir mais conectado(a)?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Como posso apoiar você nas pequenas comemorações agora?\" e escolham um gesto de um bilhete simples como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: abandonar o ritual na primeira semana difícil. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é tentar criar rituais complexos demais. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Qual parte das pequenas comemorações te faz sentir mais conectado(a)?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Como posso apoiar você nas pequenas comemorações agora?\". Concluam com um acordo pequeno para o dia e um gesto de um bilhete simples. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem nas pequenas comemorações.",
+        "Como a constância da prática das pequenas comemorações fortalece a conexão.",
+        "Quais sinais mostram que as pequenas comemorações precisa de atenção.",
+        "Um roteiro simples para conversar sobre as pequenas comemorações."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem as pequenas comemorações por três dias seguidos.",
+        "Usem a pergunta \"Qual parte das pequenas comemorações te faz sentir mais conectado(a)?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um bilhete simples sempre que fizerem as pequenas comemorações.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "RIT-006",
+      "titulo": "Refeição sem telas",
+      "nivel": 6,
+      "fase": "base",
+      "tempo_leitura": "2-3 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 6/20 do Elo dos Rituais de Conexão, o foco é a prática da refeição sem telas. A proposta é trazer previsibilidade afetiva com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção à refeição sem telas. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática da refeição sem telas acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor da refeição sem telas não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: os dias passam sem um momento só de vocês. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é o casal se encontra apenas para resolver tarefas. Esses momentos são oportunidades para testar a refeição sem telas sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: escolham um momento do dia para praticar a refeição sem telas. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"O que você precisa de mim na refeição sem telas?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Qual pequeno gesto ajudaria na refeição sem telas hoje?\" e escolham um gesto de um beijo na testa como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: tentar criar rituais complexos demais. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é exigir perfeição e desistir rápido. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"O que você precisa de mim na refeição sem telas?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Qual pequeno gesto ajudaria na refeição sem telas hoje?\". Concluam com um acordo pequeno para o dia e um gesto de um beijo na testa. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem na refeição sem telas.",
+        "Como a constância da prática da refeição sem telas fortalece a conexão.",
+        "Quais sinais mostram que a refeição sem telas precisa de atenção.",
+        "Um roteiro simples para conversar sobre a refeição sem telas."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem a refeição sem telas por três dias seguidos.",
+        "Usem a pergunta \"O que você precisa de mim na refeição sem telas?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um beijo na testa sempre que fizerem a refeição sem telas.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "RIT-007",
+      "titulo": "Lista de gratidão",
+      "nivel": 7,
+      "fase": "intermediario",
+      "tempo_leitura": "3-4 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 7/20 do Elo dos Rituais de Conexão, o foco é a prática da lista de gratidão. A proposta é trazer sensação de conexão contínua com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção à lista de gratidão. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática da lista de gratidão acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor da lista de gratidão não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: o casal se encontra apenas para resolver tarefas. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é os finais de semana ficam sem intenção. Esses momentos são oportunidades para testar a lista de gratidão sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: testem hoje praticar a lista de gratidão de forma simples. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Como você gostaria que a gente cuidasse da lista de gratidão?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"O que podemos combinar para melhorar a lista de gratidão nesta semana?\" e escolham um gesto de um abraço ao acordar como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: exigir perfeição e desistir rápido. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é transformar ritual em obrigação. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Como você gostaria que a gente cuidasse da lista de gratidão?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"O que podemos combinar para melhorar a lista de gratidão nesta semana?\". Concluam com um acordo pequeno para o dia e um gesto de um abraço ao acordar. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem na lista de gratidão.",
+        "Como a constância da prática da lista de gratidão fortalece a conexão.",
+        "Quais sinais mostram que a lista de gratidão precisa de atenção.",
+        "Um roteiro simples para conversar sobre a lista de gratidão."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem a lista de gratidão por três dias seguidos.",
+        "Usem a pergunta \"Como você gostaria que a gente cuidasse da lista de gratidão?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um abraço ao acordar sempre que fizerem a lista de gratidão.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "RIT-008",
+      "titulo": "Encontro caseiro",
+      "nivel": 8,
+      "fase": "intermediario",
+      "tempo_leitura": "3-4 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 8/20 do Elo dos Rituais de Conexão, o foco é a prática do encontro caseiro. A proposta é trazer memórias simples e repetíveis com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção ao encontro caseiro. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática do encontro caseiro acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor do encontro caseiro não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: os finais de semana ficam sem intenção. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é a rotina consome a conversa. Esses momentos são oportunidades para testar o encontro caseiro sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: combinem um micro-ritual para praticar o encontro caseiro. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"O que torna o encontro caseiro mais leve para você?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Como você percebe que o encontro caseiro está acontecendo de um jeito bom?\" e escolham um gesto de um toque na mão durante a refeição como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: transformar ritual em obrigação. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é não combinar horários e se frustrar. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"O que torna o encontro caseiro mais leve para você?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Como você percebe que o encontro caseiro está acontecendo de um jeito bom?\". Concluam com um acordo pequeno para o dia e um gesto de um toque na mão durante a refeição. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem no encontro caseiro.",
+        "Como a constância da prática do encontro caseiro fortalece a conexão.",
+        "Quais sinais mostram que o encontro caseiro precisa de atenção.",
+        "Um roteiro simples para conversar sobre o encontro caseiro."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem o encontro caseiro por três dias seguidos.",
+        "Usem a pergunta \"O que torna o encontro caseiro mais leve para você?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um toque na mão durante a refeição sempre que fizerem o encontro caseiro.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "RIT-009",
+      "titulo": "Ritual de despedida",
+      "nivel": 9,
+      "fase": "intermediario",
+      "tempo_leitura": "3-4 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 9/20 do Elo dos Rituais de Conexão, o foco é a prática do ritual de despedida. A proposta é trazer alívio da rotina pesada com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção ao ritual de despedida. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática do ritual de despedida acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor do ritual de despedida não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: a rotina consome a conversa. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é as pequenas celebrações somem. Esses momentos são oportunidades para testar o ritual de despedida sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: reservem dois minutos para praticar o ritual de despedida. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Quando falamos do ritual de despedida, o que funciona bem entre nós?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"O que você quer que eu lembre sobre o ritual de despedida?\" e escolham um gesto de um sorriso de cumplicidade como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: não combinar horários e se frustrar. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é abandonar o ritual na primeira semana difícil. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Quando falamos do ritual de despedida, o que funciona bem entre nós?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"O que você quer que eu lembre sobre o ritual de despedida?\". Concluam com um acordo pequeno para o dia e um gesto de um sorriso de cumplicidade. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem no ritual de despedida.",
+        "Como a constância da prática do ritual de despedida fortalece a conexão.",
+        "Quais sinais mostram que o ritual de despedida precisa de atenção.",
+        "Um roteiro simples para conversar sobre o ritual de despedida."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem o ritual de despedida por três dias seguidos.",
+        "Usem a pergunta \"Quando falamos do ritual de despedida, o que funciona bem entre nós?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um sorriso de cumplicidade sempre que fizerem o ritual de despedida.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "RIT-010",
+      "titulo": "Ritual de reencontro",
+      "nivel": 10,
+      "fase": "intermediario",
+      "tempo_leitura": "3-4 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 10/20 do Elo dos Rituais de Conexão, o foco é a prática do ritual de reencontro. A proposta é trazer mais leveza no cotidiano com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção ao ritual de reencontro. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática do ritual de reencontro acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor do ritual de reencontro não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: as pequenas celebrações somem. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é os dias passam sem um momento só de vocês. Esses momentos são oportunidades para testar o ritual de reencontro sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: escolham um momento do dia para praticar o ritual de reencontro. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Qual parte do ritual de reencontro te faz sentir mais conectado(a)?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Como posso apoiar você no ritual de reencontro agora?\" e escolham um gesto de um bilhete simples como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: abandonar o ritual na primeira semana difícil. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é tentar criar rituais complexos demais. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Qual parte do ritual de reencontro te faz sentir mais conectado(a)?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Como posso apoiar você no ritual de reencontro agora?\". Concluam com um acordo pequeno para o dia e um gesto de um bilhete simples. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem no ritual de reencontro.",
+        "Como a constância da prática do ritual de reencontro fortalece a conexão.",
+        "Quais sinais mostram que o ritual de reencontro precisa de atenção.",
+        "Um roteiro simples para conversar sobre o ritual de reencontro."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem o ritual de reencontro por três dias seguidos.",
+        "Usem a pergunta \"Qual parte do ritual de reencontro te faz sentir mais conectado(a)?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um bilhete simples sempre que fizerem o ritual de reencontro.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "RIT-011",
+      "titulo": "Momento diário de toque",
+      "nivel": 11,
+      "fase": "intermediario",
+      "tempo_leitura": "3-4 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 11/20 do Elo dos Rituais de Conexão, o foco é a prática do momento diário de toque. A proposta é trazer previsibilidade afetiva com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção ao momento diário de toque. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática do momento diário de toque acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor do momento diário de toque não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: os dias passam sem um momento só de vocês. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é o casal se encontra apenas para resolver tarefas. Esses momentos são oportunidades para testar o momento diário de toque sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: testem hoje praticar o momento diário de toque de forma simples. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"O que você precisa de mim no momento diário de toque?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Qual pequeno gesto ajudaria no momento diário de toque hoje?\" e escolham um gesto de um beijo na testa como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: tentar criar rituais complexos demais. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é exigir perfeição e desistir rápido. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"O que você precisa de mim no momento diário de toque?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Qual pequeno gesto ajudaria no momento diário de toque hoje?\". Concluam com um acordo pequeno para o dia e um gesto de um beijo na testa. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem no momento diário de toque.",
+        "Como a constância da prática do momento diário de toque fortalece a conexão.",
+        "Quais sinais mostram que o momento diário de toque precisa de atenção.",
+        "Um roteiro simples para conversar sobre o momento diário de toque."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem o momento diário de toque por três dias seguidos.",
+        "Usem a pergunta \"O que você precisa de mim no momento diário de toque?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um beijo na testa sempre que fizerem o momento diário de toque.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "RIT-012",
+      "titulo": "Playlist do casal",
+      "nivel": 12,
+      "fase": "intermediario",
+      "tempo_leitura": "3-4 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 12/20 do Elo dos Rituais de Conexão, o foco é a prática da playlist do casal. A proposta é trazer sensação de conexão contínua com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção à playlist do casal. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática da playlist do casal acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor da playlist do casal não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: o casal se encontra apenas para resolver tarefas. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é os finais de semana ficam sem intenção. Esses momentos são oportunidades para testar a playlist do casal sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: combinem um micro-ritual para praticar a playlist do casal. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Como você gostaria que a gente cuidasse da playlist do casal?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"O que podemos combinar para melhorar a playlist do casal nesta semana?\" e escolham um gesto de um abraço ao acordar como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: exigir perfeição e desistir rápido. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é transformar ritual em obrigação. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Como você gostaria que a gente cuidasse da playlist do casal?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"O que podemos combinar para melhorar a playlist do casal nesta semana?\". Concluam com um acordo pequeno para o dia e um gesto de um abraço ao acordar. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem na playlist do casal.",
+        "Como a constância da prática da playlist do casal fortalece a conexão.",
+        "Quais sinais mostram que a playlist do casal precisa de atenção.",
+        "Um roteiro simples para conversar sobre a playlist do casal."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem a playlist do casal por três dias seguidos.",
+        "Usem a pergunta \"Como você gostaria que a gente cuidasse da playlist do casal?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um abraço ao acordar sempre que fizerem a playlist do casal.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "RIT-013",
+      "titulo": "Caminhada semanal",
+      "nivel": 13,
+      "fase": "intermediario",
+      "tempo_leitura": "3-4 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 13/20 do Elo dos Rituais de Conexão, o foco é a prática da caminhada semanal. A proposta é trazer memórias simples e repetíveis com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção à caminhada semanal. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática da caminhada semanal acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor da caminhada semanal não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: os finais de semana ficam sem intenção. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é a rotina consome a conversa. Esses momentos são oportunidades para testar a caminhada semanal sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: reservem dois minutos para praticar a caminhada semanal. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"O que torna a caminhada semanal mais leve para você?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Como você percebe que a caminhada semanal está acontecendo de um jeito bom?\" e escolham um gesto de um toque na mão durante a refeição como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: transformar ritual em obrigação. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é não combinar horários e se frustrar. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"O que torna a caminhada semanal mais leve para você?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Como você percebe que a caminhada semanal está acontecendo de um jeito bom?\". Concluam com um acordo pequeno para o dia e um gesto de um toque na mão durante a refeição. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem na caminhada semanal.",
+        "Como a constância da prática da caminhada semanal fortalece a conexão.",
+        "Quais sinais mostram que a caminhada semanal precisa de atenção.",
+        "Um roteiro simples para conversar sobre a caminhada semanal."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem a caminhada semanal por três dias seguidos.",
+        "Usem a pergunta \"O que torna a caminhada semanal mais leve para você?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um toque na mão durante a refeição sempre que fizerem a caminhada semanal.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "RIT-014",
+      "titulo": "Planejamento do mês",
+      "nivel": 14,
+      "fase": "intermediario",
+      "tempo_leitura": "3-4 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 14/20 do Elo dos Rituais de Conexão, o foco é a prática do planejamento do mês. A proposta é trazer alívio da rotina pesada com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção ao planejamento do mês. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática do planejamento do mês acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor do planejamento do mês não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: a rotina consome a conversa. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é as pequenas celebrações somem. Esses momentos são oportunidades para testar o planejamento do mês sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: escolham um momento do dia para praticar o planejamento do mês. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Quando falamos do planejamento do mês, o que funciona bem entre nós?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"O que você quer que eu lembre sobre o planejamento do mês?\" e escolham um gesto de um sorriso de cumplicidade como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: não combinar horários e se frustrar. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é abandonar o ritual na primeira semana difícil. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Quando falamos do planejamento do mês, o que funciona bem entre nós?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"O que você quer que eu lembre sobre o planejamento do mês?\". Concluam com um acordo pequeno para o dia e um gesto de um sorriso de cumplicidade. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem no planejamento do mês.",
+        "Como a constância da prática do planejamento do mês fortalece a conexão.",
+        "Quais sinais mostram que o planejamento do mês precisa de atenção.",
+        "Um roteiro simples para conversar sobre o planejamento do mês."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem o planejamento do mês por três dias seguidos.",
+        "Usem a pergunta \"Quando falamos do planejamento do mês, o que funciona bem entre nós?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um sorriso de cumplicidade sempre que fizerem o planejamento do mês.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "RIT-015",
+      "titulo": "Foto da semana",
+      "nivel": 15,
+      "fase": "avancado",
+      "tempo_leitura": "4-5 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 15/20 do Elo dos Rituais de Conexão, o foco é a prática da foto da semana. A proposta é trazer mais leveza no cotidiano com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção à foto da semana. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática da foto da semana acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor da foto da semana não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: as pequenas celebrações somem. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é os dias passam sem um momento só de vocês. Esses momentos são oportunidades para testar a foto da semana sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: testem hoje praticar a foto da semana de forma simples. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Qual parte da foto da semana te faz sentir mais conectado(a)?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Como posso apoiar você na foto da semana agora?\" e escolham um gesto de um bilhete simples como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos.",
+            "Para aprofundar, separem um momento na semana para revisar a foto da semana com calma e combinar um ajuste pequeno. Esse olhar mais demorado ajuda a consolidar o aprendizado e prepara o casal para conversas mais profundas."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: abandonar o ritual na primeira semana difícil. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é tentar criar rituais complexos demais. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Qual parte da foto da semana te faz sentir mais conectado(a)?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Como posso apoiar você na foto da semana agora?\". Concluam com um acordo pequeno para o dia e um gesto de um bilhete simples. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem na foto da semana.",
+        "Como a constância da prática da foto da semana fortalece a conexão.",
+        "Quais sinais mostram que a foto da semana precisa de atenção.",
+        "Um roteiro simples para conversar sobre a foto da semana."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem a foto da semana por três dias seguidos.",
+        "Usem a pergunta \"Qual parte da foto da semana te faz sentir mais conectado(a)?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um bilhete simples sempre que fizerem a foto da semana.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "RIT-016",
+      "titulo": "Ritual de autocuidado a dois",
+      "nivel": 16,
+      "fase": "avancado",
+      "tempo_leitura": "4-5 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 16/20 do Elo dos Rituais de Conexão, o foco é a prática do ritual de autocuidado a dois. A proposta é trazer previsibilidade afetiva com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção ao ritual de autocuidado a dois. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática do ritual de autocuidado a dois acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor do ritual de autocuidado a dois não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: os dias passam sem um momento só de vocês. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é o casal se encontra apenas para resolver tarefas. Esses momentos são oportunidades para testar o ritual de autocuidado a dois sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: combinem um micro-ritual para praticar o ritual de autocuidado a dois. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"O que você precisa de mim no ritual de autocuidado a dois?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Qual pequeno gesto ajudaria no ritual de autocuidado a dois hoje?\" e escolham um gesto de um beijo na testa como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos.",
+            "Se quiserem ir além, revisitem o ritual de autocuidado a dois no fim da semana e anotem o que funcionou. Esse registro simples cria consciência e evita que o cuidado se perca quando a rotina apertar."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: tentar criar rituais complexos demais. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é exigir perfeição e desistir rápido. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"O que você precisa de mim no ritual de autocuidado a dois?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Qual pequeno gesto ajudaria no ritual de autocuidado a dois hoje?\". Concluam com um acordo pequeno para o dia e um gesto de um beijo na testa. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem no ritual de autocuidado a dois.",
+        "Como a constância da prática do ritual de autocuidado a dois fortalece a conexão.",
+        "Quais sinais mostram que o ritual de autocuidado a dois precisa de atenção.",
+        "Um roteiro simples para conversar sobre o ritual de autocuidado a dois."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem o ritual de autocuidado a dois por três dias seguidos.",
+        "Usem a pergunta \"O que você precisa de mim no ritual de autocuidado a dois?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um beijo na testa sempre que fizerem o ritual de autocuidado a dois.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "RIT-017",
+      "titulo": "Humor compartilhado",
+      "nivel": 17,
+      "fase": "avancado",
+      "tempo_leitura": "4-5 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 17/20 do Elo dos Rituais de Conexão, o foco é a prática do humor compartilhado. A proposta é trazer sensação de conexão contínua com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção ao humor compartilhado. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática do humor compartilhado acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor do humor compartilhado não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: o casal se encontra apenas para resolver tarefas. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é os finais de semana ficam sem intenção. Esses momentos são oportunidades para testar o humor compartilhado sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: reservem dois minutos para praticar o humor compartilhado. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Como você gostaria que a gente cuidasse do humor compartilhado?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"O que podemos combinar para melhorar o humor compartilhado nesta semana?\" e escolham um gesto de um abraço ao acordar como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos.",
+            "Para aprofundar, separem um momento na semana para revisar o humor compartilhado com calma e combinar um ajuste pequeno. Esse olhar mais demorado ajuda a consolidar o aprendizado e prepara o casal para conversas mais profundas."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: exigir perfeição e desistir rápido. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é transformar ritual em obrigação. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Como você gostaria que a gente cuidasse do humor compartilhado?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"O que podemos combinar para melhorar o humor compartilhado nesta semana?\". Concluam com um acordo pequeno para o dia e um gesto de um abraço ao acordar. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem no humor compartilhado.",
+        "Como a constância da prática do humor compartilhado fortalece a conexão.",
+        "Quais sinais mostram que o humor compartilhado precisa de atenção.",
+        "Um roteiro simples para conversar sobre o humor compartilhado."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem o humor compartilhado por três dias seguidos.",
+        "Usem a pergunta \"Como você gostaria que a gente cuidasse do humor compartilhado?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um abraço ao acordar sempre que fizerem o humor compartilhado.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "RIT-018",
+      "titulo": "Silêncio consciente",
+      "nivel": 18,
+      "fase": "avancado",
+      "tempo_leitura": "4-5 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 18/20 do Elo dos Rituais de Conexão, o foco é a prática do silêncio consciente. A proposta é trazer memórias simples e repetíveis com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção ao silêncio consciente. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática do silêncio consciente acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor do silêncio consciente não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: os finais de semana ficam sem intenção. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é a rotina consome a conversa. Esses momentos são oportunidades para testar o silêncio consciente sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: escolham um momento do dia para praticar o silêncio consciente. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"O que torna o silêncio consciente mais leve para você?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Como você percebe que o silêncio consciente está acontecendo de um jeito bom?\" e escolham um gesto de um toque na mão durante a refeição como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos.",
+            "Se quiserem ir além, revisitem o silêncio consciente no fim da semana e anotem o que funcionou. Esse registro simples cria consciência e evita que o cuidado se perca quando a rotina apertar."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: transformar ritual em obrigação. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é não combinar horários e se frustrar. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"O que torna o silêncio consciente mais leve para você?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Como você percebe que o silêncio consciente está acontecendo de um jeito bom?\". Concluam com um acordo pequeno para o dia e um gesto de um toque na mão durante a refeição. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem no silêncio consciente.",
+        "Como a constância da prática do silêncio consciente fortalece a conexão.",
+        "Quais sinais mostram que o silêncio consciente precisa de atenção.",
+        "Um roteiro simples para conversar sobre o silêncio consciente."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem o silêncio consciente por três dias seguidos.",
+        "Usem a pergunta \"O que torna o silêncio consciente mais leve para você?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um toque na mão durante a refeição sempre que fizerem o silêncio consciente.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "RIT-019",
+      "titulo": "Revisão de metas",
+      "nivel": 19,
+      "fase": "avancado",
+      "tempo_leitura": "4-5 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 19/20 do Elo dos Rituais de Conexão, o foco é a prática da revisão de metas. A proposta é trazer alívio da rotina pesada com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção à revisão de metas. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática da revisão de metas acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor da revisão de metas não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: a rotina consome a conversa. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é as pequenas celebrações somem. Esses momentos são oportunidades para testar a revisão de metas sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: testem hoje praticar a revisão de metas de forma simples. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Quando falamos da revisão de metas, o que funciona bem entre nós?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"O que você quer que eu lembre sobre a revisão de metas?\" e escolham um gesto de um sorriso de cumplicidade como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos.",
+            "Para aprofundar, separem um momento na semana para revisar a revisão de metas com calma e combinar um ajuste pequeno. Esse olhar mais demorado ajuda a consolidar o aprendizado e prepara o casal para conversas mais profundas."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: não combinar horários e se frustrar. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é abandonar o ritual na primeira semana difícil. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Quando falamos da revisão de metas, o que funciona bem entre nós?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"O que você quer que eu lembre sobre a revisão de metas?\". Concluam com um acordo pequeno para o dia e um gesto de um sorriso de cumplicidade. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem na revisão de metas.",
+        "Como a constância da prática da revisão de metas fortalece a conexão.",
+        "Quais sinais mostram que a revisão de metas precisa de atenção.",
+        "Um roteiro simples para conversar sobre a revisão de metas."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem a revisão de metas por três dias seguidos.",
+        "Usem a pergunta \"Quando falamos da revisão de metas, o que funciona bem entre nós?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um sorriso de cumplicidade sempre que fizerem a revisão de metas.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    },
+    {
+      "id": "RIT-020",
+      "titulo": "Renovar os votos do cotidiano",
+      "nivel": 20,
+      "fase": "avancado",
+      "tempo_leitura": "4-5 min",
+      "secoes": [
+        {
+          "titulo": "Panorama da etapa",
+          "blocos": [
+            "Nesta etapa 20/20 do Elo dos Rituais de Conexão, o foco é a prática de renovar os votos do cotidiano. A proposta é trazer mais leveza no cotidiano com gestos pequenos que caibam no dia. Isso prepara o terreno para as próximas etapas.",
+            "Este passo aprofunda o que já foi praticado e dá atenção a renovar os votos do cotidiano. Quando essa prática se repete, o vínculo ganha previsibilidade e o casal se sente mais alinhado."
+          ]
+        },
+        {
+          "titulo": "Por que isso aproxima",
+          "blocos": [
+            "Quando a prática de renovar os votos do cotidiano acontece no cotidiano, vocês diminuem ruídos e evitam suposições. É um jeito simples de dizer: estou aqui e te escuto, mesmo com a rotina apertada. Pequenas escolhas assim sustentam a conexão.",
+            "O valor de renovar os votos do cotidiano não está no tamanho do gesto, mas na constância. A repetição cria segurança emocional e abre espaço para conversas mais honestas ao longo do tempo."
+          ]
+        },
+        {
+          "titulo": "Sinais no dia a dia",
+          "blocos": [
+            "Sinais de que este passo faz falta: as pequenas celebrações somem. Quando isso acontece, a conexão tende a ficar superficial.",
+            "Outro sinal é os dias passam sem um momento só de vocês. Esses momentos são oportunidades para testar renovar os votos do cotidiano sem pressão."
+          ]
+        },
+        {
+          "titulo": "Como praticar no cotidiano",
+          "blocos": [
+            "Comecem simples: combinem um micro-ritual para renovar os votos do cotidiano. Antes, expliquem que é um experimento curto e sem cobrança. Um acordo prévio diminui resistência e deixa o momento mais natural.",
+            "Durante a prática, usem uma frase-guia como \"Qual parte de renovar os votos do cotidiano te faz sentir mais conectado(a)?\". Ela dá direção e evita que a conversa se perca. Se a resposta vier curta, acolham e mantenham o ritmo.",
+            "Para fechar, tentem \"Como posso apoiar você em renovar os votos do cotidiano agora?\" e escolham um gesto de um bilhete simples como sinal de cuidado. A ideia é repetir por alguns dias e ajustar juntos.",
+            "Se quiserem ir além, revisitem renovar os votos do cotidiano no fim da semana e anotem o que funcionou. Esse registro simples cria consciência e evita que o cuidado se perca quando a rotina apertar."
+          ]
+        },
+        {
+          "titulo": "Armadilhas e ajustes",
+          "blocos": [
+            "Armadilha comum: abandonar o ritual na primeira semana difícil. Isso costuma gerar defensiva e tirar a leveza da proposta. Se perceberem isso, voltem para o básico e recomeçem.",
+            "Outra armadilha é tentar criar rituais complexos demais. Nesse caso, reduzam a ambição e escolham um formato mais curto. O importante é a consistência, não a perfeição."
+          ]
+        },
+        {
+          "titulo": "Roteiro de conversa",
+          "blocos": [
+            "Abertura sugerida: \"Qual parte de renovar os votos do cotidiano te faz sentir mais conectado(a)?\". Fale em tom calmo e deixe espaço para o outro pensar. Uma pausa curta já mostra respeito.",
+            "Fechamento sugerido: \"Como posso apoiar você em renovar os votos do cotidiano agora?\". Concluam com um acordo pequeno para o dia e um gesto de um bilhete simples. Isso transforma conversa em prática."
+          ]
+        }
+      ],
+      "o_que_voce_aprendeu": [
+        "O que muda quando vocês investem em renovar os votos do cotidiano.",
+        "Como a constância da prática de renovar os votos do cotidiano fortalece a conexão.",
+        "Quais sinais mostram que renovar os votos do cotidiano precisa de atenção.",
+        "Um roteiro simples para conversar sobre renovar os votos do cotidiano."
+      ],
+      "como_exercitar": [
+        "Escolham um horário fixo e pratiquem renovar os votos do cotidiano por três dias seguidos.",
+        "Usem a pergunta \"Qual parte de renovar os votos do cotidiano te faz sentir mais conectado(a)?\" hoje e observem a resposta sem pressa.",
+        "Combinem um gesto de um bilhete simples sempre que fizerem renovar os votos do cotidiano.",
+        "Revisem juntos o que funcionou e ajustem a prática para ficar leve."
+      ]
+    }
+  ]
+}
