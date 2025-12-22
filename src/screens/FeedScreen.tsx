@@ -4,9 +4,8 @@ import { theme } from '../constants/theme';
 import { DataLoader } from '../data/DataLoader';
 import { Flashcard as FlashcardModel } from '../models/Flashcard';
 import { Flashcard } from '../components/Flashcard';
-import { PanGestureHandler, PanGestureHandlerGestureEvent } from 'react-native-gesture-handler';
+import { Gesture, GestureDetector } from 'react-native-gesture-handler';
 import Animated, { 
-  useAnimatedGestureHandler, 
   useAnimatedStyle, 
   useSharedValue, 
   withSpring, 
@@ -14,11 +13,10 @@ import Animated, {
   interpolate,
   Extrapolate
 } from 'react-native-reanimated';
+import { RitualService } from '../services/RitualService';
 
 const { width } = Dimensions.get('window');
 const SWIPE_THRESHOLD = width * 0.3;
-
-import { RitualService } from '../services/RitualService';
 
 export const FeedScreen = () => {
   const [cards, setCards] = useState<FlashcardModel[]>([]);
@@ -57,16 +55,12 @@ export const FeedScreen = () => {
     translateY.value = 0;
   };
 
-  const gestureHandler = useAnimatedGestureHandler<PanGestureHandlerGestureEvent, { startX: number, startY: number }>({
-    onStart: (_, ctx) => {
-      ctx.startX = translateX.value;
-      ctx.startY = translateY.value;
-    },
-    onActive: (event, ctx) => {
-      translateX.value = ctx.startX + event.translationX;
-      translateY.value = ctx.startY + event.translationY;
-    },
-    onEnd: (event) => {
+  const gesture = Gesture.Pan()
+    .onUpdate((event) => {
+      translateX.value = event.translationX;
+      translateY.value = event.translationY;
+    })
+    .onEnd((event) => {
       if (Math.abs(event.translationX) > SWIPE_THRESHOLD) {
         const direction = event.translationX > 0 ? 'right' : 'left';
         translateX.value = withSpring(direction === 'right' ? width * 1.5 : -width * 1.5);
@@ -75,8 +69,7 @@ export const FeedScreen = () => {
         translateX.value = withSpring(0);
         translateY.value = withSpring(0);
       }
-    },
-  });
+    });
 
   const cardStyle = useAnimatedStyle(() => {
     const rotate = interpolate(
@@ -138,11 +131,11 @@ export const FeedScreen = () => {
         )}
 
         {/* Current Card (Interactive) */}
-        <PanGestureHandler onGestureEvent={gestureHandler}>
+        <GestureDetector gesture={gesture}>
           <Animated.View style={[styles.cardWrapper, cardStyle]}>
             <Flashcard card={cards[currentIndex]} />
           </Animated.View>
-        </PanGestureHandler>
+        </GestureDetector>
       </View>
     </SafeAreaView>
   );
