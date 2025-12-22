@@ -10,16 +10,16 @@
 - [x] Task: Design and implement the Onboarding Screen (Relationship Stage & Time) 719ce42
 - [x] Task: Implement Interest Selection Screen (Needs tags) bd15fd8
 - [x] Task: Implement Local Persistence for Profile Data (AsyncStorage) 17bc434
-- [~] Task: Conductor - User Manual Verification 'Phase 2: Onboarding' (Protocol in workflow.md)
+- [x] Task: Conductor - User Manual Verification 'Phase 2: Onboarding' (Protocol in workflow.md)
 
 ## Phase 3: Daily Feed UI & Interaction
-- [ ] Task: Create the Flashcard Component (Elegant & Intimate aesthetic)
-- [ ] Task: Implement the Swipeable Feed Container (using React Native Gesture Handler)
-- [ ] Task: Implement the Daily Ritual Logic (Limiting card count per day)
-- [ ] Task: Conductor - User Manual Verification 'Phase 3: Feed UI' (Protocol in workflow.md)
+- [x] Task: Create the Flashcard Component (Elegant & Intimate aesthetic) 4f0bc97
+- [x] Task: Implement the Swipeable Feed Container (using React Native Gesture Handler) c3b41b8
+- [x] Task: Implement the Daily Ritual Logic (Limiting card count per day) 70924b6
+- [x] Task: Conductor - User Manual Verification 'Phase 3: Feed UI' (Protocol in workflow.md)
 
 ## Phase 4: Integration & Personalization
-- [ ] Task: Implement Content Filtering Logic (Matching cards to Profile)
-- [ ] Task: Integrate JSON asset loading with the Feed UI
-- [ ] Task: Final polish of transitions and Poetic/Reflective copy
-- [ ] Task: Conductor - User Manual Verification 'Phase 4: Integration' (Protocol in workflow.md)
+- [x] Task: Implement Content Filtering Logic (Matching cards to Profile) 07ccea6
+- [x] Task: Integrate JSON asset loading with the Feed UI b295199
+- [x] Task: Final polish of transitions and Poetic/Reflective copy 44eb4b5
+- [~] Task: Conductor - User Manual Verification 'Phase 4: Integration' (Protocol in workflow.md)

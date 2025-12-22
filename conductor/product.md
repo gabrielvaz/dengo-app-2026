@@ -141,8 +141,8 @@ Para o lançamento inicial, o Dengo será **completamente gratuito**, visando re
 ⸻
 
 10. Tecnologia
-	•	Frontend: Flutter (iOS-first)
-	•	Armazenamento Local: Shared Preferences ou SQLite para persistência do perfil e preferências.
+	•	Frontend: React Native com Expo (iOS-first)
+	•	Armazenamento Local: AsyncStorage para persistência do perfil e preferências.
 
 ⸻
 

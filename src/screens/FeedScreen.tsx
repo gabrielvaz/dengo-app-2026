@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import { View, StyleSheet, SafeAreaView, Dimensions, ActivityIndicator } from 'react-native';
+import { View, Text, StyleSheet, SafeAreaView, Dimensions, ActivityIndicator, TouchableOpacity } from 'react-native';
 import { theme } from '../constants/theme';
 import { DataLoader } from '../data/DataLoader';
 import { Flashcard as FlashcardModel } from '../models/Flashcard';
@@ -14,11 +14,10 @@ import Animated, {
   Extrapolate
 } from 'react-native-reanimated';
 import { RitualService } from '../services/RitualService';
+import { ProfileService } from '../services/ProfileService';
 
 const { width } = Dimensions.get('window');
 const SWIPE_THRESHOLD = width * 0.3;
-
-import { ProfileService } from '../services/ProfileService';
 
 export const FeedScreen = () => {
   const [cards, setCards] = useState<FlashcardModel[]>([]);
@@ -55,7 +54,7 @@ export const FeedScreen = () => {
   const onSwipeComplete = (direction: 'left' | 'right') => {
     const nextIndex = currentIndex + 1;
     if (nextIndex >= cards.length) {
-      RitualService.markAsCompletedToday();
+       RitualService.markAsCompletedToday();
       setRitualCompleted(true);
     }
     setCurrentIndex(nextIndex);
@@ -129,7 +128,9 @@ export const FeedScreen = () => {
           
           <TouchableOpacity style={styles.resetButton} onPress={async () => {
             await RitualService.resetRitual();
-            // Force reload or navigate
+            // Force reload
+            setRitualCompleted(false);
+            setCurrentIndex(0);
           }}>
             <Text style={styles.resetButtonText}>Refazer (Debug)</Text>
           </TouchableOpacity>
