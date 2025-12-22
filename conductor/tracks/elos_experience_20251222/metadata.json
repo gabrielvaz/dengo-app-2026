@@ -1,0 +1,8 @@
+{
+  "id": "elos_experience_20251222",
+  "name": "Elos: Educational & Progressive Content",
+  "description": "Implementation of the Elos informational module with progressive unlocking, local persistence, and offline content.",
+  "status": "planned",
+  "priority": "high",
+  "dependencies": []
+}

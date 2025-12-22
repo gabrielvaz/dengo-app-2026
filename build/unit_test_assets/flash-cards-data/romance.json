@@ -1,0 +1,4990 @@
+[
+  {
+    "id": "ROM-0001",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Tema: pequenos gestos românticos",
+    "pergunta": "Quando falamos sobre pequenos gestos românticos, o que mais te faz se sentir amado(a)?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0002",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Entre nós: pequenos gestos românticos",
+    "pergunta": "Qual detalhe em pequenos gestos românticos te emociona mais?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0003",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Nosso olhar sobre pequenos gestos românticos",
+    "pergunta": "Como podemos fortalecer pequenos gestos românticos no nosso dia a dia?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0004",
+    "categoria_principal": "Romance",
+    "titulo_curto": "O que nos une: pequenos gestos românticos",
+    "pergunta": "O que você gostaria de viver em pequenos gestos românticos comigo?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0005",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Sobre pequenos gestos românticos",
+    "pergunta": "Qual gesto simples melhora pequenos gestos românticos para você?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0006",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Quando falamos de pequenos gestos românticos",
+    "pergunta": "Que lembrança romântica de pequenos gestos românticos você guarda?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Quentes"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0007",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Tema: pequenos gestos românticos",
+    "pergunta": "Se eu pudesse surpreender você em pequenos gestos românticos, como seria?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0008",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Entre nós: pequenos gestos românticos",
+    "pergunta": "O que deixa pequenos gestos românticos ainda mais marcante entre nós?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0009",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Nosso olhar sobre pequenos gestos românticos",
+    "pergunta": "Quando penso em pequenos gestos românticos, o que você gostaria que eu soubesse?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "criar-rituais",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0010",
+    "categoria_principal": "Romance",
+    "titulo_curto": "O que nos une: pequenos gestos românticos",
+    "pergunta": "Pensando em pequenos gestos românticos, o que ajuda a manter nossa chama acesa?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Quentes"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0011",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Sobre surpresas sem motivo",
+    "pergunta": "Quando falamos sobre surpresas sem motivo, o que mais te faz se sentir amado(a)?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0012",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Quando falamos de surpresas sem motivo",
+    "pergunta": "Qual detalhe em surpresas sem motivo te emociona mais?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "esquentar-relacionamento",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0013",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Tema: surpresas sem motivo",
+    "pergunta": "Como podemos fortalecer surpresas sem motivo no nosso dia a dia?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0014",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Entre nós: surpresas sem motivo",
+    "pergunta": "O que você gostaria de viver em surpresas sem motivo comigo?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "criar-rituais",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0015",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Nosso olhar sobre surpresas sem motivo",
+    "pergunta": "Qual gesto simples melhora surpresas sem motivo para você?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0016",
+    "categoria_principal": "Romance",
+    "titulo_curto": "O que nos une: surpresas sem motivo",
+    "pergunta": "Que lembrança romântica de surpresas sem motivo você guarda?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0017",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Sobre surpresas sem motivo",
+    "pergunta": "Se eu pudesse surpreender você em surpresas sem motivo, como seria?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0018",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Quando falamos de surpresas sem motivo",
+    "pergunta": "O que deixa surpresas sem motivo ainda mais marcante entre nós?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Quentes"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0019",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Tema: surpresas sem motivo",
+    "pergunta": "Quando penso em surpresas sem motivo, o que você gostaria que eu soubesse?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0020",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Entre nós: surpresas sem motivo",
+    "pergunta": "Pensando em surpresas sem motivo, o que ajuda a manter nossa chama acesa?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Conexão Diária"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0021",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Nosso olhar sobre datas especiais",
+    "pergunta": "Quando falamos sobre datas especiais, o que mais te faz se sentir amado(a)?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "criar-rituais",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0022",
+    "categoria_principal": "Romance",
+    "titulo_curto": "O que nos une: datas especiais",
+    "pergunta": "Qual detalhe em datas especiais te emociona mais?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0023",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Sobre datas especiais",
+    "pergunta": "Como podemos fortalecer datas especiais no nosso dia a dia?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0024",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Quando falamos de datas especiais",
+    "pergunta": "O que você gostaria de viver em datas especiais comigo?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "esquentar-relacionamento",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0025",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Tema: datas especiais",
+    "pergunta": "Qual gesto simples melhora datas especiais para você?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0026",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Entre nós: datas especiais",
+    "pergunta": "Que lembrança romântica de datas especiais você guarda?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Quentes"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0027",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Nosso olhar sobre datas especiais",
+    "pergunta": "Se eu pudesse surpreender você em datas especiais, como seria?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0028",
+    "categoria_principal": "Romance",
+    "titulo_curto": "O que nos une: datas especiais",
+    "pergunta": "O que deixa datas especiais ainda mais marcante entre nós?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0029",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Sobre datas especiais",
+    "pergunta": "Quando penso em datas especiais, o que você gostaria que eu soubesse?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0030",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Quando falamos de datas especiais",
+    "pergunta": "Pensando em datas especiais, o que ajuda a manter nossa chama acesa?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Quentes"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0031",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Tema: elogios que aquecem",
+    "pergunta": "Quando falamos sobre elogios que aquecem, o que mais te faz se sentir amado(a)?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0032",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Entre nós: elogios que aquecem",
+    "pergunta": "Qual detalhe em elogios que aquecem te emociona mais?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0033",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Nosso olhar sobre elogios que aquecem",
+    "pergunta": "Como podemos fortalecer elogios que aquecem no nosso dia a dia?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "criar-rituais",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0034",
+    "categoria_principal": "Romance",
+    "titulo_curto": "O que nos une: elogios que aquecem",
+    "pergunta": "O que você gostaria de viver em elogios que aquecem comigo?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0035",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Sobre elogios que aquecem",
+    "pergunta": "Qual gesto simples melhora elogios que aquecem para você?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0036",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Quando falamos de elogios que aquecem",
+    "pergunta": "Que lembrança romântica de elogios que aquecem você guarda?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "esquentar-relacionamento",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0037",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Tema: elogios que aquecem",
+    "pergunta": "Se eu pudesse surpreender você em elogios que aquecem, como seria?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0038",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Entre nós: elogios que aquecem",
+    "pergunta": "O que deixa elogios que aquecem ainda mais marcante entre nós?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Quentes"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0039",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Nosso olhar sobre elogios que aquecem",
+    "pergunta": "Quando penso em elogios que aquecem, o que você gostaria que eu soubesse?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0040",
+    "categoria_principal": "Romance",
+    "titulo_curto": "O que nos une: elogios que aquecem",
+    "pergunta": "Pensando em elogios que aquecem, o que ajuda a manter nossa chama acesa?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Conexão Diária"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0041",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Sobre cartas ou bilhetes",
+    "pergunta": "Quando falamos sobre cartas ou bilhetes, o que mais te faz se sentir amado(a)?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0042",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Quando falamos de cartas ou bilhetes",
+    "pergunta": "Qual detalhe em cartas ou bilhetes te emociona mais?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0043",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Tema: cartas ou bilhetes",
+    "pergunta": "Como podemos fortalecer cartas ou bilhetes no nosso dia a dia?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0044",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Entre nós: cartas ou bilhetes",
+    "pergunta": "O que você gostaria de viver em cartas ou bilhetes comigo?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0045",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Nosso olhar sobre cartas ou bilhetes",
+    "pergunta": "Qual gesto simples melhora cartas ou bilhetes para você?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "criar-rituais",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0046",
+    "categoria_principal": "Romance",
+    "titulo_curto": "O que nos une: cartas ou bilhetes",
+    "pergunta": "Que lembrança romântica de cartas ou bilhetes você guarda?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Quentes"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0047",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Sobre cartas ou bilhetes",
+    "pergunta": "Se eu pudesse surpreender você em cartas ou bilhetes, como seria?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0048",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Quando falamos de cartas ou bilhetes",
+    "pergunta": "O que deixa cartas ou bilhetes ainda mais marcante entre nós?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "esquentar-relacionamento",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0049",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Tema: cartas ou bilhetes",
+    "pergunta": "Quando penso em cartas ou bilhetes, o que você gostaria que eu soubesse?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0050",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Entre nós: cartas ou bilhetes",
+    "pergunta": "Pensando em cartas ou bilhetes, o que ajuda a manter nossa chama acesa?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Quentes"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0051",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Nosso olhar sobre rituais a dois",
+    "pergunta": "Quando falamos sobre rituais a dois, o que mais te faz se sentir amado(a)?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0052",
+    "categoria_principal": "Romance",
+    "titulo_curto": "O que nos une: rituais a dois",
+    "pergunta": "Qual detalhe em rituais a dois te emociona mais?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0053",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Sobre rituais a dois",
+    "pergunta": "Como podemos fortalecer rituais a dois no nosso dia a dia?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0054",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Quando falamos de rituais a dois",
+    "pergunta": "O que você gostaria de viver em rituais a dois comigo?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0055",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Tema: rituais a dois",
+    "pergunta": "Qual gesto simples melhora rituais a dois para você?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0056",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Entre nós: rituais a dois",
+    "pergunta": "Que lembrança romântica de rituais a dois você guarda?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0057",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Nosso olhar sobre rituais a dois",
+    "pergunta": "Se eu pudesse surpreender você em rituais a dois, como seria?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "criar-rituais",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0058",
+    "categoria_principal": "Romance",
+    "titulo_curto": "O que nos une: rituais a dois",
+    "pergunta": "O que deixa rituais a dois ainda mais marcante entre nós?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Quentes"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0059",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Sobre rituais a dois",
+    "pergunta": "Quando penso em rituais a dois, o que você gostaria que eu soubesse?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0060",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Quando falamos de rituais a dois",
+    "pergunta": "Pensando em rituais a dois, o que ajuda a manter nossa chama acesa?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "esquentar-relacionamento",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Conexão Diária"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0061",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Tema: momentos de cuidado",
+    "pergunta": "Quando falamos sobre momentos de cuidado, o que mais te faz se sentir amado(a)?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0062",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Entre nós: momentos de cuidado",
+    "pergunta": "Qual detalhe em momentos de cuidado te emociona mais?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0063",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Nosso olhar sobre momentos de cuidado",
+    "pergunta": "Como podemos fortalecer momentos de cuidado no nosso dia a dia?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0064",
+    "categoria_principal": "Romance",
+    "titulo_curto": "O que nos une: momentos de cuidado",
+    "pergunta": "O que você gostaria de viver em momentos de cuidado comigo?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0065",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Sobre momentos de cuidado",
+    "pergunta": "Qual gesto simples melhora momentos de cuidado para você?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0066",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Quando falamos de momentos de cuidado",
+    "pergunta": "Que lembrança romântica de momentos de cuidado você guarda?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "criar-rituais",
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Quentes"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0067",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Tema: momentos de cuidado",
+    "pergunta": "Se eu pudesse surpreender você em momentos de cuidado, como seria?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0068",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Entre nós: momentos de cuidado",
+    "pergunta": "O que deixa momentos de cuidado ainda mais marcante entre nós?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0069",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Nosso olhar sobre momentos de cuidado",
+    "pergunta": "Quando penso em momentos de cuidado, o que você gostaria que eu soubesse?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "criar-rituais",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0070",
+    "categoria_principal": "Romance",
+    "titulo_curto": "O que nos une: momentos de cuidado",
+    "pergunta": "Pensando em momentos de cuidado, o que ajuda a manter nossa chama acesa?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Quentes"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0071",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Sobre um passeio romântico ideal",
+    "pergunta": "Quando falamos sobre um passeio romântico ideal, o que mais te faz se sentir amado(a)?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0072",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Quando falamos de um passeio romântico ideal",
+    "pergunta": "Qual detalhe em um passeio romântico ideal te emociona mais?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "esquentar-relacionamento",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0073",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Tema: um passeio romântico ideal",
+    "pergunta": "Como podemos fortalecer um passeio romântico ideal no nosso dia a dia?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0074",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Entre nós: um passeio romântico ideal",
+    "pergunta": "O que você gostaria de viver em um passeio romântico ideal comigo?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0075",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Nosso olhar sobre um passeio romântico ideal",
+    "pergunta": "Qual gesto simples melhora um passeio romântico ideal para você?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0076",
+    "categoria_principal": "Romance",
+    "titulo_curto": "O que nos une: um passeio romântico ideal",
+    "pergunta": "Que lembrança romântica de um passeio romântico ideal você guarda?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0077",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Sobre um passeio romântico ideal",
+    "pergunta": "Se eu pudesse surpreender você em um passeio romântico ideal, como seria?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0078",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Quando falamos de um passeio romântico ideal",
+    "pergunta": "O que deixa um passeio romântico ideal ainda mais marcante entre nós?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Quentes"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0079",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Tema: um passeio romântico ideal",
+    "pergunta": "Quando penso em um passeio romântico ideal, o que você gostaria que eu soubesse?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0080",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Entre nós: um passeio romântico ideal",
+    "pergunta": "Pensando em um passeio romântico ideal, o que ajuda a manter nossa chama acesa?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Conexão Diária"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0081",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Nosso olhar sobre o toque que transmite amor",
+    "pergunta": "Quando falamos sobre o toque que transmite amor, o que mais te faz se sentir amado(a)?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "criar-rituais",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0082",
+    "categoria_principal": "Romance",
+    "titulo_curto": "O que nos une: o toque que transmite amor",
+    "pergunta": "Qual detalhe no toque que transmite amor te emociona mais?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0083",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Sobre o toque que transmite amor",
+    "pergunta": "Como podemos fortalecer o toque que transmite amor no nosso dia a dia?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0084",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Quando falamos do toque que transmite amor",
+    "pergunta": "O que você gostaria de viver no toque que transmite amor comigo?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "esquentar-relacionamento",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0085",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Tema: o toque que transmite amor",
+    "pergunta": "Qual gesto simples melhora o toque que transmite amor para você?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0086",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Entre nós: o toque que transmite amor",
+    "pergunta": "Que lembrança romântica do toque que transmite amor você guarda?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Quentes"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0087",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Nosso olhar sobre o toque que transmite amor",
+    "pergunta": "Se eu pudesse surpreender você no toque que transmite amor, como seria?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0088",
+    "categoria_principal": "Romance",
+    "titulo_curto": "O que nos une: o toque que transmite amor",
+    "pergunta": "O que deixa o toque que transmite amor ainda mais marcante entre nós?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0089",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Sobre o toque que transmite amor",
+    "pergunta": "Quando penso no toque que transmite amor, o que você gostaria que eu soubesse?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0090",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Quando falamos do toque que transmite amor",
+    "pergunta": "Pensando no toque que transmite amor, o que ajuda a manter nossa chama acesa?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Quentes"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0091",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Tema: as palavras que mais emocionam",
+    "pergunta": "Quando falamos sobre as palavras que mais emocionam, o que mais te faz se sentir amado(a)?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0092",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Entre nós: as palavras que mais emocionam",
+    "pergunta": "Qual detalhe nas palavras que mais emocionam te emociona mais?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0093",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Nosso olhar sobre as palavras que mais emocionam",
+    "pergunta": "Como podemos fortalecer as palavras que mais emocionam no nosso dia a dia?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "criar-rituais",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0094",
+    "categoria_principal": "Romance",
+    "titulo_curto": "O que nos une: as palavras que mais emocionam",
+    "pergunta": "O que você gostaria de viver nas palavras que mais emocionam comigo?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0095",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Sobre as palavras que mais emocionam",
+    "pergunta": "Qual gesto simples melhora as palavras que mais emocionam para você?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0096",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Quando falamos das palavras que mais emocionam",
+    "pergunta": "Que lembrança romântica das palavras que mais emocionam você guarda?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "esquentar-relacionamento",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0097",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Tema: as palavras que mais emocionam",
+    "pergunta": "Se eu pudesse surpreender você nas palavras que mais emocionam, como seria?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0098",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Entre nós: as palavras que mais emocionam",
+    "pergunta": "O que deixa as palavras que mais emocionam ainda mais marcante entre nós?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Quentes"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0099",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Nosso olhar sobre as palavras que mais emocionam",
+    "pergunta": "Quando penso nas palavras que mais emocionam, o que você gostaria que eu soubesse?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0100",
+    "categoria_principal": "Romance",
+    "titulo_curto": "O que nos une: as palavras que mais emocionam",
+    "pergunta": "Pensando nas palavras que mais emocionam, o que ajuda a manter nossa chama acesa?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Conexão Diária"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0101",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Sobre um jantar especial em casa",
+    "pergunta": "Quando falamos sobre um jantar especial em casa, o que mais te faz se sentir amado(a)?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0102",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Quando falamos de um jantar especial em casa",
+    "pergunta": "Qual detalhe em um jantar especial em casa te emociona mais?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0103",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Tema: um jantar especial em casa",
+    "pergunta": "Como podemos fortalecer um jantar especial em casa no nosso dia a dia?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0104",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Entre nós: um jantar especial em casa",
+    "pergunta": "O que você gostaria de viver em um jantar especial em casa comigo?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0105",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Nosso olhar sobre um jantar especial em casa",
+    "pergunta": "Qual gesto simples melhora um jantar especial em casa para você?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "criar-rituais",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0106",
+    "categoria_principal": "Romance",
+    "titulo_curto": "O que nos une: um jantar especial em casa",
+    "pergunta": "Que lembrança romântica de um jantar especial em casa você guarda?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Quentes"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0107",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Sobre um jantar especial em casa",
+    "pergunta": "Se eu pudesse surpreender você em um jantar especial em casa, como seria?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0108",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Quando falamos de um jantar especial em casa",
+    "pergunta": "O que deixa um jantar especial em casa ainda mais marcante entre nós?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "esquentar-relacionamento",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0109",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Tema: um jantar especial em casa",
+    "pergunta": "Quando penso em um jantar especial em casa, o que você gostaria que eu soubesse?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0110",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Entre nós: um jantar especial em casa",
+    "pergunta": "Pensando em um jantar especial em casa, o que ajuda a manter nossa chama acesa?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Quentes"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0111",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Nosso olhar sobre um presente feito com intenção",
+    "pergunta": "Quando falamos sobre um presente feito com intenção, o que mais te faz se sentir amado(a)?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0112",
+    "categoria_principal": "Romance",
+    "titulo_curto": "O que nos une: um presente feito com intenção",
+    "pergunta": "Qual detalhe em um presente feito com intenção te emociona mais?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0113",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Sobre um presente feito com intenção",
+    "pergunta": "Como podemos fortalecer um presente feito com intenção no nosso dia a dia?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0114",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Quando falamos de um presente feito com intenção",
+    "pergunta": "O que você gostaria de viver em um presente feito com intenção comigo?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0115",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Tema: um presente feito com intenção",
+    "pergunta": "Qual gesto simples melhora um presente feito com intenção para você?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0116",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Entre nós: um presente feito com intenção",
+    "pergunta": "Que lembrança romântica de um presente feito com intenção você guarda?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0117",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Nosso olhar sobre um presente feito com intenção",
+    "pergunta": "Se eu pudesse surpreender você em um presente feito com intenção, como seria?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "criar-rituais",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0118",
+    "categoria_principal": "Romance",
+    "titulo_curto": "O que nos une: um presente feito com intenção",
+    "pergunta": "O que deixa um presente feito com intenção ainda mais marcante entre nós?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "criar-rituais",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Quentes"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0119",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Sobre um presente feito com intenção",
+    "pergunta": "Quando penso em um presente feito com intenção, o que você gostaria que eu soubesse?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0120",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Quando falamos de um presente feito com intenção",
+    "pergunta": "Pensando em um presente feito com intenção, o que ajuda a manter nossa chama acesa?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "esquentar-relacionamento",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Conexão Diária"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0121",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Tema: o olhar que diz tudo",
+    "pergunta": "Quando falamos sobre o olhar que diz tudo, o que mais te faz se sentir amado(a)?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0122",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Entre nós: o olhar que diz tudo",
+    "pergunta": "Qual detalhe no olhar que diz tudo te emociona mais?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0123",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Nosso olhar sobre o olhar que diz tudo",
+    "pergunta": "Como podemos fortalecer o olhar que diz tudo no nosso dia a dia?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0124",
+    "categoria_principal": "Romance",
+    "titulo_curto": "O que nos une: o olhar que diz tudo",
+    "pergunta": "O que você gostaria de viver no olhar que diz tudo comigo?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0125",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Sobre o olhar que diz tudo",
+    "pergunta": "Qual gesto simples melhora o olhar que diz tudo para você?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0126",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Quando falamos do olhar que diz tudo",
+    "pergunta": "Que lembrança romântica do olhar que diz tudo você guarda?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Quentes"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0127",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Tema: o olhar que diz tudo",
+    "pergunta": "Se eu pudesse surpreender você no olhar que diz tudo, como seria?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0128",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Entre nós: o olhar que diz tudo",
+    "pergunta": "O que deixa o olhar que diz tudo ainda mais marcante entre nós?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0129",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Nosso olhar sobre o olhar que diz tudo",
+    "pergunta": "Quando penso no olhar que diz tudo, o que você gostaria que eu soubesse?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "criar-rituais",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0130",
+    "categoria_principal": "Romance",
+    "titulo_curto": "O que nos une: o olhar que diz tudo",
+    "pergunta": "Pensando no olhar que diz tudo, o que ajuda a manter nossa chama acesa?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Quentes"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0131",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Sobre a trilha sonora do casal",
+    "pergunta": "Quando falamos sobre a trilha sonora do casal, o que mais te faz se sentir amado(a)?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0132",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Quando falamos da trilha sonora do casal",
+    "pergunta": "Qual detalhe na trilha sonora do casal te emociona mais?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "esquentar-relacionamento",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0133",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Tema: a trilha sonora do casal",
+    "pergunta": "Como podemos fortalecer a trilha sonora do casal no nosso dia a dia?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0134",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Entre nós: a trilha sonora do casal",
+    "pergunta": "O que você gostaria de viver na trilha sonora do casal comigo?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0135",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Nosso olhar sobre a trilha sonora do casal",
+    "pergunta": "Qual gesto simples melhora a trilha sonora do casal para você?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0136",
+    "categoria_principal": "Romance",
+    "titulo_curto": "O que nos une: a trilha sonora do casal",
+    "pergunta": "Que lembrança romântica da trilha sonora do casal você guarda?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0137",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Sobre a trilha sonora do casal",
+    "pergunta": "Se eu pudesse surpreender você na trilha sonora do casal, como seria?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0138",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Quando falamos da trilha sonora do casal",
+    "pergunta": "O que deixa a trilha sonora do casal ainda mais marcante entre nós?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Quentes"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0139",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Tema: a trilha sonora do casal",
+    "pergunta": "Quando penso na trilha sonora do casal, o que você gostaria que eu soubesse?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0140",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Entre nós: a trilha sonora do casal",
+    "pergunta": "Pensando na trilha sonora do casal, o que ajuda a manter nossa chama acesa?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Conexão Diária"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0141",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Nosso olhar sobre a forma de dizer 'sinto sua falta'",
+    "pergunta": "Quando falamos sobre a forma de dizer 'sinto sua falta', o que mais te faz se sentir amado(a)?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "criar-rituais",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0142",
+    "categoria_principal": "Romance",
+    "titulo_curto": "O que nos une: a forma de dizer 'sinto sua falta'",
+    "pergunta": "Qual detalhe na forma de dizer 'sinto sua falta' te emociona mais?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0143",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Sobre a forma de dizer 'sinto sua falta'",
+    "pergunta": "Como podemos fortalecer a forma de dizer 'sinto sua falta' no nosso dia a dia?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0144",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Quando falamos da forma de dizer 'sinto sua falta'",
+    "pergunta": "O que você gostaria de viver na forma de dizer 'sinto sua falta' comigo?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "esquentar-relacionamento",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0145",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Tema: a forma de dizer 'sinto sua falta'",
+    "pergunta": "Qual gesto simples melhora a forma de dizer 'sinto sua falta' para você?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0146",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Entre nós: a forma de dizer 'sinto sua falta'",
+    "pergunta": "Que lembrança romântica da forma de dizer 'sinto sua falta' você guarda?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Quentes"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0147",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Nosso olhar sobre a forma de dizer 'sinto sua falta'",
+    "pergunta": "Se eu pudesse surpreender você na forma de dizer 'sinto sua falta', como seria?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0148",
+    "categoria_principal": "Romance",
+    "titulo_curto": "O que nos une: a forma de dizer 'sinto sua falta'",
+    "pergunta": "O que deixa a forma de dizer 'sinto sua falta' ainda mais marcante entre nós?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0149",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Sobre a forma de dizer 'sinto sua falta'",
+    "pergunta": "Quando penso na forma de dizer 'sinto sua falta', o que você gostaria que eu soubesse?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0150",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Quando falamos da forma de dizer 'sinto sua falta'",
+    "pergunta": "Pensando na forma de dizer 'sinto sua falta', o que ajuda a manter nossa chama acesa?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Quentes"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0151",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Tema: um sonho romântico em comum",
+    "pergunta": "Quando falamos sobre um sonho romântico em comum, o que mais te faz se sentir amado(a)?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0152",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Entre nós: um sonho romântico em comum",
+    "pergunta": "Qual detalhe em um sonho romântico em comum te emociona mais?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0153",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Nosso olhar sobre um sonho romântico em comum",
+    "pergunta": "Como podemos fortalecer um sonho romântico em comum no nosso dia a dia?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "criar-rituais",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0154",
+    "categoria_principal": "Romance",
+    "titulo_curto": "O que nos une: um sonho romântico em comum",
+    "pergunta": "O que você gostaria de viver em um sonho romântico em comum comigo?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0155",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Sobre um sonho romântico em comum",
+    "pergunta": "Qual gesto simples melhora um sonho romântico em comum para você?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0156",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Quando falamos de um sonho romântico em comum",
+    "pergunta": "Que lembrança romântica de um sonho romântico em comum você guarda?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "esquentar-relacionamento",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0157",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Tema: um sonho romântico em comum",
+    "pergunta": "Se eu pudesse surpreender você em um sonho romântico em comum, como seria?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0158",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Entre nós: um sonho romântico em comum",
+    "pergunta": "O que deixa um sonho romântico em comum ainda mais marcante entre nós?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Quentes"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0159",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Nosso olhar sobre um sonho romântico em comum",
+    "pergunta": "Quando penso em um sonho romântico em comum, o que você gostaria que eu soubesse?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0160",
+    "categoria_principal": "Romance",
+    "titulo_curto": "O que nos une: um sonho romântico em comum",
+    "pergunta": "Pensando em um sonho romântico em comum, o que ajuda a manter nossa chama acesa?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Conexão Diária"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0161",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Sobre um lugar que inspira romance",
+    "pergunta": "Quando falamos sobre um lugar que inspira romance, o que mais te faz se sentir amado(a)?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0162",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Quando falamos de um lugar que inspira romance",
+    "pergunta": "Qual detalhe em um lugar que inspira romance te emociona mais?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0163",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Tema: um lugar que inspira romance",
+    "pergunta": "Como podemos fortalecer um lugar que inspira romance no nosso dia a dia?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0164",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Entre nós: um lugar que inspira romance",
+    "pergunta": "O que você gostaria de viver em um lugar que inspira romance comigo?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0165",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Nosso olhar sobre um lugar que inspira romance",
+    "pergunta": "Qual gesto simples melhora um lugar que inspira romance para você?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "criar-rituais",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0166",
+    "categoria_principal": "Romance",
+    "titulo_curto": "O que nos une: um lugar que inspira romance",
+    "pergunta": "Que lembrança romântica de um lugar que inspira romance você guarda?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Quentes"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0167",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Sobre um lugar que inspira romance",
+    "pergunta": "Se eu pudesse surpreender você em um lugar que inspira romance, como seria?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0168",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Quando falamos de um lugar que inspira romance",
+    "pergunta": "O que deixa um lugar que inspira romance ainda mais marcante entre nós?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "esquentar-relacionamento",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0169",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Tema: um lugar que inspira romance",
+    "pergunta": "Quando penso em um lugar que inspira romance, o que você gostaria que eu soubesse?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0170",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Entre nós: um lugar que inspira romance",
+    "pergunta": "Pensando em um lugar que inspira romance, o que ajuda a manter nossa chama acesa?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "criar-rituais",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Quentes"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0171",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Nosso olhar sobre um gesto de gentileza diária",
+    "pergunta": "Quando falamos sobre um gesto de gentileza diária, o que mais te faz se sentir amado(a)?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0172",
+    "categoria_principal": "Romance",
+    "titulo_curto": "O que nos une: um gesto de gentileza diária",
+    "pergunta": "Qual detalhe em um gesto de gentileza diária te emociona mais?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0173",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Sobre um gesto de gentileza diária",
+    "pergunta": "Como podemos fortalecer um gesto de gentileza diária no nosso dia a dia?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0174",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Quando falamos de um gesto de gentileza diária",
+    "pergunta": "O que você gostaria de viver em um gesto de gentileza diária comigo?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0175",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Tema: um gesto de gentileza diária",
+    "pergunta": "Qual gesto simples melhora um gesto de gentileza diária para você?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0176",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Entre nós: um gesto de gentileza diária",
+    "pergunta": "Que lembrança romântica de um gesto de gentileza diária você guarda?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0177",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Nosso olhar sobre um gesto de gentileza diária",
+    "pergunta": "Se eu pudesse surpreender você em um gesto de gentileza diária, como seria?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "criar-rituais",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0178",
+    "categoria_principal": "Romance",
+    "titulo_curto": "O que nos une: um gesto de gentileza diária",
+    "pergunta": "O que deixa um gesto de gentileza diária ainda mais marcante entre nós?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Quentes"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0179",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Sobre um gesto de gentileza diária",
+    "pergunta": "Quando penso em um gesto de gentileza diária, o que você gostaria que eu soubesse?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0180",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Quando falamos de um gesto de gentileza diária",
+    "pergunta": "Pensando em um gesto de gentileza diária, o que ajuda a manter nossa chama acesa?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "esquentar-relacionamento",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Conexão Diária"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0181",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Tema: o jeito de celebrar aniversários",
+    "pergunta": "Quando falamos sobre o jeito de celebrar aniversários, o que mais te faz se sentir amado(a)?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0182",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Entre nós: o jeito de celebrar aniversários",
+    "pergunta": "Qual detalhe no jeito de celebrar aniversários te emociona mais?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0183",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Nosso olhar sobre o jeito de celebrar aniversários",
+    "pergunta": "Como podemos fortalecer o jeito de celebrar aniversários no nosso dia a dia?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0184",
+    "categoria_principal": "Romance",
+    "titulo_curto": "O que nos une: o jeito de celebrar aniversários",
+    "pergunta": "O que você gostaria de viver no jeito de celebrar aniversários comigo?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0185",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Sobre o jeito de celebrar aniversários",
+    "pergunta": "Qual gesto simples melhora o jeito de celebrar aniversários para você?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0186",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Quando falamos do jeito de celebrar aniversários",
+    "pergunta": "Que lembrança romântica do jeito de celebrar aniversários você guarda?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Quentes"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0187",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Tema: o jeito de celebrar aniversários",
+    "pergunta": "Se eu pudesse surpreender você no jeito de celebrar aniversários, como seria?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0188",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Entre nós: o jeito de celebrar aniversários",
+    "pergunta": "O que deixa o jeito de celebrar aniversários ainda mais marcante entre nós?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0189",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Nosso olhar sobre o jeito de celebrar aniversários",
+    "pergunta": "Quando penso no jeito de celebrar aniversários, o que você gostaria que eu soubesse?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "criar-rituais",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0190",
+    "categoria_principal": "Romance",
+    "titulo_curto": "O que nos une: o jeito de celebrar aniversários",
+    "pergunta": "Pensando no jeito de celebrar aniversários, o que ajuda a manter nossa chama acesa?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Quentes"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0191",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Sobre uma memória romântica favorita",
+    "pergunta": "Quando falamos sobre uma memória romântica favorita, o que mais te faz se sentir amado(a)?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0192",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Quando falamos de uma memória romântica favorita",
+    "pergunta": "Qual detalhe em uma memória romântica favorita te emociona mais?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "esquentar-relacionamento",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0193",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Tema: uma memória romântica favorita",
+    "pergunta": "Como podemos fortalecer uma memória romântica favorita no nosso dia a dia?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0194",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Entre nós: uma memória romântica favorita",
+    "pergunta": "O que você gostaria de viver em uma memória romântica favorita comigo?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0195",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Nosso olhar sobre uma memória romântica favorita",
+    "pergunta": "Qual gesto simples melhora uma memória romântica favorita para você?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0196",
+    "categoria_principal": "Romance",
+    "titulo_curto": "O que nos une: uma memória romântica favorita",
+    "pergunta": "Que lembrança romântica de uma memória romântica favorita você guarda?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0197",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Sobre uma memória romântica favorita",
+    "pergunta": "Se eu pudesse surpreender você em uma memória romântica favorita, como seria?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0198",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Quando falamos de uma memória romântica favorita",
+    "pergunta": "O que deixa uma memória romântica favorita ainda mais marcante entre nós?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Quentes"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0199",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Tema: uma memória romântica favorita",
+    "pergunta": "Quando penso em uma memória romântica favorita, o que você gostaria que eu soubesse?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "ROM-0200",
+    "categoria_principal": "Romance",
+    "titulo_curto": "Entre nós: uma memória romântica favorita",
+    "pergunta": "Pensando em uma memória romântica favorita, o que ajuda a manter nossa chama acesa?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas",
+      "Conexão Diária"
+    ],
+    "nivel": "profundo",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  }
+]

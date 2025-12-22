@@ -1,0 +1,4990 @@
+[
+  {
+    "id": "CAS-0001",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Tema: nossa rotina de conversa",
+    "pergunta": "Falando sobre nossa rotina de conversa, o que mais te faz sentir conexão comigo?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "comunicacao",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0002",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Entre nós: nossa rotina de conversa",
+    "pergunta": "O que você gostaria que a gente fizesse mais quando falamos sobre nossa rotina de conversa?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Leve e Divertido"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0003",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Nosso olhar sobre nossa rotina de conversa",
+    "pergunta": "Qual pequeno gesto meu melhora nossa rotina de conversa para você?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "sair-da-rotina",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0004",
+    "categoria_principal": "Casais",
+    "titulo_curto": "O que nos une: nossa rotina de conversa",
+    "pergunta": "Como podemos cuidar melhor de nossa rotina de conversa no nosso dia a dia?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0005",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Sobre nossa rotina de conversa",
+    "pergunta": "Quando pensamos em nossa rotina de conversa, o que te deixa mais feliz?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0006",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Quando falamos de nossa rotina de conversa",
+    "pergunta": "O que você acha mais bonito em nossa rotina de conversa entre nós?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "conhecer-melhor",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Romance"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0007",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Tema: nossa rotina de conversa",
+    "pergunta": "Qual seria uma versão ideal de nossa rotina de conversa para a gente?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0008",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Entre nós: nossa rotina de conversa",
+    "pergunta": "Se pudéssemos ajustar algo em nossa rotina de conversa, o que seria?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Leve e Divertido"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0009",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Nosso olhar sobre nossa rotina de conversa",
+    "pergunta": "O que te faz perceber que cuidamos bem de nossa rotina de conversa?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0010",
+    "categoria_principal": "Casais",
+    "titulo_curto": "O que nos une: nossa rotina de conversa",
+    "pergunta": "Que conversa leve sobre nossa rotina de conversa você gostaria de ter comigo?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0011",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Sobre o jeito de pedir desculpas",
+    "pergunta": "Falando sobre o jeito de pedir desculpas, o que mais te faz sentir conexão comigo?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0012",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Quando falamos do jeito de pedir desculpas",
+    "pergunta": "O que você gostaria que a gente fizesse mais quando falamos sobre o jeito de pedir desculpas?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "criar-rituais",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Romance"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0013",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Tema: o jeito de pedir desculpas",
+    "pergunta": "Qual pequeno gesto meu melhora o jeito de pedir desculpas para você?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0014",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Entre nós: o jeito de pedir desculpas",
+    "pergunta": "Como podemos cuidar melhor do jeito de pedir desculpas no nosso dia a dia?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Leve e Divertido"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0015",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Nosso olhar sobre o jeito de pedir desculpas",
+    "pergunta": "Quando pensamos no jeito de pedir desculpas, o que te deixa mais feliz?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0016",
+    "categoria_principal": "Casais",
+    "titulo_curto": "O que nos une: o jeito de pedir desculpas",
+    "pergunta": "O que você acha mais bonito no jeito de pedir desculpas entre nós?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0017",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Sobre o jeito de pedir desculpas",
+    "pergunta": "Qual seria uma versão ideal do jeito de pedir desculpas para a gente?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0018",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Quando falamos do jeito de pedir desculpas",
+    "pergunta": "Se pudéssemos ajustar algo no jeito de pedir desculpas, o que seria?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "sair-da-rotina",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0019",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Tema: o jeito de pedir desculpas",
+    "pergunta": "O que te faz perceber que cuidamos bem do jeito de pedir desculpas?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0020",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Entre nós: o jeito de pedir desculpas",
+    "pergunta": "Que conversa leve sobre o jeito de pedir desculpas você gostaria de ter comigo?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Leve e Divertido"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0021",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Nosso olhar sobre a divisão das tarefas",
+    "pergunta": "Falando sobre a divisão das tarefas, o que mais te faz sentir conexão comigo?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "conhecer-melhor",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0022",
+    "categoria_principal": "Casais",
+    "titulo_curto": "O que nos une: a divisão das tarefas",
+    "pergunta": "O que você gostaria que a gente fizesse mais quando falamos sobre a divisão das tarefas?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0023",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Sobre a divisão das tarefas",
+    "pergunta": "Qual pequeno gesto meu melhora a divisão das tarefas para você?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0024",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Quando falamos da divisão das tarefas",
+    "pergunta": "Como podemos cuidar melhor da divisão das tarefas no nosso dia a dia?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Romance"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0025",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Tema: a divisão das tarefas",
+    "pergunta": "Quando pensamos na divisão das tarefas, o que te deixa mais feliz?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0026",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Entre nós: a divisão das tarefas",
+    "pergunta": "O que você acha mais bonito na divisão das tarefas entre nós?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Leve e Divertido"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0027",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Nosso olhar sobre a divisão das tarefas",
+    "pergunta": "Qual seria uma versão ideal da divisão das tarefas para a gente?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "criar-rituais",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0028",
+    "categoria_principal": "Casais",
+    "titulo_curto": "O que nos une: a divisão das tarefas",
+    "pergunta": "Se pudéssemos ajustar algo na divisão das tarefas, o que seria?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0029",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Sobre a divisão das tarefas",
+    "pergunta": "O que te faz perceber que cuidamos bem da divisão das tarefas?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0030",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Quando falamos da divisão das tarefas",
+    "pergunta": "Que conversa leve sobre a divisão das tarefas você gostaria de ter comigo?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0031",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Tema: o tempo de qualidade juntos",
+    "pergunta": "Falando sobre o tempo de qualidade juntos, o que mais te faz sentir conexão comigo?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0032",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Entre nós: o tempo de qualidade juntos",
+    "pergunta": "O que você gostaria que a gente fizesse mais quando falamos sobre o tempo de qualidade juntos?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Leve e Divertido"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0033",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Nosso olhar sobre o tempo de qualidade juntos",
+    "pergunta": "Qual pequeno gesto meu melhora o tempo de qualidade juntos para você?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "sair-da-rotina",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0034",
+    "categoria_principal": "Casais",
+    "titulo_curto": "O que nos une: o tempo de qualidade juntos",
+    "pergunta": "Como podemos cuidar melhor do tempo de qualidade juntos no nosso dia a dia?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0035",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Sobre o tempo de qualidade juntos",
+    "pergunta": "Quando pensamos no tempo de qualidade juntos, o que te deixa mais feliz?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0036",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Quando falamos do tempo de qualidade juntos",
+    "pergunta": "O que você acha mais bonito no tempo de qualidade juntos entre nós?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "conhecer-melhor",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Romance"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0037",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Tema: o tempo de qualidade juntos",
+    "pergunta": "Qual seria uma versão ideal do tempo de qualidade juntos para a gente?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0038",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Entre nós: o tempo de qualidade juntos",
+    "pergunta": "Se pudéssemos ajustar algo no tempo de qualidade juntos, o que seria?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Leve e Divertido"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0039",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Nosso olhar sobre o tempo de qualidade juntos",
+    "pergunta": "O que te faz perceber que cuidamos bem do tempo de qualidade juntos?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0040",
+    "categoria_principal": "Casais",
+    "titulo_curto": "O que nos une: o tempo de qualidade juntos",
+    "pergunta": "Que conversa leve sobre o tempo de qualidade juntos você gostaria de ter comigo?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0041",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Sobre o espaço individual",
+    "pergunta": "Falando sobre o espaço individual, o que mais te faz sentir conexão comigo?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0042",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Quando falamos do espaço individual",
+    "pergunta": "O que você gostaria que a gente fizesse mais quando falamos sobre o espaço individual?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "criar-rituais",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Romance"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0043",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Tema: o espaço individual",
+    "pergunta": "Qual pequeno gesto meu melhora o espaço individual para você?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0044",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Entre nós: o espaço individual",
+    "pergunta": "Como podemos cuidar melhor do espaço individual no nosso dia a dia?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Leve e Divertido"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0045",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Nosso olhar sobre o espaço individual",
+    "pergunta": "Quando pensamos no espaço individual, o que te deixa mais feliz?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0046",
+    "categoria_principal": "Casais",
+    "titulo_curto": "O que nos une: o espaço individual",
+    "pergunta": "O que você acha mais bonito no espaço individual entre nós?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0047",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Sobre o espaço individual",
+    "pergunta": "Qual seria uma versão ideal do espaço individual para a gente?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0048",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Quando falamos do espaço individual",
+    "pergunta": "Se pudéssemos ajustar algo no espaço individual, o que seria?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "sair-da-rotina",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0049",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Tema: o espaço individual",
+    "pergunta": "O que te faz perceber que cuidamos bem do espaço individual?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0050",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Entre nós: o espaço individual",
+    "pergunta": "Que conversa leve sobre o espaço individual você gostaria de ter comigo?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Leve e Divertido"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0051",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Nosso olhar sobre as decisões do dia a dia",
+    "pergunta": "Falando sobre as decisões do dia a dia, o que mais te faz sentir conexão comigo?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "conhecer-melhor",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0052",
+    "categoria_principal": "Casais",
+    "titulo_curto": "O que nos une: as decisões do dia a dia",
+    "pergunta": "O que você gostaria que a gente fizesse mais quando falamos sobre as decisões do dia a dia?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0053",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Sobre as decisões do dia a dia",
+    "pergunta": "Qual pequeno gesto meu melhora as decisões do dia a dia para você?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "criar-rituais",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0054",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Quando falamos das decisões do dia a dia",
+    "pergunta": "Como podemos cuidar melhor das decisões do dia a dia no nosso dia a dia?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Romance"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0055",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Tema: as decisões do dia a dia",
+    "pergunta": "Quando pensamos nas decisões do dia a dia, o que te deixa mais feliz?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0056",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Entre nós: as decisões do dia a dia",
+    "pergunta": "O que você acha mais bonito nas decisões do dia a dia entre nós?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Leve e Divertido"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0057",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Nosso olhar sobre as decisões do dia a dia",
+    "pergunta": "Qual seria uma versão ideal das decisões do dia a dia para a gente?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "criar-rituais",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0058",
+    "categoria_principal": "Casais",
+    "titulo_curto": "O que nos une: as decisões do dia a dia",
+    "pergunta": "Se pudéssemos ajustar algo nas decisões do dia a dia, o que seria?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0059",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Sobre as decisões do dia a dia",
+    "pergunta": "O que te faz perceber que cuidamos bem das decisões do dia a dia?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0060",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Quando falamos das decisões do dia a dia",
+    "pergunta": "Que conversa leve sobre as decisões do dia a dia você gostaria de ter comigo?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0061",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Tema: os planos para o futuro",
+    "pergunta": "Falando sobre os planos para o futuro, o que mais te faz sentir conexão comigo?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0062",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Entre nós: os planos para o futuro",
+    "pergunta": "O que você gostaria que a gente fizesse mais quando falamos sobre os planos para o futuro?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Leve e Divertido"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0063",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Nosso olhar sobre os planos para o futuro",
+    "pergunta": "Qual pequeno gesto meu melhora os planos para o futuro para você?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "sair-da-rotina",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0064",
+    "categoria_principal": "Casais",
+    "titulo_curto": "O que nos une: os planos para o futuro",
+    "pergunta": "Como podemos cuidar melhor dos planos para o futuro no nosso dia a dia?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0065",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Sobre os planos para o futuro",
+    "pergunta": "Quando pensamos nos planos para o futuro, o que te deixa mais feliz?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0066",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Quando falamos dos planos para o futuro",
+    "pergunta": "O que você acha mais bonito nos planos para o futuro entre nós?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "comunicacao",
+      "conhecer-melhor",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Romance"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0067",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Tema: os planos para o futuro",
+    "pergunta": "Qual seria uma versão ideal dos planos para o futuro para a gente?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0068",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Entre nós: os planos para o futuro",
+    "pergunta": "Se pudéssemos ajustar algo nos planos para o futuro, o que seria?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Leve e Divertido"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0069",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Nosso olhar sobre os planos para o futuro",
+    "pergunta": "O que te faz perceber que cuidamos bem dos planos para o futuro?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0070",
+    "categoria_principal": "Casais",
+    "titulo_curto": "O que nos une: os planos para o futuro",
+    "pergunta": "Que conversa leve sobre os planos para o futuro você gostaria de ter comigo?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0071",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Sobre o apoio nos dias difíceis",
+    "pergunta": "Falando sobre o apoio nos dias difíceis, o que mais te faz sentir conexão comigo?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0072",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Quando falamos do apoio nos dias difíceis",
+    "pergunta": "O que você gostaria que a gente fizesse mais quando falamos sobre o apoio nos dias difíceis?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "criar-rituais",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Romance"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0073",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Tema: o apoio nos dias difíceis",
+    "pergunta": "Qual pequeno gesto meu melhora o apoio nos dias difíceis para você?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0074",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Entre nós: o apoio nos dias difíceis",
+    "pergunta": "Como podemos cuidar melhor do apoio nos dias difíceis no nosso dia a dia?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Leve e Divertido"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0075",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Nosso olhar sobre o apoio nos dias difíceis",
+    "pergunta": "Quando pensamos no apoio nos dias difíceis, o que te deixa mais feliz?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0076",
+    "categoria_principal": "Casais",
+    "titulo_curto": "O que nos une: o apoio nos dias difíceis",
+    "pergunta": "O que você acha mais bonito no apoio nos dias difíceis entre nós?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0077",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Sobre o apoio nos dias difíceis",
+    "pergunta": "Qual seria uma versão ideal do apoio nos dias difíceis para a gente?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0078",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Quando falamos do apoio nos dias difíceis",
+    "pergunta": "Se pudéssemos ajustar algo no apoio nos dias difíceis, o que seria?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "sair-da-rotina",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0079",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Tema: o apoio nos dias difíceis",
+    "pergunta": "O que te faz perceber que cuidamos bem do apoio nos dias difíceis?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0080",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Entre nós: o apoio nos dias difíceis",
+    "pergunta": "Que conversa leve sobre o apoio nos dias difíceis você gostaria de ter comigo?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Leve e Divertido"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0081",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Nosso olhar sobre as pequenas surpresas",
+    "pergunta": "Falando sobre as pequenas surpresas, o que mais te faz sentir conexão comigo?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "conhecer-melhor",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0082",
+    "categoria_principal": "Casais",
+    "titulo_curto": "O que nos une: as pequenas surpresas",
+    "pergunta": "O que você gostaria que a gente fizesse mais quando falamos sobre as pequenas surpresas?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0083",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Sobre as pequenas surpresas",
+    "pergunta": "Qual pequeno gesto meu melhora as pequenas surpresas para você?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0084",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Quando falamos das pequenas surpresas",
+    "pergunta": "Como podemos cuidar melhor das pequenas surpresas no nosso dia a dia?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Romance"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0085",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Tema: as pequenas surpresas",
+    "pergunta": "Quando pensamos nas pequenas surpresas, o que te deixa mais feliz?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0086",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Entre nós: as pequenas surpresas",
+    "pergunta": "O que você acha mais bonito nas pequenas surpresas entre nós?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Leve e Divertido"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0087",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Nosso olhar sobre as pequenas surpresas",
+    "pergunta": "Qual seria uma versão ideal das pequenas surpresas para a gente?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "criar-rituais",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0088",
+    "categoria_principal": "Casais",
+    "titulo_curto": "O que nos une: as pequenas surpresas",
+    "pergunta": "Se pudéssemos ajustar algo nas pequenas surpresas, o que seria?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0089",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Sobre as pequenas surpresas",
+    "pergunta": "O que te faz perceber que cuidamos bem das pequenas surpresas?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0090",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Quando falamos das pequenas surpresas",
+    "pergunta": "Que conversa leve sobre as pequenas surpresas você gostaria de ter comigo?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0091",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Tema: as conversas sobre dinheiro",
+    "pergunta": "Falando sobre as conversas sobre dinheiro, o que mais te faz sentir conexão comigo?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0092",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Entre nós: as conversas sobre dinheiro",
+    "pergunta": "O que você gostaria que a gente fizesse mais quando falamos sobre as conversas sobre dinheiro?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Leve e Divertido"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0093",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Nosso olhar sobre as conversas sobre dinheiro",
+    "pergunta": "Qual pequeno gesto meu melhora as conversas sobre dinheiro para você?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "sair-da-rotina",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0094",
+    "categoria_principal": "Casais",
+    "titulo_curto": "O que nos une: as conversas sobre dinheiro",
+    "pergunta": "Como podemos cuidar melhor das conversas sobre dinheiro no nosso dia a dia?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0095",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Sobre as conversas sobre dinheiro",
+    "pergunta": "Quando pensamos nas conversas sobre dinheiro, o que te deixa mais feliz?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0096",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Quando falamos das conversas sobre dinheiro",
+    "pergunta": "O que você acha mais bonito nas conversas sobre dinheiro entre nós?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "conhecer-melhor",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Romance"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0097",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Tema: as conversas sobre dinheiro",
+    "pergunta": "Qual seria uma versão ideal das conversas sobre dinheiro para a gente?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0098",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Entre nós: as conversas sobre dinheiro",
+    "pergunta": "Se pudéssemos ajustar algo nas conversas sobre dinheiro, o que seria?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Leve e Divertido"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0099",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Nosso olhar sobre as conversas sobre dinheiro",
+    "pergunta": "O que te faz perceber que cuidamos bem das conversas sobre dinheiro?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0100",
+    "categoria_principal": "Casais",
+    "titulo_curto": "O que nos une: as conversas sobre dinheiro",
+    "pergunta": "Que conversa leve sobre as conversas sobre dinheiro você gostaria de ter comigo?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0101",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Sobre o equilíbrio entre trabalho e vida",
+    "pergunta": "Falando sobre o equilíbrio entre trabalho e vida, o que mais te faz sentir conexão comigo?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0102",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Quando falamos do equilíbrio entre trabalho e vida",
+    "pergunta": "O que você gostaria que a gente fizesse mais quando falamos sobre o equilíbrio entre trabalho e vida?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "criar-rituais",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Romance"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0103",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Tema: o equilíbrio entre trabalho e vida",
+    "pergunta": "Qual pequeno gesto meu melhora o equilíbrio entre trabalho e vida para você?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0104",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Entre nós: o equilíbrio entre trabalho e vida",
+    "pergunta": "Como podemos cuidar melhor do equilíbrio entre trabalho e vida no nosso dia a dia?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Leve e Divertido"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0105",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Nosso olhar sobre o equilíbrio entre trabalho e vida",
+    "pergunta": "Quando pensamos no equilíbrio entre trabalho e vida, o que te deixa mais feliz?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0106",
+    "categoria_principal": "Casais",
+    "titulo_curto": "O que nos une: o equilíbrio entre trabalho e vida",
+    "pergunta": "O que você acha mais bonito no equilíbrio entre trabalho e vida entre nós?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0107",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Sobre o equilíbrio entre trabalho e vida",
+    "pergunta": "Qual seria uma versão ideal do equilíbrio entre trabalho e vida para a gente?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0108",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Quando falamos do equilíbrio entre trabalho e vida",
+    "pergunta": "Se pudéssemos ajustar algo no equilíbrio entre trabalho e vida, o que seria?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "sair-da-rotina",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0109",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Tema: o equilíbrio entre trabalho e vida",
+    "pergunta": "O que te faz perceber que cuidamos bem do equilíbrio entre trabalho e vida?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0110",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Entre nós: o equilíbrio entre trabalho e vida",
+    "pergunta": "Que conversa leve sobre o equilíbrio entre trabalho e vida você gostaria de ter comigo?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Leve e Divertido"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0111",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Nosso olhar sobre as demonstrações de carinho",
+    "pergunta": "Falando sobre as demonstrações de carinho, o que mais te faz sentir conexão comigo?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "conhecer-melhor",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0112",
+    "categoria_principal": "Casais",
+    "titulo_curto": "O que nos une: as demonstrações de carinho",
+    "pergunta": "O que você gostaria que a gente fizesse mais quando falamos sobre as demonstrações de carinho?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0113",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Sobre as demonstrações de carinho",
+    "pergunta": "Qual pequeno gesto meu melhora as demonstrações de carinho para você?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0114",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Quando falamos das demonstrações de carinho",
+    "pergunta": "Como podemos cuidar melhor das demonstrações de carinho no nosso dia a dia?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Romance"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0115",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Tema: as demonstrações de carinho",
+    "pergunta": "Quando pensamos nas demonstrações de carinho, o que te deixa mais feliz?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0116",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Entre nós: as demonstrações de carinho",
+    "pergunta": "O que você acha mais bonito nas demonstrações de carinho entre nós?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Leve e Divertido"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0117",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Nosso olhar sobre as demonstrações de carinho",
+    "pergunta": "Qual seria uma versão ideal das demonstrações de carinho para a gente?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "criar-rituais",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0118",
+    "categoria_principal": "Casais",
+    "titulo_curto": "O que nos une: as demonstrações de carinho",
+    "pergunta": "Se pudéssemos ajustar algo nas demonstrações de carinho, o que seria?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "criar-rituais",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0119",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Sobre as demonstrações de carinho",
+    "pergunta": "O que te faz perceber que cuidamos bem das demonstrações de carinho?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0120",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Quando falamos das demonstrações de carinho",
+    "pergunta": "Que conversa leve sobre as demonstrações de carinho você gostaria de ter comigo?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0121",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Tema: o respeito aos limites",
+    "pergunta": "Falando sobre o respeito aos limites, o que mais te faz sentir conexão comigo?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0122",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Entre nós: o respeito aos limites",
+    "pergunta": "O que você gostaria que a gente fizesse mais quando falamos sobre o respeito aos limites?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Leve e Divertido"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0123",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Nosso olhar sobre o respeito aos limites",
+    "pergunta": "Qual pequeno gesto meu melhora o respeito aos limites para você?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "sair-da-rotina",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0124",
+    "categoria_principal": "Casais",
+    "titulo_curto": "O que nos une: o respeito aos limites",
+    "pergunta": "Como podemos cuidar melhor do respeito aos limites no nosso dia a dia?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0125",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Sobre o respeito aos limites",
+    "pergunta": "Quando pensamos no respeito aos limites, o que te deixa mais feliz?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0126",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Quando falamos do respeito aos limites",
+    "pergunta": "O que você acha mais bonito no respeito aos limites entre nós?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "conhecer-melhor",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Romance"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0127",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Tema: o respeito aos limites",
+    "pergunta": "Qual seria uma versão ideal do respeito aos limites para a gente?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0128",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Entre nós: o respeito aos limites",
+    "pergunta": "Se pudéssemos ajustar algo no respeito aos limites, o que seria?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Leve e Divertido"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0129",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Nosso olhar sobre o respeito aos limites",
+    "pergunta": "O que te faz perceber que cuidamos bem do respeito aos limites?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0130",
+    "categoria_principal": "Casais",
+    "titulo_curto": "O que nos une: o respeito aos limites",
+    "pergunta": "Que conversa leve sobre o respeito aos limites você gostaria de ter comigo?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0131",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Sobre o jeito de resolver conflitos",
+    "pergunta": "Falando sobre o jeito de resolver conflitos, o que mais te faz sentir conexão comigo?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "comunicacao",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0132",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Quando falamos do jeito de resolver conflitos",
+    "pergunta": "O que você gostaria que a gente fizesse mais quando falamos sobre o jeito de resolver conflitos?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "criar-rituais",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Romance"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0133",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Tema: o jeito de resolver conflitos",
+    "pergunta": "Qual pequeno gesto meu melhora o jeito de resolver conflitos para você?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0134",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Entre nós: o jeito de resolver conflitos",
+    "pergunta": "Como podemos cuidar melhor do jeito de resolver conflitos no nosso dia a dia?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Leve e Divertido"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0135",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Nosso olhar sobre o jeito de resolver conflitos",
+    "pergunta": "Quando pensamos no jeito de resolver conflitos, o que te deixa mais feliz?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0136",
+    "categoria_principal": "Casais",
+    "titulo_curto": "O que nos une: o jeito de resolver conflitos",
+    "pergunta": "O que você acha mais bonito no jeito de resolver conflitos entre nós?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0137",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Sobre o jeito de resolver conflitos",
+    "pergunta": "Qual seria uma versão ideal do jeito de resolver conflitos para a gente?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0138",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Quando falamos do jeito de resolver conflitos",
+    "pergunta": "Se pudéssemos ajustar algo no jeito de resolver conflitos, o que seria?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "sair-da-rotina",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0139",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Tema: o jeito de resolver conflitos",
+    "pergunta": "O que te faz perceber que cuidamos bem do jeito de resolver conflitos?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0140",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Entre nós: o jeito de resolver conflitos",
+    "pergunta": "Que conversa leve sobre o jeito de resolver conflitos você gostaria de ter comigo?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Leve e Divertido"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0141",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Nosso olhar sobre os momentos de silêncio juntos",
+    "pergunta": "Falando sobre os momentos de silêncio juntos, o que mais te faz sentir conexão comigo?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "conhecer-melhor",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0142",
+    "categoria_principal": "Casais",
+    "titulo_curto": "O que nos une: os momentos de silêncio juntos",
+    "pergunta": "O que você gostaria que a gente fizesse mais quando falamos sobre os momentos de silêncio juntos?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0143",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Sobre os momentos de silêncio juntos",
+    "pergunta": "Qual pequeno gesto meu melhora os momentos de silêncio juntos para você?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0144",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Quando falamos dos momentos de silêncio juntos",
+    "pergunta": "Como podemos cuidar melhor dos momentos de silêncio juntos no nosso dia a dia?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Romance"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0145",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Tema: os momentos de silêncio juntos",
+    "pergunta": "Quando pensamos nos momentos de silêncio juntos, o que te deixa mais feliz?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0146",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Entre nós: os momentos de silêncio juntos",
+    "pergunta": "O que você acha mais bonito nos momentos de silêncio juntos entre nós?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Leve e Divertido"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0147",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Nosso olhar sobre os momentos de silêncio juntos",
+    "pergunta": "Qual seria uma versão ideal dos momentos de silêncio juntos para a gente?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "criar-rituais",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0148",
+    "categoria_principal": "Casais",
+    "titulo_curto": "O que nos une: os momentos de silêncio juntos",
+    "pergunta": "Se pudéssemos ajustar algo nos momentos de silêncio juntos, o que seria?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0149",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Sobre os momentos de silêncio juntos",
+    "pergunta": "O que te faz perceber que cuidamos bem dos momentos de silêncio juntos?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0150",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Quando falamos dos momentos de silêncio juntos",
+    "pergunta": "Que conversa leve sobre os momentos de silêncio juntos você gostaria de ter comigo?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0151",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Tema: as nossas prioridades",
+    "pergunta": "Falando sobre as nossas prioridades, o que mais te faz sentir conexão comigo?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0152",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Entre nós: as nossas prioridades",
+    "pergunta": "O que você gostaria que a gente fizesse mais quando falamos sobre as nossas prioridades?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Leve e Divertido"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0153",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Nosso olhar sobre as nossas prioridades",
+    "pergunta": "Qual pequeno gesto meu melhora as nossas prioridades para você?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "sair-da-rotina",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0154",
+    "categoria_principal": "Casais",
+    "titulo_curto": "O que nos une: as nossas prioridades",
+    "pergunta": "Como podemos cuidar melhor das nossas prioridades no nosso dia a dia?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0155",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Sobre as nossas prioridades",
+    "pergunta": "Quando pensamos nas nossas prioridades, o que te deixa mais feliz?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0156",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Quando falamos das nossas prioridades",
+    "pergunta": "O que você acha mais bonito nas nossas prioridades entre nós?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "conhecer-melhor",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Romance"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0157",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Tema: as nossas prioridades",
+    "pergunta": "Qual seria uma versão ideal das nossas prioridades para a gente?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0158",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Entre nós: as nossas prioridades",
+    "pergunta": "Se pudéssemos ajustar algo nas nossas prioridades, o que seria?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Leve e Divertido"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0159",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Nosso olhar sobre as nossas prioridades",
+    "pergunta": "O que te faz perceber que cuidamos bem das nossas prioridades?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0160",
+    "categoria_principal": "Casais",
+    "titulo_curto": "O que nos une: as nossas prioridades",
+    "pergunta": "Que conversa leve sobre as nossas prioridades você gostaria de ter comigo?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0161",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Sobre o cuidado com a casa",
+    "pergunta": "Falando sobre o cuidado com a casa, o que mais te faz sentir conexão comigo?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0162",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Quando falamos do cuidado com a casa",
+    "pergunta": "O que você gostaria que a gente fizesse mais quando falamos sobre o cuidado com a casa?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "criar-rituais",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Romance"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0163",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Tema: o cuidado com a casa",
+    "pergunta": "Qual pequeno gesto meu melhora o cuidado com a casa para você?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0164",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Entre nós: o cuidado com a casa",
+    "pergunta": "Como podemos cuidar melhor do cuidado com a casa no nosso dia a dia?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Leve e Divertido"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0165",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Nosso olhar sobre o cuidado com a casa",
+    "pergunta": "Quando pensamos no cuidado com a casa, o que te deixa mais feliz?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0166",
+    "categoria_principal": "Casais",
+    "titulo_curto": "O que nos une: o cuidado com a casa",
+    "pergunta": "O que você acha mais bonito no cuidado com a casa entre nós?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0167",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Sobre o cuidado com a casa",
+    "pergunta": "Qual seria uma versão ideal do cuidado com a casa para a gente?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0168",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Quando falamos do cuidado com a casa",
+    "pergunta": "Se pudéssemos ajustar algo no cuidado com a casa, o que seria?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "sair-da-rotina",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0169",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Tema: o cuidado com a casa",
+    "pergunta": "O que te faz perceber que cuidamos bem do cuidado com a casa?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0170",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Entre nós: o cuidado com a casa",
+    "pergunta": "Que conversa leve sobre o cuidado com a casa você gostaria de ter comigo?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Leve e Divertido"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0171",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Nosso olhar sobre a presença quando um precisa do outro",
+    "pergunta": "Falando sobre a presença quando um precisa do outro, o que mais te faz sentir conexão comigo?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "conhecer-melhor",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0172",
+    "categoria_principal": "Casais",
+    "titulo_curto": "O que nos une: a presença quando um precisa do outro",
+    "pergunta": "O que você gostaria que a gente fizesse mais quando falamos sobre a presença quando um precisa do outro?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0173",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Sobre a presença quando um precisa do outro",
+    "pergunta": "Qual pequeno gesto meu melhora a presença quando um precisa do outro para você?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0174",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Quando falamos da presença quando um precisa do outro",
+    "pergunta": "Como podemos cuidar melhor da presença quando um precisa do outro no nosso dia a dia?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Romance"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0175",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Tema: a presença quando um precisa do outro",
+    "pergunta": "Quando pensamos na presença quando um precisa do outro, o que te deixa mais feliz?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0176",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Entre nós: a presença quando um precisa do outro",
+    "pergunta": "O que você acha mais bonito na presença quando um precisa do outro entre nós?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Leve e Divertido"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0177",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Nosso olhar sobre a presença quando um precisa do outro",
+    "pergunta": "Qual seria uma versão ideal da presença quando um precisa do outro para a gente?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "criar-rituais",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0178",
+    "categoria_principal": "Casais",
+    "titulo_curto": "O que nos une: a presença quando um precisa do outro",
+    "pergunta": "Se pudéssemos ajustar algo na presença quando um precisa do outro, o que seria?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0179",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Sobre a presença quando um precisa do outro",
+    "pergunta": "O que te faz perceber que cuidamos bem da presença quando um precisa do outro?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0180",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Quando falamos da presença quando um precisa do outro",
+    "pergunta": "Que conversa leve sobre a presença quando um precisa do outro você gostaria de ter comigo?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0181",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Tema: o tempo com amigos e família",
+    "pergunta": "Falando sobre o tempo com amigos e família, o que mais te faz sentir conexão comigo?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0182",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Entre nós: o tempo com amigos e família",
+    "pergunta": "O que você gostaria que a gente fizesse mais quando falamos sobre o tempo com amigos e família?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Leve e Divertido"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0183",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Nosso olhar sobre o tempo com amigos e família",
+    "pergunta": "Qual pequeno gesto meu melhora o tempo com amigos e família para você?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "criar-rituais",
+      "sair-da-rotina",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0184",
+    "categoria_principal": "Casais",
+    "titulo_curto": "O que nos une: o tempo com amigos e família",
+    "pergunta": "Como podemos cuidar melhor do tempo com amigos e família no nosso dia a dia?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0185",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Sobre o tempo com amigos e família",
+    "pergunta": "Quando pensamos no tempo com amigos e família, o que te deixa mais feliz?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0186",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Quando falamos do tempo com amigos e família",
+    "pergunta": "O que você acha mais bonito no tempo com amigos e família entre nós?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "conhecer-melhor",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Romance"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0187",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Tema: o tempo com amigos e família",
+    "pergunta": "Qual seria uma versão ideal do tempo com amigos e família para a gente?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0188",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Entre nós: o tempo com amigos e família",
+    "pergunta": "Se pudéssemos ajustar algo no tempo com amigos e família, o que seria?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Leve e Divertido"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0189",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Nosso olhar sobre o tempo com amigos e família",
+    "pergunta": "O que te faz perceber que cuidamos bem do tempo com amigos e família?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0190",
+    "categoria_principal": "Casais",
+    "titulo_curto": "O que nos une: o tempo com amigos e família",
+    "pergunta": "Que conversa leve sobre o tempo com amigos e família você gostaria de ter comigo?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0191",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Sobre a forma como celebramos conquistas",
+    "pergunta": "Falando sobre a forma como celebramos conquistas, o que mais te faz sentir conexão comigo?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0192",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Quando falamos da forma como celebramos conquistas",
+    "pergunta": "O que você gostaria que a gente fizesse mais quando falamos sobre a forma como celebramos conquistas?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "criar-rituais",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Romance"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0193",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Tema: a forma como celebramos conquistas",
+    "pergunta": "Qual pequeno gesto meu melhora a forma como celebramos conquistas para você?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0194",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Entre nós: a forma como celebramos conquistas",
+    "pergunta": "Como podemos cuidar melhor da forma como celebramos conquistas no nosso dia a dia?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Leve e Divertido"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0195",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Nosso olhar sobre a forma como celebramos conquistas",
+    "pergunta": "Quando pensamos na forma como celebramos conquistas, o que te deixa mais feliz?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0196",
+    "categoria_principal": "Casais",
+    "titulo_curto": "O que nos une: a forma como celebramos conquistas",
+    "pergunta": "O que você acha mais bonito na forma como celebramos conquistas entre nós?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "comunicacao",
+      "conhecer-melhor"
+    ],
+    "secondary_categories": [
+      "Confiança",
+      "Crescimento"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0197",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Sobre a forma como celebramos conquistas",
+    "pergunta": "Qual seria uma versão ideal da forma como celebramos conquistas para a gente?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conhecer-melhor",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Crescimento"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0198",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Quando falamos da forma como celebramos conquistas",
+    "pergunta": "Se pudéssemos ajustar algo na forma como celebramos conquistas, o que seria?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "sair-da-rotina",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Conexão Diária",
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0199",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Tema: a forma como celebramos conquistas",
+    "pergunta": "O que te faz perceber que cuidamos bem da forma como celebramos conquistas?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CAS-0200",
+    "categoria_principal": "Casais",
+    "titulo_curto": "Entre nós: a forma como celebramos conquistas",
+    "pergunta": "Que conversa leve sobre a forma como celebramos conquistas você gostaria de ter comigo?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Memórias",
+      "Leve e Divertido"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  }
+]

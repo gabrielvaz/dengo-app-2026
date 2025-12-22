@@ -1,0 +1,4990 @@
+[
+  {
+    "id": "QUE-0001",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Tema: beijos demorados",
+    "pergunta": "O que te deixa mais à vontade quando falamos sobre beijos demorados?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0002",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Entre nós: beijos demorados",
+    "pergunta": "Como você gosta que a gente comece com beijos demorados?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Almas Gêmeas"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0003",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Nosso olhar sobre beijos demorados",
+    "pergunta": "Qual detalhe em beijos demorados faz você se sentir mais desejado(a)?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "esquentar-relacionamento",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0004",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "O que nos une: beijos demorados",
+    "pergunta": "Em beijos demorados, o que te traz mais conexão emocional?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0005",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Sobre beijos demorados",
+    "pergunta": "Que gesto sutil melhora beijos demorados para você?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0006",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Quando falamos de beijos demorados",
+    "pergunta": "Quando pensamos em beijos demorados, o que você tem vontade de explorar com carinho?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Almas Gêmeas"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "QUE-0007",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Tema: beijos demorados",
+    "pergunta": "Qual ritmo você prefere para beijos demorados quando estamos juntos?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0008",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Entre nós: beijos demorados",
+    "pergunta": "O que te ajuda a entrar no clima de beijos demorados?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0009",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Nosso olhar sobre beijos demorados",
+    "pergunta": "Que conversa leve sobre beijos demorados te faria bem ter hoje?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0010",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "O que nos une: beijos demorados",
+    "pergunta": "O que deixa beijos demorados ainda mais marcante entre nós?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Almas Gêmeas"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0011",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Sobre toques nas mãos",
+    "pergunta": "O que te deixa mais à vontade quando falamos sobre toques nas mãos?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0012",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Quando falamos de toques nas mãos",
+    "pergunta": "Como você gosta que a gente comece com toques nas mãos?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "QUE-0013",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Tema: toques nas mãos",
+    "pergunta": "Qual detalhe em toques nas mãos faz você se sentir mais desejado(a)?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0014",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Entre nós: toques nas mãos",
+    "pergunta": "Em toques nas mãos, o que te traz mais conexão emocional?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Almas Gêmeas"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0015",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Nosso olhar sobre toques nas mãos",
+    "pergunta": "Que gesto sutil melhora toques nas mãos para você?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "esquentar-relacionamento",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0016",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "O que nos une: toques nas mãos",
+    "pergunta": "Quando pensamos em toques nas mãos, o que você tem vontade de explorar com carinho?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0017",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Sobre toques nas mãos",
+    "pergunta": "Qual ritmo você prefere para toques nas mãos quando estamos juntos?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0018",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Quando falamos de toques nas mãos",
+    "pergunta": "O que te ajuda a entrar no clima de toques nas mãos?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Almas Gêmeas"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "QUE-0019",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Tema: toques nas mãos",
+    "pergunta": "Que conversa leve sobre toques nas mãos te faria bem ter hoje?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0020",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Entre nós: toques nas mãos",
+    "pergunta": "O que deixa toques nas mãos ainda mais marcante entre nós?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0021",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Nosso olhar sobre carícias no cabelo",
+    "pergunta": "O que te deixa mais à vontade quando falamos sobre carícias no cabelo?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0022",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "O que nos une: carícias no cabelo",
+    "pergunta": "Como você gosta que a gente comece com carícias no cabelo?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Almas Gêmeas"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0023",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Sobre carícias no cabelo",
+    "pergunta": "Qual detalhe em carícias no cabelo faz você se sentir mais desejado(a)?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0024",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Quando falamos de carícias no cabelo",
+    "pergunta": "Em carícias no cabelo, o que te traz mais conexão emocional?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "QUE-0025",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Tema: carícias no cabelo",
+    "pergunta": "Que gesto sutil melhora carícias no cabelo para você?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0026",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Entre nós: carícias no cabelo",
+    "pergunta": "Quando pensamos em carícias no cabelo, o que você tem vontade de explorar com carinho?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Almas Gêmeas"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0027",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Nosso olhar sobre carícias no cabelo",
+    "pergunta": "Qual ritmo você prefere para carícias no cabelo quando estamos juntos?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "esquentar-relacionamento",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0028",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "O que nos une: carícias no cabelo",
+    "pergunta": "O que te ajuda a entrar no clima de carícias no cabelo?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0029",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Sobre carícias no cabelo",
+    "pergunta": "Que conversa leve sobre carícias no cabelo te faria bem ter hoje?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0030",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Quando falamos de carícias no cabelo",
+    "pergunta": "O que deixa carícias no cabelo ainda mais marcante entre nós?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Almas Gêmeas"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "QUE-0031",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Tema: abraços mais longos",
+    "pergunta": "O que te deixa mais à vontade quando falamos sobre abraços mais longos?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0032",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Entre nós: abraços mais longos",
+    "pergunta": "Como você gosta que a gente comece com abraços mais longos?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0033",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Nosso olhar sobre abraços mais longos",
+    "pergunta": "Qual detalhe em abraços mais longos faz você se sentir mais desejado(a)?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0034",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "O que nos une: abraços mais longos",
+    "pergunta": "Em abraços mais longos, o que te traz mais conexão emocional?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Almas Gêmeas"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0035",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Sobre abraços mais longos",
+    "pergunta": "Que gesto sutil melhora abraços mais longos para você?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0036",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Quando falamos de abraços mais longos",
+    "pergunta": "Quando pensamos em abraços mais longos, o que você tem vontade de explorar com carinho?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "QUE-0037",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Tema: abraços mais longos",
+    "pergunta": "Qual ritmo você prefere para abraços mais longos quando estamos juntos?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0038",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Entre nós: abraços mais longos",
+    "pergunta": "O que te ajuda a entrar no clima de abraços mais longos?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Almas Gêmeas"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0039",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Nosso olhar sobre abraços mais longos",
+    "pergunta": "Que conversa leve sobre abraços mais longos te faria bem ter hoje?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "esquentar-relacionamento",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0040",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "O que nos une: abraços mais longos",
+    "pergunta": "O que deixa abraços mais longos ainda mais marcante entre nós?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0041",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Sobre massagem relaxante",
+    "pergunta": "O que te deixa mais à vontade quando falamos sobre massagem relaxante?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0042",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Quando falamos de massagem relaxante",
+    "pergunta": "Como você gosta que a gente comece com massagem relaxante?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Almas Gêmeas"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "QUE-0043",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Tema: massagem relaxante",
+    "pergunta": "Qual detalhe em massagem relaxante faz você se sentir mais desejado(a)?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0044",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Entre nós: massagem relaxante",
+    "pergunta": "Em massagem relaxante, o que te traz mais conexão emocional?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0045",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Nosso olhar sobre massagem relaxante",
+    "pergunta": "Que gesto sutil melhora massagem relaxante para você?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0046",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "O que nos une: massagem relaxante",
+    "pergunta": "Quando pensamos em massagem relaxante, o que você tem vontade de explorar com carinho?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Almas Gêmeas"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0047",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Sobre massagem relaxante",
+    "pergunta": "Qual ritmo você prefere para massagem relaxante quando estamos juntos?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0048",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Quando falamos de massagem relaxante",
+    "pergunta": "O que te ajuda a entrar no clima de massagem relaxante?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "QUE-0049",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Tema: massagem relaxante",
+    "pergunta": "Que conversa leve sobre massagem relaxante te faria bem ter hoje?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0050",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Entre nós: massagem relaxante",
+    "pergunta": "O que deixa massagem relaxante ainda mais marcante entre nós?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Almas Gêmeas"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0051",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Nosso olhar sobre olhares que aquecem",
+    "pergunta": "O que te deixa mais à vontade quando falamos sobre olhares que aquecem?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "esquentar-relacionamento",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0052",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "O que nos une: olhares que aquecem",
+    "pergunta": "Como você gosta que a gente comece com olhares que aquecem?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0053",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Sobre olhares que aquecem",
+    "pergunta": "Qual detalhe em olhares que aquecem faz você se sentir mais desejado(a)?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0054",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Quando falamos de olhares que aquecem",
+    "pergunta": "Em olhares que aquecem, o que te traz mais conexão emocional?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Almas Gêmeas"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "QUE-0055",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Tema: olhares que aquecem",
+    "pergunta": "Que gesto sutil melhora olhares que aquecem para você?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0056",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Entre nós: olhares que aquecem",
+    "pergunta": "Quando pensamos em olhares que aquecem, o que você tem vontade de explorar com carinho?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0057",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Nosso olhar sobre olhares que aquecem",
+    "pergunta": "Qual ritmo você prefere para olhares que aquecem quando estamos juntos?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0058",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "O que nos une: olhares que aquecem",
+    "pergunta": "O que te ajuda a entrar no clima de olhares que aquecem?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Almas Gêmeas"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0059",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Sobre olhares que aquecem",
+    "pergunta": "Que conversa leve sobre olhares que aquecem te faria bem ter hoje?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0060",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Quando falamos de olhares que aquecem",
+    "pergunta": "O que deixa olhares que aquecem ainda mais marcante entre nós?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "QUE-0061",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Tema: a nossa química",
+    "pergunta": "O que te deixa mais à vontade quando falamos sobre a nossa química?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0062",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Entre nós: a nossa química",
+    "pergunta": "Como você gosta que a gente comece com a nossa química?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Almas Gêmeas"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0063",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Nosso olhar sobre a nossa química",
+    "pergunta": "Qual detalhe na nossa química faz você se sentir mais desejado(a)?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "esquentar-relacionamento",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0064",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "O que nos une: a nossa química",
+    "pergunta": "Na nossa química, o que te traz mais conexão emocional?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0065",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Sobre a nossa química",
+    "pergunta": "Que gesto sutil melhora a nossa química para você?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0066",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Quando falamos da nossa química",
+    "pergunta": "Quando pensamos na nossa química, o que você tem vontade de explorar com carinho?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Almas Gêmeas"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "QUE-0067",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Tema: a nossa química",
+    "pergunta": "Qual ritmo você prefere para a nossa química quando estamos juntos?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0068",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Entre nós: a nossa química",
+    "pergunta": "O que te ajuda a entrar no clima da nossa química?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0069",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Nosso olhar sobre a nossa química",
+    "pergunta": "Que conversa leve sobre a nossa química te faria bem ter hoje?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0070",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "O que nos une: a nossa química",
+    "pergunta": "O que deixa a nossa química ainda mais marcante entre nós?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Almas Gêmeas"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0071",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Sobre o clima antes de dormir",
+    "pergunta": "O que te deixa mais à vontade quando falamos sobre o clima antes de dormir?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0072",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Quando falamos do clima antes de dormir",
+    "pergunta": "Como você gosta que a gente comece com o clima antes de dormir?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "QUE-0073",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Tema: o clima antes de dormir",
+    "pergunta": "Qual detalhe no clima antes de dormir faz você se sentir mais desejado(a)?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0074",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Entre nós: o clima antes de dormir",
+    "pergunta": "No clima antes de dormir, o que te traz mais conexão emocional?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Almas Gêmeas"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0075",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Nosso olhar sobre o clima antes de dormir",
+    "pergunta": "Que gesto sutil melhora o clima antes de dormir para você?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "esquentar-relacionamento",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0076",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "O que nos une: o clima antes de dormir",
+    "pergunta": "Quando pensamos no clima antes de dormir, o que você tem vontade de explorar com carinho?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0077",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Sobre o clima antes de dormir",
+    "pergunta": "Qual ritmo você prefere para o clima antes de dormir quando estamos juntos?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0078",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Quando falamos do clima antes de dormir",
+    "pergunta": "O que te ajuda a entrar no clima do clima antes de dormir?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Almas Gêmeas"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "QUE-0079",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Tema: o clima antes de dormir",
+    "pergunta": "Que conversa leve sobre o clima antes de dormir te faria bem ter hoje?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0080",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Entre nós: o clima antes de dormir",
+    "pergunta": "O que deixa o clima antes de dormir ainda mais marcante entre nós?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0081",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Nosso olhar sobre momentos a dois sem pressa",
+    "pergunta": "O que te deixa mais à vontade quando falamos sobre momentos a dois sem pressa?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0082",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "O que nos une: momentos a dois sem pressa",
+    "pergunta": "Como você gosta que a gente comece com momentos a dois sem pressa?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Almas Gêmeas"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0083",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Sobre momentos a dois sem pressa",
+    "pergunta": "Qual detalhe em momentos a dois sem pressa faz você se sentir mais desejado(a)?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0084",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Quando falamos de momentos a dois sem pressa",
+    "pergunta": "Em momentos a dois sem pressa, o que te traz mais conexão emocional?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "QUE-0085",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Tema: momentos a dois sem pressa",
+    "pergunta": "Que gesto sutil melhora momentos a dois sem pressa para você?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0086",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Entre nós: momentos a dois sem pressa",
+    "pergunta": "Quando pensamos em momentos a dois sem pressa, o que você tem vontade de explorar com carinho?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Almas Gêmeas"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0087",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Nosso olhar sobre momentos a dois sem pressa",
+    "pergunta": "Qual ritmo você prefere para momentos a dois sem pressa quando estamos juntos?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "esquentar-relacionamento",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0088",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "O que nos une: momentos a dois sem pressa",
+    "pergunta": "O que te ajuda a entrar no clima de momentos a dois sem pressa?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0089",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Sobre momentos a dois sem pressa",
+    "pergunta": "Que conversa leve sobre momentos a dois sem pressa te faria bem ter hoje?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0090",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Quando falamos de momentos a dois sem pressa",
+    "pergunta": "O que deixa momentos a dois sem pressa ainda mais marcante entre nós?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Almas Gêmeas"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "QUE-0091",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Tema: fantasias leves",
+    "pergunta": "O que te deixa mais à vontade quando falamos sobre fantasias leves?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0092",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Entre nós: fantasias leves",
+    "pergunta": "Como você gosta que a gente comece com fantasias leves?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0093",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Nosso olhar sobre fantasias leves",
+    "pergunta": "Qual detalhe em fantasias leves faz você se sentir mais desejado(a)?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0094",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "O que nos une: fantasias leves",
+    "pergunta": "Em fantasias leves, o que te traz mais conexão emocional?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Almas Gêmeas"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0095",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Sobre fantasias leves",
+    "pergunta": "Que gesto sutil melhora fantasias leves para você?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0096",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Quando falamos de fantasias leves",
+    "pergunta": "Quando pensamos em fantasias leves, o que você tem vontade de explorar com carinho?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "QUE-0097",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Tema: fantasias leves",
+    "pergunta": "Qual ritmo você prefere para fantasias leves quando estamos juntos?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0098",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Entre nós: fantasias leves",
+    "pergunta": "O que te ajuda a entrar no clima de fantasias leves?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Almas Gêmeas"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0099",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Nosso olhar sobre fantasias leves",
+    "pergunta": "Que conversa leve sobre fantasias leves te faria bem ter hoje?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "esquentar-relacionamento",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0100",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "O que nos une: fantasias leves",
+    "pergunta": "O que deixa fantasias leves ainda mais marcante entre nós?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0101",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Sobre elogios que despertam desejo",
+    "pergunta": "O que te deixa mais à vontade quando falamos sobre elogios que despertam desejo?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0102",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Quando falamos de elogios que despertam desejo",
+    "pergunta": "Como você gosta que a gente comece com elogios que despertam desejo?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Almas Gêmeas"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "QUE-0103",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Tema: elogios que despertam desejo",
+    "pergunta": "Qual detalhe em elogios que despertam desejo faz você se sentir mais desejado(a)?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0104",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Entre nós: elogios que despertam desejo",
+    "pergunta": "Em elogios que despertam desejo, o que te traz mais conexão emocional?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0105",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Nosso olhar sobre elogios que despertam desejo",
+    "pergunta": "Que gesto sutil melhora elogios que despertam desejo para você?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0106",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "O que nos une: elogios que despertam desejo",
+    "pergunta": "Quando pensamos em elogios que despertam desejo, o que você tem vontade de explorar com carinho?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Almas Gêmeas"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0107",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Sobre elogios que despertam desejo",
+    "pergunta": "Qual ritmo você prefere para elogios que despertam desejo quando estamos juntos?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0108",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Quando falamos de elogios que despertam desejo",
+    "pergunta": "O que te ajuda a entrar no clima de elogios que despertam desejo?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "QUE-0109",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Tema: elogios que despertam desejo",
+    "pergunta": "Que conversa leve sobre elogios que despertam desejo te faria bem ter hoje?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0110",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Entre nós: elogios que despertam desejo",
+    "pergunta": "O que deixa elogios que despertam desejo ainda mais marcante entre nós?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Almas Gêmeas"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0111",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Nosso olhar sobre o jeito de iniciar a intimidade",
+    "pergunta": "O que te deixa mais à vontade quando falamos sobre o jeito de iniciar a intimidade?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "esquentar-relacionamento",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0112",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "O que nos une: o jeito de iniciar a intimidade",
+    "pergunta": "Como você gosta que a gente comece com o jeito de iniciar a intimidade?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0113",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Sobre o jeito de iniciar a intimidade",
+    "pergunta": "Qual detalhe no jeito de iniciar a intimidade faz você se sentir mais desejado(a)?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0114",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Quando falamos do jeito de iniciar a intimidade",
+    "pergunta": "No jeito de iniciar a intimidade, o que te traz mais conexão emocional?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Almas Gêmeas"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "QUE-0115",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Tema: o jeito de iniciar a intimidade",
+    "pergunta": "Que gesto sutil melhora o jeito de iniciar a intimidade para você?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0116",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Entre nós: o jeito de iniciar a intimidade",
+    "pergunta": "Quando pensamos no jeito de iniciar a intimidade, o que você tem vontade de explorar com carinho?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0117",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Nosso olhar sobre o jeito de iniciar a intimidade",
+    "pergunta": "Qual ritmo você prefere para o jeito de iniciar a intimidade quando estamos juntos?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0118",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "O que nos une: o jeito de iniciar a intimidade",
+    "pergunta": "O que te ajuda a entrar no clima do jeito de iniciar a intimidade?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Almas Gêmeas"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0119",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Sobre o jeito de iniciar a intimidade",
+    "pergunta": "Que conversa leve sobre o jeito de iniciar a intimidade te faria bem ter hoje?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0120",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Quando falamos do jeito de iniciar a intimidade",
+    "pergunta": "O que deixa o jeito de iniciar a intimidade ainda mais marcante entre nós?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "QUE-0121",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Tema: o ritmo que mais agrada",
+    "pergunta": "O que te deixa mais à vontade quando falamos sobre o ritmo que mais agrada?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0122",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Entre nós: o ritmo que mais agrada",
+    "pergunta": "Como você gosta que a gente comece com o ritmo que mais agrada?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Almas Gêmeas"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0123",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Nosso olhar sobre o ritmo que mais agrada",
+    "pergunta": "Qual detalhe no ritmo que mais agrada faz você se sentir mais desejado(a)?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "esquentar-relacionamento",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0124",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "O que nos une: o ritmo que mais agrada",
+    "pergunta": "No ritmo que mais agrada, o que te traz mais conexão emocional?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0125",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Sobre o ritmo que mais agrada",
+    "pergunta": "Que gesto sutil melhora o ritmo que mais agrada para você?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0126",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Quando falamos do ritmo que mais agrada",
+    "pergunta": "Quando pensamos no ritmo que mais agrada, o que você tem vontade de explorar com carinho?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Almas Gêmeas"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "QUE-0127",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Tema: o ritmo que mais agrada",
+    "pergunta": "Qual ritmo você prefere para o ritmo que mais agrada quando estamos juntos?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0128",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Entre nós: o ritmo que mais agrada",
+    "pergunta": "O que te ajuda a entrar no clima do ritmo que mais agrada?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0129",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Nosso olhar sobre o ritmo que mais agrada",
+    "pergunta": "Que conversa leve sobre o ritmo que mais agrada te faria bem ter hoje?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0130",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "O que nos une: o ritmo que mais agrada",
+    "pergunta": "O que deixa o ritmo que mais agrada ainda mais marcante entre nós?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Almas Gêmeas"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0131",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Sobre o cuidado com o corpo do outro",
+    "pergunta": "O que te deixa mais à vontade quando falamos sobre o cuidado com o corpo do outro?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0132",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Quando falamos do cuidado com o corpo do outro",
+    "pergunta": "Como você gosta que a gente comece com o cuidado com o corpo do outro?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "QUE-0133",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Tema: o cuidado com o corpo do outro",
+    "pergunta": "Qual detalhe no cuidado com o corpo do outro faz você se sentir mais desejado(a)?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0134",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Entre nós: o cuidado com o corpo do outro",
+    "pergunta": "No cuidado com o corpo do outro, o que te traz mais conexão emocional?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Almas Gêmeas"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0135",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Nosso olhar sobre o cuidado com o corpo do outro",
+    "pergunta": "Que gesto sutil melhora o cuidado com o corpo do outro para você?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "esquentar-relacionamento",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0136",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "O que nos une: o cuidado com o corpo do outro",
+    "pergunta": "Quando pensamos no cuidado com o corpo do outro, o que você tem vontade de explorar com carinho?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0137",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Sobre o cuidado com o corpo do outro",
+    "pergunta": "Qual ritmo você prefere para o cuidado com o corpo do outro quando estamos juntos?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0138",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Quando falamos do cuidado com o corpo do outro",
+    "pergunta": "O que te ajuda a entrar no clima do cuidado com o corpo do outro?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Almas Gêmeas"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "QUE-0139",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Tema: o cuidado com o corpo do outro",
+    "pergunta": "Que conversa leve sobre o cuidado com o corpo do outro te faria bem ter hoje?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0140",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Entre nós: o cuidado com o corpo do outro",
+    "pergunta": "O que deixa o cuidado com o corpo do outro ainda mais marcante entre nós?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0141",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Nosso olhar sobre o beijo de bom dia ou boa noite",
+    "pergunta": "O que te deixa mais à vontade quando falamos sobre o beijo de bom dia ou boa noite?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0142",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "O que nos une: o beijo de bom dia ou boa noite",
+    "pergunta": "Como você gosta que a gente comece com o beijo de bom dia ou boa noite?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Almas Gêmeas"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0143",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Sobre o beijo de bom dia ou boa noite",
+    "pergunta": "Qual detalhe no beijo de bom dia ou boa noite faz você se sentir mais desejado(a)?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0144",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Quando falamos do beijo de bom dia ou boa noite",
+    "pergunta": "No beijo de bom dia ou boa noite, o que te traz mais conexão emocional?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "QUE-0145",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Tema: o beijo de bom dia ou boa noite",
+    "pergunta": "Que gesto sutil melhora o beijo de bom dia ou boa noite para você?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0146",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Entre nós: o beijo de bom dia ou boa noite",
+    "pergunta": "Quando pensamos no beijo de bom dia ou boa noite, o que você tem vontade de explorar com carinho?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Almas Gêmeas"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0147",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Nosso olhar sobre o beijo de bom dia ou boa noite",
+    "pergunta": "Qual ritmo você prefere para o beijo de bom dia ou boa noite quando estamos juntos?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "esquentar-relacionamento",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0148",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "O que nos une: o beijo de bom dia ou boa noite",
+    "pergunta": "O que te ajuda a entrar no clima do beijo de bom dia ou boa noite?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0149",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Sobre o beijo de bom dia ou boa noite",
+    "pergunta": "Que conversa leve sobre o beijo de bom dia ou boa noite te faria bem ter hoje?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0150",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Quando falamos do beijo de bom dia ou boa noite",
+    "pergunta": "O que deixa o beijo de bom dia ou boa noite ainda mais marcante entre nós?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Almas Gêmeas"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "QUE-0151",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Tema: a roupa que te faz sentir mais confiante",
+    "pergunta": "O que te deixa mais à vontade quando falamos sobre a roupa que te faz sentir mais confiante?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0152",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Entre nós: a roupa que te faz sentir mais confiante",
+    "pergunta": "Como você gosta que a gente comece com a roupa que te faz sentir mais confiante?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0153",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Nosso olhar sobre a roupa que te faz sentir mais confiante",
+    "pergunta": "Qual detalhe na roupa que te faz sentir mais confiante faz você se sentir mais desejado(a)?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0154",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "O que nos une: a roupa que te faz sentir mais confiante",
+    "pergunta": "Na roupa que te faz sentir mais confiante, o que te traz mais conexão emocional?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Almas Gêmeas"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0155",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Sobre a roupa que te faz sentir mais confiante",
+    "pergunta": "Que gesto sutil melhora a roupa que te faz sentir mais confiante para você?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0156",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Quando falamos da roupa que te faz sentir mais confiante",
+    "pergunta": "Quando pensamos na roupa que te faz sentir mais confiante, o que você tem vontade de explorar com carinho?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "QUE-0157",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Tema: a roupa que te faz sentir mais confiante",
+    "pergunta": "Qual ritmo você prefere para a roupa que te faz sentir mais confiante quando estamos juntos?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0158",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Entre nós: a roupa que te faz sentir mais confiante",
+    "pergunta": "O que te ajuda a entrar no clima da roupa que te faz sentir mais confiante?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Almas Gêmeas"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0159",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Nosso olhar sobre a roupa que te faz sentir mais confiante",
+    "pergunta": "Que conversa leve sobre a roupa que te faz sentir mais confiante te faria bem ter hoje?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "esquentar-relacionamento",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0160",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "O que nos une: a roupa que te faz sentir mais confiante",
+    "pergunta": "O que deixa a roupa que te faz sentir mais confiante ainda mais marcante entre nós?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0161",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Sobre o ambiente ideal para ficar a sós",
+    "pergunta": "O que te deixa mais à vontade quando falamos sobre o ambiente ideal para ficar a sós?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0162",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Quando falamos do ambiente ideal para ficar a sós",
+    "pergunta": "Como você gosta que a gente comece com o ambiente ideal para ficar a sós?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Almas Gêmeas"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "QUE-0163",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Tema: o ambiente ideal para ficar a sós",
+    "pergunta": "Qual detalhe no ambiente ideal para ficar a sós faz você se sentir mais desejado(a)?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0164",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Entre nós: o ambiente ideal para ficar a sós",
+    "pergunta": "No ambiente ideal para ficar a sós, o que te traz mais conexão emocional?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0165",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Nosso olhar sobre o ambiente ideal para ficar a sós",
+    "pergunta": "Que gesto sutil melhora o ambiente ideal para ficar a sós para você?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0166",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "O que nos une: o ambiente ideal para ficar a sós",
+    "pergunta": "Quando pensamos no ambiente ideal para ficar a sós, o que você tem vontade de explorar com carinho?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Almas Gêmeas"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0167",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Sobre o ambiente ideal para ficar a sós",
+    "pergunta": "Qual ritmo você prefere para o ambiente ideal para ficar a sós quando estamos juntos?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0168",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Quando falamos do ambiente ideal para ficar a sós",
+    "pergunta": "O que te ajuda a entrar no clima do ambiente ideal para ficar a sós?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "QUE-0169",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Tema: o ambiente ideal para ficar a sós",
+    "pergunta": "Que conversa leve sobre o ambiente ideal para ficar a sós te faria bem ter hoje?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0170",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Entre nós: o ambiente ideal para ficar a sós",
+    "pergunta": "O que deixa o ambiente ideal para ficar a sós ainda mais marcante entre nós?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Almas Gêmeas"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0171",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Nosso olhar sobre o toque que te relaxa mais",
+    "pergunta": "O que te deixa mais à vontade quando falamos sobre o toque que te relaxa mais?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "esquentar-relacionamento",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0172",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "O que nos une: o toque que te relaxa mais",
+    "pergunta": "Como você gosta que a gente comece com o toque que te relaxa mais?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0173",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Sobre o toque que te relaxa mais",
+    "pergunta": "Qual detalhe no toque que te relaxa mais faz você se sentir mais desejado(a)?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0174",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Quando falamos do toque que te relaxa mais",
+    "pergunta": "No toque que te relaxa mais, o que te traz mais conexão emocional?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Almas Gêmeas"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "QUE-0175",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Tema: o toque que te relaxa mais",
+    "pergunta": "Que gesto sutil melhora o toque que te relaxa mais para você?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0176",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Entre nós: o toque que te relaxa mais",
+    "pergunta": "Quando pensamos no toque que te relaxa mais, o que você tem vontade de explorar com carinho?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0177",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Nosso olhar sobre o toque que te relaxa mais",
+    "pergunta": "Qual ritmo você prefere para o toque que te relaxa mais quando estamos juntos?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0178",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "O que nos une: o toque que te relaxa mais",
+    "pergunta": "O que te ajuda a entrar no clima do toque que te relaxa mais?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Almas Gêmeas"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0179",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Sobre o toque que te relaxa mais",
+    "pergunta": "Que conversa leve sobre o toque que te relaxa mais te faria bem ter hoje?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0180",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Quando falamos do toque que te relaxa mais",
+    "pergunta": "O que deixa o toque que te relaxa mais ainda mais marcante entre nós?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "QUE-0181",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Tema: a proximidade no sofá",
+    "pergunta": "O que te deixa mais à vontade quando falamos sobre a proximidade no sofá?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0182",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Entre nós: a proximidade no sofá",
+    "pergunta": "Como você gosta que a gente comece com a proximidade no sofá?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Almas Gêmeas"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0183",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Nosso olhar sobre a proximidade no sofá",
+    "pergunta": "Qual detalhe na proximidade no sofá faz você se sentir mais desejado(a)?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "esquentar-relacionamento",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0184",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "O que nos une: a proximidade no sofá",
+    "pergunta": "Na proximidade no sofá, o que te traz mais conexão emocional?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0185",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Sobre a proximidade no sofá",
+    "pergunta": "Que gesto sutil melhora a proximidade no sofá para você?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0186",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Quando falamos da proximidade no sofá",
+    "pergunta": "Quando pensamos na proximidade no sofá, o que você tem vontade de explorar com carinho?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Almas Gêmeas"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "QUE-0187",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Tema: a proximidade no sofá",
+    "pergunta": "Qual ritmo você prefere para a proximidade no sofá quando estamos juntos?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0188",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Entre nós: a proximidade no sofá",
+    "pergunta": "O que te ajuda a entrar no clima da proximidade no sofá?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0189",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Nosso olhar sobre a proximidade no sofá",
+    "pergunta": "Que conversa leve sobre a proximidade no sofá te faria bem ter hoje?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0190",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "O que nos une: a proximidade no sofá",
+    "pergunta": "O que deixa a proximidade no sofá ainda mais marcante entre nós?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Almas Gêmeas"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0191",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Sobre a conversa que prepara o clima",
+    "pergunta": "O que te deixa mais à vontade quando falamos sobre a conversa que prepara o clima?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0192",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Quando falamos da conversa que prepara o clima",
+    "pergunta": "Como você gosta que a gente comece com a conversa que prepara o clima?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "QUE-0193",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Tema: a conversa que prepara o clima",
+    "pergunta": "Qual detalhe na conversa que prepara o clima faz você se sentir mais desejado(a)?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0194",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Entre nós: a conversa que prepara o clima",
+    "pergunta": "Na conversa que prepara o clima, o que te traz mais conexão emocional?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Almas Gêmeas"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0195",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Nosso olhar sobre a conversa que prepara o clima",
+    "pergunta": "Que gesto sutil melhora a conversa que prepara o clima para você?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "esquentar-relacionamento",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0196",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "O que nos une: a conversa que prepara o clima",
+    "pergunta": "Quando pensamos na conversa que prepara o clima, o que você tem vontade de explorar com carinho?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0197",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Sobre a conversa que prepara o clima",
+    "pergunta": "Qual ritmo você prefere para a conversa que prepara o clima quando estamos juntos?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0198",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Quando falamos da conversa que prepara o clima",
+    "pergunta": "O que te ajuda a entrar no clima da conversa que prepara o clima?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "momentos-divertidos",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Almas Gêmeas"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "atencao"
+  },
+  {
+    "id": "QUE-0199",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Tema: a conversa que prepara o clima",
+    "pergunta": "Que conversa leve sobre a conversa que prepara o clima te faria bem ter hoje?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Almas Gêmeas"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "QUE-0200",
+    "categoria_principal": "Quentes",
+    "titulo_curto": "Entre nós: a conversa que prepara o clima",
+    "pergunta": "O que deixa a conversa que prepara o clima ainda mais marcante entre nós?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  }
+]

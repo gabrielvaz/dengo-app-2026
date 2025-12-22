@@ -1,0 +1,4990 @@
+[
+  {
+    "id": "DES-0001",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Desafio do dia",
+    "pergunta": "Topa o desafio de escrever um bilhete carinhoso e esconder para o outro achar hoje?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0002",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Mini desafio",
+    "pergunta": "Que tal escrever um bilhete carinhoso e esconder para o outro achar ainda hoje?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0003",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Vamos tentar?",
+    "pergunta": "Vamos experimentar escrever um bilhete carinhoso e esconder para o outro achar nesta semana?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "conexao-emocional",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0004",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Topo esse desafio",
+    "pergunta": "Você se anima a escrever um bilhete carinhoso e esconder para o outro achar agora?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0005",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Desafio a dois",
+    "pergunta": "Qual seria o melhor momento para escrever um bilhete carinhoso e esconder para o outro achar juntos?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0006",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Desafio do dia",
+    "pergunta": "Se a gente fizer escrever um bilhete carinhoso e esconder para o outro achar, como prefere que aconteça?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "aprofundar-intimidade",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0007",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Mini desafio",
+    "pergunta": "O que deixaria escrever um bilhete carinhoso e esconder para o outro achar mais leve para você?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0008",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Vamos tentar?",
+    "pergunta": "Entre hoje e amanhã, quando faria sentido escrever um bilhete carinhoso e esconder para o outro achar?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0009",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Topo esse desafio",
+    "pergunta": "Qual detalhe pode tornar escrever um bilhete carinhoso e esconder para o outro achar mais especial?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0010",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Desafio a dois",
+    "pergunta": "Você prefere começar ou quer que eu comece no desafio de escrever um bilhete carinhoso e esconder para o outro achar?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Quentes"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0011",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Desafio do dia",
+    "pergunta": "Topa o desafio de preparar uma bebida favorita para o outro hoje?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0012",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Mini desafio",
+    "pergunta": "Que tal preparar uma bebida favorita para o outro ainda hoje?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "esquentar-relacionamento",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0013",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Vamos tentar?",
+    "pergunta": "Vamos experimentar preparar uma bebida favorita para o outro nesta semana?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0014",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Topo esse desafio",
+    "pergunta": "Você se anima a preparar uma bebida favorita para o outro agora?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0015",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Desafio a dois",
+    "pergunta": "Qual seria o melhor momento para preparar uma bebida favorita para o outro juntos?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0016",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Desafio do dia",
+    "pergunta": "Se a gente fizer preparar uma bebida favorita para o outro, como prefere que aconteça?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0017",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Mini desafio",
+    "pergunta": "O que deixaria preparar uma bebida favorita para o outro mais leve para você?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0018",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Vamos tentar?",
+    "pergunta": "Entre hoje e amanhã, quando faria sentido preparar uma bebida favorita para o outro?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "conexao-emocional",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Quentes"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0019",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Topo esse desafio",
+    "pergunta": "Qual detalhe pode tornar preparar uma bebida favorita para o outro mais especial?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0020",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Desafio a dois",
+    "pergunta": "Você prefere começar ou quer que eu comece no desafio de preparar uma bebida favorita para o outro?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0021",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Desafio do dia",
+    "pergunta": "Topa o desafio de fazer uma caminhada curta sem celular hoje?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "aprofundar-intimidade",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0022",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Mini desafio",
+    "pergunta": "Que tal fazer uma caminhada curta sem celular ainda hoje?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0023",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Vamos tentar?",
+    "pergunta": "Vamos experimentar fazer uma caminhada curta sem celular nesta semana?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0024",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Topo esse desafio",
+    "pergunta": "Você se anima a fazer uma caminhada curta sem celular agora?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0025",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Desafio a dois",
+    "pergunta": "Qual seria o melhor momento para fazer uma caminhada curta sem celular juntos?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0026",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Desafio do dia",
+    "pergunta": "Se a gente fizer fazer uma caminhada curta sem celular, como prefere que aconteça?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0027",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Mini desafio",
+    "pergunta": "O que deixaria fazer uma caminhada curta sem celular mais leve para você?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "esquentar-relacionamento",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0028",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Vamos tentar?",
+    "pergunta": "Entre hoje e amanhã, quando faria sentido fazer uma caminhada curta sem celular?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0029",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Topo esse desafio",
+    "pergunta": "Qual detalhe pode tornar fazer uma caminhada curta sem celular mais especial?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0030",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Desafio a dois",
+    "pergunta": "Você prefere começar ou quer que eu comece no desafio de fazer uma caminhada curta sem celular?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Quentes"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0031",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Desafio do dia",
+    "pergunta": "Topa o desafio de contar uma lembrança divertida do casal hoje?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0032",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Mini desafio",
+    "pergunta": "Que tal contar uma lembrança divertida do casal ainda hoje?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0033",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Vamos tentar?",
+    "pergunta": "Vamos experimentar contar uma lembrança divertida do casal nesta semana?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "conexao-emocional",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0034",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Topo esse desafio",
+    "pergunta": "Você se anima a contar uma lembrança divertida do casal agora?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0035",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Desafio a dois",
+    "pergunta": "Qual seria o melhor momento para contar uma lembrança divertida do casal juntos?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0036",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Desafio do dia",
+    "pergunta": "Se a gente fizer contar uma lembrança divertida do casal, como prefere que aconteça?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "aprofundar-intimidade",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0037",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Mini desafio",
+    "pergunta": "O que deixaria contar uma lembrança divertida do casal mais leve para você?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0038",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Vamos tentar?",
+    "pergunta": "Entre hoje e amanhã, quando faria sentido contar uma lembrança divertida do casal?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Quentes"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0039",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Topo esse desafio",
+    "pergunta": "Qual detalhe pode tornar contar uma lembrança divertida do casal mais especial?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0040",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Desafio a dois",
+    "pergunta": "Você prefere começar ou quer que eu comece no desafio de contar uma lembrança divertida do casal?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0041",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Desafio do dia",
+    "pergunta": "Topa o desafio de dar três elogios específicos hoje hoje?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0042",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Mini desafio",
+    "pergunta": "Que tal dar três elogios específicos hoje ainda hoje?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "esquentar-relacionamento",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0043",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Vamos tentar?",
+    "pergunta": "Vamos experimentar dar três elogios específicos hoje nesta semana?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0044",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Topo esse desafio",
+    "pergunta": "Você se anima a dar três elogios específicos hoje agora?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0045",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Desafio a dois",
+    "pergunta": "Qual seria o melhor momento para dar três elogios específicos hoje juntos?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0046",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Desafio do dia",
+    "pergunta": "Se a gente fizer dar três elogios específicos hoje, como prefere que aconteça?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0047",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Mini desafio",
+    "pergunta": "O que deixaria dar três elogios específicos hoje mais leve para você?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0048",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Vamos tentar?",
+    "pergunta": "Entre hoje e amanhã, quando faria sentido dar três elogios específicos hoje?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "conexao-emocional",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0049",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Topo esse desafio",
+    "pergunta": "Qual detalhe pode tornar dar três elogios específicos hoje mais especial?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0050",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Desafio a dois",
+    "pergunta": "Você prefere começar ou quer que eu comece no desafio de dar três elogios específicos hoje?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Quentes"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0051",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Desafio do dia",
+    "pergunta": "Topa o desafio de cozinhar algo simples juntos hoje?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "aprofundar-intimidade",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0052",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Mini desafio",
+    "pergunta": "Que tal cozinhar algo simples juntos ainda hoje?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0053",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Vamos tentar?",
+    "pergunta": "Vamos experimentar cozinhar algo simples juntos nesta semana?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0054",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Topo esse desafio",
+    "pergunta": "Você se anima a cozinhar algo simples juntos agora?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0055",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Desafio a dois",
+    "pergunta": "Qual seria o melhor momento para cozinhar algo simples juntos juntos?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0056",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Desafio do dia",
+    "pergunta": "Se a gente fizer cozinhar algo simples juntos, como prefere que aconteça?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0057",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Mini desafio",
+    "pergunta": "O que deixaria cozinhar algo simples juntos mais leve para você?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "esquentar-relacionamento",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0058",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Vamos tentar?",
+    "pergunta": "Entre hoje e amanhã, quando faria sentido cozinhar algo simples juntos?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Quentes"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0059",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Topo esse desafio",
+    "pergunta": "Qual detalhe pode tornar cozinhar algo simples juntos mais especial?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0060",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Desafio a dois",
+    "pergunta": "Você prefere começar ou quer que eu comece no desafio de cozinhar algo simples juntos?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0061",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Desafio do dia",
+    "pergunta": "Topa o desafio de assistir a algo escolhido pelo outro hoje?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0062",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Mini desafio",
+    "pergunta": "Que tal assistir a algo escolhido pelo outro ainda hoje?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0063",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Vamos tentar?",
+    "pergunta": "Vamos experimentar assistir a algo escolhido pelo outro nesta semana?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "conexao-emocional",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0064",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Topo esse desafio",
+    "pergunta": "Você se anima a assistir a algo escolhido pelo outro agora?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0065",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Desafio a dois",
+    "pergunta": "Qual seria o melhor momento para assistir a algo escolhido pelo outro juntos?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0066",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Desafio do dia",
+    "pergunta": "Se a gente fizer assistir a algo escolhido pelo outro, como prefere que aconteça?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "aprofundar-intimidade",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0067",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Mini desafio",
+    "pergunta": "O que deixaria assistir a algo escolhido pelo outro mais leve para você?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0068",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Vamos tentar?",
+    "pergunta": "Entre hoje e amanhã, quando faria sentido assistir a algo escolhido pelo outro?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0069",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Topo esse desafio",
+    "pergunta": "Qual detalhe pode tornar assistir a algo escolhido pelo outro mais especial?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0070",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Desafio a dois",
+    "pergunta": "Você prefere começar ou quer que eu comece no desafio de assistir a algo escolhido pelo outro?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Quentes"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0071",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Desafio do dia",
+    "pergunta": "Topa o desafio de fazer um mini piquenique em casa hoje?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0072",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Mini desafio",
+    "pergunta": "Que tal fazer um mini piquenique em casa ainda hoje?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "esquentar-relacionamento",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0073",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Vamos tentar?",
+    "pergunta": "Vamos experimentar fazer um mini piquenique em casa nesta semana?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0074",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Topo esse desafio",
+    "pergunta": "Você se anima a fazer um mini piquenique em casa agora?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0075",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Desafio a dois",
+    "pergunta": "Qual seria o melhor momento para fazer um mini piquenique em casa juntos?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0076",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Desafio do dia",
+    "pergunta": "Se a gente fizer fazer um mini piquenique em casa, como prefere que aconteça?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0077",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Mini desafio",
+    "pergunta": "O que deixaria fazer um mini piquenique em casa mais leve para você?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0078",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Vamos tentar?",
+    "pergunta": "Entre hoje e amanhã, quando faria sentido fazer um mini piquenique em casa?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "conexao-emocional",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Quentes"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0079",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Topo esse desafio",
+    "pergunta": "Qual detalhe pode tornar fazer um mini piquenique em casa mais especial?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0080",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Desafio a dois",
+    "pergunta": "Você prefere começar ou quer que eu comece no desafio de fazer um mini piquenique em casa?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0081",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Desafio do dia",
+    "pergunta": "Topa o desafio de trocar uma massagem de cinco minutos hoje?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "aprofundar-intimidade",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0082",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Mini desafio",
+    "pergunta": "Que tal trocar uma massagem de cinco minutos ainda hoje?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0083",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Vamos tentar?",
+    "pergunta": "Vamos experimentar trocar uma massagem de cinco minutos nesta semana?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0084",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Topo esse desafio",
+    "pergunta": "Você se anima a trocar uma massagem de cinco minutos agora?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0085",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Desafio a dois",
+    "pergunta": "Qual seria o melhor momento para trocar uma massagem de cinco minutos juntos?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0086",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Desafio do dia",
+    "pergunta": "Se a gente fizer trocar uma massagem de cinco minutos, como prefere que aconteça?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0087",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Mini desafio",
+    "pergunta": "O que deixaria trocar uma massagem de cinco minutos mais leve para você?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "esquentar-relacionamento",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0088",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Vamos tentar?",
+    "pergunta": "Entre hoje e amanhã, quando faria sentido trocar uma massagem de cinco minutos?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0089",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Topo esse desafio",
+    "pergunta": "Qual detalhe pode tornar trocar uma massagem de cinco minutos mais especial?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0090",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Desafio a dois",
+    "pergunta": "Você prefere começar ou quer que eu comece no desafio de trocar uma massagem de cinco minutos?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Quentes"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0091",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Desafio do dia",
+    "pergunta": "Topa o desafio de planejar um encontro simples para esta semana hoje?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0092",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Mini desafio",
+    "pergunta": "Que tal planejar um encontro simples para esta semana ainda hoje?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0093",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Vamos tentar?",
+    "pergunta": "Vamos experimentar planejar um encontro simples para esta semana nesta semana?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "conexao-emocional",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0094",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Topo esse desafio",
+    "pergunta": "Você se anima a planejar um encontro simples para esta semana agora?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0095",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Desafio a dois",
+    "pergunta": "Qual seria o melhor momento para planejar um encontro simples para esta semana juntos?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0096",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Desafio do dia",
+    "pergunta": "Se a gente fizer planejar um encontro simples para esta semana, como prefere que aconteça?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "aprofundar-intimidade",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0097",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Mini desafio",
+    "pergunta": "O que deixaria planejar um encontro simples para esta semana mais leve para você?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0098",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Vamos tentar?",
+    "pergunta": "Entre hoje e amanhã, quando faria sentido planejar um encontro simples para esta semana?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Quentes"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0099",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Topo esse desafio",
+    "pergunta": "Qual detalhe pode tornar planejar um encontro simples para esta semana mais especial?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0100",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Desafio a dois",
+    "pergunta": "Você prefere começar ou quer que eu comece no desafio de planejar um encontro simples para esta semana?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0101",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Desafio do dia",
+    "pergunta": "Topa o desafio de listar três coisas pelas quais somos gratos hoje?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0102",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Mini desafio",
+    "pergunta": "Que tal listar três coisas pelas quais somos gratos ainda hoje?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "esquentar-relacionamento",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0103",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Vamos tentar?",
+    "pergunta": "Vamos experimentar listar três coisas pelas quais somos gratos nesta semana?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0104",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Topo esse desafio",
+    "pergunta": "Você se anima a listar três coisas pelas quais somos gratos agora?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0105",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Desafio a dois",
+    "pergunta": "Qual seria o melhor momento para listar três coisas pelas quais somos gratos juntos?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0106",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Desafio do dia",
+    "pergunta": "Se a gente fizer listar três coisas pelas quais somos gratos, como prefere que aconteça?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0107",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Mini desafio",
+    "pergunta": "O que deixaria listar três coisas pelas quais somos gratos mais leve para você?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0108",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Vamos tentar?",
+    "pergunta": "Entre hoje e amanhã, quando faria sentido listar três coisas pelas quais somos gratos?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "conexao-emocional",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0109",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Topo esse desafio",
+    "pergunta": "Qual detalhe pode tornar listar três coisas pelas quais somos gratos mais especial?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0110",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Desafio a dois",
+    "pergunta": "Você prefere começar ou quer que eu comece no desafio de listar três coisas pelas quais somos gratos?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Quentes"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0111",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Desafio do dia",
+    "pergunta": "Topa o desafio de tirar uma foto juntos e guardar hoje?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "aprofundar-intimidade",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0112",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Mini desafio",
+    "pergunta": "Que tal tirar uma foto juntos e guardar ainda hoje?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0113",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Vamos tentar?",
+    "pergunta": "Vamos experimentar tirar uma foto juntos e guardar nesta semana?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0114",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Topo esse desafio",
+    "pergunta": "Você se anima a tirar uma foto juntos e guardar agora?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0115",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Desafio a dois",
+    "pergunta": "Qual seria o melhor momento para tirar uma foto juntos e guardar juntos?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0116",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Desafio do dia",
+    "pergunta": "Se a gente fizer tirar uma foto juntos e guardar, como prefere que aconteça?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0117",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Mini desafio",
+    "pergunta": "O que deixaria tirar uma foto juntos e guardar mais leve para você?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "esquentar-relacionamento",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0118",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Vamos tentar?",
+    "pergunta": "Entre hoje e amanhã, quando faria sentido tirar uma foto juntos e guardar?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Quentes"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0119",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Topo esse desafio",
+    "pergunta": "Qual detalhe pode tornar tirar uma foto juntos e guardar mais especial?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0120",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Desafio a dois",
+    "pergunta": "Você prefere começar ou quer que eu comece no desafio de tirar uma foto juntos e guardar?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0121",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Desafio do dia",
+    "pergunta": "Topa o desafio de dançar uma música no meio da sala hoje?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0122",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Mini desafio",
+    "pergunta": "Que tal dançar uma música no meio da sala ainda hoje?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0123",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Vamos tentar?",
+    "pergunta": "Vamos experimentar dançar uma música no meio da sala nesta semana?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "conexao-emocional",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0124",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Topo esse desafio",
+    "pergunta": "Você se anima a dançar uma música no meio da sala agora?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0125",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Desafio a dois",
+    "pergunta": "Qual seria o melhor momento para dançar uma música no meio da sala juntos?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0126",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Desafio do dia",
+    "pergunta": "Se a gente fizer dançar uma música no meio da sala, como prefere que aconteça?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "aprofundar-intimidade",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0127",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Mini desafio",
+    "pergunta": "O que deixaria dançar uma música no meio da sala mais leve para você?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0128",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Vamos tentar?",
+    "pergunta": "Entre hoje e amanhã, quando faria sentido dançar uma música no meio da sala?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0129",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Topo esse desafio",
+    "pergunta": "Qual detalhe pode tornar dançar uma música no meio da sala mais especial?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0130",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Desafio a dois",
+    "pergunta": "Você prefere começar ou quer que eu comece no desafio de dançar uma música no meio da sala?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Quentes"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0131",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Desafio do dia",
+    "pergunta": "Topa o desafio de fazer uma pergunta nova ao outro hoje?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0132",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Mini desafio",
+    "pergunta": "Que tal fazer uma pergunta nova ao outro ainda hoje?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "esquentar-relacionamento",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0133",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Vamos tentar?",
+    "pergunta": "Vamos experimentar fazer uma pergunta nova ao outro nesta semana?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0134",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Topo esse desafio",
+    "pergunta": "Você se anima a fazer uma pergunta nova ao outro agora?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0135",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Desafio a dois",
+    "pergunta": "Qual seria o melhor momento para fazer uma pergunta nova ao outro juntos?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0136",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Desafio do dia",
+    "pergunta": "Se a gente fizer fazer uma pergunta nova ao outro, como prefere que aconteça?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0137",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Mini desafio",
+    "pergunta": "O que deixaria fazer uma pergunta nova ao outro mais leve para você?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0138",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Vamos tentar?",
+    "pergunta": "Entre hoje e amanhã, quando faria sentido fazer uma pergunta nova ao outro?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "conexao-emocional",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Quentes"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0139",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Topo esse desafio",
+    "pergunta": "Qual detalhe pode tornar fazer uma pergunta nova ao outro mais especial?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0140",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Desafio a dois",
+    "pergunta": "Você prefere começar ou quer que eu comece no desafio de fazer uma pergunta nova ao outro?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0141",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Desafio do dia",
+    "pergunta": "Topa o desafio de se despedir com um abraço mais longo hoje?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "aprofundar-intimidade",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0142",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Mini desafio",
+    "pergunta": "Que tal se despedir com um abraço mais longo ainda hoje?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0143",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Vamos tentar?",
+    "pergunta": "Vamos experimentar se despedir com um abraço mais longo nesta semana?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0144",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Topo esse desafio",
+    "pergunta": "Você se anima a se despedir com um abraço mais longo agora?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0145",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Desafio a dois",
+    "pergunta": "Qual seria o melhor momento para se despedir com um abraço mais longo juntos?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0146",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Desafio do dia",
+    "pergunta": "Se a gente fizer se despedir com um abraço mais longo, como prefere que aconteça?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0147",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Mini desafio",
+    "pergunta": "O que deixaria se despedir com um abraço mais longo mais leve para você?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "esquentar-relacionamento",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0148",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Vamos tentar?",
+    "pergunta": "Entre hoje e amanhã, quando faria sentido se despedir com um abraço mais longo?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0149",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Topo esse desafio",
+    "pergunta": "Qual detalhe pode tornar se despedir com um abraço mais longo mais especial?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0150",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Desafio a dois",
+    "pergunta": "Você prefere começar ou quer que eu comece no desafio de se despedir com um abraço mais longo?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Quentes"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0151",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Desafio do dia",
+    "pergunta": "Topa o desafio de montar uma playlist com três músicas do casal hoje?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0152",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Mini desafio",
+    "pergunta": "Que tal montar uma playlist com três músicas do casal ainda hoje?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0153",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Vamos tentar?",
+    "pergunta": "Vamos experimentar montar uma playlist com três músicas do casal nesta semana?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "conexao-emocional",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0154",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Topo esse desafio",
+    "pergunta": "Você se anima a montar uma playlist com três músicas do casal agora?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0155",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Desafio a dois",
+    "pergunta": "Qual seria o melhor momento para montar uma playlist com três músicas do casal juntos?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0156",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Desafio do dia",
+    "pergunta": "Se a gente fizer montar uma playlist com três músicas do casal, como prefere que aconteça?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "aprofundar-intimidade",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0157",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Mini desafio",
+    "pergunta": "O que deixaria montar uma playlist com três músicas do casal mais leve para você?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0158",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Vamos tentar?",
+    "pergunta": "Entre hoje e amanhã, quando faria sentido montar uma playlist com três músicas do casal?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Quentes"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0159",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Topo esse desafio",
+    "pergunta": "Qual detalhe pode tornar montar uma playlist com três músicas do casal mais especial?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0160",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Desafio a dois",
+    "pergunta": "Você prefere começar ou quer que eu comece no desafio de montar uma playlist com três músicas do casal?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0161",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Desafio do dia",
+    "pergunta": "Topa o desafio de organizar um canto da casa juntos hoje?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0162",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Mini desafio",
+    "pergunta": "Que tal organizar um canto da casa juntos ainda hoje?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "esquentar-relacionamento",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0163",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Vamos tentar?",
+    "pergunta": "Vamos experimentar organizar um canto da casa juntos nesta semana?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0164",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Topo esse desafio",
+    "pergunta": "Você se anima a organizar um canto da casa juntos agora?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0165",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Desafio a dois",
+    "pergunta": "Qual seria o melhor momento para organizar um canto da casa juntos juntos?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0166",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Desafio do dia",
+    "pergunta": "Se a gente fizer organizar um canto da casa juntos, como prefere que aconteça?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0167",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Mini desafio",
+    "pergunta": "O que deixaria organizar um canto da casa juntos mais leve para você?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0168",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Vamos tentar?",
+    "pergunta": "Entre hoje e amanhã, quando faria sentido organizar um canto da casa juntos?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "conexao-emocional",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0169",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Topo esse desafio",
+    "pergunta": "Qual detalhe pode tornar organizar um canto da casa juntos mais especial?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0170",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Desafio a dois",
+    "pergunta": "Você prefere começar ou quer que eu comece no desafio de organizar um canto da casa juntos?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Quentes"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0171",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Desafio do dia",
+    "pergunta": "Topa o desafio de desligar as telas por meia hora para conversar hoje?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "aprofundar-intimidade",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0172",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Mini desafio",
+    "pergunta": "Que tal desligar as telas por meia hora para conversar ainda hoje?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0173",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Vamos tentar?",
+    "pergunta": "Vamos experimentar desligar as telas por meia hora para conversar nesta semana?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0174",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Topo esse desafio",
+    "pergunta": "Você se anima a desligar as telas por meia hora para conversar agora?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0175",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Desafio a dois",
+    "pergunta": "Qual seria o melhor momento para desligar as telas por meia hora para conversar juntos?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0176",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Desafio do dia",
+    "pergunta": "Se a gente fizer desligar as telas por meia hora para conversar, como prefere que aconteça?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0177",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Mini desafio",
+    "pergunta": "O que deixaria desligar as telas por meia hora para conversar mais leve para você?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "esquentar-relacionamento",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0178",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Vamos tentar?",
+    "pergunta": "Entre hoje e amanhã, quando faria sentido desligar as telas por meia hora para conversar?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Quentes"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0179",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Topo esse desafio",
+    "pergunta": "Qual detalhe pode tornar desligar as telas por meia hora para conversar mais especial?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0180",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Desafio a dois",
+    "pergunta": "Você prefere começar ou quer que eu comece no desafio de desligar as telas por meia hora para conversar?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0181",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Desafio do dia",
+    "pergunta": "Topa o desafio de recriar um momento do início do relacionamento hoje?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0182",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Mini desafio",
+    "pergunta": "Que tal recriar um momento do início do relacionamento ainda hoje?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0183",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Vamos tentar?",
+    "pergunta": "Vamos experimentar recriar um momento do início do relacionamento nesta semana?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "conexao-emocional",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0184",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Topo esse desafio",
+    "pergunta": "Você se anima a recriar um momento do início do relacionamento agora?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0185",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Desafio a dois",
+    "pergunta": "Qual seria o melhor momento para recriar um momento do início do relacionamento juntos?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0186",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Desafio do dia",
+    "pergunta": "Se a gente fizer recriar um momento do início do relacionamento, como prefere que aconteça?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "aprofundar-intimidade",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0187",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Mini desafio",
+    "pergunta": "O que deixaria recriar um momento do início do relacionamento mais leve para você?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0188",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Vamos tentar?",
+    "pergunta": "Entre hoje e amanhã, quando faria sentido recriar um momento do início do relacionamento?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0189",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Topo esse desafio",
+    "pergunta": "Qual detalhe pode tornar recriar um momento do início do relacionamento mais especial?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0190",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Desafio a dois",
+    "pergunta": "Você prefere começar ou quer que eu comece no desafio de recriar um momento do início do relacionamento?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Quentes"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0191",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Desafio do dia",
+    "pergunta": "Topa o desafio de fazer um brinde ao dia de hoje hoje?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0192",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Mini desafio",
+    "pergunta": "Que tal fazer um brinde ao dia de hoje ainda hoje?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "esquentar-relacionamento",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0193",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Vamos tentar?",
+    "pergunta": "Vamos experimentar fazer um brinde ao dia de hoje nesta semana?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0194",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Topo esse desafio",
+    "pergunta": "Você se anima a fazer um brinde ao dia de hoje agora?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0195",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Desafio a dois",
+    "pergunta": "Qual seria o melhor momento para fazer um brinde ao dia de hoje juntos?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0196",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Desafio do dia",
+    "pergunta": "Se a gente fizer fazer um brinde ao dia de hoje, como prefere que aconteça?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "momentos-divertidos",
+      "aprofundar-intimidade"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0197",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Mini desafio",
+    "pergunta": "O que deixaria fazer um brinde ao dia de hoje mais leve para você?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "aprofundar-intimidade",
+      "esquentar-relacionamento"
+    ],
+    "secondary_categories": [
+      "Conexão Diária"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0198",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Vamos tentar?",
+    "pergunta": "Entre hoje e amanhã, quando faria sentido fazer um brinde ao dia de hoje?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "esquentar-relacionamento",
+      "conexao-emocional",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Quentes"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0199",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Topo esse desafio",
+    "pergunta": "Qual detalhe pode tornar fazer um brinde ao dia de hoje mais especial?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "sair-da-rotina"
+    ],
+    "secondary_categories": [
+      "Quentes"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "DES-0200",
+    "categoria_principal": "Desafios",
+    "titulo_curto": "Desafio a dois",
+    "pergunta": "Você prefere começar ou quer que eu comece no desafio de fazer um brinde ao dia de hoje?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "sair-da-rotina",
+      "momentos-divertidos"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Conexão Diária"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  }
+]

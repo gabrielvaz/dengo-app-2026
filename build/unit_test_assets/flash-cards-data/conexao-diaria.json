@@ -1,0 +1,4990 @@
+[
+  {
+    "id": "CON-0001",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Tema: o seu dia",
+    "pergunta": "Hoje, o que no seu dia você quer compartilhar comigo?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0002",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Entre nós: o seu dia",
+    "pergunta": "Qual foi o melhor momento do seu dia?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0003",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Nosso olhar sobre o seu dia",
+    "pergunta": "No seu dia hoje, o que você precisa de mim?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0004",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "O que nos une: o seu dia",
+    "pergunta": "O que no seu dia te deixou mais grato(a) hoje?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0005",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Sobre o seu dia",
+    "pergunta": "Se eu pudesse ajudar no seu dia hoje, como seria?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0006",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Quando falamos do seu dia",
+    "pergunta": "O que você quer celebrar no seu dia?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0007",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Tema: o seu dia",
+    "pergunta": "No seu dia, o que você gostaria que fosse diferente amanhã?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0008",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Entre nós: o seu dia",
+    "pergunta": "Que pequena vitória você teve no seu dia hoje?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0009",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Nosso olhar sobre o seu dia",
+    "pergunta": "O que no seu dia te trouxe calma hoje?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0010",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "O que nos une: o seu dia",
+    "pergunta": "O que no seu dia te deixou mais leve hoje?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0011",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Sobre a sua manhã",
+    "pergunta": "Hoje, o que na sua manhã você quer compartilhar comigo?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0012",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Quando falamos da sua manhã",
+    "pergunta": "Qual foi o melhor momento da sua manhã?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0013",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Tema: a sua manhã",
+    "pergunta": "Na sua manhã hoje, o que você precisa de mim?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0014",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Entre nós: a sua manhã",
+    "pergunta": "O que na sua manhã te deixou mais grato(a) hoje?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "criar-rituais",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0015",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Nosso olhar sobre a sua manhã",
+    "pergunta": "Se eu pudesse ajudar na sua manhã hoje, como seria?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0016",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "O que nos une: a sua manhã",
+    "pergunta": "O que você quer celebrar na sua manhã?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0017",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Sobre a sua manhã",
+    "pergunta": "Na sua manhã, o que você gostaria que fosse diferente amanhã?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0018",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Quando falamos da sua manhã",
+    "pergunta": "Que pequena vitória você teve na sua manhã hoje?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0019",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Tema: a sua manhã",
+    "pergunta": "O que na sua manhã te trouxe calma hoje?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0020",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Entre nós: a sua manhã",
+    "pergunta": "O que na sua manhã te deixou mais leve hoje?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0021",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Nosso olhar sobre a sua tarde",
+    "pergunta": "Hoje, o que na sua tarde você quer compartilhar comigo?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0022",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "O que nos une: a sua tarde",
+    "pergunta": "Qual foi o melhor momento da sua tarde?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0023",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Sobre a sua tarde",
+    "pergunta": "Na sua tarde hoje, o que você precisa de mim?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0024",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Quando falamos da sua tarde",
+    "pergunta": "O que na sua tarde te deixou mais grato(a) hoje?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0025",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Tema: a sua tarde",
+    "pergunta": "Se eu pudesse ajudar na sua tarde hoje, como seria?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0026",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Entre nós: a sua tarde",
+    "pergunta": "O que você quer celebrar na sua tarde?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0027",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Nosso olhar sobre a sua tarde",
+    "pergunta": "Na sua tarde, o que você gostaria que fosse diferente amanhã?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0028",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "O que nos une: a sua tarde",
+    "pergunta": "Que pequena vitória você teve na sua tarde hoje?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0029",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Sobre a sua tarde",
+    "pergunta": "O que na sua tarde te trouxe calma hoje?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0030",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Quando falamos da sua tarde",
+    "pergunta": "O que na sua tarde te deixou mais leve hoje?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0031",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Tema: a sua noite",
+    "pergunta": "Hoje, o que na sua noite você quer compartilhar comigo?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0032",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Entre nós: a sua noite",
+    "pergunta": "Qual foi o melhor momento da sua noite?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0033",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Nosso olhar sobre a sua noite",
+    "pergunta": "Na sua noite hoje, o que você precisa de mim?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0034",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "O que nos une: a sua noite",
+    "pergunta": "O que na sua noite te deixou mais grato(a) hoje?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0035",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Sobre a sua noite",
+    "pergunta": "Se eu pudesse ajudar na sua noite hoje, como seria?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0036",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Quando falamos da sua noite",
+    "pergunta": "O que você quer celebrar na sua noite?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0037",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Tema: a sua noite",
+    "pergunta": "Na sua noite, o que você gostaria que fosse diferente amanhã?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0038",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Entre nós: a sua noite",
+    "pergunta": "Que pequena vitória você teve na sua noite hoje?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0039",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Nosso olhar sobre a sua noite",
+    "pergunta": "O que na sua noite te trouxe calma hoje?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0040",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "O que nos une: a sua noite",
+    "pergunta": "O que na sua noite te deixou mais leve hoje?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0041",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Sobre o seu trabalho",
+    "pergunta": "Hoje, o que no seu trabalho você quer compartilhar comigo?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0042",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Quando falamos do seu trabalho",
+    "pergunta": "Qual foi o melhor momento do seu trabalho?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0043",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Tema: o seu trabalho",
+    "pergunta": "No seu trabalho hoje, o que você precisa de mim?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0044",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Entre nós: o seu trabalho",
+    "pergunta": "O que no seu trabalho te deixou mais grato(a) hoje?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0045",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Nosso olhar sobre o seu trabalho",
+    "pergunta": "Se eu pudesse ajudar no seu trabalho hoje, como seria?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0046",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "O que nos une: o seu trabalho",
+    "pergunta": "O que você quer celebrar no seu trabalho?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0047",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Sobre o seu trabalho",
+    "pergunta": "No seu trabalho, o que você gostaria que fosse diferente amanhã?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0048",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Quando falamos do seu trabalho",
+    "pergunta": "Que pequena vitória você teve no seu trabalho hoje?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0049",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Tema: o seu trabalho",
+    "pergunta": "O que no seu trabalho te trouxe calma hoje?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0050",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Entre nós: o seu trabalho",
+    "pergunta": "O que no seu trabalho te deixou mais leve hoje?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0051",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Nosso olhar sobre a sua rotina",
+    "pergunta": "Hoje, o que na sua rotina você quer compartilhar comigo?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0052",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "O que nos une: a sua rotina",
+    "pergunta": "Qual foi o melhor momento da sua rotina?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0053",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Sobre a sua rotina",
+    "pergunta": "Na sua rotina hoje, o que você precisa de mim?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0054",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Quando falamos da sua rotina",
+    "pergunta": "O que na sua rotina te deixou mais grato(a) hoje?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0055",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Tema: a sua rotina",
+    "pergunta": "Se eu pudesse ajudar na sua rotina hoje, como seria?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0056",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Entre nós: a sua rotina",
+    "pergunta": "O que você quer celebrar na sua rotina?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0057",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Nosso olhar sobre a sua rotina",
+    "pergunta": "Na sua rotina, o que você gostaria que fosse diferente amanhã?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0058",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "O que nos une: a sua rotina",
+    "pergunta": "Que pequena vitória você teve na sua rotina hoje?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0059",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Sobre a sua rotina",
+    "pergunta": "O que na sua rotina te trouxe calma hoje?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0060",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Quando falamos da sua rotina",
+    "pergunta": "O que na sua rotina te deixou mais leve hoje?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0061",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Tema: o seu humor",
+    "pergunta": "Hoje, o que no seu humor você quer compartilhar comigo?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0062",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Entre nós: o seu humor",
+    "pergunta": "Qual foi o melhor momento do seu humor?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0063",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Nosso olhar sobre o seu humor",
+    "pergunta": "No seu humor hoje, o que você precisa de mim?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0064",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "O que nos une: o seu humor",
+    "pergunta": "O que no seu humor te deixou mais grato(a) hoje?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0065",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Sobre o seu humor",
+    "pergunta": "Se eu pudesse ajudar no seu humor hoje, como seria?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0066",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Quando falamos do seu humor",
+    "pergunta": "O que você quer celebrar no seu humor?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "criar-rituais",
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0067",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Tema: o seu humor",
+    "pergunta": "No seu humor, o que você gostaria que fosse diferente amanhã?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0068",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Entre nós: o seu humor",
+    "pergunta": "Que pequena vitória você teve no seu humor hoje?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0069",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Nosso olhar sobre o seu humor",
+    "pergunta": "O que no seu humor te trouxe calma hoje?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0070",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "O que nos une: o seu humor",
+    "pergunta": "O que no seu humor te deixou mais leve hoje?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0071",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Sobre a sua energia",
+    "pergunta": "Hoje, o que na sua energia você quer compartilhar comigo?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0072",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Quando falamos da sua energia",
+    "pergunta": "Qual foi o melhor momento da sua energia?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0073",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Tema: a sua energia",
+    "pergunta": "Na sua energia hoje, o que você precisa de mim?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0074",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Entre nós: a sua energia",
+    "pergunta": "O que na sua energia te deixou mais grato(a) hoje?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0075",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Nosso olhar sobre a sua energia",
+    "pergunta": "Se eu pudesse ajudar na sua energia hoje, como seria?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0076",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "O que nos une: a sua energia",
+    "pergunta": "O que você quer celebrar na sua energia?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0077",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Sobre a sua energia",
+    "pergunta": "Na sua energia, o que você gostaria que fosse diferente amanhã?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0078",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Quando falamos da sua energia",
+    "pergunta": "Que pequena vitória você teve na sua energia hoje?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0079",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Tema: a sua energia",
+    "pergunta": "O que na sua energia te trouxe calma hoje?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0080",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Entre nós: a sua energia",
+    "pergunta": "O que na sua energia te deixou mais leve hoje?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0081",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Nosso olhar sobre o seu descanso",
+    "pergunta": "Hoje, o que no seu descanso você quer compartilhar comigo?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0082",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "O que nos une: o seu descanso",
+    "pergunta": "Qual foi o melhor momento do seu descanso?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0083",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Sobre o seu descanso",
+    "pergunta": "No seu descanso hoje, o que você precisa de mim?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0084",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Quando falamos do seu descanso",
+    "pergunta": "O que no seu descanso te deixou mais grato(a) hoje?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0085",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Tema: o seu descanso",
+    "pergunta": "Se eu pudesse ajudar no seu descanso hoje, como seria?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0086",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Entre nós: o seu descanso",
+    "pergunta": "O que você quer celebrar no seu descanso?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0087",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Nosso olhar sobre o seu descanso",
+    "pergunta": "No seu descanso, o que você gostaria que fosse diferente amanhã?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0088",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "O que nos une: o seu descanso",
+    "pergunta": "Que pequena vitória você teve no seu descanso hoje?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0089",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Sobre o seu descanso",
+    "pergunta": "O que no seu descanso te trouxe calma hoje?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0090",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Quando falamos do seu descanso",
+    "pergunta": "O que no seu descanso te deixou mais leve hoje?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0091",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Tema: o seu foco",
+    "pergunta": "Hoje, o que no seu foco você quer compartilhar comigo?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0092",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Entre nós: o seu foco",
+    "pergunta": "Qual foi o melhor momento do seu foco?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0093",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Nosso olhar sobre o seu foco",
+    "pergunta": "No seu foco hoje, o que você precisa de mim?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0094",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "O que nos une: o seu foco",
+    "pergunta": "O que no seu foco te deixou mais grato(a) hoje?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0095",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Sobre o seu foco",
+    "pergunta": "Se eu pudesse ajudar no seu foco hoje, como seria?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0096",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Quando falamos do seu foco",
+    "pergunta": "O que você quer celebrar no seu foco?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0097",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Tema: o seu foco",
+    "pergunta": "No seu foco, o que você gostaria que fosse diferente amanhã?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0098",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Entre nós: o seu foco",
+    "pergunta": "Que pequena vitória você teve no seu foco hoje?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0099",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Nosso olhar sobre o seu foco",
+    "pergunta": "O que no seu foco te trouxe calma hoje?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0100",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "O que nos une: o seu foco",
+    "pergunta": "O que no seu foco te deixou mais leve hoje?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0101",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Sobre os seus compromissos",
+    "pergunta": "Hoje, o que nos seus compromissos você quer compartilhar comigo?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0102",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Quando falamos dos seus compromissos",
+    "pergunta": "Qual foi o melhor momento dos seus compromissos?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0103",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Tema: os seus compromissos",
+    "pergunta": "Nos seus compromissos hoje, o que você precisa de mim?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0104",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Entre nós: os seus compromissos",
+    "pergunta": "O que nos seus compromissos te deixou mais grato(a) hoje?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0105",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Nosso olhar sobre os seus compromissos",
+    "pergunta": "Se eu pudesse ajudar nos seus compromissos hoje, como seria?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0106",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "O que nos une: os seus compromissos",
+    "pergunta": "O que você quer celebrar nos seus compromissos?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0107",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Sobre os seus compromissos",
+    "pergunta": "Nos seus compromissos, o que você gostaria que fosse diferente amanhã?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0108",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Quando falamos dos seus compromissos",
+    "pergunta": "Que pequena vitória você teve nos seus compromissos hoje?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0109",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Tema: os seus compromissos",
+    "pergunta": "O que nos seus compromissos te trouxe calma hoje?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0110",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Entre nós: os seus compromissos",
+    "pergunta": "O que nos seus compromissos te deixou mais leve hoje?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0111",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Nosso olhar sobre as suas conversas",
+    "pergunta": "Hoje, o que nas suas conversas você quer compartilhar comigo?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0112",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "O que nos une: as suas conversas",
+    "pergunta": "Qual foi o melhor momento das suas conversas?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0113",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Sobre as suas conversas",
+    "pergunta": "Nas suas conversas hoje, o que você precisa de mim?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0114",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Quando falamos das suas conversas",
+    "pergunta": "O que nas suas conversas te deixou mais grato(a) hoje?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0115",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Tema: as suas conversas",
+    "pergunta": "Se eu pudesse ajudar nas suas conversas hoje, como seria?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0116",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Entre nós: as suas conversas",
+    "pergunta": "O que você quer celebrar nas suas conversas?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0117",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Nosso olhar sobre as suas conversas",
+    "pergunta": "Nas suas conversas, o que você gostaria que fosse diferente amanhã?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0118",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "O que nos une: as suas conversas",
+    "pergunta": "Que pequena vitória você teve nas suas conversas hoje?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "criar-rituais",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0119",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Sobre as suas conversas",
+    "pergunta": "O que nas suas conversas te trouxe calma hoje?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0120",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Quando falamos das suas conversas",
+    "pergunta": "O que nas suas conversas te deixou mais leve hoje?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0121",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Tema: os seus pensamentos",
+    "pergunta": "Hoje, o que nos seus pensamentos você quer compartilhar comigo?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0122",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Entre nós: os seus pensamentos",
+    "pergunta": "Qual foi o melhor momento dos seus pensamentos?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0123",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Nosso olhar sobre os seus pensamentos",
+    "pergunta": "Nos seus pensamentos hoje, o que você precisa de mim?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0124",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "O que nos une: os seus pensamentos",
+    "pergunta": "O que nos seus pensamentos te deixou mais grato(a) hoje?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0125",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Sobre os seus pensamentos",
+    "pergunta": "Se eu pudesse ajudar nos seus pensamentos hoje, como seria?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0126",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Quando falamos dos seus pensamentos",
+    "pergunta": "O que você quer celebrar nos seus pensamentos?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0127",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Tema: os seus pensamentos",
+    "pergunta": "Nos seus pensamentos, o que você gostaria que fosse diferente amanhã?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0128",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Entre nós: os seus pensamentos",
+    "pergunta": "Que pequena vitória você teve nos seus pensamentos hoje?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0129",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Nosso olhar sobre os seus pensamentos",
+    "pergunta": "O que nos seus pensamentos te trouxe calma hoje?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0130",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "O que nos une: os seus pensamentos",
+    "pergunta": "O que nos seus pensamentos te deixou mais leve hoje?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0131",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Sobre as suas emoções",
+    "pergunta": "Hoje, o que nas suas emoções você quer compartilhar comigo?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0132",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Quando falamos das suas emoções",
+    "pergunta": "Qual foi o melhor momento das suas emoções?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0133",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Tema: as suas emoções",
+    "pergunta": "Nas suas emoções hoje, o que você precisa de mim?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0134",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Entre nós: as suas emoções",
+    "pergunta": "O que nas suas emoções te deixou mais grato(a) hoje?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0135",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Nosso olhar sobre as suas emoções",
+    "pergunta": "Se eu pudesse ajudar nas suas emoções hoje, como seria?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0136",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "O que nos une: as suas emoções",
+    "pergunta": "O que você quer celebrar nas suas emoções?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0137",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Sobre as suas emoções",
+    "pergunta": "Nas suas emoções, o que você gostaria que fosse diferente amanhã?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0138",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Quando falamos das suas emoções",
+    "pergunta": "Que pequena vitória você teve nas suas emoções hoje?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0139",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Tema: as suas emoções",
+    "pergunta": "O que nas suas emoções te trouxe calma hoje?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0140",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Entre nós: as suas emoções",
+    "pergunta": "O que nas suas emoções te deixou mais leve hoje?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0141",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Nosso olhar sobre os seus desafios",
+    "pergunta": "Hoje, o que nos seus desafios você quer compartilhar comigo?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0142",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "O que nos une: os seus desafios",
+    "pergunta": "Qual foi o melhor momento dos seus desafios?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0143",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Sobre os seus desafios",
+    "pergunta": "Nos seus desafios hoje, o que você precisa de mim?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0144",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Quando falamos dos seus desafios",
+    "pergunta": "O que nos seus desafios te deixou mais grato(a) hoje?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0145",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Tema: os seus desafios",
+    "pergunta": "Se eu pudesse ajudar nos seus desafios hoje, como seria?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0146",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Entre nós: os seus desafios",
+    "pergunta": "O que você quer celebrar nos seus desafios?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0147",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Nosso olhar sobre os seus desafios",
+    "pergunta": "Nos seus desafios, o que você gostaria que fosse diferente amanhã?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0148",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "O que nos une: os seus desafios",
+    "pergunta": "Que pequena vitória você teve nos seus desafios hoje?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0149",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Sobre os seus desafios",
+    "pergunta": "O que nos seus desafios te trouxe calma hoje?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0150",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Quando falamos dos seus desafios",
+    "pergunta": "O que nos seus desafios te deixou mais leve hoje?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0151",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Tema: os seus aprendizados",
+    "pergunta": "Hoje, o que nos seus aprendizados você quer compartilhar comigo?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0152",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Entre nós: os seus aprendizados",
+    "pergunta": "Qual foi o melhor momento dos seus aprendizados?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0153",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Nosso olhar sobre os seus aprendizados",
+    "pergunta": "Nos seus aprendizados hoje, o que você precisa de mim?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0154",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "O que nos une: os seus aprendizados",
+    "pergunta": "O que nos seus aprendizados te deixou mais grato(a) hoje?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0155",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Sobre os seus aprendizados",
+    "pergunta": "Se eu pudesse ajudar nos seus aprendizados hoje, como seria?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0156",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Quando falamos dos seus aprendizados",
+    "pergunta": "O que você quer celebrar nos seus aprendizados?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0157",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Tema: os seus aprendizados",
+    "pergunta": "Nos seus aprendizados, o que você gostaria que fosse diferente amanhã?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0158",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Entre nós: os seus aprendizados",
+    "pergunta": "Que pequena vitória você teve nos seus aprendizados hoje?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0159",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Nosso olhar sobre os seus aprendizados",
+    "pergunta": "O que nos seus aprendizados te trouxe calma hoje?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0160",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "O que nos une: os seus aprendizados",
+    "pergunta": "O que nos seus aprendizados te deixou mais leve hoje?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0161",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Sobre o seu tempo livre",
+    "pergunta": "Hoje, o que no seu tempo livre você quer compartilhar comigo?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0162",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Quando falamos do seu tempo livre",
+    "pergunta": "Qual foi o melhor momento do seu tempo livre?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0163",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Tema: o seu tempo livre",
+    "pergunta": "No seu tempo livre hoje, o que você precisa de mim?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0164",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Entre nós: o seu tempo livre",
+    "pergunta": "O que no seu tempo livre te deixou mais grato(a) hoje?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0165",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Nosso olhar sobre o seu tempo livre",
+    "pergunta": "Se eu pudesse ajudar no seu tempo livre hoje, como seria?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0166",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "O que nos une: o seu tempo livre",
+    "pergunta": "O que você quer celebrar no seu tempo livre?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0167",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Sobre o seu tempo livre",
+    "pergunta": "No seu tempo livre, o que você gostaria que fosse diferente amanhã?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0168",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Quando falamos do seu tempo livre",
+    "pergunta": "Que pequena vitória você teve no seu tempo livre hoje?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0169",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Tema: o seu tempo livre",
+    "pergunta": "O que no seu tempo livre te trouxe calma hoje?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0170",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Entre nós: o seu tempo livre",
+    "pergunta": "O que no seu tempo livre te deixou mais leve hoje?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "criar-rituais",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0171",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Nosso olhar sobre os seus planos",
+    "pergunta": "Hoje, o que nos seus planos você quer compartilhar comigo?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0172",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "O que nos une: os seus planos",
+    "pergunta": "Qual foi o melhor momento dos seus planos?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0173",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Sobre os seus planos",
+    "pergunta": "Nos seus planos hoje, o que você precisa de mim?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0174",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Quando falamos dos seus planos",
+    "pergunta": "O que nos seus planos te deixou mais grato(a) hoje?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0175",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Tema: os seus planos",
+    "pergunta": "Se eu pudesse ajudar nos seus planos hoje, como seria?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0176",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Entre nós: os seus planos",
+    "pergunta": "O que você quer celebrar nos seus planos?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0177",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Nosso olhar sobre os seus planos",
+    "pergunta": "Nos seus planos, o que você gostaria que fosse diferente amanhã?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0178",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "O que nos une: os seus planos",
+    "pergunta": "Que pequena vitória você teve nos seus planos hoje?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0179",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Sobre os seus planos",
+    "pergunta": "O que nos seus planos te trouxe calma hoje?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0180",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Quando falamos dos seus planos",
+    "pergunta": "O que nos seus planos te deixou mais leve hoje?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0181",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Tema: o seu bem-estar",
+    "pergunta": "Hoje, o que no seu bem-estar você quer compartilhar comigo?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0182",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Entre nós: o seu bem-estar",
+    "pergunta": "Qual foi o melhor momento do seu bem-estar?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0183",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Nosso olhar sobre o seu bem-estar",
+    "pergunta": "No seu bem-estar hoje, o que você precisa de mim?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0184",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "O que nos une: o seu bem-estar",
+    "pergunta": "O que no seu bem-estar te deixou mais grato(a) hoje?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0185",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Sobre o seu bem-estar",
+    "pergunta": "Se eu pudesse ajudar no seu bem-estar hoje, como seria?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0186",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Quando falamos do seu bem-estar",
+    "pergunta": "O que você quer celebrar no seu bem-estar?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0187",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Tema: o seu bem-estar",
+    "pergunta": "No seu bem-estar, o que você gostaria que fosse diferente amanhã?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0188",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Entre nós: o seu bem-estar",
+    "pergunta": "Que pequena vitória você teve no seu bem-estar hoje?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0189",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Nosso olhar sobre o seu bem-estar",
+    "pergunta": "O que no seu bem-estar te trouxe calma hoje?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0190",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "O que nos une: o seu bem-estar",
+    "pergunta": "O que no seu bem-estar te deixou mais leve hoje?",
+    "relationship_stage": [
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0191",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Sobre o autocuidado",
+    "pergunta": "Hoje, o que no autocuidado você quer compartilhar comigo?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0192",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Quando falamos do autocuidado",
+    "pergunta": "Qual foi o melhor momento do autocuidado?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando",
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0193",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Tema: o autocuidado",
+    "pergunta": "No autocuidado hoje, o que você precisa de mim?",
+    "relationship_stage": [
+      "se-conhecendo"
+    ],
+    "relationship_time": [
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0194",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Entre nós: o autocuidado",
+    "pergunta": "O que no autocuidado te deixou mais grato(a) hoje?",
+    "relationship_stage": [
+      "namorando"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "resolver-distancias"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0195",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Nosso olhar sobre o autocuidado",
+    "pergunta": "Se eu pudesse ajudar no autocuidado hoje, como seria?",
+    "relationship_stage": [
+      "noivados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses",
+      "6-meses-a-2-anos",
+      "2-a-5-anos",
+      "5-a-10-anos",
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0196",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "O que nos une: o autocuidado",
+    "pergunta": "O que você quer celebrar no autocuidado?",
+    "relationship_stage": [
+      "casados"
+    ],
+    "relationship_time": [
+      "menos-de-6-meses"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0197",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Sobre o autocuidado",
+    "pergunta": "No autocuidado, o que você gostaria que fosse diferente amanhã?",
+    "relationship_stage": [
+      "se-conhecendo",
+      "namorando"
+    ],
+    "relationship_time": [
+      "6-meses-a-2-anos"
+    ],
+    "needs": [
+      "comunicacao",
+      "criar-rituais"
+    ],
+    "secondary_categories": [
+      "Confiança"
+    ],
+    "nivel": "leve",
+    "duracao_estimada": "1min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0198",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Quando falamos do autocuidado",
+    "pergunta": "Que pequena vitória você teve no autocuidado hoje?",
+    "relationship_stage": [
+      "namorando",
+      "noivados"
+    ],
+    "relationship_time": [
+      "2-a-5-anos"
+    ],
+    "needs": [
+      "criar-rituais",
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Leve e Divertido",
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0199",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Tema: o autocuidado",
+    "pergunta": "O que no autocuidado te trouxe calma hoje?",
+    "relationship_stage": [
+      "noivados",
+      "casados"
+    ],
+    "relationship_time": [
+      "5-a-10-anos"
+    ],
+    "needs": [
+      "resolver-distancias",
+      "conexao-emocional"
+    ],
+    "secondary_categories": [
+      "Memórias"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "3min",
+    "sensibilidade": "ok"
+  },
+  {
+    "id": "CON-0200",
+    "categoria_principal": "Conexão Diária",
+    "titulo_curto": "Entre nós: o autocuidado",
+    "pergunta": "O que no autocuidado te deixou mais leve hoje?",
+    "relationship_stage": [
+      "namorando",
+      "casados"
+    ],
+    "relationship_time": [
+      "mais-de-10-anos"
+    ],
+    "needs": [
+      "conexao-emocional",
+      "comunicacao"
+    ],
+    "secondary_categories": [
+      "Romance",
+      "Confiança"
+    ],
+    "nivel": "medio",
+    "duracao_estimada": "2min",
+    "sensibilidade": "ok"
+  }
+]

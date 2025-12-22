@@ -1,0 +1,8 @@
+{
+  "id": "profile_settings_20251222",
+  "name": "Profile & Settings",
+  "description": "User personalization, interests management, and data management (clear data/reset).",
+  "status": "planned",
+  "priority": "medium",
+  "dependencies": ["core_experience_20251222"]
+}
