@@ -69,7 +69,6 @@ export class NotificationService {
         type: Notifications.SchedulableTriggerInputTypes.DAILY,
         hour: parsed.hour,
         minute: parsed.minute,
-        repeats: true,
       },
     });
 

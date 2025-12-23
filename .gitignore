@@ -32,6 +32,7 @@ yarn-error.*
 
 # local env files
 .env*.local
+credentials.json
 
 # typescript
 *.tsbuildinfo
@@ -39,3 +40,13 @@ yarn-error.*
 # generated native folders
 /ios
 /android
+
+# Play Store release artifacts (keep locally, do not commit)
+playstore-release/*.aab
+playstore-release/*.apk
+playstore-release/*.keystore
+playstore-release/credentials.json
+playstore-release/keystore-info.txt
+
+# local tooling
+tools/

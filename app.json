@@ -50,8 +50,9 @@
         "supportEmail": "contato@dengo.app"
       },
       "eas": {
-        "projectId": "your-project-id"
+        "projectId": "47d66889-83e0-4adf-8db6-6ee71b729575"
       }
-    }
+    },
+    "owner": "gabrielkvaz"
   }
 }
