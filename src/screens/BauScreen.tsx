@@ -111,7 +111,7 @@ export const BauScreen = () => {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: theme.colors.background,
+    backgroundColor: 'white',
   },
   header: {
     padding: theme.spacing.l,

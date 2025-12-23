@@ -66,6 +66,7 @@ export class NotificationService {
         body: 'Seu ritual diario de conexao esta pronto.',
       },
       trigger: {
+        type: Notifications.SchedulableTriggerInputTypes.DAILY,
         hour: parsed.hour,
         minute: parsed.minute,
         repeats: true,

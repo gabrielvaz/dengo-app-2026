@@ -78,12 +78,12 @@ export const FeedScreen = () => {
       }
 
       // Check Daily Limit
+      // Check Daily Limit - We no longer block, just track state
       if (categoryId !== 'daily') {
           const isReached = await DailyLimitService.isLimitReached(categoryId);
           if (isReached) {
               setLimitReached(true);
-              setLoading(false);
-              return;
+              // But we CONTINUE to load data so user can see questions!
           }
       }
 
@@ -100,8 +100,10 @@ export const FeedScreen = () => {
       } else {
         loadedCards = await DataLoader.loadByCategory(categoryId, profile);
         // Slice remaining allowed for today
+        // If limit reached (remaining <= 0), we still show 5 cards for "Overtime"
         const remaining = await DailyLimitService.remaining(categoryId);
-        setCards(loadedCards.sort(() => Math.random() - 0.5).slice(0, remaining));
+        const countToLoad = remaining > 0 ? remaining : 5;
+        setCards(loadedCards.sort(() => Math.random() - 0.5).slice(0, countToLoad));
       }
       
       setRitualCompleted(false);

@@ -84,6 +84,7 @@ export const OnboardingScreen = () => {
               <Image 
                 source={require('../../assets/images/casal-apaixonado.png')} 
                 style={styles.headerImage}
+                fadeDuration={0}
               />
           )}
 
@@ -91,6 +92,7 @@ export const OnboardingScreen = () => {
               <Image 
                 source={require('../../assets/images/casal-junto-2.png')} 
                 style={styles.headerImage}
+                fadeDuration={0}
               />
           )}
 
@@ -98,6 +100,7 @@ export const OnboardingScreen = () => {
               <Image 
                 source={require('../../assets/images/maquina-de-sonhos-2.png')} 
                 style={styles.headerImage}
+                fadeDuration={0}
               />
           )}
 
@@ -173,7 +176,7 @@ export const OnboardingScreen = () => {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: theme.colors.background,
+    backgroundColor: 'white',
   },
   content: {
     padding: theme.spacing.l,

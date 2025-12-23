@@ -1,10 +1,12 @@
-import React, { useEffect, useState } from 'react';
+import React, { useEffect, useState, useCallback } from 'react';
 import { NavigationContainer } from '@react-navigation/native';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
 import { StatusBar } from 'expo-status-bar';
 import * as Notifications from 'expo-notifications';
-import { ActivityIndicator, View } from 'react-native';
+import { View, Image } from 'react-native';
 import { GestureHandlerRootView } from 'react-native-gesture-handler';
+import { Asset } from 'expo-asset';
+import * as SplashScreen from 'expo-splash-screen';
 
 import { OnboardingScreen } from './src/screens/OnboardingScreen';
 import { InterestScreen } from './src/screens/InterestScreen';
@@ -17,6 +19,10 @@ import { ProfileService } from './src/services/ProfileService';
 import { NotificationService } from './src/services/NotificationService';
 import { theme } from './src/constants/theme';
 
+// Keep the splash screen visible while we fetch resources
+// Splash Screen Config
+SplashScreen.preventAutoHideAsync();
+
 const Stack = createNativeStackNavigator();
 
 Notifications.setNotificationHandler({
@@ -28,16 +34,38 @@ Notifications.setNotificationHandler({
 });
 
 export default function App() {
-  const [isLoading, setIsLoading] = useState(true);
+  const [appIsReady, setAppIsReady] = useState(false);
   const [initialRoute, setInitialRoute] = useState<string>('Welcome');
 
+  const cacheImages = async (images: any[]) => {
+    return Promise.all(
+      images.map(image => {
+        if (typeof image === 'string') {
+          return Image.prefetch(image);
+        } else {
+          return Asset.fromModule(image).downloadAsync();
+        }
+      })
+    );
+  };
+
   useEffect(() => {
-    async function checkState() {
+    async function prepare() {
       try {
-        await NotificationService.configure();
+        const imageAssets = cacheImages([
+            require('./assets/images/casal-apaixonado.png'),
+            require('./assets/images/casal-junto-2.png'),
+            require('./assets/images/maquina-de-sonhos-2.png'),
+            require('./assets/images/bau.png'),
+            require('./assets/images/dengo-icon.png'),
+        ]);
+
+        await Promise.all([
+             NotificationService.configure(),
+             imageAssets,
+        ]);
+
         const profile = await ProfileService.getProfile();
-        // If profile exists, user completed onboarding => Main
-        // If profile doesn't exist, check if we started onboarding? No, just Welcome.
         if (profile) {
           await NotificationService.syncFromProfile(profile);
           setInitialRoute('Main');
@@ -47,22 +75,25 @@ export default function App() {
       } catch (e) {
         console.error(e);
       } finally {
-        setIsLoading(false);
+        setAppIsReady(true);
       }
     }
-    checkState();
+    prepare();
   }, []);
 
-  if (isLoading) {
-    return (
-      <View style={{ flex: 1, justifyContent: 'center', alignItems: 'center', backgroundColor: theme.colors.background }}>
-        <ActivityIndicator size="large" color={theme.colors.primary} />
-      </View>
-    );
+  const onLayoutRootView = useCallback(async () => {
+    if (appIsReady) {
+      // This tells the splash screen to hide immediately! If we do this, it is invisible.
+      await SplashScreen.hideAsync();
+    }
+  }, [appIsReady]);
+
+  if (!appIsReady) {
+    return null;
   }
 
   return (
-    <GestureHandlerRootView style={{ flex: 1 }}>
+    <GestureHandlerRootView style={{ flex: 1 }} onLayout={onLayoutRootView}>
       <NavigationContainer>
         <Stack.Navigator 
           initialRouteName={initialRoute}

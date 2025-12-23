@@ -40,7 +40,8 @@
           "image": "./assets/splash-icon.png",
           "imageUrl": "./assets/splash-icon.png"
         }
-      ]
+      ],
+      "expo-asset"
     ],
     "extra": {
       "legal": {

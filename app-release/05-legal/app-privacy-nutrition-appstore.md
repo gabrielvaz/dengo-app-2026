@@ -198,8 +198,8 @@
 #### Data Collection Summary
 - **Data collected for App Functionality:** NO
 - **Data collected for Third Party Processors:** NO
-- **Data collected for Analytics:** NO (No third-party analytics)
-- **Data collected for Product Personalization:** YES (App usage data only)
+- **Data collected for Analytics:** NO
+- **Data collected for Product Personalization:** NO
 - **Data collected for Advertising or Marketing:** NO
 - **Data collected for Other Purposes:** NO
 
@@ -213,24 +213,4 @@
 **Privacy Policy URL:** [PLACEHOLDER - Privacy policy URL]
 
 ### Compliance Statement
-Dengo complies with Apple's App Store privacy requirements and maintains strict privacy standards to protect user information. We collect only the minimum data necessary to provide and improve our service, with clear user consent where required.
-
-### Data Collection Details
-
-#### YES - Usage Data
-- **Purpose:** Personalize content recommendations
-- **Type:** App usage patterns, feature interactions
-- **Retention:** As long as necessary for service provision
-- **User Control:** Available through app settings
-
-#### YES - Diagnostics
-- **Purpose:** Improve app performance and stability
-- **Type:** Crash reports, error logs, performance metrics
-- **Retention:** Limited time for debugging purposes
-- **User Control:** Available through device settings
-
-#### YES - Identifiers
-- **Purpose:** Analytics and app functionality
-- **Type:** Device identifiers, analytics identifiers
-- **Retention:** As long as necessary for service provision
-- **User Control:** Available through device settings
+Dengo complies with Apple's App Store privacy requirements and maintains strict privacy standards to protect user information. The app does not collect user data; all data remains on the device.
