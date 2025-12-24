@@ -10,18 +10,18 @@ import { ProfileService } from '../services/ProfileService';
 import { NotificationService } from '../services/NotificationService';
 
 const INTERESTS = [
-  { id: 'aprofundar-intimidade', label: 'Aprofundar intimidade', icon: 'heart' },
-  { id: 'conhecer-melhor', label: 'Conhecer melhor', icon: 'search' },
-  { id: 'conexao-emocional', label: 'Conexão emocional', icon: 'infinite' },
-  { id: 'comunicacao', label: 'Melhorar comunicação', icon: 'chatbubbles' },
-  { id: 'criar-rituais', label: 'Criar rituais', icon: 'calendar' },
-  { id: 'sair-da-rotina', label: 'Sair da rotina', icon: 'airplane' },
-  { id: 'momentos-divertidos', label: 'Momentos divertidos', icon: 'happy' },
-  { id: 'esquentar-relacionamento', label: 'Esquentar a relação', icon: 'flame' },
-  { id: 'resolver-distancias', label: 'Resolver distâncias', icon: 'map' },
-  { id: 'fortalecer-confianca', label: 'Fortalecer confiança', icon: 'shield-checkmark' },
-  { id: 'falar-do-passado', label: 'Falar do passado', icon: 'time' },
-  { id: 'planejar-futuro', label: 'Planejar o futuro', icon: 'rocket' },
+  { id: 'aprofundar-intimidade', label: 'Aprofundar\nintimidade', icon: 'heart' },
+  { id: 'conhecer-melhor', label: 'Conhecer\nmelhor', icon: 'search' },
+  { id: 'conexao-emocional', label: 'Conexão\nemocional', icon: 'infinite' },
+  { id: 'comunicacao', label: 'Melhorar\ncomunicação', icon: 'chatbubbles' },
+  { id: 'criar-rituais', label: 'Criar\nrituais', icon: 'calendar' },
+  { id: 'sair-da-rotina', label: 'Sair da\nrotina', icon: 'airplane' },
+  { id: 'momentos-divertidos', label: 'Momentos\ndivertidos', icon: 'happy' },
+  { id: 'esquentar-relacionamento', label: 'Esquentar\na relação', icon: 'flame' },
+  { id: 'resolver-distancias', label: 'Resolver\ndistâncias', icon: 'map' },
+  { id: 'fortalecer-confianca', label: 'Fortalecer\nconfiança', icon: 'shield-checkmark' },
+  { id: 'falar-do-passado', label: 'Falar do\npassado', icon: 'time' },
+  { id: 'planejar-futuro', label: 'Planejar\no futuro', icon: 'rocket' },
 ];
 
 export const InterestScreen = () => {
@@ -66,8 +66,11 @@ export const InterestScreen = () => {
           );
         }
         
-        // Navigate to Main Feed (Assuming 'Feed' route exists)
-        navigation.replace('Main'); 
+        // Navigate to Temas directly
+        navigation.reset({
+          index: 0,
+          routes: [{ name: 'Main', params: { screen: 'Perguntas' } }],
+        });
       }
     } catch (e) {
       console.error('Failed to save final profile', e);
@@ -77,7 +80,7 @@ export const InterestScreen = () => {
   return (
     <SafeAreaView style={styles.container}>
       <View style={{flex: 1}}>
-        <ScrollView contentContainerStyle={[styles.content, {paddingBottom: 100}]}>
+        <ScrollView contentContainerStyle={[styles.content]}>
           <View style={styles.headerContainer}>
             <Text style={styles.title}>O que vocês buscam?</Text>
             <Text style={styles.subtitle}>
@@ -95,7 +98,7 @@ export const InterestScreen = () => {
                 <Ionicons 
                   name={item.icon as any} 
                   size={34} 
-                  color={selectedInterests.includes(item.id) ? 'white' : theme.colors.primary} 
+                  color={selectedInterests.includes(item.id) ? '#0F0E17' : theme.colors.primary} 
                   style={{marginBottom: 10}}
                 />
                 <Text style={[styles.interestLabel, selectedInterests.includes(item.id) && styles.interestLabelSelected]}>
@@ -106,15 +109,16 @@ export const InterestScreen = () => {
           </View>
         </ScrollView>
 
-        <View style={styles.footer}>
-          <TouchableOpacity
-            style={[styles.nextButton, selectedInterests.length === 0 && styles.nextButtonDisabled]}
-            onPress={handleFinish}
-            disabled={selectedInterests.length === 0}
-          >
-            <Text style={styles.nextButtonText}>Começar</Text>
-          </TouchableOpacity>
-        </View>
+        {selectedInterests.length > 0 && (
+          <View style={styles.footer}>
+            <TouchableOpacity
+              style={styles.nextButton}
+              onPress={handleFinish}
+            >
+              <Text style={styles.nextButtonText}>Começar</Text>
+            </TouchableOpacity>
+          </View>
+        )}
       </View>
     </SafeAreaView>
   );
@@ -132,12 +136,12 @@ const styles = StyleSheet.create({
       right: 0,
       backgroundColor: theme.colors.background,
       padding: theme.spacing.l,
-      borderTopWidth: 1,
-      borderTopColor: '#F0F0F0',
+      paddingBottom: 40,
   },
   content: {
     padding: theme.spacing.l,
     flexGrow: 1,
+    paddingBottom: 120, // Space for footer
   },
   headerContainer: {
     marginBottom: theme.spacing.xl,
@@ -145,16 +149,14 @@ const styles = StyleSheet.create({
     marginTop: 20,
   },
   title: {
-    fontSize: 28,
-    fontWeight: 'bold',
+    ...theme.typography.h1,
     color: theme.colors.primary,
     marginBottom: theme.spacing.s,
-    fontFamily: 'serif',
     textAlign: 'center',
   },
   subtitle: {
-    fontSize: 16,
-    color: theme.colors.textLight,
+    ...theme.typography.h3,
+    color: theme.colors.text,
     textAlign: 'center',
     lineHeight: 24,
   },
@@ -170,45 +172,40 @@ const styles = StyleSheet.create({
     aspectRatio: 1,
     padding: theme.spacing.m,
     borderRadius: theme.borderRadius.l,
-    backgroundColor: theme.colors.white,
-    borderWidth: 1,
-    borderColor: '#E0E0E0',
+    backgroundColor: theme.colors.surface,
     alignItems: 'center',
-    justifyContent: 'flex-start',
-    paddingTop: theme.spacing.l,
-    shadowColor: '#000',
-    shadowOffset: { width: 0, height: 2 },
-    shadowOpacity: 0.05,
-    shadowRadius: 4,
-    elevation: 2,
+    justifyContent: 'center',
   },
   interestCardSelected: {
-    borderColor: theme.colors.primary,
     backgroundColor: theme.colors.primary,
   },
   interestLabel: {
     fontSize: 14,
-    color: theme.colors.text,
+    color: '#A09FA6',
     textAlign: 'center',
     fontWeight: '500',
+    lineHeight: 18,
+    // height: 36, // Removed to allow true centering
   },
   interestLabelSelected: {
-    color: theme.colors.white,
+    color: '#0F0E17',
     fontWeight: 'bold',
   },
   nextButton: {
     backgroundColor: theme.colors.primary,
     padding: theme.spacing.m,
-    borderRadius: theme.borderRadius.l,
+    borderRadius: 30,
     alignItems: 'center',
-    marginTop: 'auto',
+    height: 56,
+    justifyContent: 'center',
   },
   nextButtonDisabled: {
-    backgroundColor: '#CCCCCC',
+    backgroundColor: theme.colors.secondary,
+    opacity: 0.5,
   },
   nextButtonText: {
-    color: theme.colors.white,
+    color: '#0F0E17',
     fontSize: 18,
-    fontWeight: '600',
+    fontWeight: '700',
   },
 });

@@ -1,10 +1,10 @@
 import React, { useEffect, useState, useCallback } from 'react';
-import { View, Text, StyleSheet, ScrollView, Dimensions } from 'react-native';
+import { View, Text, StyleSheet, ScrollView, Dimensions, TouchableOpacity, Modal } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { theme } from '../constants/theme';
 import { StreakService, StreakData } from '../services/StreakService';
 import { Ionicons } from '@expo/vector-icons';
-import { useFocusEffect } from '@react-navigation/native';
+import { useFocusEffect, useNavigation } from '@react-navigation/native';
 import Animated, { 
     useSharedValue, 
     useAnimatedStyle, 
@@ -28,8 +28,10 @@ const ELOS_LIST = [
 const { width } = Dimensions.get('window');
 
 export const StreaksScreen = () => {
+  const navigation = useNavigation<any>();
   const [streak, setStreak] = useState<StreakData | null>(null);
   const [eloProgress, setEloProgress] = useState<Record<string, any>>({});
+  const [selectedInfo, setSelectedInfo] = useState<{title: string, content: string} | null>(null);
 
   useFocusEffect(
     useCallback(() => {
@@ -58,14 +60,36 @@ export const StreaksScreen = () => {
   });
   // End Animation Logic
 
-  const getFlameColor = (count: number) => {
-    if (count >= 31) return ['#9C27B0', '#E040FB']; // Cosmic
-    if (count >= 11) return ['#FFD700', '#FFA000']; // Gold
-    if (count >= 4) return ['#2196F3', '#64B5F6']; // Blue
-    return ['#FF5722', '#FF9800']; // Orange
+  const getCosmoLevelInfo = (count: number) => {
+    if (count >= 50) return {
+        colors: ['#9C27B0', '#E040FB', '#4A148C'] as const,
+        title: 'Universo em Expansão',
+        desc: 'O amor de vocês não tem limites. Vocês criaram uma realidade própria, vasta e cheia de vida, onde cada troca expande ainda mais o horizonte.'
+    };
+    if (count >= 20) return {
+        colors: ['#FF1493', '#C71585'] as const,
+        title: 'Fusão Estelar',
+        desc: 'Duas almas brilhando como uma. A energia de vocês é intensa, vibrante e capaz de iluminar qualquer escuridão.'
+    };
+    if (count >= 10) return {
+        colors: ['#FF7F50', '#FF4500'] as const,
+        title: 'Gravidade Compartilhada',
+        desc: 'Vocês giram em sintonia perfeita. Existe um equilíbrio natural e uma força invisível que sempre os puxa para perto.'
+    };
+    if (count >= 3) return {
+        colors: ['#00BFFF', '#1E90FF'] as const,
+        title: 'Órbita Sincronizada',
+        desc: 'Vocês encontraram o ritmo certo. A convivência flui, e cada dia traz uma nova descoberta sobre o mundo do outro.'
+    };
+    return {
+        colors: ['#FF7F50', '#FB923C'] as const,
+        title: 'Centelha Inicial',
+        desc: 'Tudo começa com uma faísca. Vocês estão acendendo a chama de algo que tem potencial para se tornar grandioso.'
+    };
   };
   
-  const currentColors = getFlameColor(streak?.currentStreak || 0);
+  const levelInfo = getCosmoLevelInfo(streak?.currentStreak || 0);
+  const currentColors = levelInfo.colors;
   const setsCompleted = streak?.totalCategorySetsCompleted || 0;
 
   const CATEGORY_MILESTONES = [
@@ -79,7 +103,7 @@ export const StreaksScreen = () => {
   return (
     <SafeAreaView style={styles.container}>
       <ScrollView contentContainerStyle={styles.scrollContent}>
-        <Text style={styles.title}>Sua Jornada</Text>
+       <Text style={styles.title}>Cosmo do Casal</Text>
         
         <View style={styles.flameContainer}>
           <Animated.View style={[animatedStyle]}>
@@ -88,15 +112,16 @@ export const StreaksScreen = () => {
                 style={styles.flameBackground}
               >
                   <Ionicons 
-                    name="flame" 
+                    name="planet" 
                     size={80} 
                     color="white" 
                   />
               </LinearGradient>
           </Animated.View>
           
-          <Text style={styles.streakCount}>{streak?.currentStreak || 0}</Text>
-          <Text style={styles.streakLabel}>Dias de Conexão</Text>
+          <Text style={styles.levelTitle}>{levelInfo.title}</Text>
+          <Text style={styles.daysText}>{streak?.currentStreak || 0} dias de conexão</Text>
+          <Text style={styles.levelDesc}>{levelInfo.desc}</Text>
         </View>
 
         <View style={styles.statsRow}>
@@ -110,20 +135,34 @@ export const StreaksScreen = () => {
           </View>
         </View>
 
-        {/* Milestone Badges */}
+        {/* Expertise do Cosmo */}
         <View style={styles.section}>
              <Text style={styles.sectionTitle}>Expertise do Cosmo</Text>
-             <View style={styles.badgesGrid}>
+             <View style={{ gap: 10 }}>
                  {CATEGORY_MILESTONES.map((m, i) => {
                      const isUnlocked = setsCompleted >= m.count;
                      return (
-                         <View key={i} style={[styles.badgeContainer, !isUnlocked && styles.badgeLocked]}>
-                             <View style={[styles.badgeIcon, isUnlocked && styles.badgeIconUnlocked]}>
-                                 <Ionicons name={m.icon as any} size={24} color={isUnlocked ? 'white' : '#BBB'} />
+                         <TouchableOpacity 
+                            key={i} 
+                            style={[styles.unlockItem, isUnlocked && styles.unlockItemActive]}
+                            onPress={() => setSelectedInfo({
+                                title: m.label,
+                                content: `Esta insígnia é conquistada ao completar ${m.count} sessões de conversa no Cosmo. Continue explorando novos temas para evoluir sua expertise!`
+                            })}
+                         >
+                             <View style={[styles.unlockIconBox, isUnlocked && styles.unlockedIconBox]}>
+                                 <Ionicons name={m.icon as any} size={24} color={isUnlocked ? theme.colors.primary : theme.colors.textLight} />
                              </View>
-                             <Text style={styles.badgeText}>{m.count}</Text>
-                             <Text style={styles.badgeLabel} numberOfLines={1}>{m.label}</Text>
-                         </View>
+                             <View style={styles.unlockInfo}>
+                                 <Text style={[styles.unlockLabel, isUnlocked && { color: theme.colors.primary }]}>{m.label}</Text>
+                                 <Text style={styles.unlockSub}>{isUnlocked ? "Desbloqueada" : `Complete ${m.count} sessões`}</Text>
+                             </View>
+                             {isUnlocked ? (
+                                 <Ionicons name="checkmark-circle" size={24} color={theme.colors.primary} />
+                             ) : (
+                                 <Ionicons name="lock-closed" size={18} color="rgba(255,255,255,0.2)" />
+                             )}
+                         </TouchableOpacity>
                      );
                  })}
              </View>
@@ -137,7 +176,16 @@ export const StreaksScreen = () => {
                      // Assuming max level 20 based on elo data instructions; check specific max if needed
                      const isCompleted = progress >= 20; 
                      return (
-                        <View key={i} style={[styles.unlockItem, isCompleted && styles.unlockItemActive]}>
+                <TouchableOpacity 
+                    key={i} 
+                    style={[styles.unlockItem, isCompleted && styles.unlockItemActive]}
+                    onPress={() => {
+                        // Special action: if completed OR progress exists, link to category
+                        // But user specifically said: "no caso das insignias de Mestre dos elos, leve o usuário para a tela da categoria do elo especifico"
+                        // I'll assume they can click anytime to see progress or navigate if unlocked/started.
+                        navigation.navigate('EloDetail', { elo: { key: elo.key, title: elo.label, icon: elo.icon, color: theme.colors.primary } });
+                    }}
+                >
                             <View style={[styles.unlockIconBox, isCompleted && styles.unlockedIconBox]}>
                                 <Ionicons name={elo.icon as any} size={24} color={isCompleted ? theme.colors.primary : theme.colors.textLight} />
                             </View>
@@ -146,19 +194,44 @@ export const StreaksScreen = () => {
                                 <Text style={styles.unlockSub}>{isCompleted ? "Completado" : `${progress}/20 lições`}</Text>
                             </View>
                             {isCompleted ? (
-                                <Ionicons name="checkmark-seal" size={24} color={theme.colors.primary} />
+                                <Ionicons name="checkmark-circle" size={24} color={theme.colors.primary} />
                             ) : (
                                 <View style={styles.lockedBadge}>
                                     <View style={{width: `${(progress/20)*100}%`, height: '100%', backgroundColor: theme.colors.primary, opacity: 0.3, position:'absolute', left:0}} />
                                     <Text style={{fontSize: 10, color: '#999'}}>{Math.round((progress/20)*100)}%</Text>
                                 </View>
                             )}
-                        </View>
+                        </TouchableOpacity>
                      );
                  })}
              </View>
         </View>
       </ScrollView>
+
+      {/* Info Modal */}
+      <Modal
+        visible={!!selectedInfo}
+        transparent={true}
+        animationType="fade"
+        onRequestClose={() => setSelectedInfo(null)}
+      >
+          <TouchableOpacity 
+            style={styles.modalOverlay} 
+            activeOpacity={1} 
+            onPress={() => setSelectedInfo(null)}
+          >
+              <View style={styles.modalContent}>
+                  <Text style={styles.modalTitle}>{selectedInfo?.title}</Text>
+                  <Text style={styles.modalText}>{selectedInfo?.content}</Text>
+                  <TouchableOpacity 
+                    style={styles.modalButton} 
+                    onPress={() => setSelectedInfo(null)}
+                  >
+                      <Text style={styles.modalButtonText}>Entendido</Text>
+                  </TouchableOpacity>
+              </View>
+          </TouchableOpacity>
+      </Modal>
     </SafeAreaView>
   );
 };
@@ -174,8 +247,32 @@ const styles = StyleSheet.create({
     paddingBottom: 40,
   },
   title: {
-    ...theme.typography.header,
+    ...theme.typography.h1,
     alignSelf: 'flex-start',
+    marginBottom: theme.spacing.xl,
+    color: '#FFFFFF',
+  },
+  levelTitle: {
+    ...theme.typography.h2,
+    color: theme.colors.primary,
+    marginBottom: 4,
+    textAlign: 'center',
+  },
+  daysText: {
+    color: '#FFFFFF',
+    fontSize: 16,
+    fontWeight: 'bold',
+  },
+  levelDesc: {
+    color: 'rgba(255,255,255,0.7)',
+    textAlign: 'center',
+    marginTop: 12,
+    fontSize: 14,
+    lineHeight: 22,
+    maxWidth: '85%',
+  },
+  statsContainer: {
+    alignItems: 'center',
     marginBottom: theme.spacing.xl,
   },
   flameContainer: {
@@ -189,35 +286,34 @@ const styles = StyleSheet.create({
      justifyContent: 'center',
      alignItems: 'center',
      marginBottom: theme.spacing.m,
-     shadowColor: '#FF5722',
+     shadowColor: theme.colors.primary,
      shadowOffset: { width: 0, height: 10 },
-     shadowOpacity: 0.3,
+     shadowOpacity: 0.5,
      shadowRadius: 20,
      elevation: 10,
   },
   streakCount: {
-    fontSize: 48,
+    fontSize: 56,
     fontWeight: 'bold',
-    color: theme.colors.text,
+    color: '#FFFFFF',
   },
   streakLabel: {
-    fontSize: 16,
-    color: theme.colors.textLight,
+    ...theme.typography.h3,
+    color: theme.colors.primary,
+    textTransform: 'uppercase',
+    letterSpacing: 2,
   },
   statsRow: {
     flexDirection: 'row',
     marginBottom: theme.spacing.xl,
-    backgroundColor: 'white',
+    backgroundColor: theme.colors.surface,
     padding: theme.spacing.l,
     borderRadius: theme.borderRadius.l,
     width: '100%',
     justifyContent: 'center',
-    shadowColor: '#000',
-    shadowOffset: { width: 0, height: 2 },
-    shadowOpacity: 0.05,
-    shadowRadius: 5,
-    elevation: 2,
     gap: 20,
+    borderWidth: 1,
+    borderColor: 'rgba(255,255,255,0.05)',
   },
   statBox: {
     alignItems: 'center',
@@ -226,67 +322,31 @@ const styles = StyleSheet.create({
   statValue: {
     fontSize: 24,
     fontWeight: 'bold',
-    color: theme.colors.primary,
+    color: '#FFFFFF',
   },
   statLabel: {
     fontSize: 12,
-    color: theme.colors.textLight,
+    color: '#A09FA6',
+    marginTop: 4,
   },
   section: {
     width: '100%',
     marginBottom: theme.spacing.xl,
   },
   sectionTitle: {
-    fontSize: 18,
-    fontWeight: 'bold',
-    color: theme.colors.text,
+    ...theme.typography.h3,
+    color: '#FFFFFF',
     marginBottom: theme.spacing.m,
   },
-  badgesGrid: {
-      flexDirection: 'row',
-      flexWrap: 'wrap',
-      justifyContent: 'space-between',
-      gap: 12,
-  },
-  badgeContainer: {
-      alignItems: 'center',
-      width: '18%', 
-  },
-  badgeLocked: {
-      opacity: 0.5,
-  },
-  badgeIcon: {
-      width: 44,
-      height: 44,
-      borderRadius: 22,
-      backgroundColor: '#E0E0E0',
-      justifyContent: 'center',
-      alignItems: 'center',
-      marginBottom: 4,
-  },
-  badgeIconUnlocked: {
-      backgroundColor: theme.colors.primary,
-      shadowColor: theme.colors.primary,
-      shadowOffset: {width: 0, height: 4},
-      shadowOpacity: 0.3,
-      shadowRadius: 8,
-      elevation: 4,
-  },
-  badgeText: {
-      fontSize: 10,
-      fontWeight: 'bold',
-      color: theme.colors.text,
-      marginBottom: 2
-  },
   badgeLabel: {
-      fontSize: 9,
-      color: theme.colors.textLight,
-      textAlign: 'center',
+    fontSize: 9,
+    color: '#A09FA6',
+    textAlign: 'center',
   },
   unlockItem: {
     flexDirection: 'row',
     alignItems: 'center',
-    backgroundColor: theme.colors.white,
+    backgroundColor: theme.colors.surface,
     padding: theme.spacing.m,
     borderRadius: theme.borderRadius.m,
     marginBottom: theme.spacing.m,
@@ -294,20 +354,19 @@ const styles = StyleSheet.create({
     borderColor: 'transparent',
   },
   unlockItemActive: {
-    borderColor: '#FFE0E6',
-    backgroundColor: '#FFF5F7',
+    borderColor: 'rgba(255, 127, 80, 0.2)',
   },
   unlockIconBox: {
     width: 45,
     height: 45,
     borderRadius: 12,
-    backgroundColor: '#F5F5F5',
+    backgroundColor: 'rgba(255,255,255,0.05)',
     justifyContent: 'center',
     alignItems: 'center',
     marginRight: theme.spacing.m,
   },
   unlockedIconBox: {
-    backgroundColor: 'white',
+    backgroundColor: 'rgba(255, 127, 80, 0.1)',
   },
   unlockInfo: {
     flex: 1,
@@ -315,19 +374,59 @@ const styles = StyleSheet.create({
   unlockLabel: {
     fontSize: 15,
     fontWeight: '600',
-    color: theme.colors.textLight,
+    color: '#FFFFFF',
   },
   unlockSub: {
     fontSize: 12,
-    color: theme.colors.textLight,
+    color: '#A09FA6',
   },
   lockedBadge: {
     width: 40,
     height: 16,
     borderRadius: 8,
-    backgroundColor: '#F0F0F0',
+    backgroundColor: 'rgba(255,255,255,0.05)',
     justifyContent: 'center',
     alignItems: 'center',
     overflow: 'hidden',
+  },
+  modalOverlay: {
+    flex: 1,
+    backgroundColor: 'rgba(0,0,0,0.8)',
+    justifyContent: 'center',
+    alignItems: 'center',
+    padding: 20,
+  },
+  modalContent: {
+    backgroundColor: theme.colors.surface,
+    borderRadius: 24,
+    padding: 30,
+    width: '100%',
+    alignItems: 'center',
+    borderWidth: 1,
+    borderColor: 'rgba(255,255,255,0.1)',
+  },
+  modalTitle: {
+    ...theme.typography.h2,
+    color: theme.colors.primary,
+    marginBottom: 16,
+    textAlign: 'center',
+  },
+  modalText: {
+    ...theme.typography.body,
+    color: theme.colors.text,
+    textAlign: 'center',
+    lineHeight: 24,
+    marginBottom: 24,
+  },
+  modalButton: {
+    backgroundColor: theme.colors.primary,
+    paddingVertical: 12,
+    paddingHorizontal: 30,
+    borderRadius: 20,
+  },
+  modalButtonText: {
+    color: '#0F0E17',
+    fontWeight: 'bold',
+    fontSize: 16,
   },
 });

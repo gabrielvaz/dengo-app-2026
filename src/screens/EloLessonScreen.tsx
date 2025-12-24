@@ -32,7 +32,7 @@ export const EloLessonScreen = () => {
         <TouchableOpacity onPress={() => navigation.goBack()} style={styles.backButton}>
            <Ionicons name="arrow-back" size={24} color={theme.colors.text} />
         </TouchableOpacity>
-        <Text style={styles.headerTitle}>Lição do Dia</Text>
+        <Text style={styles.headerTitle}>{lesson.titulo || 'Lição'}</Text>
         <View style={{ width: 40 }} />
       </View>
 
@@ -68,8 +68,8 @@ export const EloLessonScreen = () => {
              )}
         </View>
 
-        <TouchableOpacity style={styles.completeButton} onPress={handleComplete}>
-            <Text style={styles.completeButtonText}>Concluir Leitura</Text>
+        <TouchableOpacity style={[styles.completeButton, { backgroundColor: route.params?.color || theme.colors.primary }]} onPress={handleComplete}>
+            <Text style={styles.completeButtonText}>Marcar como concluído</Text>
             <Ionicons name="checkmark-circle" size={24} color="white" />
         </TouchableOpacity>
 
@@ -89,8 +89,8 @@ const styles = StyleSheet.create({
     justifyContent: 'space-between',
     padding: theme.spacing.m,
     borderBottomWidth: 1,
-    borderBottomColor: '#F0F0F0',
-    backgroundColor: 'white',
+    borderBottomColor: 'rgba(255,255,255,0.05)',
+    backgroundColor: theme.colors.background,
   },
   backButton: {
     padding: 8,

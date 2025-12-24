@@ -1,101 +1,57 @@
-import React, { useEffect } from 'react';
-import { View, Text, StyleSheet, Dimensions, TouchableOpacity } from 'react-native';
+import React from 'react';
+import { View, Text, StyleSheet, Dimensions, TouchableOpacity, ImageBackground, Image } from 'react-native';
 import { theme } from '../constants/theme';
 import { useNavigation } from '@react-navigation/native';
 import { LinearGradient } from 'expo-linear-gradient';
 import { Ionicons } from '@expo/vector-icons';
 import Animated, { 
   FadeInDown, 
-  FadeInUp, 
-  useSharedValue, 
-  useAnimatedStyle, 
-  withRepeat, 
-  withTiming, 
-  withSequence 
+  FadeInUp
 } from 'react-native-reanimated';
 
-const { width } = Dimensions.get('window');
+const { width, height } = Dimensions.get('window');
 
 export const WelcomeScreen = () => {
   const navigation = useNavigation<any>();
-  const flameScale = useSharedValue(1);
-  const flameOpacity = useSharedValue(0.8);
-  const heartScale = useSharedValue(1);
-
-  useEffect(() => {
-    flameScale.value = withRepeat(
-      withSequence(
-        withTiming(1.2, { duration: 1000 }),
-        withTiming(1, { duration: 1000 })
-      ),
-      -1,
-      true
-    );
-    flameOpacity.value = withRepeat(
-      withSequence(
-        withTiming(1, { duration: 800 }),
-        withTiming(0.6, { duration: 800 })
-      ),
-      -1,
-      true
-    );
-    heartScale.value = withRepeat(
-      withSequence(
-        withTiming(1.05, { duration: 1200 }),
-        withTiming(1, { duration: 1200 })
-      ),
-      -1,
-      true
-    );
-  }, []);
-
-  const flameStyle = useAnimatedStyle(() => ({
-    transform: [{ scale: flameScale.value }],
-    opacity: flameOpacity.value,
-  }));
-
-  const heartStyle = useAnimatedStyle(() => ({
-    transform: [{ scale: heartScale.value }],
-  }));
 
   return (
     <View style={styles.container}>
-      <LinearGradient
-        colors={['#FF5722', '#FF8A65', '#FF7043']}
-        style={styles.background}
-      />
-      
-      <View style={styles.content}>
-        <View style={styles.animationContainer}>
-            {/* Flame Layer */}
-            <Animated.View style={[styles.flameContainer, flameStyle]}>
-               <Ionicons name="flame" size={180} color="#FFEB3B" />
-            </Animated.View>
-            
-            {/* Heart Layer */}
-            <Animated.View style={[styles.heartContainer, heartStyle]}>
-               <Ionicons name="heart" size={140} color="#D84315" />
-            </Animated.View>
-        </View>
-
-        <Animated.Text entering={FadeInUp.delay(500).duration(1000)} style={styles.title}>
-          Cosmo
-        </Animated.Text>
+      <ImageBackground 
+        source={require('../../assets/images/hero_cosmo.jpg')}
+        style={styles.backgroundImage}
+        resizeMode="cover"
+      >
+        <LinearGradient
+          colors={['transparent', 'rgba(15, 14, 23, 0.8)', '#0F0E17']}
+          style={styles.gradient}
+        />
         
-        <Animated.Text entering={FadeInUp.delay(700).duration(1000)} style={styles.subtitle}>
-          Acenda a chama da sua conexão diária.
-        </Animated.Text>
+        <View style={styles.content}>
+          <View style={{ flex: 1 }} />
 
-        <Animated.View entering={FadeInDown.delay(1000).duration(1000)} style={styles.buttonContainer}>
-          <TouchableOpacity 
-            style={styles.button}
-            onPress={() => navigation.navigate('Onboarding')}
-          >
-            <Text style={styles.buttonText}>Começar Jornada</Text>
-            <Ionicons name="arrow-forward" size={24} color="#FF5722" />
-          </TouchableOpacity>
-        </Animated.View>
-      </View>
+          <Animated.View entering={FadeInUp.delay(300).duration(1000)} style={styles.logoContainer}>
+            <Image 
+                source={require('../../assets/images/cosmo_logo.png')} 
+                style={styles.logo}
+                resizeMode="contain"
+            />
+          </Animated.View>
+          
+          <Animated.Text entering={FadeInUp.delay(500).duration(800)} style={styles.subtitle}>
+            Acenda a chama da sua conexão diária.
+          </Animated.Text>
+
+          <Animated.View entering={FadeInDown.delay(800).duration(800)} style={styles.buttonContainer}>
+            <TouchableOpacity 
+              style={styles.button}
+              onPress={() => navigation.navigate('Onboarding')}
+            >
+              <Text style={styles.buttonText}>Começar Jornada</Text>
+              <Ionicons name="arrow-forward" size={24} color="white" />
+            </TouchableOpacity>
+          </Animated.View>
+        </View>
+      </ImageBackground>
     </View>
   );
 };
@@ -103,73 +59,64 @@ export const WelcomeScreen = () => {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
+    backgroundColor: '#0F0E17',
   },
-  background: {
-    ...StyleSheet.absoluteFillObject,
+  backgroundImage: {
+    width: width,
+    height: height,
+  },
+  gradient: {
+    position: 'absolute',
+    left: 0,
+    right: 0,
+    bottom: 0,
+    height: '60%',
   },
   content: {
     flex: 1,
-    justifyContent: 'center',
+    justifyContent: 'flex-end',
     alignItems: 'center',
     padding: theme.spacing.xl,
+    paddingBottom: 60,
   },
-  animationContainer: {
-    width: 200,
-    height: 250,
-    justifyContent: 'center',
+  logoContainer: {
+    width: '100%',
     alignItems: 'center',
     marginBottom: theme.spacing.xl,
-    position: 'relative',
+    marginTop: 40,
   },
-  flameContainer: {
-    position: 'absolute',
-    top: -30,
-    zIndex: 1,
-  },
-  heartContainer: {
-    zIndex: 2,
-    marginTop: 20,
-  },
-  title: {
-    fontSize: 56,
-    fontWeight: 'bold',
-    color: 'white',
-    marginBottom: theme.spacing.s,
-    fontFamily: 'serif',
-    textShadowColor: 'rgba(0,0,0,0.2)',
-    textShadowOffset: { width: 0, height: 2 },
-    textShadowRadius: 4,
+  logo: {
+    width: width * 0.7,
+    height: 100,
   },
   subtitle: {
-    fontSize: 20,
+    fontSize: 18,
     color: 'rgba(255,255,255,0.9)',
     textAlign: 'center',
     marginBottom: theme.spacing.xl * 2,
-    lineHeight: 28,
+    lineHeight: 26,
     fontWeight: '500',
+    maxWidth: '80%',
   },
   buttonContainer: {
     width: '100%',
     alignItems: 'center',
   },
   button: {
-    backgroundColor: 'white',
+    backgroundColor: theme.colors.surface,
     flexDirection: 'row',
     alignItems: 'center',
     justifyContent: 'center',
     paddingVertical: 18,
     paddingHorizontal: 32,
     borderRadius: 35,
-    width: '85%',
+    width: '90%',
     gap: 12,
-    shadowColor: '#000',
-    shadowOffset: { width: 0, height: 4 },
-    shadowOpacity: 0.3,
-    shadowRadius: 10,
-    elevation: 8,
+    borderWidth: 1,
+    borderColor: 'rgba(255,255,255,0.1)',
   },
   buttonText: {
-    color: '#FF5722',
+    color: 'white',
     fontSize: 20,
     fontWeight: 'bold',
   },

@@ -7,7 +7,7 @@ import { useNavigation, useFocusEffect } from '@react-navigation/native';
 import { EloProgressService } from '../services/EloProgressService';
 import { TipsLoader } from '../data/TipsLoader';
 
-const ELOS = [
+export const ELOS = [
   { id: 1, title: 'Comunicação Afetiva', icon: 'chatbubbles', color: '#FF5722', key: 'elo-comunicacao' },
   { id: 2, title: 'Intimidade & Afeto', icon: 'heart', color: '#E91E63', key: 'elo-admiracao-afeto' },
   { id: 3, title: 'Resolução de Conflitos', icon: 'shield-checkmark', color: '#4CAF50', key: 'elo-reparo' },
@@ -106,15 +106,12 @@ const styles = StyleSheet.create({
   },
   eloCard: {
     width: '100%',
-    backgroundColor: theme.colors.white,
+    backgroundColor: theme.colors.surface,
     borderRadius: theme.borderRadius.l,
     padding: theme.spacing.m,
     marginBottom: theme.spacing.m,
-    shadowColor: '#000',
-    shadowOffset: { width: 0, height: 2 },
-    shadowOpacity: 0.05,
-    shadowRadius: 5,
-    elevation: 2,
+    borderWidth: 1,
+    borderColor: 'rgba(255,255,255,0.05)',
   },
   iconBox: {
     width: 60,
@@ -125,24 +122,25 @@ const styles = StyleSheet.create({
     marginBottom: theme.spacing.m,
   },
   eloTitle: {
-    fontSize: 15,
-    fontWeight: 'bold',
-    color: theme.colors.text,
-    height: 40,
+    ...theme.typography.h3,
+    color: '#FFFFFF',
+    height: 30,
+    marginBottom: 8,
   },
   progressContainer: {
-    height: 4,
-    backgroundColor: '#F0F0F0',
-    borderRadius: 2,
-    marginTop: theme.spacing.m,
-    marginBottom: 4,
+    height: 6,
+    backgroundColor: 'rgba(255,255,255,0.1)',
+    borderRadius: 3,
+    marginTop: theme.spacing.s,
+    marginBottom: 8,
   },
   progressBar: {
     height: '100%',
-    borderRadius: 2,
+    borderRadius: 3,
   },
   eloInfo: {
-    fontSize: 11,
+    fontSize: 12,
+    fontWeight: '600',
     color: theme.colors.textLight,
   },
 });

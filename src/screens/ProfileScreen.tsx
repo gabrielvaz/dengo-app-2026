@@ -9,6 +9,7 @@ import { useNavigation } from '@react-navigation/native';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import { NotificationService } from '../services/NotificationService';
 import { legalLinks } from '../constants/legal';
+import { TouchableWithoutFeedback } from 'react-native';
 
 import { DataLoader } from '../data/DataLoader';
 import packageJson from '../../package.json';
@@ -21,7 +22,7 @@ export const ProfileScreen = () => {
   
   // Edit states
   const [editingField, setEditingField] = useState<string | null>(null);
-  const [tempValue, setTempValue] = useState('');
+  const [tempValue, setTempValue] = useState<any>('');
 
   useEffect(() => {
     ProfileService.getProfile().then(p => {
@@ -61,8 +62,6 @@ export const ProfileScreen = () => {
     let updated = { ...profile };
     
     switch(editingField) {
-        case 'name': updated.name = tempValue; break;
-        case 'birthday': updated.birthday = tempValue; break;
         case 'relationshipStage': updated.relationshipStage = tempValue; break;
         case 'relationshipTime': updated.relationshipTime = tempValue; break;
         case 'notificationTime': updated.notificationTime = tempValue; break;
@@ -228,30 +227,43 @@ export const ProfileScreen = () => {
       }
 
       if (editingField === 'notificationTime') {
+          const NOTIF_OPTIONS = [
+            { id: 'smart', label: 'Ritmo do Casal', smart: true },
+            { id: '05:00-07:00', label: '5h-7h' },
+            { id: '07:00-09:00', label: '7h-9h' },
+            { id: '12:00-14:00', label: '12h-14h' },
+            { id: '16:00-19:00', label: '16h-19h' },
+            { id: '19:00-21:00', label: '19h-21h' },
+            { id: '21:00-00:00', label: '21h-0h' },
+          ];
+          
+          const currentSelection = Array.isArray(tempValue) ? tempValue : (typeof tempValue === 'string' && tempValue ? [tempValue] : []);
+
           return (
             <View style={{flexDirection: 'row', flexWrap: 'wrap', gap: 8}}>
-                 {['08:00', '12:00', '16:00', '18:00', '20:00', '22:00'].map((nt) => (
-                    <TouchableOpacity 
-                      key={nt} 
-                      style={[styles.chip, tempValue === nt && styles.chipActive]}
-                      onPress={() => setTempValue(nt)}
-                    >
-                      <Text style={[styles.chipText, tempValue === nt && styles.chipTextActive]}>{nt}</Text>
-                    </TouchableOpacity>
-                 ))}
+                 {NOTIF_OPTIONS.map((nt) => {
+                    const isSelected = currentSelection.includes(nt.id);
+                    return (
+                        <TouchableOpacity 
+                          key={nt.id} 
+                          style={[styles.chip, isSelected && styles.chipActive]}
+                          onPress={() => {
+                              if (isSelected) {
+                                  setTempValue(currentSelection.filter(id => id !== nt.id));
+                              } else {
+                                  setTempValue([...currentSelection, nt.id]);
+                              }
+                          }}
+                        >
+                          <Text style={[styles.chipText, isSelected && styles.chipTextActive]}>{nt.label}</Text>
+                        </TouchableOpacity>
+                    );
+                 })}
             </View>
           );
       }
 
-      // Default text input
-      return (
-          <TextInput 
-              style={styles.modalInput}
-              value={tempValue}
-              onChangeText={setTempValue}
-              placeholder="Digite aqui..."
-          />
-      );
+      return null;
   };
 
   return (
@@ -259,16 +271,14 @@ export const ProfileScreen = () => {
       <ScrollView contentContainerStyle={styles.scrollContent}>
         <View style={styles.header}>
           <View style={styles.avatarPlaceholder}>
-             <Ionicons name="heart" size={40} color={theme.colors.primary} />
+             <Ionicons name="planet" size={40} color={theme.colors.primary} />
           </View>
-          <Text style={styles.profileName}>{profile?.name || 'Nosso Cosmo'}</Text>
+          <Text style={styles.profileName}>Nosso Cosmo</Text>
         </View>
 
         <View style={styles.section}>
             <Text style={styles.sectionTitle}>Dados do Casal</Text>
             <View style={styles.sectionContent}>
-                {renderFieldItem('Nome / Apelido', profile?.name || '', 'name')}
-                {renderFieldItem('Aniversário / Data Especial', profile?.birthday || '', 'birthday')}
                 {renderFieldItem('Status', getStageLabel(profile?.relationshipStage), 'relationshipStage', true)}
                 {renderFieldItem('Tempo Juntos', getTimeLabel(profile?.relationshipTime), 'relationshipTime', true)}
             </View>
@@ -277,6 +287,23 @@ export const ProfileScreen = () => {
         <View style={styles.section}>
               <Text style={styles.sectionTitle}>Preferências</Text>
               <View style={styles.sectionContent}>
+                  
+                  <TouchableOpacity 
+                    style={[styles.settingItem, { borderBottomWidth: 1, borderColor: 'rgba(255,255,255,0.05)', paddingVertical: 16 }]}
+                    onPress={() => navigation.navigate('PremiumTeaser')}
+                  >
+                      <View style={{flexDirection: 'row', alignItems: 'center', gap: 12}}>
+                          <View style={{padding: 6, backgroundColor: 'rgba(255,127,80,0.1)', borderRadius: 8}}>
+                              <Ionicons name="diamond" size={20} color={theme.colors.primary} />
+                          </View>
+                          <View>
+                            <Text style={[styles.settingLabel, {color: theme.colors.text}]}>Desbloqueie o Cosmo Ultra</Text>
+                            <Text style={{color: theme.colors.primary, fontSize: 12, fontWeight: '600'}}>Ver benefícios exclusivos</Text>
+                          </View>
+                      </View>
+                      <Ionicons name="chevron-forward" size={20} color={theme.colors.textLight} />
+                  </TouchableOpacity>
+
                 <View style={styles.settingItem}>
                   <View style={styles.settingLabelContainer}>
                     <Ionicons name="notifications-outline" size={22} color={theme.colors.text} />
@@ -289,42 +316,26 @@ export const ProfileScreen = () => {
                   />
                 </View>
                 
-                {notifications && renderFieldItem('Horário do Lembrete', profile?.notificationTime || '20:00', 'notificationTime', true)}
+                {notifications && renderFieldItem('Melhores momentos para notificação', Array.isArray(profile?.notificationTime) ? profile.notificationTime.map(t=>t==='smart'?'Ritmo do Casal':t).join(', ') : (profile?.notificationTime === 'smart' ? 'Ritmo do Casal' : (profile?.notificationTime as any || '')), 'notificationTime', true)}
               </View>
         </View>
 
         <View style={styles.section}>
-            <Text style={styles.sectionTitle}>Legal e Suporte</Text>
+            <Text style={styles.sectionTitle}>Legal</Text>
             <View style={styles.sectionContent}>
                 <TouchableOpacity
                   style={styles.linkItem}
-                  onPress={() => openExternalLink(legalLinks.privacyPolicyUrl)}
+                  onPress={() => navigation.navigate('Privacy')}
                 >
                   <Text style={styles.linkText}>Politica de Privacidade</Text>
-                  <Ionicons name="open-outline" size={20} color={theme.colors.textLight} />
-                </TouchableOpacity>
-                <TouchableOpacity
-                  style={styles.linkItem}
-                  onPress={() => openExternalLink(legalLinks.termsOfUseUrl)}
-                >
-                  <Text style={styles.linkText}>Termos de Uso</Text>
-                  <Ionicons name="open-outline" size={20} color={theme.colors.textLight} />
+                  <Ionicons name="chevron-forward" size={20} color={theme.colors.textLight} />
                 </TouchableOpacity>
                 <TouchableOpacity
                   style={[styles.linkItem, { borderBottomWidth: 0 }]}
-                  onPress={() =>
-                    openExternalLink(
-                      legalLinks.supportEmail ? `mailto:${legalLinks.supportEmail}` : undefined
-                    )
-                  }
+                  onPress={() => navigation.navigate('Terms')}
                 >
-                  <View>
-                    <Text style={styles.linkText}>Contato do suporte</Text>
-                    {!!legalLinks.supportEmail && (
-                      <Text style={styles.linkSubtext}>{legalLinks.supportEmail}</Text>
-                    )}
-                  </View>
-                  <Ionicons name="mail-outline" size={20} color={theme.colors.textLight} />
+                  <Text style={styles.linkText}>Termos de Uso</Text>
+                  <Ionicons name="chevron-forward" size={20} color={theme.colors.textLight} />
                 </TouchableOpacity>
             </View>
         </View>
@@ -362,7 +373,7 @@ export const ProfileScreen = () => {
           <Text style={styles.dangerButtonText}>Apagar todos os dados e resetar app</Text>
         </TouchableOpacity>
 
-        <Text style={styles.versionText}>Feito com ❤️ para o amor</Text>
+        <Text style={styles.versionText}>Feito com amor</Text>
       </ScrollView>
 
       <Modal
@@ -371,22 +382,21 @@ export const ProfileScreen = () => {
         animationType="fade"
         onRequestClose={() => setEditingField(null)}
       >
-        <View style={styles.modalOverlay}>
-            <View style={styles.modalContent}>
-                <Text style={styles.modalTitle}>Editar Informação</Text>
-                
-                <View style={styles.modalBody}>
-                    {renderEditModalContent()}
-                </View>
+        <TouchableWithoutFeedback onPress={() => setEditingField(null)}>
+            <View style={styles.modalOverlay} />
+        </TouchableWithoutFeedback>
+        <View style={styles.bottomSheet}>
+            <View style={styles.sheetHandle} />
+            <Text style={styles.sheetTitle}>Editar Informação</Text>
+            
+            <View style={styles.sheetBody}>
+                {renderEditModalContent()}
+            </View>
 
-                <View style={styles.modalActions}>
-                    <TouchableOpacity style={styles.modalCancel} onPress={() => setEditingField(null)}>
-                        <Text style={styles.modalCancelText}>Cancelar</Text>
-                    </TouchableOpacity>
-                    <TouchableOpacity style={styles.modalSave} onPress={saveEdit}>
-                        <Text style={styles.modalSaveText}>Salvar</Text>
-                    </TouchableOpacity>
-                </View>
+            <View style={styles.sheetActions}>
+                <TouchableOpacity style={styles.sheetSaveButton} onPress={saveEdit}>
+                    <Text style={styles.sheetSaveText}>Salvar Alterações</Text>
+                </TouchableOpacity>
             </View>
         </View>
       </Modal>
@@ -411,10 +421,12 @@ const styles = StyleSheet.create({
     width: 80,
     height: 80,
     borderRadius: 40,
-    backgroundColor: '#FFF0F3',
+    backgroundColor: theme.colors.surface,
     justifyContent: 'center',
     alignItems: 'center',
     marginBottom: theme.spacing.m,
+    borderWidth: 1,
+    borderColor: 'rgba(255,255,255,0.1)',
   },
   profileName: {
     fontSize: 22,
@@ -452,11 +464,9 @@ const styles = StyleSheet.create({
     marginLeft: 4,
   },
   sectionContent: {
-    backgroundColor: theme.colors.white,
+    backgroundColor: theme.colors.surface,
     borderRadius: theme.borderRadius.m,
     overflow: 'hidden',
-    borderWidth: 1,
-    borderColor: '#F0F0F0',
   },
   settingItem: {
     flexDirection: 'row',
@@ -543,9 +553,9 @@ const styles = StyleSheet.create({
     paddingVertical: 8,
     paddingHorizontal: 16,
     borderRadius: 20,
-    backgroundColor: '#F5F5F5',
+    backgroundColor: 'rgba(255,255,255,0.05)',
     borderWidth: 1,
-    borderColor: '#E0E0E0',
+    borderColor: 'rgba(255,255,255,0.1)',
     marginBottom: 8,
   },
   chipActive: {
@@ -567,7 +577,7 @@ const styles = StyleSheet.create({
     paddingVertical: 12,
     paddingHorizontal: theme.spacing.m,
     borderBottomWidth: 1,
-    borderBottomColor: '#F5F5F5',
+    borderBottomColor: 'rgba(255,255,255,0.05)',
   },
   linkItem: {
     flexDirection: 'row',
@@ -576,7 +586,7 @@ const styles = StyleSheet.create({
     paddingVertical: 14,
     paddingHorizontal: theme.spacing.m,
     borderBottomWidth: 1,
-    borderBottomColor: '#F5F5F5',
+    borderBottomColor: 'rgba(255,255,255,0.05)',
   },
   linkText: {
     fontSize: 14,
@@ -606,15 +616,12 @@ const styles = StyleSheet.create({
     padding: theme.spacing.l,
   },
   modalContent: {
-    backgroundColor: 'white',
+    backgroundColor: theme.colors.surface,
     width: '100%',
     borderRadius: theme.borderRadius.l,
     padding: theme.spacing.l,
-    shadowColor: '#000',
-    shadowOffset: { width: 0, height: 4 },
-    shadowOpacity: 0.2,
-    shadowRadius: 10,
-    elevation: 5,
+    borderWidth: 1,
+    borderColor: 'rgba(255,255,255,0.1)',
   },
   modalTitle: {
     fontSize: 18,
@@ -628,10 +635,12 @@ const styles = StyleSheet.create({
   },
   modalInput: {
     borderWidth: 1,
-    borderColor: '#E0E0E0',
+    borderColor: 'rgba(255,255,255,0.1)',
     borderRadius: 8,
     padding: 12,
     fontSize: 16,
+    backgroundColor: 'rgba(0,0,0,0.2)',
+    color: '#FFFFFF',
   },
   modalActions: {
     flexDirection: 'row',
@@ -657,13 +666,54 @@ const styles = StyleSheet.create({
     fontWeight: 'bold',
   },
   statChip: {
-      backgroundColor: '#F5F5F5',
+      backgroundColor: 'rgba(255,255,255,0.05)',
+      paddingHorizontal: 12,
       paddingVertical: 6,
-      paddingHorizontal: 10,
-      borderRadius: 8,
+      borderRadius: 12,
   },
   statChipText: {
       fontSize: 12,
       color: theme.colors.textLight,
   },
+  bottomSheet: {
+      backgroundColor: theme.colors.surface,
+      borderTopLeftRadius: 24,
+      borderTopRightRadius: 24,
+      padding: theme.spacing.l,
+      position: 'absolute',
+      bottom: 0,
+      left: 0,
+      right: 0,
+  },
+  sheetHandle: {
+      width: 40,
+      height: 4,
+      backgroundColor: 'rgba(255,255,255,0.1)',
+      borderRadius: 2,
+      alignSelf: 'center',
+      marginBottom: 20,
+  },
+  sheetTitle: {
+      ...theme.typography.h3,
+      color: theme.colors.text,
+      marginBottom: 20,
+      textAlign: 'center',
+  },
+  sheetBody: {
+      marginBottom: 20,
+  },
+  sheetActions: {
+      width: '100%',
+  },
+  sheetSaveButton: {
+      backgroundColor: theme.colors.primary,
+      paddingVertical: 16,
+      borderRadius: 12,
+      alignItems: 'center',
+  },
+  sheetSaveText: {
+      color: 'white',
+      fontWeight: 'bold',
+      fontSize: 16,
+  }
 });

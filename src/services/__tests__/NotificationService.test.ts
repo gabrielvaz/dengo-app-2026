@@ -39,7 +39,7 @@ describe('NotificationService', () => {
       relationshipStage: 'namorando',
       relationshipTime: '1-ano',
       needs: [],
-      notificationTime: '20:30',
+      notificationTime: ['20:30'],
       notificationsEnabled: true
     };
 
@@ -71,7 +71,7 @@ describe('NotificationService', () => {
       relationshipStage: 'namorando',
       relationshipTime: '1-ano',
       needs: [],
-      notificationTime: '20:30',
+      notificationTime: ['20:30'],
       notificationsEnabled: false
     };
 

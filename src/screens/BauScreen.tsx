@@ -6,10 +6,13 @@ import { FavoriteService } from '../services/FavoriteService';
 import { Flashcard as FlashcardModel } from '../models/Flashcard';
 import { Ionicons } from '@expo/vector-icons';
 import { useFocusEffect, useNavigation } from '@react-navigation/native';
+import * as Clipboard from 'expo-clipboard';
+import { Modal, TouchableWithoutFeedback } from 'react-native';
 
 export const BauScreen = () => {
   const navigation = useNavigation<any>();
   const [favorites, setFavorites] = useState<FlashcardModel[]>([]);
+  const [selectedCard, setSelectedCard] = useState<FlashcardModel | null>(null);
 
   const loadFavorites = useCallback(async () => {
     const favs = await FavoriteService.getFavorites();
@@ -43,15 +46,51 @@ export const BauScreen = () => {
   const handleShare = async (item: FlashcardModel) => {
     try {
       await Share.share({
-        message: `Oi amor! Lembrei de nós com essa pergunta do Cosmo:\n\n"${item.question}"\n\n❤️`,
+        message: `Oi amor! Lembrei de nós com essa pergunta do Cosmo:\n\n"${item.question}"`,
       });
     } catch (error: any) {
       console.error(error);
     }
   };
 
+  const handleCopy = async () => {
+      if (selectedCard) {
+          await Clipboard.setStringAsync(selectedCard.question);
+          setSelectedCard(null);
+          Alert.alert("Sucesso", "Copiado para a área de transferência!");
+      }
+  };
+
+  const handleRemove = async () => {
+      if (selectedCard) {
+          Alert.alert(
+            "Remover",
+            "Remover esta pergunta do Baú?",
+            [
+                { text: "Cancelar", style: "cancel" },
+                { text: "Remover", style: "destructive", onPress: async () => {
+                    await FavoriteService.toggleFavorite(selectedCard);
+                    loadFavorites();
+                    setSelectedCard(null);
+                }}
+            ]
+          );
+      }
+  };
+
+  const handleShareSelected = async () => {
+      if (selectedCard) {
+          handleShare(selectedCard);
+          setSelectedCard(null);
+      }
+  };
+
   const renderItem = ({ item }: { item: FlashcardModel }) => (
-    <View style={styles.cardItem}>
+    <TouchableOpacity 
+      style={styles.cardItem}
+      onLongPress={() => setSelectedCard(item)}
+      activeOpacity={0.8}
+    >
       <View style={styles.cardHeader}>
         <Text style={styles.category}>{item.category}</Text>
         <View style={{flexDirection: 'row', gap: 15}}>
@@ -63,8 +102,8 @@ export const BauScreen = () => {
              </TouchableOpacity>
         </View>
       </View>
-      <Text style={styles.question}>{item.question}</Text>
-    </View>
+       <Text style={styles.question}>{item.question}</Text>
+    </TouchableOpacity>
   );
 
   if (favorites.length === 0) {
@@ -73,13 +112,13 @@ export const BauScreen = () => {
         <View style={styles.emptyContainer}>
             <View style={{marginBottom: 20}}>
                <Image 
-                 source={require('../../assets/images/bau.png')} 
+                 source={require('../../assets/images/bau-transp.png')} 
                  style={{width: 200, height: 200, resizeMode: 'contain'}} 
                />
             </View>
           <Text style={styles.emptyTitle}>Seu Baú está vazio</Text>
           <Text style={styles.emptySubtitle}>
-            Ainda não há favoritos aqui. Explore as perguntas e salve as que tocarem seu coração!
+            Ainda não há lembranças aqui. Explore o Cosmo e salve as perguntas que criarem maior conexão entre vocês!
           </Text>
           <TouchableOpacity 
             style={styles.exploreButton}
@@ -95,8 +134,8 @@ export const BauScreen = () => {
   return (
     <SafeAreaView style={styles.container}>
       <View style={styles.header}>
-        <Text style={styles.title}>Baú do Amor</Text>
-        <Text style={styles.subtitle}>{favorites.length} momentos guardados</Text>
+        <Text style={styles.title}>Baú do Cosmo</Text>
+        <Text style={styles.subtitle}>{favorites.length} momentos estelares guardados</Text>
       </View>
       <FlatList
         data={favorites}
@@ -104,6 +143,38 @@ export const BauScreen = () => {
         keyExtractor={item => item.id}
         contentContainerStyle={styles.list}
       />
+
+      <Modal
+        visible={!!selectedCard}
+        transparent={true}
+        animationType="slide"
+        onRequestClose={() => setSelectedCard(null)}
+      >
+        <TouchableWithoutFeedback onPress={() => setSelectedCard(null)}>
+            <View style={styles.modalOverlay} />
+        </TouchableWithoutFeedback>
+        <View style={styles.bottomSheet}>
+            <View style={styles.sheetHandle} />
+            <Text style={styles.sheetTitle}>Opções</Text>
+            
+            <TouchableOpacity style={styles.sheetOption} onPress={handleCopy}>
+                <Ionicons name="copy-outline" size={24} color={theme.colors.text} />
+                <Text style={styles.sheetOptionText}>Copiar para a área de transferência</Text>
+            </TouchableOpacity>
+
+            <TouchableOpacity style={styles.sheetOption} onPress={handleShareSelected}>
+                <Ionicons name="share-social-outline" size={24} color={theme.colors.text} />
+                <Text style={styles.sheetOptionText}>Compartilhar</Text>
+            </TouchableOpacity>
+
+            <TouchableOpacity style={[styles.sheetOption, { borderBottomWidth: 0 }]} onPress={handleRemove}>
+                <Ionicons name="trash-outline" size={24} color="#FF3B30" />
+                <Text style={[styles.sheetOptionText, { color: '#FF3B30' }]}>Remover do baú</Text>
+            </TouchableOpacity>
+            
+            <View style={{height: 20}} />
+        </View>
+      </Modal>
     </SafeAreaView>
   );
 };
@@ -111,32 +182,32 @@ export const BauScreen = () => {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: 'white',
+    backgroundColor: theme.colors.background,
   },
   header: {
     padding: theme.spacing.l,
-    backgroundColor: theme.colors.white,
+    backgroundColor: theme.colors.surface,
     borderBottomWidth: 1,
-    borderBottomColor: '#F0F0F0',
+    borderBottomColor: 'rgba(255,255,255,0.05)',
   },
   title: {
-    ...theme.typography.header,
+    ...theme.typography.h2,
+    color: '#FFFFFF',
   },
   subtitle: {
-    fontSize: 14,
-    color: theme.colors.textLight,
+    ...theme.typography.body,
     marginTop: 4,
   },
   list: {
     padding: theme.spacing.m,
   },
   cardItem: {
-    backgroundColor: theme.colors.white,
+    backgroundColor: theme.colors.surface,
     borderRadius: theme.borderRadius.l,
     padding: theme.spacing.m,
     marginBottom: theme.spacing.m,
     borderWidth: 1,
-    borderColor: '#EEE',
+    borderColor: 'rgba(255,255,255,0.05)',
   },
   cardHeader: {
     flexDirection: 'row',
@@ -146,13 +217,14 @@ const styles = StyleSheet.create({
   },
   category: {
     fontSize: 12,
-    fontWeight: '700',
+    fontWeight: '800',
     color: theme.colors.primary,
     textTransform: 'uppercase',
+    letterSpacing: 1,
   },
   question: {
-    fontSize: 16,
-    color: theme.colors.text,
+    ...theme.typography.body,
+    color: '#FFFFFF',
     lineHeight: 24,
   },
   emptyContainer: {
@@ -162,37 +234,66 @@ const styles = StyleSheet.create({
     padding: theme.spacing.xl,
   },
   emptyTitle: {
-    fontSize: 20,
-    fontWeight: 'bold',
-    color: theme.colors.text,
+    ...theme.typography.h2,
+    color: '#FFFFFF',
     marginTop: theme.spacing.l,
   },
   emptySubtitle: {
-    fontSize: 16,
-    color: theme.colors.textLight,
+    ...theme.typography.body,
     textAlign: 'center',
     marginTop: theme.spacing.s,
     lineHeight: 24,
   },
-  emptyIconContainer: {
-    width: 100,
-    height: 100,
-    borderRadius: 50,
-    backgroundColor: '#FFF0F5',
-    justifyContent: 'center',
-    alignItems: 'center',
-    marginBottom: theme.spacing.m,
-  },
   exploreButton: {
     backgroundColor: theme.colors.primary,
-    paddingVertical: 12,
-    paddingHorizontal: 30,
-    borderRadius: 25,
-    marginTop: theme.spacing.xl,
+    paddingVertical: 14,
+    paddingHorizontal: 32,
+    borderRadius: 30,
+    marginTop: theme.spacing.xl * 1.5,
   },
   exploreButtonText: {
-    color: 'white',
-    fontWeight: 'bold',
+    fontWeight: '700',
     fontSize: 16,
   },
+  modalOverlay: {
+      flex: 1,
+      backgroundColor: 'rgba(0,0,0,0.5)',
+  },
+  bottomSheet: {
+      backgroundColor: theme.colors.surface,
+      borderTopLeftRadius: 24,
+      borderTopRightRadius: 24,
+      padding: theme.spacing.l,
+      position: 'absolute',
+      bottom: 0,
+      left: 0,
+      right: 0,
+  },
+  sheetHandle: {
+      width: 40,
+      height: 4,
+      backgroundColor: 'rgba(255,255,255,0.1)',
+      borderRadius: 2,
+      alignSelf: 'center',
+      marginBottom: 20,
+  },
+  sheetTitle: {
+      ...theme.typography.h3,
+      color: theme.colors.text,
+      marginBottom: 20,
+      textAlign: 'center',
+  },
+  sheetOption: {
+      flexDirection: 'row',
+      alignItems: 'center',
+      paddingVertical: 16,
+      borderBottomWidth: 1,
+      borderBottomColor: 'rgba(255,255,255,0.05)',
+      gap: 16,
+  },
+  sheetOptionText: {
+      fontSize: 16,
+      color: theme.colors.text,
+      fontWeight: '500',
+  }
 });

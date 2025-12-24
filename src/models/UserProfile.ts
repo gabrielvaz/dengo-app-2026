@@ -4,6 +4,6 @@ export interface UserProfile {
   relationshipStage: string;
   relationshipTime: string;
   needs: string[];
-  notificationTime?: string; // e.g. "20:00"
+  notificationTime?: string[]; // e.g. ["smart", "20:00"]
   notificationsEnabled?: boolean;
 }

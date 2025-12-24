@@ -10,9 +10,10 @@ const { width, height } = Dimensions.get('window');
 
 interface FlashcardProps {
   card: FlashcardModel;
+  onSave?: () => void;
 }
 
-export const Flashcard: React.FC<FlashcardProps> = ({ card }) => {
+export const Flashcard: React.FC<FlashcardProps> = ({ card, onSave }) => {
   const [isFavorite, setIsFavorite] = useState(false);
 
   useEffect(() => {
@@ -22,7 +23,7 @@ export const Flashcard: React.FC<FlashcardProps> = ({ card }) => {
   const handleShare = async () => {
     try {
       await Share.share({
-        message: `Oi amor! Vi esse card no Cosmo e lembrei de você:\n\n"${card.question}"\n\nO que você acha? ❤️`,
+        message: `Oi amor! Vi esse card no Cosmo e lembrei de você:\n\n"${card.question}"\n\nO que você acha?`,
       });
     } catch (error: any) {
       Alert.alert('Erro', error.message);
@@ -33,14 +34,15 @@ export const Flashcard: React.FC<FlashcardProps> = ({ card }) => {
     const newVal = await FavoriteService.toggleFavorite(card);
     setIsFavorite(newVal);
     if (newVal) {
-        Alert.alert("Cosmo", "Pergunta salva no Baú do Amor");
+        if (onSave) onSave();
+        // Removed Alert to use custom animation/toast
     }
   };
 
   return (
     <View style={styles.cardContainer}>
       <LinearGradient
-        colors={['#FFFFFF', '#FFF0F5', '#FFE4E1']}
+        colors={['#3B2E47', '#1E1B26']}
         style={styles.gradient}
       >
         <TouchableOpacity 
@@ -77,25 +79,30 @@ export const Flashcard: React.FC<FlashcardProps> = ({ card }) => {
 
 const styles = StyleSheet.create({
   cardContainer: {
-    width: width * 0.85,
-    height: height * 0.6,
-    borderRadius: theme.borderRadius.xl,
-    backgroundColor: theme.colors.white,
+    width: width * 0.90,
+    height: height * 0.70,
+    borderRadius: 32,
+    backgroundColor: theme.colors.surface,
     shadowColor: '#000',
-    shadowOffset: { width: 0, height: 10 },
-    shadowOpacity: 0.1,
-    shadowRadius: 20,
-    elevation: 10,
+    shadowOffset: { width: 0, height: 20 },
+    shadowOpacity: 0.5,
+    shadowRadius: 30,
+    elevation: 20,
     overflow: 'hidden',
+    borderWidth: 1,
+    borderColor: '#3D3847', // Subtle border
   },
   gradient: {
     flex: 1,
   },
   favoriteButton: {
     position: 'absolute',
-    top: 20,
-    right: 20,
+    top: 24,
+    right: 24,
     zIndex: 10,
+    backgroundColor: 'rgba(0,0,0,0.2)',
+    padding: 8,
+    borderRadius: 50,
   },
   content: {
     flex: 1,
@@ -104,69 +111,65 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
   categoryBadge: {
-    backgroundColor: 'rgba(128, 0, 32, 0.1)',
-    paddingVertical: 4,
-    paddingHorizontal: 12,
+    backgroundColor: 'rgba(255, 127, 80, 0.15)', // Orange tint
+    paddingVertical: 6,
+    paddingHorizontal: 16,
     borderRadius: 20,
-    marginBottom: theme.spacing.m,
+    marginBottom: theme.spacing.l,
+    borderWidth: 1,
+    borderColor: 'rgba(255, 127, 80, 0.3)',
   },
   categoryText: {
     fontSize: 12,
-    fontWeight: '700',
+    fontWeight: '800',
     color: theme.colors.primary,
-    letterSpacing: 1,
+    letterSpacing: 2,
   },
   title: {
-    fontSize: 18,
+    fontSize: 16,
     color: theme.colors.textLight,
     textAlign: 'center',
-    fontStyle: 'italic',
-    marginBottom: theme.spacing.l,
+    marginBottom: theme.spacing.xl,
+    letterSpacing: 0.5,
   },
   divider: {
-    width: 40,
-    height: 2,
-    backgroundColor: theme.colors.accent,
+    width: 60,
+    height: 1,
+    backgroundColor: 'rgba(255,255,255,0.1)',
     marginBottom: theme.spacing.xl,
   },
   question: {
-    fontSize: 24,
-    fontWeight: '600',
-    color: theme.colors.primary,
+    ...theme.typography.h2,
+    fontSize: 28,
     textAlign: 'center',
-    lineHeight: 34,
+    lineHeight: 40,
     fontFamily: 'serif',
+    color: '#FFFFFF',
+    textShadowColor: 'rgba(0, 0, 0, 0.3)',
+    textShadowOffset: {width: 0, height: 2},
+    textShadowRadius: 4,
   },
   footer: {
     flexDirection: 'row',
     marginTop: theme.spacing.xl,
     gap: theme.spacing.s,
   },
-  infoTag: {
-    backgroundColor: 'white',
-    paddingVertical: 4,
-    paddingHorizontal: 10,
-    borderRadius: 8,
-    borderWidth: 1,
-    borderColor: '#F0F0F0',
-  },
-  infoText: {
-    fontSize: 12,
-    color: theme.colors.textLight,
-  },
   shareButton: {
     flexDirection: 'row',
     alignItems: 'center',
-    backgroundColor: theme.colors.primary,
+    backgroundColor: 'rgba(255, 255, 255, 0.1)',
     paddingVertical: 12,
-    paddingHorizontal: 20,
-    borderRadius: 25,
-    marginTop: theme.spacing.xl,
+    paddingHorizontal: 24,
+    borderRadius: 30,
+    marginTop: theme.spacing.xxl,
     gap: 8,
+    borderWidth: 1,
+    borderColor: 'rgba(255,255,255,0.2)',
   },
   shareText: {
-    color: 'white',
+    color: '#FFFFFF',
     fontSize: 14,
-    fontWeight: 'bold',
+    fontWeight: '600',
+    letterSpacing: 0.5,
   },
 });

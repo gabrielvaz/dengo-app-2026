@@ -15,6 +15,9 @@ import { FeedScreen } from './src/screens/FeedScreen';
 import { EloDetailScreen } from './src/screens/EloDetailScreen';
 import { EloLessonScreen } from './src/screens/EloLessonScreen';
 import { WelcomeScreen } from './src/screens/WelcomeScreen';
+import { TermsScreen } from './src/screens/TermsScreen';
+import { PrivacyScreen } from './src/screens/PrivacyScreen';
+import { PremiumTeaserScreen } from './src/screens/PremiumTeaserScreen';
 import { ProfileService } from './src/services/ProfileService';
 import { NotificationService } from './src/services/NotificationService';
 import { theme } from './src/constants/theme';
@@ -30,6 +33,8 @@ Notifications.setNotificationHandler({
     shouldShowAlert: true,
     shouldPlaySound: false,
     shouldSetBadge: false,
+    shouldShowBanner: true,
+    shouldShowList: true,
   }),
 });
 
@@ -53,11 +58,8 @@ export default function App() {
     async function prepare() {
       try {
         const imageAssets = cacheImages([
-            require('./assets/images/casal-apaixonado.png'),
-            require('./assets/images/casal-junto-2.png'),
-            require('./assets/images/maquina-de-sonhos-2.png'),
-            require('./assets/images/bau.png'),
-            require('./assets/images/dengo-icon.png'),
+            require('./assets/images/hero_cosmo.jpg'),
+            require('./assets/images/bau-transp.png'),
         ]);
 
         await Promise.all([
@@ -109,6 +111,9 @@ export default function App() {
           <Stack.Screen name="Feed" component={FeedScreen} />
           <Stack.Screen name="EloDetail" component={EloDetailScreen} />
           <Stack.Screen name="EloLesson" component={EloLessonScreen} />
+          <Stack.Screen name="Terms" component={TermsScreen} />
+          <Stack.Screen name="Privacy" component={PrivacyScreen} />
+          <Stack.Screen name="PremiumTeaser" component={PremiumTeaserScreen} />
         </Stack.Navigator>
         <StatusBar style="auto" />
       </NavigationContainer>

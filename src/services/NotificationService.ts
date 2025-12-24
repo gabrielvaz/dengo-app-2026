@@ -2,6 +2,8 @@ import AsyncStorage from '@react-native-async-storage/async-storage';
 import * as Notifications from 'expo-notifications';
 import { Platform } from 'react-native';
 import { UserProfile } from '../models/UserProfile';
+import { NOTIFICATION_COPIES, NotificationTemplate } from '../data/NotificationCopies';
+import { StreakService } from './StreakService';
 
 const DAILY_NOTIFICATION_ID_KEY = 'dengo_daily_notification_id';
 const DEFAULT_REMINDER_TIME = '20:00';
@@ -54,16 +56,55 @@ export class NotificationService {
     }
   }
 
-  static async scheduleDailyReminder(time: string): Promise<boolean> {
-    const parsed = getTimeParts(time);
+  static async getDynamicContent(): Promise<NotificationTemplate> {
+    const streakData = await StreakService.getStreakData();
+    const count = streakData.currentStreak;
+    const day = new Date().getDay(); // 0-6 (Sun-Sat)
+
+    // 1. Milestone Check
+    const milestones = NOTIFICATION_COPIES.milestones as Record<string, NotificationTemplate>;
+    if (milestones[count.toString()]) {
+        return milestones[count.toString()];
+    }
+
+    // 2. Specific Streak Phase
+    if (count > 0 && count <= 10) {
+        return NOTIFICATION_COPIES.streakIntro[count - 1] || NOTIFICATION_COPIES.streakIntro[0];
+    }
+    if (count > 10 && count <= 30) {
+        const idx = (count - 11) % NOTIFICATION_COPIES.streakCore.length;
+        return NOTIFICATION_COPIES.streakCore[idx];
+    }
+
+    // 3. Seasonal (Day of Week)
+    if (day === 5) return NOTIFICATION_COPIES.seasonal.friday[Math.floor(Math.random() * NOTIFICATION_COPIES.seasonal.friday.length)];
+    if (day === 6) return NOTIFICATION_COPIES.seasonal.saturday[Math.floor(Math.random() * NOTIFICATION_COPIES.seasonal.saturday.length)];
+    if (day === 0) return NOTIFICATION_COPIES.seasonal.sunday[Math.floor(Math.random() * NOTIFICATION_COPIES.seasonal.sunday.length)];
+    if (day === 3) return NOTIFICATION_COPIES.seasonal.wednesday[0];
+
+    // 4. Low Streak / Retention
+    if (count === 0) {
+        return NOTIFICATION_COPIES.retention[Math.floor(Math.random() * 2) + 2]; // Index 2 or 3 (Saudade/Conexão)
+    }
+
+    // 5. Generic Fallback
+    const randomIdx = Math.floor(Math.random() * NOTIFICATION_COPIES.generic.length);
+    return NOTIFICATION_COPIES.generic[randomIdx];
+  }
+
+  static async scheduleDailyReminder(times: string | string[]): Promise<boolean> {
+    const timeToSchedule = Array.isArray(times) ? (times[0] === 'smart' ? DEFAULT_REMINDER_TIME : times[0]) : times;
+    const parsed = getTimeParts(timeToSchedule);
     if (!parsed) return false;
 
     await this.cancelDailyReminder();
 
+    const content = await this.getDynamicContent();
+
     const notificationId = await Notifications.scheduleNotificationAsync({
       content: {
-        title: 'Cosmo',
-        body: 'Seu ritual diario de conexao esta pronto.',
+        title: content.title,
+        body: content.body,
       },
       trigger: {
         type: Notifications.SchedulableTriggerInputTypes.DAILY,
@@ -78,7 +119,7 @@ export class NotificationService {
 
   static async applySettings(options: {
     enabled: boolean;
-    time?: string;
+    time?: string | string[];
     requestPermission?: boolean;
   }): Promise<boolean> {
     if (!options.enabled) {

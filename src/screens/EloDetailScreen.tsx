@@ -58,8 +58,14 @@ export const EloDetailScreen = () => {
       navigation.navigate('EloLesson', { 
           eloId: elo.key, 
           lesson: artigo, 
-          order: index 
+          order: index,
+          color: elo.color
       });
+  };
+
+  const getReadingTime = (artigo: any) => {
+      // Estimate 1 min per 150 words/sections
+      return artigo.tempoLeitura || "2 min";
   };
 
   return (
@@ -133,21 +139,24 @@ export const EloDetailScreen = () => {
                         <View style={styles.cardLeft}>
                             <View style={[
                                 styles.statusIcon, 
-                                isCompleted ? {backgroundColor: '#E8F5E9'} : (showLock ? {backgroundColor: '#F5F5F5'} : {backgroundColor: `${elo.color}15`})
+                                isCompleted ? {backgroundColor: 'rgba(76, 175, 80, 0.1)'} : (showLock ? {backgroundColor: 'rgba(255,255,255,0.05)'} : {backgroundColor: `${elo.color}20`})
                             ]}>
                                 <Ionicons 
                                     name={isCompleted ? "checkmark" : (showLock ? "lock-closed" : "play")} 
                                     size={18} 
-                                    color={isCompleted ? "green" : (showLock ? "#CCC" : elo.color)} 
+                                    color={isCompleted ? "#4CAF50" : (showLock ? "#555" : elo.color)} 
                                 />
                             </View>
                             <View style={{flex: 1}}>
                                 <Text style={[styles.tipTitle, showLock && {color: theme.colors.textLight}]}>
                                     {artigo.titulo}
                                 </Text>
-                                <Text style={styles.tipSubtitle}>
-                                    {isCompleted ? "Concluído" : (showLock ? (isTodayLocked ? "Disponível amanhã" : "Bloqueado") : "Toque para ler")}
-                                </Text>
+                                <View style={{flexDirection: 'row', alignItems: 'center', gap: 8}}>
+                                    <Text style={styles.tipSubtitle}>
+                                        {isCompleted ? "Concluído" : (showLock ? (isTodayLocked ? "Disponível amanhã" : (index > currentLevel ? "Bloqueado: Complete o item anterior" : "Bloqueado")) : "Toque para ler")}
+                                    </Text>
+                                    <Text style={styles.timeLabel}>• {getReadingTime(artigo)}</Text>
+                                </View>
                             </View>
                         </View>
                         
@@ -177,9 +186,9 @@ const styles = StyleSheet.create({
     justifyContent: 'space-between',
     alignItems: 'center',
     padding: theme.spacing.m,
-    backgroundColor: theme.colors.white,
+    backgroundColor: theme.colors.background,
     borderBottomWidth: 1,
-    borderBottomColor: '#F0F0F0',
+    borderBottomColor: 'rgba(255,255,255,0.05)',
   },
   headerTitle: {
     fontSize: 16,
@@ -232,16 +241,18 @@ const styles = StyleSheet.create({
   benefitItem: {
     flexDirection: 'row',
     alignItems: 'center',
-    backgroundColor: 'white',
+    backgroundColor: theme.colors.surface,
     paddingVertical: 6,
     paddingHorizontal: 12,
     borderRadius: 20,
     gap: 6,
+    borderWidth: 1,
+    borderColor: 'rgba(255,255,255,0.05)',
   },
   benefitText: {
     fontSize: 12,
     fontWeight: '600',
-    color: theme.colors.text,
+    color: '#FFFFFF',
   },
   startContainer: {
     padding: theme.spacing.xl,
@@ -299,20 +310,20 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     alignItems: 'center',
     justifyContent: 'space-between',
-    backgroundColor: theme.colors.white,
+    backgroundColor: theme.colors.surface,
     borderRadius: 16,
     padding: 16,
     marginBottom: 12,
     borderWidth: 1,
-    borderColor: '#F0F0F0',
+    borderColor: 'rgba(255,255,255,0.05)',
   },
   tipCardLocked: {
-    backgroundColor: '#FAFAFA',
-    borderColor: '#F0F0F0',
-    opacity: 0.7,
+    backgroundColor: 'rgba(255,255,255,0.02)',
+    borderColor: 'transparent',
+    opacity: 0.6,
   },
   tipCardCompleted: {
-    borderColor: '#E8F5E9',
+    borderColor: 'rgba(76, 175, 80, 0.2)',
   },
   cardLeft: {
     flexDirection: 'row',
@@ -336,6 +347,10 @@ const styles = StyleSheet.create({
   tipSubtitle: {
     fontSize: 12,
     color: theme.colors.textLight,
+  },
+  timeLabel: {
+    fontSize: 11,
+    color: 'rgba(255,255,255,0.3)',
   },
   emptyText: {
       textAlign: 'center',

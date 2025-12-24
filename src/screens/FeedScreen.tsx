@@ -19,6 +19,7 @@ import { ProfileService } from '../services/ProfileService';
 import { StreakService } from '../services/StreakService';
 import { useNavigation, useRoute } from '@react-navigation/native';
 import { Ionicons } from '@expo/vector-icons';
+import { CONGRATULATIONS_COPIES, CONGRATULATIONS_TITLES } from '../data/congratulations_copies';
 
 const { width } = Dimensions.get('window');
 const SWIPE_THRESHOLD = width * 0.3;
@@ -37,9 +38,15 @@ export const FeedScreen = () => {
   const [loading, setLoading] = useState(true);
   const [ritualCompleted, setRitualCompleted] = useState(false);
   const [limitReached, setLimitReached] = useState(false);
+  const [completionMessage, setCompletionMessage] = useState('');
+  const [completionTitle, setCompletionTitle] = useState('');
   
   const translateX = useSharedValue(0);
   const translateY = useSharedValue(0);
+  const saveScale = useSharedValue(1);
+  const toastY = useSharedValue(100);
+  const [showToast, setShowToast] = useState(false);
+  const lastDirection = useSharedValue<'left' | 'right' | null>(null);
 
   const manualSwipe = (direction: 'left' | 'right') => {
       const dest = direction === 'left' ? -width * 1.5 : width * 1.5;
@@ -56,10 +63,30 @@ export const FeedScreen = () => {
 
   const handleManualPrev = () => {
     if (currentIndex > 0) {
+        // To go back, we actually want to bring the previous card from the left
+        // But since our stack is [current, current+1], we need to set index first then animate
         setCurrentIndex(prev => prev - 1);
+        translateX.value = -width * 1.5;
         translateX.value = withSpring(0);
         translateY.value = withSpring(0);
     }
+  };
+
+  const onSave = () => {
+      saveScale.value = withSpring(0.9, { damping: 10 }, () => {
+          saveScale.value = withSpring(1);
+          runOnJS(triggerToast)();
+      });
+  };
+
+  const triggerToast = () => {
+      setShowToast(true);
+      toastY.value = withSpring(0, { damping: 15 });
+      setTimeout(() => {
+          toastY.value = withSpring(100, {}, () => {
+              runOnJS(setShowToast)(false);
+          });
+      }, 2000);
   };
 
   useEffect(() => {
@@ -91,6 +118,8 @@ export const FeedScreen = () => {
       if (categoryId === 'daily') {
         const hasDoneToday = await RitualService.hasCompletedToday();
         if (hasDoneToday) {
+          const randTitle = CONGRATULATIONS_TITLES[Math.floor(Math.random() * CONGRATULATIONS_TITLES.length)];
+          setCompletionTitle(randTitle);
           setRitualCompleted(true);
           setLoading(false);
           return;
@@ -130,6 +159,12 @@ export const FeedScreen = () => {
 
     const nextIndex = currentIndex + 1;
     if (nextIndex >= cards.length) {
+       // Select random message and title
+       const randMsg = CONGRATULATIONS_COPIES[Math.floor(Math.random() * CONGRATULATIONS_COPIES.length)];
+       const randTitle = CONGRATULATIONS_TITLES[Math.floor(Math.random() * CONGRATULATIONS_TITLES.length)];
+       setCompletionMessage(randMsg);
+       setCompletionTitle(randTitle);
+
        if (categoryId === 'daily') {
           RitualService.markAsCompletedToday();
           setRitualCompleted(true);
@@ -159,13 +194,29 @@ export const FeedScreen = () => {
     .onEnd((event) => {
       if (Math.abs(event.translationX) > SWIPE_THRESHOLD) {
         const direction = event.translationX > 0 ? 'right' : 'left';
-        translateX.value = withSpring(direction === 'right' ? width * 1.5 : -width * 1.5);
-        runOnJS(onSwipeComplete)(direction);
+        
+        if (direction === 'right' && currentIndex > 0) {
+            // Swipe right to go back
+            translateX.value = withSpring(width * 1.5, {}, () => {
+                runOnJS(handlePrev)();
+            });
+        } else {
+            // Swipe left to go next (or right on first card which usually means skip/like)
+            translateX.value = withSpring(direction === 'right' ? width * 1.5 : -width * 1.5);
+            runOnJS(onSwipeComplete)(direction);
+        }
       } else {
         translateX.value = withSpring(0);
         translateY.value = withSpring(0);
       }
     });
+
+  const handlePrev = () => {
+      setCurrentIndex(prev => prev - 1);
+      translateX.value = -width * 1.5;
+      translateX.value = withSpring(0);
+      translateY.value = 0;
+  };
 
   const cardStyle = useAnimatedStyle(() => {
     const rotate = interpolate(
@@ -180,6 +231,7 @@ export const FeedScreen = () => {
         { translateX: translateX.value },
         { translateY: translateY.value },
         { rotate: `${rotate}deg` },
+        { scale: saveScale.value },
       ],
     };
   });
@@ -209,7 +261,7 @@ export const FeedScreen = () => {
     <SafeAreaView style={styles.container}>
       <View style={styles.header}>
         <TouchableOpacity onPress={() => navigation.goBack()} style={styles.backButton}>
-           <Ionicons name="close" size={28} color={theme.colors.text} />
+           <Ionicons name="close" size={24} color="#FFFFFF" />
         </TouchableOpacity>
         <Text style={styles.headerTitle}>{categoryTitle || (categoryId === 'daily' ? 'Diário' : categoryId)}</Text>
         <View style={{ width: 40 }} />
@@ -224,17 +276,26 @@ export const FeedScreen = () => {
             style={{ marginBottom: 20 }} 
           />
           <Text style={[styles.title, { fontFamily: 'serif' }]}>
-             {ritualCompleted ? "Sessão Finalizada." : "Tudo por hoje!"}
+             {completionTitle || (ritualCompleted ? "Sessão Finalizada" : "Tudo por hoje")}
           </Text>
           <Text style={styles.subtitle}>
-            {ritualCompleted 
+            {completionMessage || (ritualCompleted 
               ? "Que estas palavras ecoem entre vocês até o próximo encontro."
-              : "Vocês completaram os 5 cards diários desta categoria. Voltem amanhã para mais!"}
+              : "Vocês completaram os 5 cards diários desta categoria. Voltem amanhã para mais!")}
           </Text>
           
-          <View style={{flexDirection: 'row', gap: 16, marginTop: 32}}>
-              <TouchableOpacity 
-                 style={[styles.finishButton, {backgroundColor: 'white', borderWidth: 1, borderColor: theme.colors.primary}]} 
+          <View style={{marginTop: 32, width: '100%', alignItems: 'center', gap: 16}}>
+              <TouchableOpacity
+                 style={[styles.finishButton, { width: '80%' }]}
+                 onPress={() => navigation.navigate('Main', { screen: 'Perguntas' })}
+              >
+                <Text style={styles.finishButtonText}>
+                    Ver outros temas
+                </Text>
+              </TouchableOpacity>
+
+              <TouchableOpacity
+                 style={{ padding: 10 }}
                  onPress={() => {
                      setRitualCompleted(false);
                      setLimitReached(false);
@@ -243,16 +304,7 @@ export const FeedScreen = () => {
                      translateY.value = 0;
                  }}
               >
-                <Text style={[styles.finishButtonText, {color: theme.colors.primary}]}>Rever cartas</Text>
-              </TouchableOpacity>
-
-              <TouchableOpacity 
-                 style={styles.finishButton} 
-                 onPress={() => navigation.navigate('Main', { screen: 'Perguntas' })}
-              >
-                <Text style={styles.finishButtonText}>
-                    {ritualCompleted ? "Voltar ao menu" : "Explorar outras"}
-                </Text>
+                <Text style={{ color: theme.colors.primary, fontSize: 16, fontWeight: '600' }}>Rever perguntas</Text>
               </TouchableOpacity>
           </View>
         </View>
@@ -280,9 +332,16 @@ export const FeedScreen = () => {
             {cards.length > 0 && (
               <GestureDetector gesture={gesture}>
                 <Animated.View style={[styles.cardWrapper, cardStyle]}>
-                  <Flashcard card={cards[currentIndex]} />
+                  <Flashcard card={cards[currentIndex]} onSave={onSave} />
                 </Animated.View>
               </GestureDetector>
+            )}
+
+            {showToast && (
+                <Animated.View style={[styles.toast, { transform: [{ translateY: toastY }] }]}>
+                    <Ionicons name="heart" size={20} color="white" />
+                    <Text style={styles.toastText}>Pergunta salva no Baú</Text>
+                </Animated.View>
             )}
             
             {cards.length === 0 && !loading && (
@@ -299,13 +358,13 @@ export const FeedScreen = () => {
                    onPress={handleManualPrev}
                    disabled={currentIndex === 0}
                  >
-                    <Ionicons name="arrow-back" size={24} color={currentIndex === 0 ? "#CCC" : theme.colors.primary} />
+                    <Ionicons name="arrow-back" size={24} color="#FFFFFF" />
                  </TouchableOpacity>
                  <TouchableOpacity 
                    style={styles.navButton} 
                    onPress={handleManualNext}
                  >
-                    <Ionicons name="arrow-forward" size={24} color={theme.colors.primary} />
+                    <Ionicons name="arrow-forward" size={24} color="#FFFFFF" />
                  </TouchableOpacity>
               </View>
           )}
@@ -332,11 +391,14 @@ const styles = StyleSheet.create({
     height: 40,
     justifyContent: 'center',
     alignItems: 'center',
+    backgroundColor: 'rgba(255,255,255,0.05)',
+    borderRadius: 12,
   },
   headerTitle: {
-    fontSize: 16,
-    fontWeight: 'bold',
-    color: theme.colors.textLight,
+    ...theme.typography.h3,
+    fontSize: 18,
+    color: '#FFFFFF',
+    textTransform: 'capitalize',
   },
   loadingContainer: {
     flex: 1,
@@ -351,6 +413,7 @@ const styles = StyleSheet.create({
   },
   cardWrapper: {
     position: 'absolute',
+    borderRadius: 32, // Match card radius
   },
   emptyContainer: {
     flex: 1,
@@ -358,49 +421,56 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     padding: theme.spacing.xl,
   },
-  ritualIcon: {
-    fontSize: 48,
-    marginBottom: theme.spacing.l,
-  },
   progressContainer: {
     flexDirection: 'row',
     paddingHorizontal: theme.spacing.xl,
     paddingTop: theme.spacing.m,
-    gap: 4,
+    gap: 6,
+    justifyContent: 'center',
   },
   progressBar: {
-    flex: 1,
+    width: 40,
     height: 4,
-    backgroundColor: '#E0E0E0',
+    backgroundColor: 'rgba(255,255,255,0.1)',
     borderRadius: 2,
   },
   progressBarActive: {
     backgroundColor: theme.colors.primary,
+    shadowColor: theme.colors.primary,
+    shadowOffset: { width: 0, height: 0 },
+    shadowOpacity: 0.8,
+    shadowRadius: 8,
+    elevation: 5,
   },
   title: {
-    fontSize: 24,
-    fontWeight: 'bold',
+    ...theme.typography.h2,
     color: theme.colors.primary,
     textAlign: 'center',
     marginBottom: theme.spacing.m,
+    marginTop: 20,
   },
   subtitle: {
-    fontSize: 16,
-    color: theme.colors.textLight,
+    ...theme.typography.body,
     textAlign: 'center',
     lineHeight: 24,
+    maxWidth: '80%',
   },
   finishButton: {
     marginTop: theme.spacing.xl,
     backgroundColor: theme.colors.primary,
-    paddingVertical: 12,
-    paddingHorizontal: 24,
-    borderRadius: 25,
+    paddingVertical: 14,
+    paddingHorizontal: 32,
+    borderRadius: 30,
+    shadowColor: theme.colors.primary,
+    shadowOffset: { width: 0, height: 4 },
+    shadowOpacity: 0.3,
+    shadowRadius: 8,
+    elevation: 8,
   },
   finishButtonText: {
-    color: 'white',
-    fontSize: 18,
-    fontWeight: 'bold',
+    color: '#FFFFFF',
+    fontSize: 16,
+    fontWeight: '700',
   },
   navButtonsContainer: {
     paddingHorizontal: theme.spacing.xl,
@@ -408,21 +478,42 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     justifyContent: 'space-between',
     width: '100%',
+    position: 'absolute',
+    bottom: 20,
+    pointerEvents: 'box-none', // Let clicks pass through if needed
   },
   navButton: {
-    width: 60,
-    height: 60,
-    borderRadius: 30,
-    backgroundColor: '#F5F5F5',
+    width: 50,
+    height: 50,
+    borderRadius: 25,
+    backgroundColor: 'rgba(255,255,255,0.1)',
     justifyContent: 'center',
     alignItems: 'center',
-    shadowColor: '#000',
-    shadowOffset: { width: 0, height: 2},
-    shadowOpacity: 0.1,
-    shadowRadius: 4,
-    elevation: 2,
+    borderWidth: 1,
+    borderColor: 'rgba(255,255,255,0.05)',
   },
   navButtonDisabled: {
-      opacity: 0.5,
+      opacity: 0.3,
+  },
+  toast: {
+      position: 'absolute',
+      bottom: 100,
+      backgroundColor: theme.colors.primary,
+      flexDirection: 'row',
+      alignItems: 'center',
+      paddingVertical: 12,
+      paddingHorizontal: 20,
+      borderRadius: 25,
+      gap: 10,
+      shadowColor: theme.colors.primary,
+      shadowOffset: { width: 0, height: 4 },
+      shadowOpacity: 0.4,
+      shadowRadius: 10,
+      elevation: 5,
+  },
+  toastText: {
+      color: 'white',
+      fontWeight: '700',
+      fontSize: 14,
   }
 });
