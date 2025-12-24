@@ -1,16 +1,16 @@
 {
   "expo": {
-    "name": "Dengo",
-    "slug": "dengo-app",
+    "name": "Cosmo",
+    "slug": "cosmo-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
     "splash": {
-      "image": "./assets/splash-icon.png",
+      "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#FF7043"
+      "backgroundColor": "#2A1B3D"
     },
     "ios": {
       "supportsTablet": true,
@@ -20,7 +20,7 @@
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FF7043"
+        "backgroundColor": "#7C3AED"
       },
       "package": "com.gabrielvaz.dengo",
       "versionCode": 1,
@@ -36,9 +36,9 @@
       [
         "expo-splash-screen",
         {
-          "backgroundColor": "#FF7043",
-          "image": "./assets/splash-icon.png",
-          "imageUrl": "./assets/splash-icon.png"
+          "backgroundColor": "#2A1B3D",
+          "image": "./assets/splash.png",
+          "imageUrl": "./assets/splash.png"
         }
       ],
       "expo-asset"

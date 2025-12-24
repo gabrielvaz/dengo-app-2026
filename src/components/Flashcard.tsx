@@ -22,7 +22,7 @@ export const Flashcard: React.FC<FlashcardProps> = ({ card }) => {
   const handleShare = async () => {
     try {
       await Share.share({
-        message: `Oi amor! Vi esse card no Dengo e lembrei de você:\n\n"${card.question}"\n\nO que você acha? ❤️`,
+        message: `Oi amor! Vi esse card no Cosmo e lembrei de você:\n\n"${card.question}"\n\nO que você acha? ❤️`,
       });
     } catch (error: any) {
       Alert.alert('Erro', error.message);
@@ -33,7 +33,7 @@ export const Flashcard: React.FC<FlashcardProps> = ({ card }) => {
     const newVal = await FavoriteService.toggleFavorite(card);
     setIsFavorite(newVal);
     if (newVal) {
-        Alert.alert("Dengo", "Pergunta salva no Baú do Amor");
+        Alert.alert("Cosmo", "Pergunta salva no Baú do Amor");
     }
   };
 

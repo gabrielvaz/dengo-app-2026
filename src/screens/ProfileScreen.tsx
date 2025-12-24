@@ -261,7 +261,7 @@ export const ProfileScreen = () => {
           <View style={styles.avatarPlaceholder}>
              <Ionicons name="heart" size={40} color={theme.colors.primary} />
           </View>
-          <Text style={styles.profileName}>{profile?.name || 'Nosso Dengo'}</Text>
+          <Text style={styles.profileName}>{profile?.name || 'Nosso Cosmo'}</Text>
         </View>
 
         <View style={styles.section}>

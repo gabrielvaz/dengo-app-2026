@@ -78,7 +78,7 @@ export const OnboardingScreen = () => {
     <SafeAreaView style={styles.container}>
       <ScrollView contentContainerStyle={styles.content}>
         <View style={styles.headerContainer}>
-          <Text style={styles.title}>Dengo</Text>
+          <Text style={styles.title}>Cosmo</Text>
           
           {step === 0 && (
               <Image 

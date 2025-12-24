@@ -1,15 +1,13 @@
 export const theme = {
   colors: {
-    primary: '#FF5722', // Deep Orange
-    secondary: '#5D4037', // Brownish dark
-    accent: '#FFC107', // Amber
-    background: '#FAFAFA', // Almost white
-    surface: '#FFFFFF',
-    text: '#212121',
-    textLight: '#757575',
-    white: '#FFFFFF',
-    success: '#4CAF50',
-    error: '#F44336',
+    primary: '#7C3AED', // Deep Purple
+    secondary: '#FB7185', // Salmon
+    accent: '#FB923C', // Orange
+    background: '#FEFBFF',
+    surface: '#FFFBFE',
+    text: '#3D3847',
+    textLight: '#FFFFFF',
+    error: '#B00020',
   },
   spacing: {
     s: 8,

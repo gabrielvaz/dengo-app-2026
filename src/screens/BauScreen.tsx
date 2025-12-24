@@ -43,7 +43,7 @@ export const BauScreen = () => {
   const handleShare = async (item: FlashcardModel) => {
     try {
       await Share.share({
-        message: `Oi amor! Lembrei de nós com essa pergunta do Dengo:\n\n"${item.question}"\n\n❤️`,
+        message: `Oi amor! Lembrei de nós com essa pergunta do Cosmo:\n\n"${item.question}"\n\n❤️`,
       });
     } catch (error: any) {
       console.error(error);

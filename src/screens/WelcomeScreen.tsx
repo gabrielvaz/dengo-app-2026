@@ -79,7 +79,7 @@ export const WelcomeScreen = () => {
         </View>
 
         <Animated.Text entering={FadeInUp.delay(500).duration(1000)} style={styles.title}>
-          Dengo
+          Cosmo
         </Animated.Text>
         
         <Animated.Text entering={FadeInUp.delay(700).duration(1000)} style={styles.subtitle}>

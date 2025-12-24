@@ -112,7 +112,7 @@ export const StreaksScreen = () => {
 
         {/* Milestone Badges */}
         <View style={styles.section}>
-             <Text style={styles.sectionTitle}>Expertise do Dengo</Text>
+             <Text style={styles.sectionTitle}>Expertise do Cosmo</Text>
              <View style={styles.badgesGrid}>
                  {CATEGORY_MILESTONES.map((m, i) => {
                      const isUnlocked = setsCompleted >= m.count;

@@ -52,7 +52,7 @@ describe('NotificationService', () => {
     expect(Notifications.scheduleNotificationAsync).toHaveBeenCalledWith(
       expect.objectContaining({
         content: expect.objectContaining({
-          title: 'Dengo',
+          title: 'Cosmo',
           body: 'Seu ritual diario de conexao esta pronto.',
         }),
         trigger: {

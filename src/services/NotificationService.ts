@@ -26,7 +26,7 @@ export class NotificationService {
     if (Platform.OS !== 'android') return;
 
     await Notifications.setNotificationChannelAsync('default', {
-      name: 'Dengo',
+      name: 'Cosmo',
       importance: Notifications.AndroidImportance.DEFAULT,
       vibrationPattern: [0, 250, 250, 250],
       lightColor: '#FF7043',
@@ -62,7 +62,7 @@ export class NotificationService {
 
     const notificationId = await Notifications.scheduleNotificationAsync({
       content: {
-        title: 'Dengo',
+        title: 'Cosmo',
         body: 'Seu ritual diario de conexao esta pronto.',
       },
       trigger: {
