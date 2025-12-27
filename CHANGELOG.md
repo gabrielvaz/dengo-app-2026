@@ -1,5 +1,9 @@
 # Changelog
 
+## [0.4.1] - 2025-12-27
+### Changed
+- Updated App Icon to new "Saturn" design (from user assets).
+
 ## [0.4.0] - 2025-12-27
 ### Changed
 - App name changed to "Cosmo".
