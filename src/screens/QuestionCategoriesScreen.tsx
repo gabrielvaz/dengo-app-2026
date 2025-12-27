@@ -83,7 +83,7 @@ export const QuestionCategoriesScreen = () => {
             activeOpacity={0.9}
         >
             <LinearGradient
-                colors={['#FF7F50', '#FF4500']}
+                colors={['#4C1D95', '#7C3AED']}
                 style={styles.heroGradient}
             >
                 <View style={styles.heroContent}>

@@ -27,8 +27,6 @@ export const WelcomeScreen = () => {
         />
         
         <View style={styles.content}>
-          <View style={{ flex: 1 }} />
-
           <Animated.View entering={FadeInUp.delay(300).duration(1000)} style={styles.logoContainer}>
             <Image 
                 source={require('../../assets/images/cosmo_logo.png')} 
@@ -36,6 +34,8 @@ export const WelcomeScreen = () => {
                 resizeMode="contain"
             />
           </Animated.View>
+
+          <View style={{ flex: 1 }} />
           
           <Animated.Text entering={FadeInUp.delay(500).duration(800)} style={styles.subtitle}>
             Acenda a chama da sua conexão diária.

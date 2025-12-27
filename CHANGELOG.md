@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.4.3] - 2025-12-27
+### Changed
+- **FeedScreen**: Fixed Critical Bug where "Tudo por hoje" overlapped cards.
+- **WelcomeScreen**: Moved App Name/Logo to top.
+- **UI**: 
+  - Centelha Badge color updated to `#7C3AED`.
+  - Daily Card Gradient updated to Purple/Dark Purple.
+
 ## [0.4.2] - 2025-12-27
 ### Changed
 - Updated Primary Color to Purple (`#7C3AED`).

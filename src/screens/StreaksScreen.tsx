@@ -82,7 +82,7 @@ export const StreaksScreen = () => {
         desc: 'Vocês encontraram o ritmo certo. A convivência flui, e cada dia traz uma nova descoberta sobre o mundo do outro.'
     };
     return {
-        colors: ['#FF7F50', '#FB923C'] as const,
+        colors: ['#7C3AED', '#A78BFA'] as const,
         title: 'Centelha Inicial',
         desc: 'Tudo começa com uma faísca. Vocês estão acendendo a chama de algo que tem potencial para se tornar grandioso.'
     };

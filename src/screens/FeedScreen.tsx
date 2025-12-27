@@ -284,6 +284,7 @@ export const FeedScreen = () => {
         <View style={{ width: 40 }} />
       </View>
 
+      {(currentIndex >= cards.length && cards.length > 0) || ritualCompleted ? (
         <Animated.View 
             entering={FadeIn.duration(800)}
             style={styles.emptyContainer}
