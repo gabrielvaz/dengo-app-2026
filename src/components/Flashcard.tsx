@@ -13,7 +13,7 @@ interface FlashcardProps {
   onSave?: () => void;
 }
 
-export const Flashcard: React.FC<FlashcardProps> = ({ card, onSave }) => {
+const FlashcardComponent: React.FC<FlashcardProps> = ({ card, onSave }) => {
   const [isFavorite, setIsFavorite] = useState(false);
 
   useEffect(() => {
@@ -172,4 +172,8 @@ const styles = StyleSheet.create({
     fontWeight: '600',
     letterSpacing: 0.5,
   },
+});
+
+export const Flashcard = React.memo(FlashcardComponent, (prevProps, nextProps) => {
+  return prevProps.card.id === nextProps.card.id;
 });

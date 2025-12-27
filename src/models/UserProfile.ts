@@ -6,4 +6,5 @@ export interface UserProfile {
   needs: string[];
   notificationTime?: string[]; // e.g. ["smart", "20:00"]
   notificationsEnabled?: boolean;
+  completedCategoryIds?: string[]; // Persistent history of completed categories
 }

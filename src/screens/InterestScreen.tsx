@@ -95,15 +95,16 @@ export const InterestScreen = () => {
                 style={[styles.interestCard, selectedInterests.includes(item.id) && styles.interestCardSelected]}
                 onPress={() => toggleInterest(item.id)}
               >
-                <Ionicons 
-                  name={item.icon as any} 
-                  size={34} 
-                  color={selectedInterests.includes(item.id) ? '#0F0E17' : theme.colors.primary} 
-                  style={{marginBottom: 10}}
-                />
-                <Text style={[styles.interestLabel, selectedInterests.includes(item.id) && styles.interestLabelSelected]}>
-                  {item.label}
-                </Text>
+                <View style={{alignItems: 'center', justifyContent: 'center', gap: 8}}>
+                  <Ionicons 
+                    name={item.icon as any} 
+                    size={34} 
+                    color={selectedInterests.includes(item.id) ? '#0F0E17' : theme.colors.primary} 
+                  />
+                  <Text style={[styles.interestLabel, selectedInterests.includes(item.id) && styles.interestLabelSelected]}>
+                    {item.label}
+                  </Text>
+                </View>
               </TouchableOpacity>
             ))}
           </View>

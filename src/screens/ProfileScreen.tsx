@@ -373,7 +373,7 @@ export const ProfileScreen = () => {
           <Text style={styles.dangerButtonText}>Apagar todos os dados e resetar app</Text>
         </TouchableOpacity>
 
-        <Text style={styles.versionText}>Feito com amor</Text>
+        <Text style={styles.versionText}>Feito com amor • v{packageJson.version}</Text>
       </ScrollView>
 
       <Modal

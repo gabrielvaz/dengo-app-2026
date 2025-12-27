@@ -3,70 +3,79 @@ import { View, Text, StyleSheet, ScrollView, TouchableOpacity, Dimensions } from
 import { SafeAreaView } from 'react-native-safe-area-context';
 import { theme } from '../constants/theme';
 import { Ionicons } from '@expo/vector-icons';
-import { useNavigation } from '@react-navigation/native';
+import { useNavigation, useFocusEffect } from '@react-navigation/native';
 import { StreakService } from '../services/StreakService';
 import { DailyLimitService } from '../services/DailyLimitService';
 import { RitualService } from '../services/RitualService';
+import { ProfileService } from '../services/ProfileService';
 import { LinearGradient } from 'expo-linear-gradient';
 
 const { width } = Dimensions.get('window');
 
-const CATEGORIES = [
-  { id: 'daily', label: 'Diário', icon: 'star', color: '#FFD700' },
-  { id: 'almas-gemeas', label: 'Almas Gêmeas', icon: 'heart-half', color: '#E91E63' },
-  { id: 'casais', label: 'Casais', icon: 'heart', color: '#FF5722' },
-  { id: 'conexao-diaria', label: 'Conexão', icon: 'infinite', color: '#4CAF50' },
-  { id: 'confianca', label: 'Confiança', icon: 'shield-checkmark', color: '#2196F3' },
-  { id: 'crescimento', label: 'Crescimento', icon: 'trending-up', color: '#9C27B0' },
-  { id: 'desafios', label: 'Desafios', icon: 'trophy', color: '#FFC107' },
-  { id: 'leve-e-divertido', label: 'Divertido', icon: 'balloon', color: '#00BCD4' },
-  { id: 'memorias', label: 'Memórias', icon: 'images', color: '#795548' },
-  { id: 'modo-familia', label: 'Família', icon: 'people', color: '#8BC34A' },
-  { id: 'perguntas-profundas', label: 'Profundo', icon: 'water', color: '#3F51B5' },
-  { id: 'quentes', label: 'Quentes', icon: 'flame', color: '#F44336' },
-  { id: 'romance', label: 'Romance', icon: 'rose', color: '#E91E63' },
-  { id: 'voce-prefere', label: 'Você Prefere', icon: 'git-compare', color: '#607D8B' },
+const CATEGORIES_DATA = [
+  { id: 'daily', label: 'Diário', icon: 'star', color: '#FFD700', level: 1 },
+  { id: 'almas-gemeas', label: 'Almas Gêmeas', icon: 'heart-half', color: '#E91E63', level: 1 },
+  { id: 'casais', label: 'Casais', icon: 'heart', color: '#FF5722', level: 1 },
+  { id: 'conexao-diaria', label: 'Conexão', icon: 'infinite', color: '#4CAF50', level: 1 },
+  { id: 'confianca', label: 'Confiança', icon: 'shield-checkmark', color: '#2196F3', level: 1 },
+  
+  { id: 'crescimento', label: 'Crescimento', icon: 'trending-up', color: '#9C27B0', level: 2 },
+  { id: 'desafios', label: 'Desafios', icon: 'trophy', color: '#FFC107', level: 2 },
+  { id: 'leve-e-divertido', label: 'Divertido', icon: 'balloon', color: '#00BCD4', level: 2 },
+  { id: 'memorias', label: 'Memórias', icon: 'images', color: '#795548', level: 2 },
+  
+  { id: 'modo-familia', label: 'Família', icon: 'people', color: '#8BC34A', level: 3 },
+  { id: 'perguntas-profundas', label: 'Profundo', icon: 'water', color: '#3F51B5', level: 3 },
+  { id: 'quentes', label: 'Quentes', icon: 'flame', color: '#F44336', level: 3 },
+  { id: 'romance', label: 'Romance', icon: 'rose', color: '#E91E63', level: 3 },
+  { id: 'voce-prefere', label: 'Você Prefere', icon: 'git-compare', color: '#607D8B', level: 3 },
 ];
+
+const LEVEL_INFO = {
+    1: { title: 'Nível 1', desc: 'Desbloqueado por padrão', req: 0 },
+    2: { title: 'Nível 2', desc: 'Complete 2 categorias para desbloquear', req: 2 },
+    3: { title: 'Nível 3', desc: 'Complete 4 categorias para desbloquear', req: 4 },
+};
 
 export const QuestionCategoriesScreen = () => {
   const navigation = useNavigation<any>();
-  const [unlocked, setUnlocked] = useState<string[]>([]);
+  const [completedCount, setCompletedCount] = useState(0);
   const [completedCategories, setCompletedCategories] = useState<string[]>([]);
-  const [streak, setStreak] = useState<any>(null);
+  const [isDailyDone, setIsDailyDone] = useState(false);
 
-  useEffect(() => {
-    const load = async () => {
-        const data = await StreakService.getStreakData();
-        setUnlocked(data.unlockedCategories);
-        setStreak(data);
+  // Use focus effect to reload when coming back from feed
+  useFocusEffect(
+    React.useCallback(() => {
+     loadProgress();
+    }, [])
+  );
 
-        // Check each category for completion
-        const completed: string[] = [];
-        
-        // Check daily explicitly
-        const isDailyDone = await RitualService.hasCompletedToday();
-        if (isDailyDone) completed.push('daily');
+  const loadProgress = async () => {
+      // 1. Check persistent completions from Profile
+      const profile = await ProfileService.getProfile();
+      const persistentCompleted = profile?.completedCategoryIds || [];
+      const count = persistentCompleted.length;
+      setCompletedCount(count);
+      setCompletedCategories(persistentCompleted);
 
-        for (const cat of CATEGORIES) {
-            if (cat.id === 'daily') continue; // Handled above
-            const isReached = await DailyLimitService.isLimitReached(cat.id);
-            if (isReached) completed.push(cat.id);
-        }
-        setCompletedCategories(completed);
-    };
-    load();
-  }, []);
+      // 2. Check Daily completion status
+      const dailyDone = await RitualService.hasCompletedToday();
+      setIsDailyDone(dailyDone);
+  };
 
-  const dailyCategory = CATEGORIES.find(c => c.id === 'daily')!;
-  const otherCategories = CATEGORIES.filter(c => c.id !== 'daily');
+  const isLevelUnlocked = (level: number) => {
+      if (level === 1) return true;
+      const req = LEVEL_INFO[level as 1|2|3].req;
+      return completedCount >= req;
+  };
 
   const renderDailyHero = () => {
-      const isDailyCompleted = completedCategories.includes('daily');
-      const progress = isDailyCompleted ? 5 : 0; // Simplified for now
+      const progress = isDailyDone ? 5 : 0; 
       return (
         <TouchableOpacity 
             style={styles.heroCard}
             onPress={() => navigation.navigate('Feed', { categoryId: 'daily', categoryTitle: 'Perguntas Diárias' })}
+            activeOpacity={0.9}
         >
             <LinearGradient
                 colors={['#FF7F50', '#FF4500']}
@@ -80,52 +89,73 @@ export const QuestionCategoriesScreen = () => {
                     <Ionicons name="planet" size={60} color="rgba(255,255,255,0.3)" style={styles.heroIcon} />
                 </View>
 
-                <View style={styles.progressContainer}>
-                    <View style={styles.progressHeader}>
-                        <Text style={styles.progressText}>Expansão do dia</Text>
-                        <Text style={styles.progressValue}>{progress}/5</Text>
+                {isDailyDone ? (
+                    <View style={styles.heroCTA}>
+                        <Text style={styles.heroCTAText}>Concluído, Rever</Text>
+                        <Ionicons name="checkmark-circle" size={16} color="black" />
                     </View>
-                    <View style={styles.progressTrack}>
-                        <View style={[styles.progressBar, { width: `${(progress/5)*100}%` }]} />
+                ) : (
+                    <View style={styles.heroCTA}>
+                        <Text style={styles.heroCTAText}>Iniciar agora</Text>
+                        <Ionicons name="arrow-forward" size={16} color="black" />
                     </View>
-                </View>
-
-                <View style={styles.heroCTA}>
-                    <Text style={styles.heroCTAText}>Iniciar agora</Text>
-                    <Ionicons name="arrow-forward" size={16} color="black" />
-                </View>
+                )}
             </LinearGradient>
         </TouchableOpacity>
       );
   }
 
-  const renderCategory = (cat: typeof CATEGORIES[0]) => {
-    const isLocked = !unlocked.includes(cat.id);
-    const isCompleted = completedCategories.includes(cat.id);
-    
-    return (
-      <TouchableOpacity 
-        key={cat.id} 
-        style={styles.card}
-        onPress={() => !isLocked && navigation.navigate('Feed', { categoryId: cat.id, categoryTitle: cat.label })}
-      >
-        <View style={styles.cardHeader}>
-            <View style={[styles.iconBox, { backgroundColor: cat.color + '20' }]}>
-              <Ionicons name={isLocked ? 'lock-closed' : cat.icon as any} size={24} color={cat.color} />
-            </View>
-            {isCompleted && (
-                <View style={styles.checkBadge}>
-                    <Ionicons name="checkmark-circle" size={18} color={theme.colors.primary} />
-                </View>
-            )}
-        </View>
-        <Text style={styles.label}>{cat.label}</Text>
-        <View style={styles.statsRow}>
-            <Text style={styles.statsText}>{isLocked ? 'Bloqueado' : 'Descobrir'}</Text>
-            {!isLocked && <Ionicons name="chevron-forward" size={12} color={theme.colors.textLight} />}
-        </View>
-      </TouchableOpacity>
-    );
+  const renderSection = (level: number) => { // Type explicitly as number
+      const levelData = LEVEL_INFO[level as 1|2|3];
+      const items = CATEGORIES_DATA.filter(c => c.level === level && c.id !== 'daily');
+      const unlocked = isLevelUnlocked(level);
+
+      return (
+          <View key={level} style={styles.sectionContainer}>
+              <View style={styles.sectionHeader}>
+                  <Text style={styles.sectionTitle}>{levelData.title}</Text>
+                  {!unlocked && (
+                      <View style={styles.lockBadge}>
+                         <Ionicons name="lock-closed" size={12} color="white" style={{marginRight:4}} />
+                         <Text style={styles.lockText}>{completedCount}/{levelData.req} completos</Text>
+                      </View>
+                  )}
+              </View>
+              <Text style={styles.sectionDesc}>{levelData.desc}</Text>
+
+              <View style={[styles.grid, !unlocked && { opacity: 0.5 }]}>
+                  {items.map(cat => {
+                      const isCatCompleted = completedCategories.includes(cat.id);
+                      return (
+                          <TouchableOpacity 
+                            key={cat.id} 
+                            style={styles.card}
+                            onPress={() => {
+                                if (unlocked) {
+                                    navigation.navigate('Feed', { categoryId: cat.id, categoryTitle: cat.label });
+                                }
+                            }}
+                            activeOpacity={unlocked ? 0.7 : 1}
+                          >
+                            <View style={styles.cardHeader}>
+                                <View style={[styles.iconBox, { backgroundColor: cat.color + '20' }]}>
+                                  <Ionicons name={unlocked ? (cat.icon as any) : 'lock-closed'} size={24} color={cat.color} />
+                                </View>
+                                {isCatCompleted && (
+                                    <Ionicons name="checkmark-circle" size={18} color={theme.colors.primary} />
+                                )}
+                            </View>
+                            <Text style={styles.label}>{cat.label}</Text>
+                            <View style={styles.statsRow}>
+                                <Text style={styles.statsText}>{unlocked ? 'Descobrir' : 'Bloqueado'}</Text>
+                                {unlocked && <Ionicons name="chevron-forward" size={12} color={theme.colors.textLight} />}
+                            </View>
+                          </TouchableOpacity>
+                      );
+                  })}
+              </View>
+          </View>
+      );
   };
 
   return (
@@ -138,9 +168,11 @@ export const QuestionCategoriesScreen = () => {
 
         {renderDailyHero()}
 
-        <View style={styles.grid}>
-          {otherCategories.map(renderCategory)}
-        </View>
+        {renderSection(1)}
+        {renderSection(2)}
+        {renderSection(3)}
+
+        <View style={{height: 20}} />
       </ScrollView>
     </SafeAreaView>
   );
@@ -157,7 +189,7 @@ const styles = StyleSheet.create({
   },
   header: {
     padding: theme.spacing.m,
-    marginBottom: theme.spacing.m,
+    marginBottom: theme.spacing.s,
   },
   title: {
     ...theme.typography.h1,
@@ -166,18 +198,15 @@ const styles = StyleSheet.create({
   subtitle: {
     ...theme.typography.body,
     marginTop: 4,
+    color: theme.colors.textLight
   },
   heroCard: {
     width: '100%',
-    height: 180,
+    height: 160,
     borderRadius: 24,
     overflow: 'hidden',
-    marginBottom: 24,
-    elevation: 8,
-    shadowColor: '#FF7F50',
-    shadowOffset: { width: 0, height: 4 },
-    shadowOpacity: 0.3,
-    shadowRadius: 10,
+    marginBottom: 32,
+    elevation: 4,
   },
   heroGradient: {
     flex: 1,
@@ -196,67 +225,63 @@ const styles = StyleSheet.create({
   },
   heroSubtitle: {
     fontSize: 14,
-    color: 'rgba(255,255,255,0.8)',
+    color: 'rgba(255,255,255,0.9)',
     marginTop: 2,
-  },
-  progressContainer: {
-    width: '100%',
-  },
-  progressHeader: {
-    flexDirection: 'row',
-    justifyContent: 'space-between',
-    marginBottom: 8,
-  },
-  progressText: {
-    fontSize: 12,
-    fontWeight: '600',
-    color: 'white',
-  },
-  progressValue: {
-    fontSize: 12,
-    fontWeight: 'bold',
-    color: 'white',
-  },
-  progressTrack: {
-    height: 8,
-    backgroundColor: 'rgba(255,255,255,0.2)',
-    borderRadius: 4,
-    overflow: 'hidden',
-  },
-  progressBar: {
-    height: '100%',
-    backgroundColor: 'white',
-    borderRadius: 4,
-  },
-  heroCTA: {
-    backgroundColor: 'white',
-    paddingHorizontal: 12,
-    paddingVertical: 6,
-    borderRadius: 20,
-    flexDirection: 'row',
-    alignItems: 'center',
-    alignSelf: 'flex-start',
-    marginTop: 12,
-    gap: 4,
-  },
-  heroCTAText: {
-    fontSize: 12,
-    fontWeight: 'bold',
-    color: 'black',
   },
   heroIcon: {
       position: 'absolute',
       right: -10,
       top: -10,
   },
-  cardHeader: {
+  heroCTA: {
+    backgroundColor: 'white',
+    paddingHorizontal: 16,
+    paddingVertical: 10,
+    borderRadius: 20,
     flexDirection: 'row',
-    justifyContent: 'space-between',
-    alignItems: 'flex-start',
+    alignItems: 'center',
+    alignSelf: 'flex-start',
+    marginTop: 12,
+    gap: 8,
   },
-  checkBadge: {
-    marginTop: -4,
-    marginRight: -4,
+  heroCTAText: {
+    fontSize: 14,
+    fontWeight: 'bold',
+    color: 'black',
+  },
+  sectionContainer: {
+      marginBottom: 32,
+  },
+  sectionHeader: {
+      flexDirection: 'row',
+      alignItems: 'center',
+      marginBottom: 4,
+      paddingHorizontal: 8,
+      justifyContent: 'space-between'
+  },
+  sectionTitle: {
+      fontSize: 20,
+      fontWeight: 'bold',
+      color: theme.colors.text,
+  },
+  sectionDesc: {
+      fontSize: 14,
+      color: theme.colors.textLight,
+      paddingHorizontal: 8,
+      marginBottom: 16,
+  },
+  lockBadge: {
+      flexDirection: 'row',
+      alignItems: 'center',
+      backgroundColor: '#333',
+      paddingHorizontal: 8,
+      paddingVertical: 4,
+      borderRadius: 8,
+  },
+  lockText: {
+      color: 'white',
+      fontSize: 12,
+      fontWeight: '600'
   },
   grid: {
     flexDirection: 'row',
@@ -271,6 +296,11 @@ const styles = StyleSheet.create({
     marginBottom: 16,
     borderWidth: 1,
     borderColor: 'rgba(255,255,255,0.05)',
+  },
+  cardHeader: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    alignItems: 'flex-start',
   },
   iconBox: {
     width: 44,

@@ -171,6 +171,20 @@ export const FeedScreen = () => {
        } else {
           // Increment set counter
           StreakService.incrementCategorySetsCompleted();
+          
+          // NEW: Persist Category Completion for Gamification
+          ProfileService.getProfile().then(profile => {
+               if (profile) {
+                   const completed = profile.completedCategoryIds || [];
+                   if (!completed.includes(categoryId)) {
+                       ProfileService.saveProfile({
+                           ...profile,
+                           completedCategoryIds: [...completed, categoryId]
+                       });
+                   }
+               }
+          });
+
           setLimitReached(true);
        }
     }

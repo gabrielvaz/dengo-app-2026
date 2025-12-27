@@ -109,19 +109,35 @@ export const OnboardingScreen = () => {
                  <Text style={{fontSize: 24, fontWeight: 'bold', color: theme.colors.primary, marginBottom: 20}}>
                      {getTimeLabel(timeSliderValue)}
                  </Text>
-                 <Slider
-                    style={{width: '100%', height: 40}}
-                    minimumValue={0}
-                    maximumValue={15}
-                    step={1}
-                    value={timeSliderValue}
-                    onValueChange={setTimeSliderValue}
-                    minimumTrackTintColor={theme.colors.primary}
-                    maximumTrackTintColor="#000000"
+                 <View style={{flexDirection: 'row', alignItems: 'center', width: '100%', gap: 15}}>
+                     <TouchableOpacity 
+                         style={styles.sliderButton}
+                         onPress={() => setTimeSliderValue(Math.max(0, timeSliderValue - 1))}
+                         disabled={timeSliderValue === 0}
+                     >
+                         <Ionicons name="remove" size={24} color={timeSliderValue === 0 ? '#666' : theme.colors.primary} />
+                     </TouchableOpacity>
+                     <Slider
+                        style={{flex: 1, height: 40}}
+                        minimumValue={0}
+                        maximumValue={15}
+                        step={1}
+                        value={timeSliderValue}
+                        onValueChange={setTimeSliderValue}
+                        minimumTrackTintColor={theme.colors.primary}
+                        maximumTrackTintColor="#000000"
                     thumbTintColor={theme.colors.primary}
                  />
+                     <TouchableOpacity 
+                         style={styles.sliderButton}
+                         onPress={() => setTimeSliderValue(Math.min(15, timeSliderValue + 1))}
+                         disabled={timeSliderValue === 15}
+                     >
+                         <Ionicons name="add" size={24} color={timeSliderValue === 15 ? '#666' : theme.colors.primary} />
+                     </TouchableOpacity>
+                 </View>
                  <Text style={{textAlign:'center', marginTop: 10, color: theme.colors.textLight}}>
-                    Arraste para ajustar o tempo
+                    Use os botões ou arraste o slider
                  </Text>
              </View>
           )}
@@ -280,5 +296,15 @@ const styles = StyleSheet.create({
   smartOption: {
       borderColor: theme.colors.primary + '50',
       borderWidth: 1.5,
-  }
+  },
+  sliderButton: {
+      width: 44,
+      height: 44,
+      borderRadius: 22,
+      backgroundColor: 'rgba(255, 127, 80, 0.1)',
+      alignItems: 'center',
+      justifyContent: 'center',
+      borderWidth: 1,
+      borderColor: theme.colors.primary,
+  },
 });
