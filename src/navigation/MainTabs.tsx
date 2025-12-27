@@ -2,6 +2,7 @@ import React from 'react';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import { Ionicons } from '@expo/vector-icons';
 import { theme } from '../constants/theme';
+import { useSafeAreaInsets } from 'react-native-safe-area-context';
 
 import { StreaksScreen } from '../screens/StreaksScreen';
 import { StreakService } from '../services/StreakService';
@@ -13,6 +14,7 @@ import { ProfileScreen } from '../screens/ProfileScreen';
 const Tab = createBottomTabNavigator();
 
 export const MainTabs = () => {
+  const insets = useSafeAreaInsets();
   const [initialRoute, setInitialRoute] = React.useState<string | null>(null);
 
   React.useEffect(() => {
@@ -56,8 +58,8 @@ export const MainTabs = () => {
         tabBarStyle: {
           backgroundColor: theme.colors.surface,
           borderTopColor: theme.colors.secondary,
-          height: 85,
-          paddingBottom: 30,
+          height: 60 + Math.max(insets.bottom, 20), // Dynamic height
+          paddingBottom: Math.max(insets.bottom, 20),
           paddingTop: 10,
         },
         tabBarLabelStyle: {

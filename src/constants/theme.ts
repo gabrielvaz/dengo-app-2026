@@ -1,6 +1,6 @@
 export const theme = {
   colors: {
-    primary: '#FF7F50', // Coral Orange (Buttons, Highlights)
+    primary: '#7C3AED', // Purple (Primary Brand Color)
     secondary: '#2D2B36', // Dark Purple Surface (Unselected)
     accent: '#FB923C', // Lighter Orange
     background: '#0F0E17', // Deep Dark Purple/Black

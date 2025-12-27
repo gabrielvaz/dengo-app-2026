@@ -1,5 +1,10 @@
 # Changelog
 
+## [0.4.2] - 2025-12-27
+### Changed
+- Updated Primary Color to Purple (`#7C3AED`).
+- Improved Bottom Navbar layout to account for system navigation bar (overlap fix).
+
 ## [0.4.1] - 2025-12-27
 ### Changed
 - Updated App Icon to new "Saturn" design (from user assets).
