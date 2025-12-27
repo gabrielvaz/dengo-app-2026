@@ -458,6 +458,8 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     alignItems: 'center',
     padding: theme.spacing.xl,
+    backgroundColor: theme.colors.background,
+    zIndex: 99,
   },
   progressContainer: {
     flexDirection: 'row',

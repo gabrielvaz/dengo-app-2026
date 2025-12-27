@@ -219,7 +219,7 @@ const styles = StyleSheet.create({
   },
   heroCard: {
     width: '100%',
-    height: 160,
+    height: 220,
     borderRadius: 24,
     overflow: 'hidden',
     marginBottom: 32,
@@ -301,12 +301,11 @@ const styles = StyleSheet.create({
       fontWeight: '600'
   },
   grid: {
-    flexDirection: 'row',
-    flexWrap: 'wrap',
-    justifyContent: 'space-between',
+    flexDirection: 'column',
+    gap: 16,
   },
   card: {
-    width: (width - theme.spacing.m * 3) / 2,
+    width: '100%',
     backgroundColor: theme.colors.surface,
     borderRadius: 20,
     padding: 16,
