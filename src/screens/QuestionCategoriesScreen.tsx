@@ -15,7 +15,7 @@ const { width } = Dimensions.get('window');
 const CATEGORIES_DATA = [
   { id: 'daily', label: 'Diário', icon: 'star', color: '#FFD700', level: 1 },
   { id: 'almas-gemeas', label: 'Almas Gêmeas', icon: 'heart-half', color: '#E91E63', level: 1 },
-  { id: 'casais', label: 'Casais', icon: 'heart', color: '#FF5722', level: 1 },
+  { id: 'casais', label: 'Leveza', icon: 'heart', color: '#FF5722', level: 1 },
   { id: 'conexao-diaria', label: 'Conexão', icon: 'infinite', color: '#4CAF50', level: 1 },
   { id: 'confianca', label: 'Confiança', icon: 'shield-checkmark', color: '#2196F3', level: 1 },
   
@@ -42,6 +42,7 @@ export const QuestionCategoriesScreen = () => {
   const [completedCount, setCompletedCount] = useState(0);
   const [completedCategories, setCompletedCategories] = useState<string[]>([]);
   const [isDailyDone, setIsDailyDone] = useState(false);
+  const [dailyProgress, setDailyProgress] = useState(0);
 
   // Use focus effect to reload when coming back from feed
   useFocusEffect(
@@ -61,6 +62,10 @@ export const QuestionCategoriesScreen = () => {
       // 2. Check Daily completion status
       const dailyDone = await RitualService.hasCompletedToday();
       setIsDailyDone(dailyDone);
+      
+      // 3. Check Daily Progress
+      const dProgress = await DailyLimitService.getConsumedCount('daily');
+      setDailyProgress(Math.min(dProgress, 5));
   };
 
   const isLevelUnlocked = (level: number) => {
@@ -87,6 +92,18 @@ export const QuestionCategoriesScreen = () => {
                         <Text style={styles.heroSubtitle}>Conecte-se com seu amor hoje</Text>
                     </View>
                     <Ionicons name="planet" size={60} color="rgba(255,255,255,0.3)" style={styles.heroIcon} />
+                </View>
+
+                <View style={{ marginTop: 2, marginBottom: 8 }}>
+                    <View style={{ flexDirection: 'row', justifyContent: 'space-between', marginBottom: 4 }}>
+                         <Text style={{ color: 'white', fontSize: 12, fontWeight: '600' }}>
+                             {dailyProgress >= 5 ? 'Meta atingida!' : `${5 - dailyProgress} perguntas restantes`}
+                         </Text>
+                         <Text style={{ color: 'white', fontSize: 12, fontWeight: 'bold' }}>{dailyProgress}/5</Text>
+                    </View>
+                    <View style={{ height: 6, backgroundColor: 'rgba(255,255,255,0.3)', borderRadius: 3, overflow: 'hidden' }}>
+                         <View style={{ height: '100%', width: `${(dailyProgress/5)*100}%`, backgroundColor: 'white' }} />
+                    </View>
                 </View>
 
                 {isDailyDone ? (

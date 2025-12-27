@@ -57,19 +57,11 @@ const FlashcardComponent: React.FC<FlashcardProps> = ({ card, onSave }) => {
         </TouchableOpacity>
 
         <View style={styles.content}>
-          <View style={styles.categoryBadge}>
-            <Text style={styles.categoryText}>{card.category.toUpperCase()}</Text>
-          </View>
-          
-          <Text style={styles.title}>{card.title}</Text>
-          
-          <View style={styles.divider} />
-          
           <Text style={styles.question}>{card.question}</Text>
           
-
           <TouchableOpacity style={styles.shareButton} onPress={handleShare}>
             <Text style={styles.shareText}>Compartilhar</Text>
+            <Ionicons name="share-social-outline" size={20} color="white" />
           </TouchableOpacity>
         </View>
       </LinearGradient>

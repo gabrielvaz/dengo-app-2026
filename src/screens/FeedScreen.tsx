@@ -12,7 +12,10 @@ import Animated, {
   withSpring,
   runOnJS,
   interpolate,
-  Extrapolate
+  Extrapolate,
+  FadeInDown,
+  ZoomIn,
+  FadeIn
 } from 'react-native-reanimated';
 import { RitualService } from '../services/RitualService';
 import { ProfileService } from '../services/ProfileService';
@@ -281,26 +284,41 @@ export const FeedScreen = () => {
         <View style={{ width: 40 }} />
       </View>
 
-      {ritualCompleted || limitReached || (currentIndex >= cards.length && cards.length > 0) ? (
-        <View style={styles.emptyContainer}>
-          <Ionicons 
-            name={ritualCompleted ? "sparkles" : "time-outline"} 
-            size={60} 
-            color={theme.colors.primary} 
-            style={{ marginBottom: 20 }} 
-          />
-          <Text style={[styles.title, { fontFamily: 'serif' }]}>
+        <Animated.View 
+            entering={FadeIn.duration(800)}
+            style={styles.emptyContainer}
+        >
+          <Animated.View entering={ZoomIn.delay(300).duration(600)}>
+            <Ionicons 
+                name={ritualCompleted ? "sparkles" : "time-outline"} 
+                size={80} 
+                color={theme.colors.primary} 
+                style={{ marginBottom: 20 }} 
+            />
+          </Animated.View>
+
+          <Animated.Text 
+            entering={FadeInDown.delay(500).duration(600)}
+            style={[styles.title, { fontFamily: 'serif', fontSize: 28 }]}
+          >
              {completionTitle || (ritualCompleted ? "Sessão Finalizada" : "Tudo por hoje")}
-          </Text>
-          <Text style={styles.subtitle}>
+          </Animated.Text>
+
+          <Animated.Text 
+            entering={FadeInDown.delay(700).duration(600)}
+            style={styles.subtitle}
+          >
             {completionMessage || (ritualCompleted 
               ? "Que estas palavras ecoem entre vocês até o próximo encontro."
               : "Vocês completaram os 5 cards diários desta categoria. Voltem amanhã para mais!")}
-          </Text>
+          </Animated.Text>
           
-          <View style={{marginTop: 32, width: '100%', alignItems: 'center', gap: 16}}>
+          <Animated.View 
+            entering={FadeInDown.delay(900).duration(600)} 
+            style={{marginTop: 40, width: '100%', alignItems: 'center', gap: 16}}
+          >
               <TouchableOpacity
-                 style={[styles.finishButton, { width: '80%' }]}
+                 style={[styles.finishButton, { width: '80%', alignItems: 'center' }]}
                  onPress={() => navigation.navigate('Main', { screen: 'Perguntas' })}
               >
                 <Text style={styles.finishButtonText}>
@@ -320,8 +338,8 @@ export const FeedScreen = () => {
               >
                 <Text style={{ color: theme.colors.primary, fontSize: 16, fontWeight: '600' }}>Rever perguntas</Text>
               </TouchableOpacity>
-          </View>
-        </View>
+          </Animated.View>
+        </Animated.View>
       ) : (
         <>
           <View style={styles.progressContainer}>
@@ -338,14 +356,20 @@ export const FeedScreen = () => {
           
           <View style={styles.cardStack}>
             {currentIndex + 1 < cards.length && (
-              <Animated.View style={[styles.cardWrapper, nextCardStyle, { zIndex: -1 }]}>
+              <Animated.View 
+                key={`next-${cards[currentIndex + 1].id}`}
+                style={[styles.cardWrapper, nextCardStyle, { zIndex: -1 }]}
+              >
                 <Flashcard card={cards[currentIndex + 1]} />
               </Animated.View>
             )}
 
             {cards.length > 0 && (
               <GestureDetector gesture={gesture}>
-                <Animated.View style={[styles.cardWrapper, cardStyle]}>
+                <Animated.View 
+                    key={`current-${cards[currentIndex].id}`}
+                    style={[styles.cardWrapper, cardStyle]}
+                >
                   <Flashcard card={cards[currentIndex]} onSave={onSave} />
                 </Animated.View>
               </GestureDetector>
